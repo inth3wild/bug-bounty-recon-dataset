@@ -2,6 +2,7 @@ abacus.lystit.com
 agif.lystit.com
 alertmanager-internal.lystit.com
 alertmanager.lystit.com
+app.circleci3.lystit.com
 argocd.lystit.com
 boomerang.lystit.com
 bootstraptest-eks.srv.lystit.com
@@ -27,6 +28,7 @@ checkout-admin.lystit.com
 ci3-beta.lystit.com
 circle.lystit.com
 circleci.lystit.com
+circleci3.lystit.com
 cloudflare-logs.lystit.com
 cloudflare.eks-1-19.srv.lystit.com
 cloudflare.eks-1-20-nr-prod-trial.srv.lystit.com

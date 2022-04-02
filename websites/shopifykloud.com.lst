@@ -201,6 +201,7 @@ http://staging-kafka-azkaban-web.data-acq.shopifykloud.com
 http://staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 http://staging.notebooks.shopifykloud.com
 http://starscream-qa.shopify-data-presto-global.shopifykloud.com
+http://streaming-customer-sessions-staging.flink.shopifykloud.com
 http://streaming-personalization-staging.flink.shopifykloud.com
 http://streaming-sales-model-backfill-json.flink.shopifykloud.com
 http://streaming-sales-model-backfill.flink.shopifykloud.com
@@ -230,6 +231,7 @@ http://submarine-staging-web-longboat-us-central1-2.data-acq.shopifykloud.com
 http://submarine-staging.data-acq.shopifykloud.com
 http://submarine.data-acq.shopifykloud.com
 http://test-caching.shopify-data-presto-global.shopifykloud.com
+http://test-staging.flink.shopifykloud.com
 http://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 http://third-party-impact-poc-staging.flink.shopifykloud.com
 http://trickle-v2-examples-klam.flink.shopifykloud.com
@@ -248,6 +250,7 @@ http://web.insights-sales.global.druid.shopifykloud.com
 http://web.staging.airflow.shopifykloud.com
 http://web.staging.arma.k8s-exp.shopifykloud.com
 http://web.staging.global.druid.shopifykloud.com
+http://webhooks-demo-staging.flink.shopifykloud.com
 http://yarn-oauth-proxy-yarn-oauth-starscream-qa-us-central1-2.shopify-data-starscream-qa.shopifykloud.com
 http://yarn-oauth.shopify-data-starscream-qa.shopifykloud.com
 http://yarn-oauth.starscream-adhoc.yarn.shopifykloud.com
@@ -469,6 +472,7 @@ https://staging-kafka-azkaban-web.data-acq.shopifykloud.com
 https://staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 https://staging.notebooks.shopifykloud.com
 https://starscream-qa.shopify-data-presto-global.shopifykloud.com
+https://streaming-customer-sessions-staging.flink.shopifykloud.com
 https://streaming-personalization-staging.flink.shopifykloud.com
 https://streaming-sales-model-backfill-json.flink.shopifykloud.com
 https://streaming-sales-model-backfill.flink.shopifykloud.com
@@ -498,6 +502,7 @@ https://submarine-staging-web-longboat-us-central1-2.data-acq.shopifykloud.com
 https://submarine-staging.data-acq.shopifykloud.com
 https://submarine.data-acq.shopifykloud.com
 https://test-caching.shopify-data-presto-global.shopifykloud.com
+https://test-staging.flink.shopifykloud.com
 https://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 https://third-party-impact-poc-staging.flink.shopifykloud.com
 https://trickle-v2-examples-klam.flink.shopifykloud.com
@@ -526,6 +531,7 @@ https://web.insights-sales.global.druid.shopifykloud.com
 https://web.staging.airflow.shopifykloud.com
 https://web.staging.arma.k8s-exp.shopifykloud.com
 https://web.staging.global.druid.shopifykloud.com
+https://webhooks-demo-staging.flink.shopifykloud.com
 https://yarn-oauth-proxy-yarn-oauth-starscream-qa-us-central1-2.shopify-data-starscream-qa.shopifykloud.com
 https://yarn-oauth.shopify-data-starscream-qa.shopifykloud.com
 https://yarn-oauth.starscream-adhoc.yarn.shopifykloud.com

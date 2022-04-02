@@ -4,7 +4,6 @@ http://groups.livestream.com [302] [GET] [text/html] [302 Moved] [ghs] [vhost] [
 http://mail.livestream.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [e1e5f043fc6dc4526af19e1c0f455396]
 http://openvbx.livestream.com [200] [GET] [text/html] [] [nginx] [Nginx] [21dde95d9d269cbb2fa6560309dca40c]
 http://sites.livestream.com [302] [GET] [text/html] [Moved Temporarily] [GSE] [vhost] [Java,OpenGSE] [3283d1cdad79d3ad55000e8f7f628e37]
-http://upload.new.livestream.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://viewerplus.livestream.com [500] [GET] [text/html] [500 Server Error] [Google Frontend] [vhost] [Google App Engine,Google Cloud,Google Cloud Trace] [c6b760e6b0be68f648b223590f8ceb8e]
 https://212-21.blade.api.channel.jx.api.new.livestream.com [500] [GET] [text/html] [Fastly error: unknown domain 212-21.blade.api.channel.jx.api.new.livestream.com] [Varnish] [fastly] [974bec01e70e5d9adb5746687b2fb57c]
 https://212-21.blade.api.channel.jx.api.new.livestream.com [500] [GET] [text/html] [Fastly error: unknown domain 212-21.blade.api.channel.jx.api.new.livestream.com] [Varnish] [fastly] [bf32683fddaa21e199c9159698306518]

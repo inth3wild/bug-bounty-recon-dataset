@@ -103,6 +103,9 @@ http://web-frontend-pr-9075.frontend-qa.xvtest.net
 http://web-frontend-pr-9077.frontend-qa.xvtest.net
 http://web-frontend-pr-9078.frontend-qa.xvtest.net
 http://web-frontend-pr-9082.frontend-qa.xvtest.net
+http://web-frontend-pr-9084.frontend-qa.xvtest.net
+http://web-frontend-pr-9101.frontend-qa.xvtest.net
+http://web-frontend-pr-9103.frontend-qa.xvtest.net
 http://web-frontend-staging.frontend-qa.xvtest.net
 http://www.fe-singapore-1.web-staging.xvtest.net
 http://www.fe-singapore-2.web-staging.xvtest.net
@@ -197,6 +200,9 @@ http://www.web-frontend-pr-9075.frontend-qa.xvtest.net
 http://www.web-frontend-pr-9077.frontend-qa.xvtest.net
 http://www.web-frontend-pr-9078.frontend-qa.xvtest.net
 http://www.web-frontend-pr-9082.frontend-qa.xvtest.net
+http://www.web-frontend-pr-9084.frontend-qa.xvtest.net
+http://www.web-frontend-pr-9101.frontend-qa.xvtest.net
+http://www.web-frontend-pr-9103.frontend-qa.xvtest.net
 http://www.web-frontend-staging.frontend-qa.xvtest.net
 https://api-gateway-load-test.apis-staging.xvtest.net
 https://beta.apis-staging.xvtest.net
@@ -304,6 +310,9 @@ https://web-frontend-pr-9075.frontend-qa.xvtest.net
 https://web-frontend-pr-9077.frontend-qa.xvtest.net
 https://web-frontend-pr-9078.frontend-qa.xvtest.net
 https://web-frontend-pr-9082.frontend-qa.xvtest.net
+https://web-frontend-pr-9084.frontend-qa.xvtest.net
+https://web-frontend-pr-9101.frontend-qa.xvtest.net
+https://web-frontend-pr-9103.frontend-qa.xvtest.net
 https://web-frontend-staging.frontend-qa.xvtest.net
 https://www.fe-singapore-1.web-staging.xvtest.net
 https://www.fe-singapore-2.web-staging.xvtest.net
@@ -398,4 +407,7 @@ https://www.web-frontend-pr-9075.frontend-qa.xvtest.net
 https://www.web-frontend-pr-9077.frontend-qa.xvtest.net
 https://www.web-frontend-pr-9078.frontend-qa.xvtest.net
 https://www.web-frontend-pr-9082.frontend-qa.xvtest.net
+https://www.web-frontend-pr-9084.frontend-qa.xvtest.net
+https://www.web-frontend-pr-9101.frontend-qa.xvtest.net
+https://www.web-frontend-pr-9103.frontend-qa.xvtest.net
 https://www.web-frontend-staging.frontend-qa.xvtest.net

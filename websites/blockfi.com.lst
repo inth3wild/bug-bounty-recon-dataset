@@ -38,6 +38,8 @@ http://ffs.blockfi.com
 http://grafana-prod.blockfi.com
 http://grafana.blockfi.com
 http://help.blockfi.com
+http://help.blockfi.com:2083
+http://help.blockfi.com:2087
 http://help.blockfi.com:8443
 http://humio-ingest.blockfi.com
 http://humio.blockfi.com
@@ -58,8 +60,10 @@ http://prime.blockfi.com:8080
 http://prometheus-prod.blockfi.com
 http://prometheus.blockfi.com
 http://rates.blockfi.com
+http://shield-sandbox.aws.blockfi.com
 http://shield-staging.aws.blockfi.com
 http://ss139.shield-sandbox.aws.blockfi.com
+http://ss235.shield-sandbox.aws.blockfi.com
 http://ss70.shield-sandbox.aws.blockfi.com
 http://status.blockfi.com
 http://storm.blockfi.com
@@ -69,6 +73,7 @@ http://try.blockfi.com
 http://virtru-cks.blockfi.com
 http://virtru-cks.blockfi.com:8080
 http://vis-661.shield-sandbox.aws.blockfi.com
+http://vis880.shield-sandbox.aws.blockfi.com
 http://vis930.shield-sandbox.aws.blockfi.com
 http://vis930test.shield-sandbox.aws.blockfi.com
 http://vis930test2.shield-sandbox.aws.blockfi.com
@@ -142,8 +147,10 @@ https://prime.blockfi.com
 https://prime.blockfi.com:8443
 https://prometheus-prod.blockfi.com
 https://prometheus.blockfi.com
+https://shield-sandbox.aws.blockfi.com
 https://shield-staging.aws.blockfi.com
 https://ss139.shield-sandbox.aws.blockfi.com
+https://ss235.shield-sandbox.aws.blockfi.com
 https://ss70.shield-sandbox.aws.blockfi.com
 https://status.blockfi.com
 https://storm.blockfi.com
@@ -153,6 +160,7 @@ https://try.blockfi.com
 https://virtru-cks.blockfi.com
 https://virtru-cks.blockfi.com:8443
 https://vis-661.shield-sandbox.aws.blockfi.com
+https://vis880.shield-sandbox.aws.blockfi.com
 https://vis930.shield-sandbox.aws.blockfi.com
 https://vis930test.shield-sandbox.aws.blockfi.com
 https://vis930test2.shield-sandbox.aws.blockfi.com

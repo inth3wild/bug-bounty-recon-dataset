@@ -2,12 +2,14 @@ http://admin.preprod-proofit.grammarlyaws.com
 http://admin.qa-proofit.grammarlyaws.com
 http://api.platformer.platform.grammarlyaws.com
 http://api.platformer.qa-platform.grammarlyaws.com
+http://f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
 http://gb-audit-log-es.preprod-gb-audit-log.grammarlyaws.com
 http://gramly.subscription.grammarlyaws.com
 http://knots.core-prod.grammarlyaws.com
 http://opassscimgc.it.grammarlyaws.com
 http://pollock.prod-reader.grammarlyaws.com
 http://pollock.qa-reader.grammarlyaws.com
+http://preprod-design-system.grammarlyaws.com
 http://qa-anniversary-swag-store.grammarlyaws.com
 http://speak.qa-speakerly.grammarlyaws.com
 http://subscription.subscription.grammarlyaws.com
@@ -29,6 +31,7 @@ https://datacat-ext.qa-nlp-processing.grammarlyaws.com
 https://datareport.prod-gdpr-export.grammarlyaws.com
 https://datareport.subscription.grammarlyaws.com
 https://dox.core-prod.grammarlyaws.com
+https://f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
 https://fridge.prod-fridge.grammarlyaws.com
 https://gb-audit-log-es.preprod-gb-audit-log.grammarlyaws.com
 https://gnar-writr.data.grammarlyaws.com
@@ -41,6 +44,7 @@ https://opassscimgc.it.grammarlyaws.com
 https://pollock.prod-reader.grammarlyaws.com
 https://pollock.qa-reader.grammarlyaws.com
 https://preprod-billing-events.preprod-billing.grammarlyaws.com
+https://preprod-design-system.grammarlyaws.com
 https://prod-data.acquisition.grammarlyaws.com
 https://prod-institution.acquisition.grammarlyaws.com
 https://prod-irbis.acquisition.grammarlyaws.com

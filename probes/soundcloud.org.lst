@@ -7,7 +7,6 @@ http://build-artifacts.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Foun
 http://ci-test.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://ci.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://client-productivity-service.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://codescene.sc-sean.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://codesearch-test.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://codesearch.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://collins.soundcloud.org:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]

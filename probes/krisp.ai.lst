@@ -237,7 +237,7 @@ https://files.prelive.krisp.ai [403] [GET] [application/xml] [] [AmazonS3] [vhos
 https://files.prelive.krisp.ai [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [51c0eca8654a8964d3f7243561a37ad3]
 https://help.krisp.ai [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Zendesk] [452ffe21e82d3de49a9744908042d65d]
 https://help.krisp.ai:2083 [403] [GET] [text/html] [Access denied] [cloudflare] [vhost] [cloudflare] [Cloudflare Network Error Logging] [eb27d485ab557681a6f9701ec478e49b]
-https://jobs.krisp.ai [200] [GET] [text/html] [Join Krisp Team] [Vercel] [vhost] [Google Font API,Next.js,Node.js,React,Vercel,webpack] [edd4d428c104754e093308869e0dd788]
+https://jobs.krisp.ai [200] [GET] [text/html] [Join Krisp Team] [Vercel] [vhost] [Google Font API,Next.js,Node.js,React,Vercel,webpack] [4d4ec1edc39b0ebd0fa6e45ce3fbe835]
 https://jpmchase-uat.krisp.ai [200] [GET] [text/html] [Krisp] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [cc70c82f0f6705fc729dd59311c2487e]
 https://jpmchase.krisp.ai [200] [GET] [text/html] [Krisp] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [cc70c82f0f6705fc729dd59311c2487e]
 https://krisp.ai [200] [GET] [text/html] [Krisp - Noise Cancellation and Echo Removal] [cloudflare] [vhost] [cloudflare] [Cloudflare,Google Tag Manager,MySQL,PHP,WordPress] [226833fea159b82d70f4ad336b444d8d]

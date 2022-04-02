@@ -69,6 +69,12 @@ email.lahitapiola.fi
 etk-viranomaispalvelu.lahitapiola.fi
 ext-gw.lahitapiola.fi
 extwebfarm.lahitapiola.fi
+funcaksasiointi.lahitapiola.fi
+funcaksauthenticate.lahitapiola.fi
+funcaksauthmigrate.lahitapiola.fi
+funcakslisasijoitus.lahitapiola.fi
+funcakspaymentwall.lahitapiola.fi
+funcaksverovelvollisuustiedot.lahitapiola.fi
 granite.lahitapiola.fi
 hali.lahitapiola.fi
 hallintoportaali.lahitapiola.fi
@@ -273,6 +279,12 @@ sip.meet.lahitapiola.fi
 sit-abc.lahitapiola.fi
 sit-api.lahitapiola.fi
 sit2-abc.lahitapiola.fi
+sit2aksasiointi.lahitapiola.fi
+sit2aksauthenticate.lahitapiola.fi
+sit2aksauthmigrate.lahitapiola.fi
+sit2akslisasijoitus.lahitapiola.fi
+sit2akspaymentwall.lahitapiola.fi
+sit2aksverovelvollisuustiedot.lahitapiola.fi
 sitaks.lahitapiola.fi
 sitaksajanvaraus.lahitapiola.fi
 sitaksasiointi.lahitapiola.fi
@@ -288,6 +300,7 @@ sitapim-api.lahitapiola.fi
 sitapim-mgmt.lahitapiola.fi
 sitauthenticate.lahitapiola.fi
 sitdevelopers.lahitapiola.fi
+situi.lahitapiola.fi
 sitweb.lahitapiola.fi
 sityritys.lahitapiola.fi
 sms.lahitapiola.fi

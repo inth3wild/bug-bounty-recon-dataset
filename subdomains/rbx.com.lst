@@ -33,10 +33,16 @@ artifactory.rbx.com
 astro-dev.di.rbx.com
 astro-prod.di.rbx.com
 autodiscover.rbx.com
+aws-ap-east-1a-lms.rbx.com
+aws-ap-east-1b-lms.rbx.com
+aws-ap-east-1c-lms.rbx.com
+aws-eu-central-1a-lms.rbx.com
 aws-eu-central-1b-lms.rbx.com
+aws-eu-west-2c-lms.rbx.com
 azdo.rbx.com
 bpo-vpn.rbx.com
 cachet-stage.rbx.com
+cargo-registry-stage.rbx.com
 cargo-registry.rbx.com
 certs.rbx.com
 conf-prep.rbx.com
@@ -176,6 +182,7 @@ status-stage.rbx.com
 superset-test.di.rbx.com
 superset.di.rbx.com
 teamcity-dev.rbx.com
+teamcity-ge-dev.rbx.com
 teamcity-ge-linux.rbx.com
 teamcity-ge-stage.rbx.com
 teamcity-pr.rbx.com

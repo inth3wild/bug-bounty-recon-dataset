@@ -5,6 +5,7 @@ https://answers.grammarly.com [301] [GET] [text/html] [] [] [ab2a914647b59b714c4
 https://app.grammarly.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://app.grammarly.com [302] [GET] [text/html] [302 Found] [nginx] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://apps-public.grammarly.com [401] [GET] [] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
+https://apps-uploads.grammarly.com [404] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [9aca9ebe093cd0dce24c307921f2147a]
 https://assets.grammarly.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [34848b5c199e3ca6c04cb29fa7d303a7]
 https://assets.grammarly.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [f49cd7f2bfdc188d734b0aa4e2e890c2]
 https://auth.grammarly.com [404] [GET] [application/json] [] [] [d41d8cd98f00b204e9800998ecf8427e]

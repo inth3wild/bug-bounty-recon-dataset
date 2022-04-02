@@ -90,6 +90,7 @@ boomer-service-stage.adda.dev.use1a.on.epicgames.com
 bpt-rc.dev.epicgames.com
 bpt.dev.epicgames.com
 brand.epicgames.com
+cadc.live.use1a.on.epicgames.com
 caldera-service-prod.ecosec.on.epicgames.com
 calendar.epicgames.com
 capman-service-ci.adda.dev.use1a.on.epicgames.com
@@ -133,6 +134,7 @@ click.news.epicgames.com
 cloud.epicgames.com
 cloudapp.epicgames.com
 cloudwatch.installer.ega.ol.epicgames.com
+cn.ccec.live.use1a.on.epicgames.com
 cn.live.use1a.on.epicgames.com
 cn.ol.epicgames.com
 codefresh-ci.dbcc.dev.use1a.on.epicgames.com
@@ -2637,6 +2639,7 @@ priceengine-public-service-prod.ak.epicgames.com
 prm-dialogue-public-api-prod.ak.epicgames.com
 prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com
 prod-config-querier.infosec.on.epicgames.com
+prod.ucs.on.epicgames.com
 prodstaging.store.epicgames.com
 prometheus-ape1-prod.rtcp.on.epicgames.com
 prometheus-ape1.rtcp.on.epicgames.com

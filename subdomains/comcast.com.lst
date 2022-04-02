@@ -4170,6 +4170,7 @@ bdi-qa.comcast.com
 bdi.comcast.com
 bdisch-po-03.cable.comcast.com
 bdt-private.comcast.com
+bdtdq-dev.cable.comcast.com
 bdtmetrics-test.cable.comcast.com
 bdtmon.cable.comcast.com
 be00-as-c.cdash.cable.comcast.com
@@ -11617,6 +11618,7 @@ courtesy-prvdata-dev.comcast.com
 courtesy-prvdata.comcast.com
 courtesy-prvdata.gslb2.comcast.com
 courtesy-qa.comcast.com
+courtesy-re-qa.comcast.com
 courtesy-stg-cms.comcast.com
 courtesy-stg-data.comcast.com
 courtesy-stg.comcast.com
@@ -12320,6 +12322,7 @@ custsvcweb.cable.comcast.com
 cutomobile.cable.comcast.com
 cvapp-po-1d.cable.comcast.com
 cvapp-po-1p.cable.comcast.com
+cvdgui-as-a1p.cable.comcast.com
 cvi.cable.comcast.com
 cviewcon-as-1p.cable.comcast.com
 cviewnvr-as-10p-b.cable.comcast.com
@@ -13219,6 +13222,7 @@ detools-po-1d.cable.comcast.com
 detools-wc-1d.cable.comcast.com
 dev-1status.cable.comcast.com
 dev-555.gslb2.comcast.com
+dev-aegis-dashboard.cable.comcast.com
 dev-amp.xhi.comcast.com
 dev-api.business.comcast.com
 dev-araas.comcast.com
@@ -16884,6 +16888,7 @@ fposxinv-po-b1p.cable.comcast.com
 fposxinv-po-b2p.cable.comcast.com
 fposxinv-po-b3p.cable.comcast.com
 fposxinv-po-b4p.cable.comcast.com
+fraudview.comcast.com
 frebi.cable.comcast.com
 frebid.cable.comcast.com
 frebidojo.cable.comcast.com
@@ -21246,6 +21251,7 @@ gisnwt.cable.comcast.com
 gisnwt.gslb2.comcast.com
 gisops-po-a1d.cable.comcast.com
 gisopsd-po-a1p.cable.comcast.com
+gisopsdb-po-a1d.cable.comcast.com
 gispds-ho-a1d.cable.comcast.com
 gispds-po-a1d.cable.comcast.com
 gisptl-ho-a1d.cable.comcast.com
@@ -29068,6 +29074,7 @@ malowntx-enact-stage.cable.comcast.com
 malowntx-enact.cable.comcast.com
 malowntx-enatweb.cable.comcast.com
 malowntx-machevid00.cable.comcast.com
+malowntx-mwf-gvnr01.cable.comcast.com
 malowntx-netengsrv01.cable.comcast.com
 malowntx-tdvcl01.cable.comcast.com
 malowntx-uenjump01.cable.comcast.com
@@ -33741,6 +33748,7 @@ or.bsd-global-nav-consumer-pqa.np.digital.business.comcast.com
 or.bsd-global-nav-consumer-prod-va.digital.business.comcast.com
 or.bsd-global-nav-consumer-qa.np.digital.business.comcast.com
 or.bsd-global-nav-consumer-stg-va.np.digital.business.comcast.com
+or.bsd-global-nav-content-dev.np.digital.business.comcast.com
 or.bsd-global-nav-content-int.np.digital.business.comcast.com
 or.bsd-global-nav-content-pqa.np.digital.business.comcast.com
 or.bsd-global-nav-content-prod-va.digital.business.comcast.com
@@ -43099,6 +43107,7 @@ splunk-search.sv.comcast.com
 splunk.ccp.cable.comcast.com
 splunk.comcast.com
 splunk.vdm.comcast.com
+splunkactivecore-p.gslb4.comcast.com
 splunkstatus.splunk.comcast.com
 spmig-wc-1p.cable.comcast.com
 spmig-wc-2p.cable.comcast.com
@@ -44778,8 +44787,10 @@ tabpdb-wc-1p.cable.comcast.com
 tabpgsql-ch2-1p.cable.comcast.com
 tabpgsql-po-1p.cable.comcast.com
 tabsndbx-as-a1p.cable.comcast.com
+tabxcs-as-a1p.cable.comcast.com
 tabxcs-as-a2p.cable.comcast.com
 tabxcs-ch2-a1p.cable.comcast.com
+tabxcs-ch2-a2p.cable.comcast.com
 tacgwc-soat03.cable.comcast.com
 tada-po-2p.cable.comcast.com
 tagapp-ch2-a3p.cable.comcast.com
@@ -44981,6 +44992,7 @@ temp.sbtemp.gumby.comcast.com
 temp_printer.cable.comcast.com
 template-service-rest.snp.comcast.com
 template-service.snp.comcast.com
+temporal-wf.dev.developer.comcast.com
 tenghi.cable.comcast.com
 teoco-testsw.teoco.mes.comcast.com
 teradata_comcast_1-12.cable.comcast.com
@@ -46888,6 +46900,7 @@ va.bsd-global-nav-consumer-pqa.np.digital.business.comcast.com
 va.bsd-global-nav-consumer-prod-va.digital.business.comcast.com
 va.bsd-global-nav-consumer-qa.np.digital.business.comcast.com
 va.bsd-global-nav-consumer-stg-va.np.digital.business.comcast.com
+va.bsd-global-nav-content-dev.np.digital.business.comcast.com
 va.bsd-global-nav-content-int.np.digital.business.comcast.com
 va.bsd-global-nav-content-pqa.np.digital.business.comcast.com
 va.bsd-global-nav-content-stg-va.np.digital.business.comcast.com
@@ -49965,6 +49978,7 @@ wdacvsp7200-ho-02p.cable.comcast.com
 wdacweblm-ho-01p.cable.comcast.com
 wdcommmail.cable.comcast.com
 wdcvdcnsx-ho-1.cable.comcast.com
+wdcvdcvc-ho-2.cable.comcast.com
 wdcvdicp-ho-1.cable.comcast.com
 wdcvdics-ho-1.cable.comcast.com
 wdcvdics-ho-2.cable.comcast.com
@@ -52888,6 +52902,7 @@ xcp-kibana-ccp-p.gslb4.comcast.com
 xcsapv-as-02p.cable.comcast.com
 xcsdata-1p.gslb2.comcast.com
 xcsdata.comcast.com
+xcsdatadr.comcast.com
 xcsdbv-as-02d-b.cable.comcast.com
 xcsfsv-wc-01p.cable.comcast.com
 xcstab-as-01p.cable.comcast.com

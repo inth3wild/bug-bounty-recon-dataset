@@ -67,7 +67,7 @@ richmond.irccloud.com AS3223 AS3223 - VOXILITY LLP GB 5.254.36.0/24
 slack.irccloud.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 snoop.ec2-us-west-1.irccloud.com AS16509 AS16509 - AMAZON.COM, INC. US 52.8.0.0/16
 status.irccloud.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
-team-irc.irccloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.202.0.0/15
+team-irc.irccloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
 tinside.irccloud.com AS3223 AS3223 - VOXILITY LLP GB 5.254.36.0/24
 uxbridge.irccloud.com AS3223 AS3223 - VOXILITY LLP GB 5.254.36.0/24
 vpn.ec2-us-west-1.irccloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.183.128.0/17

@@ -19,6 +19,7 @@ https://narnia.it.grammarlyaws.com [302] [GET] [] [] [BigIP] [F5 BigIP] [d41d8cd
 https://pollock.prod-reader.grammarlyaws.com [404] [GET] [] [] [Aleph/0.4.6] [d41d8cd98f00b204e9800998ecf8427e]
 https://pollock.qa-reader.grammarlyaws.com [404] [GET] [] [] [Aleph/0.4.6] [d41d8cd98f00b204e9800998ecf8427e]
 https://preprod-billing-events.preprod-billing.grammarlyaws.com [403] [GET] [application/json] [] [] [vhost] [bc45704aad57d445b6dfa58b101071e3]
+https://preprod-design-system.grammarlyaws.com [200] [GET] [text/html] [docs website] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API] [572c0dfa65dd3364c486c3210eada2ab]
 https://prod-data.acquisition.grammarlyaws.com [404] [GET] [text/html] [Error 404 Not Found] [] [62cd468647716247d89e8fc5441fd5d0]
 https://prod-irbis.acquisition.grammarlyaws.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://prod-redirect.acquisition.grammarlyaws.com [303] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]

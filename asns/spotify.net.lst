@@ -33,12 +33,13 @@ pulse.feedzai-sandbox.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
 pulse.feedzai.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.200.0.0/14
 real.divvycloud.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
 saml.feedzai-sandbox.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
-sites.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 sites.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
+snow.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 sprinter.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 status.spotify.net AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
 streamon.spotify.net AS14618 AS14618 - AMAZON.COM INC. US 54.84.0.0/15
+tableau-dev.spotify.net AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 thebandrehearsal.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 thebandrehearsal.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 thebandreunion.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24

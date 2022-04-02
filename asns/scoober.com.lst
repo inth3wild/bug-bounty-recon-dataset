@@ -42,6 +42,7 @@ restaurant.dev.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 restaurant.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 scoober-courier-api.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 shiftplanning-api.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 54.154.0.0/16
 ticket.dev.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 ticket.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

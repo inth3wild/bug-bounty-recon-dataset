@@ -44,6 +44,7 @@ http://api.miren.mi.com
 http://api.mishow.mi.com
 http://api.new.misim.10046.mi.com
 http://api.order.mi.com
+http://api.pinshang.mi.com
 http://api.recharge.10046.mi.com
 http://api.search.mi.com
 http://api.softsim.10046.mi.com
@@ -809,6 +810,7 @@ http://preview.pay.notify.10046.mi.com
 http://preview.srv.b.mi.com
 http://privacy.mi.com
 http://promo.mi.com
+http://proxy.open.be.mi.com
 http://push.buy.mi.com
 http://pv.access.b.iot.mi.com
 http://pv.dns.io.mi.com
@@ -1425,6 +1427,7 @@ https://api.miren.mi.com
 https://api.mishow.mi.com
 https://api.new.misim.10046.mi.com
 https://api.order.mi.com
+https://api.pinshang.mi.com
 https://api.recharge.10046.mi.com
 https://api.search.mi.com
 https://api.softsim.10046.mi.com
@@ -1790,6 +1793,7 @@ https://preview.srv.b.mi.com
 https://privacy.mi.com
 https://processor.smartcamera.api.io.mi.com
 https://promo.mi.com
+https://proxy.open.be.mi.com
 https://push.buy.mi.com
 https://pv.access.b.iot.mi.com
 https://q.be.mi.com

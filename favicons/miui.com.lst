@@ -51,6 +51,7 @@
 0	zero byte favicon	http://api.game.intl.miui.com:80/
 0	zero byte favicon	http://api.health.comm.miui.com:80/
 0	zero byte favicon	http://api.ru.miui.com:80/
+0	zero byte favicon	http://api.smartrip.comm.miui.com/
 0	zero byte favicon	http://api.smartrip.comm.miui.com:80/
 0	zero byte favicon	http://api.vip.miui.com:80/
 0	zero byte favicon	http://bbs.miui.com:80/
@@ -86,6 +87,7 @@
 0	zero byte favicon	https://api.health.comm.miui.com:443/
 0	zero byte favicon	https://api.mcc.miui.com:443/
 0	zero byte favicon	https://api.ru.miui.com:443/
+0	zero byte favicon	https://api.smartrip.comm.miui.com/
 0	zero byte favicon	https://api.smartrip.comm.miui.com:443/
 0	zero byte favicon	https://api.vip.miui.com:443/
 0	zero byte favicon	https://ccc.sys.miui.com:443/
@@ -183,6 +185,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.comm.miui.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.game.intl.miui.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.health.comm.miui.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.ru.miui.com:80/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.smartrip.comm.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.smartrip.comm.miui.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.vip.miui.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://bbs.miui.com:80/
@@ -218,6 +221,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.game.intl.miui.co
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.health.comm.miui.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.mcc.miui.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.ru.miui.com:443/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.smartrip.comm.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.smartrip.comm.miui.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.vip.miui.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ccc.sys.miui.com:443/

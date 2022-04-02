@@ -184,6 +184,7 @@ hangfire.stage.panda.withbuddies.com
 hangfire.stage.scrabble.withbuddies.com
 hangfire.stage.tophat.withbuddies.com
 hangfire.staging.odyssey.withbuddies.com
+infradev.sample.withbuddies.com
 jenkins-client.odyssey.withbuddies.com
 jenkins.client.withbuddies.com
 jenkins.content.odyssey.withbuddies.com

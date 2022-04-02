@@ -1377,9 +1377,9 @@ ad-platform-service-reports.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM
 ad-platform-service.prod-b.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 ad-platform-service.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 ad-platform-service.svc-at.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-ad-platform-service.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-ad-platform-service.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-ad-platform-service.svc.thor.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ad-platform-service.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+ad-platform-service.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+ad-platform-service.svc.thor.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
 ad.showtime.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 ad2chk-cmc-w1p.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 69.240.0.0/12
 ad2chk-cmc-w2p.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 69.240.0.0/12
@@ -1845,8 +1845,8 @@ browser-config.prod-multiregion.us-east-1.janus.comcast.com AS14618 AS14618 - AM
 browser-config.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 browser-config.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 browser-config.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-browser-config.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-browser-config.svc.thor.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+browser-config.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+browser-config.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
 browser-config1.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 browser.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 brt.np.fxbuyflow.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
@@ -2385,8 +2385,6 @@ cer-xms3.cmc.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC
 cer-xms4.cmc.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 75.144.0.0/13
 cert-browser-config-reports.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 cert-browser-config-reports.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-cert-flapi-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-cert-flapi-prod.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 cert-res-api-reports.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 cert-res-api-reports.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 cert-test.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
@@ -2479,7 +2477,7 @@ cloud-cookies.prod-multiregion.us-east-1.janus.comcast.com AS14618 AS14618 - AMA
 cloud-cookies.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 cloud-cookies.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 cloud-cookies.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-cloud-cookies.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+cloud-cookies.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
 cloudmetrices-p.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 cloudsolutions.comcast.com AS19551 AS19551 - INCAPSULA INC US 45.60.12.0/24
 cloudsolutions2.comcast.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.6.22.0/23
@@ -2866,6 +2864,7 @@ corsicadev-d.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC
 corsicaqa-q.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 courtesy-admin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 courtesy-prv.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
+courtesy-re-qa.comcast.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 courtesy-web.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
 cox-bet-az.gslb2.comcast.com AS22773 AS22773 - COX COMMUNICATIONS INC. US 184.184.224.0/20
 cox-bet-stage-az.gslb2.comcast.com AS22773 AS22773 - COX COMMUNICATIONS INC. US 184.184.224.0/20
@@ -3163,7 +3162,7 @@ dev.snp.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.
 dev.solr.np.digital.business.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 dev.spherelab.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 dev.ulearncoach.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
-dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
 dev.use1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 dev.user-management.np.digital.business.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 dev.web1.self-service.np.digital.business.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
@@ -3212,8 +3211,6 @@ digitalhome.g.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 6
 digitalnow.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 69.240.0.0/12
 digitalrequest.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 directsiteminder.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 69.240.0.0/12
-distp.demo.developer.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-distp.dev.developer.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 diversity.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
 djcheckin-wc-01.qoe.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 dlpepstg-as-01s.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 147.191.0.0/16
@@ -3535,20 +3532,20 @@ finsysprd-xpo.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 6
 fireboltperformance.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.70.0.0/15
 firehawk.prod.ibis.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 firstvendor.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
-flapi-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
-flapi-patch.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+flapi-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
+flapi-patch.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 flapi-prod-west.svc.thor.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 flapi-prod.janus2.gumby.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-flapi-prod.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+flapi-prod.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
 flapi-stage.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 flapi.d.use1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-flapi.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+flapi.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
 flapi.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 flapi.janus-prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 flapi.prod-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 flapi.prod-b.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
-flapi.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-flapi.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+flapi.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
+flapi.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 fleet.autobahn.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 flex-dev.loki.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 fling-stage.sv.comcast.com AS36212 AS36212 - PLAXO INCORPORATED US 204.15.240.0/22
@@ -3562,7 +3559,6 @@ floridapotest-ch2-1s.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATION
 flume.datasyn.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 flux.g.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
 fmp.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
-fog.dev.developer.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 forceps-p.gslb4.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 forceps.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 foresight.snp.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
@@ -3654,6 +3650,7 @@ goldencompass.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 6
 goodkid.comcast.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.80.0.0/12
 grafana.csv.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 grafana.merlin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
+grafana.operations.wifi-motion.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
 grafanadev.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 147.191.0.0/16
 grafanamysql-vip-as-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 147.191.0.0/16
 grafanamysql-vip-po-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 147.191.0.0/16
@@ -3671,6 +3668,7 @@ graph-proxy-as-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, 
 graph-proxy-ho-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 graph-proxy.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 grapplex.comcast.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
+graylog.operations.wifi-motion.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
 gridwebservice-lbr.r53.merlin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 gridwebservice-prod-fo-us-west-2a.r53.merlin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 grpl04-wc-1b.jawn.grapple.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
@@ -3889,7 +3887,6 @@ info.comcast.com AS15224 AS15224 - ADOBE INC. US 199.15.214.0/23
 ingest.europe.splunk.comcast.com AS212465 AS212465 - COMCAST INTERNATIONAL HOLDINGS UK LIMITED GB 184.120.32.0/19
 ingestor-new.jns2.gumby.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 ingestor-ott-edge.jns-test.gumby.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-ingestor.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 ingestor.dev.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 ingestor.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
 ingestor.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
@@ -4016,7 +4013,7 @@ janak64.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 2
 janak65.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
 janak66.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
 janak67.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
-janus-cert-test.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+janus-cert-test.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 janus-exp.dev.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
 janus-test.test.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 janustemp.janus2.gumby.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
@@ -4214,7 +4211,6 @@ loki-bff-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.
 loki-bff.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 loki-sat-bff-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 loki-sat-bff.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
-loki-sat-bff.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 looker.pabs.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 lookup-api-g.salesx.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.236.128.0/17
 lookup-api.salesx.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
@@ -4239,7 +4235,6 @@ lyncadmin.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US
 lyncadmin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
 lyncdiscover.cable.comcast.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
 lyncdiscover.comcast.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
-lyncdiscoverinternal.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 147.191.0.0/16
 lyncedge01ae.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
 lyncedge01av.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
 lyncedge01wc.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
@@ -4510,10 +4505,10 @@ mno-ota-01l.xm.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 
 mnode-as-001p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 mnode-as-001s.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 mobile-gateway.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.87.0.0/16
-mobile-gateway.dev.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
-mobile-gateway.pqa.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.234.0.0/15
-mobile-gateway.qa.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
-mobile-gateway.stg.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+mobile-gateway.dev.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+mobile-gateway.pqa.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+mobile-gateway.qa.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+mobile-gateway.stg.api-business.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.242.0.0/15
 mobile.api-business.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 mobile.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 mobile.digital.business.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
@@ -4528,6 +4523,7 @@ mobility1.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US
 mobility2.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 198.137.252.0/23
 mongo.securitycentral.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 monitor.autobahn.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
+monitor.operations.wifi-motion.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
 monitoring.merlin.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 mpsprod-as-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 mpsprod-ch2-a1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
@@ -4928,11 +4924,8 @@ ossdataserviceseast.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LL
 ossdataserviceswest.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
 otr.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 ott-observability-lab-tracing.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
-ott-observability-lab.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 ott-observability-lab.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
-ott-observability.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 ott-observability.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
-ott-tracing.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 ott-tracing.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 owa.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 oxstage.sjc.v.sv.comcast.com AS36212 AS36212 - PLAXO INCORPORATED US 204.15.240.0/22
@@ -5809,17 +5802,15 @@ reeats-kafkaf-ch2-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATION
 reeats-ui-prod-1p.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 reeats-uip-ch2-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 reeatsui-p-as-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
-refapp-shortchain.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 refapp.d.use1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 refapp.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
-refapp.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 refapp.dev.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 refapp.janus-prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 refapp.janus-test.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 refapp.observability.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
 refapp.prod-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
-refapp.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-refapp.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+refapp.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
+refapp.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 referafriend.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 50.128.0.0/9
 register-wg-bi-ch2-1p.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 register-wg-bi-ch2-1s.slb.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
@@ -5843,14 +5834,13 @@ res-api-prod-east.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.
 res-api-prod-west.svc.thor.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 res-api-reports.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 res-api-reports.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-res-api-tls.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 res-api-tls.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 res-api.prod-b.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 res-api.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 res-api.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 res-api.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 res-api.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-res-api.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+res-api.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
 reset-password-oc-dev.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 reset-password-oc-pqa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 reset-password-oc-qa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
@@ -6659,6 +6649,7 @@ telesales-registration-ui-prod-va.digital.business.comcast.com AS16509 AS16509 -
 telesales-registration-ui-qa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 telesales-registration-ui-stg-va.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 temp.janus-test.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+temporal-wf.dev.developer.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 3.13.0.0/16
 tern.dev.ibis.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 tern.prod.ibis.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 tesautokpi.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
@@ -6728,17 +6719,15 @@ thor-permission.prod.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, I
 thor-permission.svc-at.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 thor-permission.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 thor-permission.svc-qa.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
-thor-permission.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+thor-permission.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
 thor-sat-loki-dev.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 thor-sat-loki.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
-thor-sat-loki.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
-thor-shell.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+thor-shell.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
 thortv-observability-prod-tracing.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 thortv-observability-prod.prod-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 thortv-observability-prod.prod.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
-thortv-observability-prod.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
+thortv-observability-prod.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
 thortv-observability-qa-tracing.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
-thortv-observability-qa.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 thortv-observability-qa.svc-dev.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 tile-adapter-next.comcast.com AS36212 AS36212 - PLAXO INCORPORATED US 204.15.240.0/22
 tile-adapter.comcast.com AS36212 AS36212 - PLAXO INCORPORATED US 204.15.240.0/22
@@ -7196,7 +7185,6 @@ vidmho10003.ho.xcloud.comcast.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS
 vidomnitureprx-10003.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
 vidomnitureprx-10004.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
 view.care.comcast.com AS22606 AS22606 - SALESFORCE.COM, INC. US 66.231.80.0/20
-vikastest.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 vikastest.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 vikastest2.svc.thor.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 virdb-cluster.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13
@@ -7295,7 +7283,7 @@ vxmgrho11012.ho.xcloud.comcast.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO R
 washington.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
 wasp2.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 162.148.0.0/14
 watchtower.dev-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
-watchtower.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
+watchtower.dev.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 watchtower.dev.us-west-2.janus.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 watchtower.observability.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
 watchtower.prod-b.us-east-1.janus.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
@@ -7407,6 +7395,7 @@ wfmesp.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 16
 wfx.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 68.80.0.0/13
 wgtspay-po-ap-vip.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
 wgtspay-wc-ap-vip.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 76.96.0.0/11
+whoami.operations.wifi-motion.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
 wifi-motion.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 wifi-optimizer.comcastlabs.comcast.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
 wifi.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.112.0.0/13

@@ -24,6 +24,7 @@ http://cfalt.customers.dev.instacart.tools:8443
 http://cfalt.customers.dev.instacart.tools:8880
 http://cfalternate.customers.dev.instacart.tools
 http://connect.dev.instacart.tools
+http://costcopbi.dev.instacart.tools
 http://costcous.dev.instacart.tools
 http://costcous.pbis-cf-dev.instacart.tools
 http://costcous.pbis-cf-dev.instacart.tools:2082
@@ -34,11 +35,15 @@ http://customers.dev.instacart.tools
 http://data-ingestion.instacart.tools
 http://display.dev.instacart.tools
 http://experiments.instacart.tools
+http://foodbazar.dev.instacart.tools
 http://foodlion.dev.instacart.tools
+http://gardenpbi.dev.instacart.tools
 http://go.instacart.tools
 http://heinens-onecart.dev.instacart.tools
+http://heinenspbi.dev.instacart.tools
 http://mypricechopperdelivers-onecart.dev.instacart.tools
 http://pbis.dev.instacart.tools
+http://plum-market.dev.instacart.tools
 http://portal.instacart.tools
 http://preview.ads.dev.instacart.tools
 http://sproutspbi.dev.instacart.tools
@@ -47,6 +52,7 @@ http://sproutspbi.pbis-cf-dev.instacart.tools:2082
 http://sproutspbi.pbis-cf-dev.instacart.tools:2086
 http://sproutspbi.pbis-cf-dev.instacart.tools:8080
 http://sre.instacart.tools
+http://stewleonards.dev.instacart.tools
 http://test.pbis-cf-dev.instacart.tools
 http://test.pbis-cf-dev.instacart.tools:2082
 http://test.pbis-cf-dev.instacart.tools:2086
@@ -63,6 +69,7 @@ http://tools-auth.instacart.tools
 http://tops-onecart.dev.instacart.tools
 http://tux.instacart.tools
 http://weglegacy.dev.instacart.tools
+http://wegmanspbi.dev.instacart.tools
 http://wiki.instacart.tools
 http://www.instacart.tools
 https://ads.instacart.tools
@@ -80,6 +87,7 @@ https://cf.customers.dev.instacart.tools:2087
 https://cf.customers.dev.instacart.tools:8443
 https://cfalternate.customers.dev.instacart.tools
 https://connect.dev.instacart.tools
+https://costcopbi.dev.instacart.tools
 https://costcous.dev.instacart.tools
 https://costcous.pbis-cf-dev.instacart.tools
 https://costcous.pbis-cf-dev.instacart.tools:2053
@@ -90,9 +98,12 @@ https://customers.dev.instacart.tools
 https://data-ingestion.instacart.tools
 https://display.dev.instacart.tools
 https://experiments.instacart.tools
+https://foodbazar.dev.instacart.tools
 https://foodlion.dev.instacart.tools
+https://gardenpbi.dev.instacart.tools
 https://go.instacart.tools
 https://heinens-onecart.dev.instacart.tools
+https://heinenspbi.dev.instacart.tools
 https://mypricechopperdelivers-onecart.dev.instacart.tools
 https://node0.vpn.instacart.tools
 https://node1.vpn.instacart.tools
@@ -100,6 +111,7 @@ https://node2.vpn.instacart.tools
 https://node3.vpn.instacart.tools
 https://node4.vpn.instacart.tools
 https://pbis.dev.instacart.tools
+https://plum-market.dev.instacart.tools
 https://portal.instacart.tools
 https://preview.ads.dev.instacart.tools
 https://reset.sftp-catalog.dev.instacart.tools
@@ -114,6 +126,7 @@ https://sproutspbi.pbis-cf-dev.instacart.tools
 https://sproutspbi.pbis-cf-dev.instacart.tools:2083
 https://sproutspbi.pbis-cf-dev.instacart.tools:2087
 https://sre.instacart.tools
+https://stewleonards.dev.instacart.tools
 https://test.pbis-cf-dev.instacart.tools
 https://test.pbis-cf-dev.instacart.tools:2083
 https://test.pbis-cf-dev.instacart.tools:2087
@@ -129,5 +142,6 @@ https://tux.instacart.tools
 https://vpn-beta.instacart.tools
 https://vpn.instacart.tools
 https://weglegacy.dev.instacart.tools
+https://wegmanspbi.dev.instacart.tools
 https://wiki.instacart.tools
 https://www.instacart.tools

@@ -760,7 +760,7 @@ rostarcas.kinepolis.com AS5432 AS5432 - PROXIMUS NV BE 194.78.0.0/16
 rowbot.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21
 rruleparser.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21
 rule-example.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21
-rvb.kinepolis.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+rvb.kinepolis.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.51.146.0/24
 s.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21
 salesforce.com.00df00000005ccwmam.live.internal.nsa.gov.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21
 search.kinepolis.com AS34762 AS34762 - COMBELL NV BE 188.93.152.0/21

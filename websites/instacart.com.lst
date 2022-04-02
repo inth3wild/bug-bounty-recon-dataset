@@ -212,6 +212,16 @@ http://prd-tfm-platform-preview-api.enterprise.instacart.com
 http://prd-tfm-platform-preview-api.enterprise.instacart.com:8080
 http://prd-tfm-platform-preview-web.enterprise.instacart.com
 http://prd-tfm-platform-preview-web.enterprise.instacart.com:8080
+http://prd.fbz.cf.enterprise.instacart.com
+http://prd.fbz.cf.enterprise.instacart.com:2053
+http://prd.fbz.cf.enterprise.instacart.com:2082
+http://prd.fbz.cf.enterprise.instacart.com:2083
+http://prd.fbz.cf.enterprise.instacart.com:2086
+http://prd.fbz.cf.enterprise.instacart.com:2087
+http://prd.fbz.cf.enterprise.instacart.com:2095
+http://prd.fbz.cf.enterprise.instacart.com:8080
+http://prd.fbz.cf.enterprise.instacart.com:8443
+http://prd.fbz.cf.enterprise.instacart.com:8880
 http://preview.ads.instacart.com
 http://pricechopper.instacart.com
 http://pricechopperny.instacart.com
@@ -648,6 +658,7 @@ https://prd-tfm-platform-master-dashboard.enterprise.instacart.com
 https://prd-tfm-platform-master-web.enterprise.instacart.com
 https://prd-tfm-platform-preview-api.enterprise.instacart.com
 https://prd-tfm-platform-preview-web.enterprise.instacart.com
+https://prd.fbz.cf.enterprise.instacart.com
 https://preview.ads.instacart.com
 https://pricechopper.instacart.com
 https://pricechopperny.instacart.com

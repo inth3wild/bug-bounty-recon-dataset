@@ -307,7 +307,7 @@ https://blackswan.uber.com [200] [GET] [text/plain] [] [ufe] [vhost] [Envoy] [d4
 https://bliss-events-stage.uber.com [200] [GET] [text/plain] [] [ufe] [vhost] [Envoy] [444bcb3a3fcf8389296c49467f27e1d6]
 https://bliss-events.uber.com [200] [GET] [text/plain] [] [ufe] [vhost] [Envoy] [444bcb3a3fcf8389296c49467f27e1d6]
 https://blog.uber.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
-https://blogapi.uber.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [Nginx] [4b074b0b59693fa9f94fb71b175fb187]
+https://blogapi.uber.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [Nginx] [9fe3cb2b7313dc79bb477bc8fde184a7]
 https://blogcdn.uber.com [200] [GET] [text/html] [] [NetDNA-cache/2.2] [MaxCDN] [6b6361a93ae63ae4500d9c8c54fa52f3]
 https://bonjour-proxy.uber.com [302] [GET] [] [] [ufe] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://bonjour-qa.uber.com [302] [GET] [text/html] [] [ufe] [vhost] [Envoy] [49eadd465601c1d38b456a5e8d54dcd2]

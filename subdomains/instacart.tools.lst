@@ -32,6 +32,7 @@ cfalternate.customers.dev.instacart.tools
 cfaltnew.customers.dev.instacart.tools
 connect.dev.instacart.tools
 costcoca-onecart.pbis-cf.dev.instacart.tools
+costcopbi.dev.instacart.tools
 costcous.dev.instacart.tools
 costcous.pbis-cf-dev.instacart.tools
 customers.dev.instacart.tools
@@ -46,11 +47,14 @@ events-store.instacart.tools
 experiments.instacart.tools
 expy.instacart.tools
 foo-bar.instacart.tools
+foodbazar.dev.instacart.tools
 foodlion.dev.instacart.tools
+gardenpbi.dev.instacart.tools
 go.instacart.tools
 gradle-cache.instacart.tools
 graphql.instacart.tools
 heinens-onecart.dev.instacart.tools
+heinenspbi.dev.instacart.tools
 ids.instacart.tools
 instacart.tools
 internal.instacart.tools
@@ -84,6 +88,7 @@ notebooks.logistics.instacart.tools
 notebooks.logistics.kamino-test2.instacart.tools
 notebooks.logistics.sandbox.instacart.tools
 pbis.dev.instacart.tools
+plum-market.dev.instacart.tools
 portal.instacart.tools
 preview.ads.dev.instacart.tools
 pumpkin.instacart.tools
@@ -125,6 +130,7 @@ snowplow.dev.instacart.tools
 sproutspbi.dev.instacart.tools
 sproutspbi.pbis-cf-dev.instacart.tools
 sre.instacart.tools
+stewleonards.dev.instacart.tools
 test.pbis-cf-dev.instacart.tools
 test.pbis-cf.dev.instacart.tools
 thefreshmarket-onecart.dev.instacart.tools
@@ -141,5 +147,6 @@ vpn.instacart.tools
 vpne-beta.instacart.tools
 vpne.instacart.tools
 weglegacy.dev.instacart.tools
+wegmanspbi.dev.instacart.tools
 wiki.instacart.tools
 www.instacart.tools

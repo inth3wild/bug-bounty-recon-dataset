@@ -74,6 +74,8 @@ datareport.private.subscription.grammarlyaws.com
 datareport.prod-gdpr-export.grammarlyaws.com
 datareport.qa-gdpr-export.grammarlyaws.com
 datareport.subscription.grammarlyaws.com
+datatasks-misha.proofit.grammarlyaws.com
+datatasks-test.proofit.grammarlyaws.com
 db.atool.proofit.grammarlyaws.com
 db.gitlab.platform.grammarlyaws.com
 db.preprod-proofit.grammarlyaws.com
@@ -105,6 +107,8 @@ experiment-be.qa-experimentation.grammarlyaws.com
 experiment.preprod-experimentation.grammarlyaws.com
 experiment.prod-experimentation.grammarlyaws.com
 experiment.qa-experimentation.grammarlyaws.com
+f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
+f5591295eb.preprod-design-system.grammarlyaws.com
 facade.db.acquisition.grammarlyaws.com
 features.grammarlyaws.com
 finance.grammarlyaws.com
@@ -157,6 +161,7 @@ gramspaces.qa-gramspaces.grammarlyaws.com
 guacamole-dashboard.prod.grammarlyaws.com
 hidden.fridge.prod-fridge.grammarlyaws.com
 hidden.fridge.qa-fridge.grammarlyaws.com
+hidden.sensei.qa-sensei.grammarlyaws.com
 hub.common.grammarlyaws.com
 identity-admin-preprod.auth-prod.grammarlyaws.com
 identity-admin-preprod.preprod-auth.grammarlyaws.com
@@ -189,6 +194,7 @@ metrics-extractor.preprod-experimentation.grammarlyaws.com
 metrics-extractor.prod-experimentation.grammarlyaws.com
 metrics-extractor.qa-experimentation.grammarlyaws.com
 metrics-rest-api.qa-experimentation.grammarlyaws.com
+misha.proofit.grammarlyaws.com
 mobile.db.acquisition.grammarlyaws.com
 narnia-test.it.grammarlyaws.com
 narnia.it.grammarlyaws.com
@@ -451,6 +457,7 @@ qa.platformuniversity.sandbox.grammarlyaws.com
 qa.plaunimklovak.sandbox.grammarlyaws.com
 qa.vox.core-prod.grammarlyaws.com
 qa.wintermute.core-prod.grammarlyaws.com
+qqdtrfbts0.preprod-design-system.grammarlyaws.com
 rabbitmq-discovery.preprod.acquisition.grammarlyaws.com
 rabbitmq-discovery.prod.acquisition.grammarlyaws.com
 rabbitmq-discovery.qa.acquisition.grammarlyaws.com
@@ -522,6 +529,7 @@ tableuqa.sandbox.grammarlyaws.com
 teamcity.common.grammarlyaws.com
 terminator.platform.grammarlyaws.com
 test-san-for-staticwebapp.sandbox.grammarlyaws.com
+test.preprod-design-system.grammarlyaws.com
 tokenism-db-read.acquisition.grammarlyaws.com
 tokenism-db.acquisition.grammarlyaws.com
 travisci.common.grammarlyaws.com
@@ -532,6 +540,7 @@ ui.preprod-proofit.grammarlyaws.com
 ui.qa-proofit.grammarlyaws.com
 update-officeaddin.sandbox.grammarlyaws.com
 user.emails.db.data-warehouse.grammarlyaws.com
+vnhsd43jil.preprod-design-system.grammarlyaws.com
 vox.preprod-vox.grammarlyaws.com
 vox.prod-vox.grammarlyaws.com
 vox.qa-vox.grammarlyaws.com

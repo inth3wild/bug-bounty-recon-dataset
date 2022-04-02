@@ -60,6 +60,10 @@ http://upload.devsf3.bitmex.com
 http://upload.devsf3.bitmex.com:8080
 http://upload.testnet.bitmex.com
 http://upload.testnet.bitmex.com:8080
+http://vasp.devsf3.bitmex.com
+http://vasp.devsf3.bitmex.com:2083
+http://vasp.devsf3.bitmex.com:2087
+http://vasp.devsf3.bitmex.com:8443
 http://watchlist.dev.bitmex.com
 http://watchlist.dev.bitmex.com:8080
 http://www.services.bitmex.com
@@ -124,6 +128,7 @@ https://upload.devsf3.bitmex.com
 https://upload.devsf3.bitmex.com:8443
 https://upload.testnet.bitmex.com
 https://upload.testnet.bitmex.com:8443
+https://vasp.devsf3.bitmex.com
 https://watchlist.dev.bitmex.com
 https://watchlist.dev.bitmex.com:8443
 https://ws.bitmex.com

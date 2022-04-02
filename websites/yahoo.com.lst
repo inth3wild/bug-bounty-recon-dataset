@@ -8,6 +8,12 @@ http://accessibility.yahoo.com
 http://add.my.yahoo.com
 http://adfeedback.beap.adx.yahoo.com
 http://admanagerplus.yahoo.com
+http://admktg.yahoo.com
+http://admktg.yahoo.com:2053
+http://admktg.yahoo.com:2083
+http://admktg.yahoo.com:2087
+http://admktg.yahoo.com:2096
+http://admktg.yahoo.com:8443
 http://ads.amp.commerce.yahoo.com
 http://ads.martech.yahoo.com
 http://ads.yahoo.com
@@ -82,14 +88,19 @@ http://au.gwn7.yahoo.com
 http://au.health.yahoo.com
 http://au.horoscopes.yahoo.com
 http://au.lifestyle.yahoo.com
+http://au.local.yahoo.com
 http://au.movies.yahoo.com
 http://au.pets.yahoo.com
+http://au.pfinance.yahoo.com
 http://au.prime7.yahoo.com
 http://au.recipes.yahoo.com
+http://au.rss.news.yahoo.com
+http://au.rss.sports.yahoo.com
 http://au.solutions.yahoo.com
 http://au.sports.yahoo.com
 http://au.style.yahoo.com
 http://au.travel.yahoo.com
+http://au.tv.m.yahoo.com
 http://au.tv.yahoo.com
 http://au.video.yahoo.com
 http://auctions.yahoo.com
@@ -200,6 +211,7 @@ http://data.voice.yahoo.com
 http://dax-rd.apt.yahoo.com
 http://dd-ext.local.yahoo.com
 http://ddl.fp.yahoo.com
+http://de.jahresrueckblick.yahoo.com
 http://de.style.yahoo.com
 http://de.toolbar.yahoo.com
 http://deals.yahoo.com
@@ -232,6 +244,7 @@ http://dispatcher.yahoo.com
 http://downloads.yahoo.com
 http://e1.ycpi.aeb.yahoo.com
 http://e1.ycpi.cla.yahoo.com
+http://e1.ycpi.cob.yahoo.com
 http://e1.ycpi.ina.yahoo.com
 http://e1.ycpi.inb.yahoo.com
 http://e1.ycpi.mxb.yahoo.com
@@ -742,6 +755,7 @@ http://hk.7-eleven.yahoo.com
 http://hk.admin.deals.yahoo.com
 http://hk.auctions.yahoo.com
 http://hk.batch.auctions.yahoo.com
+http://hk.blog.search.yahoo.com
 http://hk.charity.yahoo.com
 http://hk.deals.yahoo.com
 http://hk.dictionary.search.yahoo.com
@@ -977,6 +991,7 @@ http://pp.edge.nevec.vip.tp2.yahoo.com
 http://pp.edge.nevec.vip.tw1.yahoo.com
 http://pr.comet.yahoo.com
 http://prism.ec.yahoo.com
+http://privacy.yahoo.com
 http://private.comet.vip.bf1.yahoo.com
 http://private.comet.vip.gq1.yahoo.com
 http://private.comet.vip.ne1.yahoo.com
@@ -1033,6 +1048,7 @@ http://sea.advertising.yahoo.com
 http://search.yahoo.com
 http://secure.yahoo.com
 http://secureboot.ops.yahoo.com
+http://security.yahoo.com
 http://sg.feature.yahoo.com
 http://sg.featured.yahoo.com
 http://shine.yahoo.com
@@ -1050,6 +1066,7 @@ http://sports.search.yahoo.com
 http://sports.yahoo.com
 http://src1.yahoo.com
 http://src2.yahoo.com
+http://src3.yahoo.com
 http://src4.yahoo.com
 http://src5.yahoo.com
 http://src6.yahoo.com
@@ -1192,6 +1209,7 @@ http://tw.search.buy.yahoo.com
 http://tw.search.ec.yahoo.com
 http://tw.search.mall.yahoo.com
 http://tw.search.yahoo.com
+http://tw.security.yahoo.com
 http://tw.serviceplus.yahoo.com
 http://tw.shopping.search.yahoo.com
 http://tw.stock.yahoo.com
@@ -1224,6 +1242,7 @@ http://uk.360.yahoo.com
 http://uk.antispam.yahoo.com
 http://uk.local.yahoo.com
 http://uk.mailplus.mail.yahoo.com
+http://uk.makers.yahoo.com
 http://uk.maps.yahoo.com
 http://uk.movies.yahoo.com
 http://uk.mysubscriptions.mail.yahoo.com
@@ -1282,9 +1301,19 @@ http://ws-contacts.mail.yahoo.com
 http://ws-contacts.progrss.yahoo.com
 http://www.ar.yahoo.com
 http://www.be.yahoo.com
+http://www.br.yahoo.com
+http://www.ca.yahoo.com
+http://www.de.yahoo.com
 http://www.en-maktoob.yahoo.com
+http://www.es.yahoo.com
+http://www.espanol.yahoo.com
 http://www.fr-be.yahoo.com
+http://www.fr.yahoo.com
+http://www.gr.yahoo.com
 http://www.groups.yahoo.com
+http://www.hk.yahoo.com
+http://www.id.yahoo.com
+http://www.ie.yahoo.com
 http://www.in.yahoo.com
 http://www.it.yahoo.com
 http://www.legal.yahoo.com
@@ -1298,6 +1327,7 @@ http://www.sg.yahoo.com
 http://www.tw.yahoo.com
 http://www.uk.yahoo.com
 http://www.vn.yahoo.com
+http://www.whoknew.news.yahoo.com
 http://www.yahoo.com
 http://www.za.yahoo.com
 http://xml-nar-dm.ysm.yahoo.com
@@ -1318,6 +1348,7 @@ https://add.my.yahoo.com
 https://adfeedback.beap.adx.yahoo.com
 https://admanagerplus.yahoo.com
 https://admin.amt.yahoo.com
+https://admktg.yahoo.com
 https://ads.amp.commerce.yahoo.com
 https://ads.martech.yahoo.com
 https://ads.yahoo.com
@@ -1406,14 +1437,19 @@ https://au.gwn7.yahoo.com
 https://au.health.yahoo.com
 https://au.horoscopes.yahoo.com
 https://au.lifestyle.yahoo.com
+https://au.local.yahoo.com
 https://au.movies.yahoo.com
 https://au.pets.yahoo.com
+https://au.pfinance.yahoo.com
 https://au.prime7.yahoo.com
 https://au.recipes.yahoo.com
+https://au.rss.news.yahoo.com
+https://au.rss.sports.yahoo.com
 https://au.solutions.yahoo.com
 https://au.sports.yahoo.com
 https://au.style.yahoo.com
 https://au.travel.yahoo.com
+https://au.tv.m.yahoo.com
 https://au.tv.yahoo.com
 https://au.video.yahoo.com
 https://auctions.yahoo.com
@@ -1533,6 +1569,7 @@ https://d.cp.yahoo.com
 https://data.voice.yahoo.com
 https://dax-rd.apt.yahoo.com
 https://ddl.fp.yahoo.com
+https://de.jahresrueckblick.yahoo.com
 https://de.style.yahoo.com
 https://de.toolbar.yahoo.com
 https://deals.yahoo.com
@@ -1580,6 +1617,7 @@ https://dispatcher.yahoo.com
 https://downloads.yahoo.com
 https://e1.ycpi.aeb.yahoo.com
 https://e1.ycpi.cla.yahoo.com
+https://e1.ycpi.cob.yahoo.com
 https://e1.ycpi.ina.yahoo.com
 https://e1.ycpi.inb.yahoo.com
 https://e1.ycpi.mxb.yahoo.com
@@ -2144,6 +2182,7 @@ https://hk.7-eleven.yahoo.com
 https://hk.admin.deals.yahoo.com
 https://hk.auctions.yahoo.com
 https://hk.batch.auctions.yahoo.com
+https://hk.blog.search.yahoo.com
 https://hk.charity.yahoo.com
 https://hk.deals.yahoo.com
 https://hk.dictionary.search.yahoo.com
@@ -2394,6 +2433,7 @@ https://postmaster.yahoo.com
 https://pp.edge.nevec.vip.tp2.yahoo.com
 https://pr.comet.yahoo.com
 https://prism.ec.yahoo.com
+https://privacy.yahoo.com
 https://private.comet.vip.bf1.yahoo.com
 https://private.comet.vip.gq1.yahoo.com
 https://private.comet.vip.ne1.yahoo.com
@@ -2458,6 +2498,7 @@ https://sea.advertising.yahoo.com
 https://search.yahoo.com
 https://secure.yahoo.com
 https://secureboot.ops.yahoo.com
+https://security.yahoo.com
 https://service-dev.idsync.analytics.yahoo.com
 https://sg.feature.yahoo.com
 https://sg.featured.yahoo.com
@@ -2477,6 +2518,7 @@ https://sports.search.yahoo.com
 https://sports.yahoo.com
 https://src1.yahoo.com
 https://src2.yahoo.com
+https://src3.yahoo.com
 https://src4.yahoo.com
 https://src5.yahoo.com
 https://src6.yahoo.com
@@ -2652,6 +2694,7 @@ https://tw.search.buy.yahoo.com
 https://tw.search.ec.yahoo.com
 https://tw.search.mall.yahoo.com
 https://tw.search.yahoo.com
+https://tw.security.yahoo.com
 https://tw.serviceplus.yahoo.com
 https://tw.shopping.search.yahoo.com
 https://tw.stock.yahoo.com
@@ -2688,6 +2731,7 @@ https://uk.360.yahoo.com
 https://uk.antispam.yahoo.com
 https://uk.local.yahoo.com
 https://uk.mailplus.mail.yahoo.com
+https://uk.makers.yahoo.com
 https://uk.maps.yahoo.com
 https://uk.movies.yahoo.com
 https://uk.mysubscriptions.mail.yahoo.com
@@ -2811,9 +2855,19 @@ https://ws-contacts.mail.yahoo.com
 https://ws-contacts.progrss.yahoo.com
 https://www.ar.yahoo.com
 https://www.be.yahoo.com
+https://www.br.yahoo.com
+https://www.ca.yahoo.com
+https://www.de.yahoo.com
 https://www.en-maktoob.yahoo.com
+https://www.es.yahoo.com
+https://www.espanol.yahoo.com
 https://www.fr-be.yahoo.com
+https://www.fr.yahoo.com
+https://www.gr.yahoo.com
 https://www.groups.yahoo.com
+https://www.hk.yahoo.com
+https://www.id.yahoo.com
+https://www.ie.yahoo.com
 https://www.in.yahoo.com
 https://www.it.yahoo.com
 https://www.legal.yahoo.com
@@ -2827,6 +2881,7 @@ https://www.sg.yahoo.com
 https://www.tw.yahoo.com
 https://www.uk.yahoo.com
 https://www.vn.yahoo.com
+https://www.whoknew.news.yahoo.com
 https://www.yahoo.com
 https://www.za.yahoo.com
 https://xml-nar-dm.ysm.yahoo.com

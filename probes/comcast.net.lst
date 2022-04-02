@@ -26,6 +26,7 @@ https://etwiki.sys.comcast.net [302] [GET] [text/html] [] [Apache] [vhost] [Amaz
 https://exlaspc-ch2-a2d.sys.comcast.net [302] [GET] [text/html] [302 Found] [Apache] [Apache] [9ec66673274ef731a6eca08e221df5fc]
 https://haproxystage-hoc-02.sys.comcast.net [404] [GET] [application/json] [] [] [Express,Node.js] [2efae0e06cfdc3eacc743546ff595d74]
 https://ilex-qa.sys.comcast.net [302] [GET] [text/html] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
+https://ilxnodejs-qa.sys.comcast.net [502] [GET] [text/html] [502 Bad Gateway] [nginx] [Nginx] [eac0a6a53d4a4353aace122055b4b4c8]
 https://livecache-read-cvr-aws-eu1.sys.comcast.net [200] [GET] [application/json] [] [] [557f822b3660fe55f0ebe47a585837c4]
 https://livecache-read-qa-cvr-aws-eu1.sys.comcast.net [200] [GET] [application/json] [] [] [d1d5d1e75dce8516c82c976c15c3badd]
 https://mdpapp-wc-b1s.sys.comcast.net [404] [GET] [text/html] [404 Not Found] [nginx/1.20.1] [Nginx] [565c1eae816296eb5a8240c33f015484]

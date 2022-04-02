@@ -47,6 +47,10 @@ http://static.eat.ch
 http://staticaws.eat.ch
 http://subfolder-proxy-deals.eat.ch
 http://subfolder-proxy-foodwiki.eat.ch
+http://subfolder-proxy-foodwiki.eat.ch:2082
+http://subfolder-proxy-foodwiki.eat.ch:2086
+http://subfolder-proxy-foodwiki.eat.ch:8080
+http://subfolder-proxy-foodwiki.eat.ch:8880
 http://subfolder-proxy-lb.eat.ch
 http://subfolder-proxy-partnerblog.eat.ch
 http://subfolder-proxy-signup.eat.ch
@@ -103,6 +107,8 @@ https://shop.eat.ch
 https://static.eat.ch
 https://subfolder-proxy-deals.eat.ch
 https://subfolder-proxy-foodwiki.eat.ch
+https://subfolder-proxy-foodwiki.eat.ch:2083
+https://subfolder-proxy-foodwiki.eat.ch:2087
 https://subfolder-proxy-lb.eat.ch
 https://subfolder-proxy-partnerblog.eat.ch
 https://subfolder-proxy-signup.eat.ch

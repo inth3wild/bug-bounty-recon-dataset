@@ -4,7 +4,6 @@ http://en.help.roblox.com:8443 [400] [GET] [text/html] [400 The plain HTTP reque
 http://ir.roblox.com:8080 [403] [GET] [text/html] [Attention Required! | Cloudflare] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [f9f5af45dfca76bd263fe3d68007840f]
 http://job.roblox.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d59283a828a0eb95d28c234f236650b0]
 http://mail.roblox.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [d7c0962bdde0430e179322fbf04fd2f0]
-http://rjobs.roblox.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [e4c618fdd0885b667f9e52284ee05f05]
 http://staging.wiki.roblox.com:4000 [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [613f79233487af685baf4b32a2397ede]
 http://tgf.roblox.com:8086 [405] [GET] [application/json] [] [] [a11ca69b231c79495aee10fde60cd934]
 https://abtesting.roblox.com [200] [GET] [application/json] [] [] [vhost] [ba518e7bb13f1b9d72a0569a52fc2832]

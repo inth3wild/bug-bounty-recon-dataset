@@ -21,7 +21,7 @@ crproxy.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 data-analysts-tools.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 data-analysts-tools.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-data-analytics-ssl.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+data-analytics-ssl.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-analytics-ssl.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 data-iab-interface.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
 data-iab-interface.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -178,7 +178,7 @@ family-filter.stage-67.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195
 family-filter.stage-68.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 family-filter.stage-69.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 family-filter.stage-70.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
-faq.dailymotion.com AS13335 AS13335 - CLOUDFLARE INC. US 104.16.48.0/20
+faq.dailymotion.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 flex.dailymotion.com AS16509 AS16509 - AMAZON.COM INC. US 15.188.0.0/16
 fr.advertising.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 grafana.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -193,7 +193,7 @@ jira.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 jobs.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 kibana.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
 kibana.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-kibana.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+kibana.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 links.alerts.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 links.notifications.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 marocinmotion.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19

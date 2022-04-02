@@ -64,6 +64,8 @@ http://express-dash.grab.com
 http://express.grab.com
 http://finance.grab.com
 http://food-merchant-help.grab.com
+http://food-merchant-help.grab.com:2083
+http://food-merchant-help.grab.com:2087
 http://food-merchant-help.grab.com:8443
 http://food-partner-api-img.grab.com
 http://food-zeus.grab.com
@@ -196,6 +198,7 @@ http://streetview.grab.com
 http://subscription-media.grab.com
 http://swag.grab.com
 http://sweb.grab.com
+http://tampines.qms.grab.com
 http://taxi.grab.com
 http://techtraining.grab.com
 http://thailand.store.grab.com
@@ -440,6 +443,7 @@ https://subscription-media.grab.com
 https://supernova.ext.grab.com
 https://swag.grab.com
 https://sweb.grab.com
+https://tampines.qms.grab.com
 https://taxi.grab.com
 https://techtraining.grab.com
 https://training-portal.grab.com

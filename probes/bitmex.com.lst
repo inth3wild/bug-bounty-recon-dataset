@@ -90,6 +90,7 @@ https://upload.devsf3.bitmex.com [422] [GET] [text/plain] [] [nginx] [vhost] [Ng
 https://upload.devsf3.bitmex.com:8443 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]
 https://upload.testnet.bitmex.com [422] [GET] [text/plain] [] [nginx] [vhost] [Nginx] [3c25b95fe13a78f72edabe71898bef93]
 https://upload.testnet.bitmex.com:8443 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]
+https://vasp.devsf3.bitmex.com [404] [GET] [text/html] [Error] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Express,Node.js] [9413fb22c165c30177a3ed4aa666e3b4]
 https://watchlist.dev.bitmex.com [400] [GET] [text/plain] [] [nginx] [vhost] [Nginx] [a41b8e2dcb45bbd953efb57897c65051]
 https://watchlist.dev.bitmex.com [400] [GET] [text/plain] [] [nginx] [vhost] [Nginx] [b099dcca77b3b79141f6f3029586d6b4]
 https://watchlist.dev.bitmex.com:8443 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]

@@ -648,6 +648,7 @@ staging-refinery-azkaban-web.data-acq.shopifykloud.com
 staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 staging.notebooks.shopifykloud.com
 starscream-qa.shopify-data-presto-global.shopifykloud.com
+streaming-customer-sessions-staging.flink.shopifykloud.com
 streaming-personalization-staging.flink.shopifykloud.com
 streaming-sales-model-backfill-json.flink.shopifykloud.com
 streaming-sales-model-backfill-json2.flink.shopifykloud.com
@@ -730,6 +731,7 @@ test-saml-oauth.shopifykloud.com
 test-sink-migration.flink.shopifykloud.com
 test-speedboat-azkaban-web.data-acq.shopifykloud.com
 test-speedboat-yarn.data-acq.shopifykloud.com
+test-staging.flink.shopifykloud.com
 test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 test-up-2-azkaban-web.data-acq.shopifykloud.com
 test-up-azkaban-web.data-acq.shopifykloud.com
@@ -795,6 +797,7 @@ web.staging.airflow.shopifykloud.com
 web.staging.arma.k8s-exp.shopifykloud.com
 web.staging.druid.shopifykloud.com
 web.staging.global.druid.shopifykloud.com
+webhooks-demo-staging.flink.shopifykloud.com
 webui-rm1.yarn-adhoc.yarn.shopifykloud.com
 webui-rm1.yarn-chroot.yarn.shopifykloud.com
 webui-rm1.yarn-oauth.yarn.shopifykloud.com

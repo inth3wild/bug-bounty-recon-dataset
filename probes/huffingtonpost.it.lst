@@ -5,7 +5,6 @@ https://horizon.huffingtonpost.it [404] [GET] [text/html] [] [Sailthru] [d41d8cd
 https://huffingtonpost.it [302] [GET] [] [] [Varnish] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://link.huffingtonpost.it [302] [GET] [text/html] [] [Sailthru] [d41d8cd98f00b204e9800998ecf8427e]
 https://m.huffingtonpost.it [301] [GET] [] [] [Varnish] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
-https://origin-video.huffingtonpost.it [200] [GET] [text/html] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://qa.m.huffingtonpost.it [503] [GET] [text/html] [503 Backend unavailable, connection timeout] [Varnish] [vhost] [fastly] [93183315f4f963cad122b3dbe8e904bd]
 https://qa.m.huffingtonpost.it [503] [GET] [text/html] [503 Backend unavailable, connection timeout] [Varnish] [vhost] [fastly] [a6adc26384d1b482d2f76ea0afc3aac8]
 https://qa.www.huffingtonpost.it [503] [GET] [text/html] [503 Backend unavailable, connection timeout] [Varnish] [vhost] [fastly] [72058b7c1388d5d29b6758521d31ef11]

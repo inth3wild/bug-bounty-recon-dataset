@@ -140,9 +140,11 @@ scim.retool-dev.aws.blockfi.com
 scim.retool-prod.aws.blockfi.com
 secure.blockfi.com
 shangchi.blockfi.com
+shield-sandbox.aws.blockfi.com
 shield-staging.aws.blockfi.com
 snorlax.chain-infrastructure-sandbox.aws.blockfi.com
 ss139.shield-sandbox.aws.blockfi.com
+ss235.shield-sandbox.aws.blockfi.com
 ss70.shield-sandbox.aws.blockfi.com
 st.aws.blockfi.com
 st.blockfi.com
@@ -162,6 +164,7 @@ try.blockfi.com
 virtru-cks.blockfi.com
 virtru.blockfi.com
 vis-661.shield-sandbox.aws.blockfi.com
+vis880.shield-sandbox.aws.blockfi.com
 vis930.shield-sandbox.aws.blockfi.com
 vis930test.shield-sandbox.aws.blockfi.com
 vis930test2.shield-sandbox.aws.blockfi.com

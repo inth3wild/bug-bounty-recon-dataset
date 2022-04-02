@@ -1,4 +1,3 @@
-http://cmp.huffingtonpost.fr:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 https://chaski.huffingtonpost.fr [200] [GET] [text/html] [] [nginx/1.19.6] [Express,Nginx,Node.js] [bd86e8d68b21c0ae0e4844872bf6d67e]
 https://cmp.huffingtonpost.fr [404] [GET] [] [] [fasthttp] [Google Cloud,Google Cloud CDN] [d41d8cd98f00b204e9800998ecf8427e]
 https://horizon.huffingtonpost.fr [404] [GET] [text/html] [] [Sailthru] [d41d8cd98f00b204e9800998ecf8427e]

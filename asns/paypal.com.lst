@@ -23,6 +23,8 @@ api.bt-fraud-protection.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.
 api.cardinal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.cxd.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.dialogflow.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.financing-mint.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.141.0/24
+api.financing.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.140.0/24
 api.heroku.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.imagescreening.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.mercadopago.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -173,6 +175,7 @@ api.test48.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.test48.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test49.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test50.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.test53.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.uer.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.venmomsm.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.webhnotifications-perf.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -452,6 +455,7 @@ www.test48.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.test48.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test49.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test50.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.test53.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.uer.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.webhnotifications-perf.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.webhnotifications.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22

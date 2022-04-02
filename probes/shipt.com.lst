@@ -48,6 +48,7 @@ https://gtm-staging.shipt.com [400] [GET] [text/html] [] [Google Frontend] [vhos
 https://help.shipt.com [200] [GET] [text/html] [Get Help With Your Questions About Shipt] [nginx] [vhost] [Bootstrap,Font Awesome,Google Font API,Heroku,Nginx,ZURB Foundation] [6b3b9aded2a991c77988636438407c39]
 https://help.shipt.com [200] [GET] [text/html] [Get Help With Your Questions About Shipt] [nginx] [vhost] [Bootstrap,Font Awesome,Google Font API,Heroku,Nginx,ZURB Foundation] [8f3dd72e1cd4d6b1a2cbac60cd4001e1]
 https://insights.shipt.com [302] [GET] [application/binary] [] [ESF] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://links.shipt.com [303] [GET] [application/octet-stream] [] [openresty] [vhost] [Nginx,OpenResty] [d41d8cd98f00b204e9800998ecf8427e]
 https://mandrill.return-path.shipt.com [302] [GET] [text/html] [] [nginx/1.12.2] [Nginx,PHP] [d41d8cd98f00b204e9800998ecf8427e]
 https://marketingcdn.shipt.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [57958af5e7af196d077640402aea97dc]
 https://marketingcdn.shipt.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [db31fad130806f9079925239ee8344dc]

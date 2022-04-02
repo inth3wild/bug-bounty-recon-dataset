@@ -10584,6 +10584,7 @@ design.telenet.be
 desnelste.telenet.be
 dess.telenet.be
 dev.cloud.telenet.be
+dev.slr.entertainment-tools-dev.awscloud.external.telenet.be
 devtools.inet.telenet.be
 dezonnebloem.telenet.be
 dfc72-1-78-210-181-79.fbx.pros.telenet.be
@@ -11033,6 +11034,7 @@ hpf23e66.telenet.be
 hpf86d71.telenet.be
 hpfa5927.telenet.be
 hpfe0387.telenet.be
+hsmfortanix.lab.corp.telenet.be
 htp.dvp.telenet.be
 htp.edp.telenet.be
 htp.int.telenet.be
@@ -11316,6 +11318,7 @@ lk.84.tatic.telenet.be
 lk.84static.telenet.be
 lkic.telenet.be
 lkwadraat.telenet.be
+local.slr.entertainment-tools-dev.awscloud.external.telenet.be
 localhost.telenet.be
 login-sp.connect.telenet.be
 login-sp.dvp.connect.telenet.be
@@ -11919,8 +11922,13 @@ rel.telenet.be
 remote.bcs.telenet.be
 remote.telenet.be
 remotecertificategeneration.prd.telenet.be
+remotekeygenadaptabletest.prd.telenet.be
 remotekeygenerationadaptable.prd.corp.telenet.be
+remotekeygenerationtest4.telenet.be
+remotekeygenerationtest5.prd.telenet.be
+remotekeygenerationtest7.prd.telenet.be
 remotekeygentest17jan.corp.telenet.be
+remotekeygentest3.prd.telenet.be
 repair.telenet.be
 repairdashboard.inet.telenet.be
 reputation.int.digitalsecurity.telenet.be
@@ -12496,6 +12504,7 @@ vpn.connectuat.telenet.be
 vpn10.cloud.telenet.be
 vpnntd.connect.telenet.be
 vpnssl.connect.telenet.be
+vpnssl.connectuat.telenet.be
 vrienden.telenet.be
 vrnmcevip-4.prd.telenet.be
 vrnmcevip.prd.telenet.be
@@ -12591,6 +12600,7 @@ www.games.telenet.be
 www.helpdesk.telenet.be
 www.int.telenet.be
 www.lat.telenet.be
+www.local.slr.entertainment-tools-dev.awscloud.external.telenet.be
 www.mail.cloud.telenet.be
 www.maut.telenet.be
 www.monitoring.cloud.telenet.be

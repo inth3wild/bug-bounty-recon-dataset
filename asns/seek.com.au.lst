@@ -109,7 +109,7 @@ connected.talentsearch.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.
 cr-metrics-forwarder.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 csp.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 deepmatch-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
-dev.pay.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+dev.pay.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 devportal.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 discover-metrics.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 edge-cloudflare.staging.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

@@ -7,7 +7,7 @@ build-artifacts.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 ci-test.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 ci.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
 client-productivity-service.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-codescene.sc-sean.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+codescene.sc-sean.soundcloud.org AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 codesearch-test.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 codesearch.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 collins.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14

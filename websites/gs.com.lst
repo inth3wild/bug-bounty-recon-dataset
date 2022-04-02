@@ -187,6 +187,7 @@ http://projx.app.clearfactr.gs.com
 http://publishing-qa.gs.com
 http://publishing.gs.com
 http://qa-360.gs.com
+http://qa-login-higher.gs.com
 http://qa-portal.valueaccelerator.gs.com
 http://qa.accounts.gs.com
 http://qa.confluence.devcollab.gs.com
@@ -542,6 +543,7 @@ https://origin-qa.tracking.gs.com
 https://origin.gsam.gs.com
 https://origin.lockbox-qa.gs.com
 https://origin.lockbox.gs.com
+https://origin.lockbox.gs.com:9443
 https://ose-warrant.gs.com
 https://pilot.dsp.gs.com
 https://pilot.global-liquidity.gs.com
@@ -566,6 +568,7 @@ https://publishing-qa.gs.com
 https://publishing.gs.com
 https://qa-360.gs.com
 https://qa-commod-ng-edi.gs.com
+https://qa-login-higher.gs.com
 https://qa-portal.valueaccelerator.gs.com
 https://qa-twilio-ext.gs.com
 https://qa.accounts.gs.com

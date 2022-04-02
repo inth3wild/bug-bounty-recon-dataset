@@ -378,6 +378,7 @@ recs-prod-alb.ue1.d2.tstaging.tools
 s11.tstaging.tools
 s13.tstaging.tools
 spinnaker.ue1.d1.tstaging.tools
+teleport-tag.ue1.d1.tstaging.tools
 teleport.ue1.d1.tstaging.tools
 test-influxext.ue1.cloudhub.tstaging.tools
 test.ue1.staging-data.tstaging.tools

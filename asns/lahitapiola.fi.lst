@@ -165,7 +165,6 @@ vidrec03prod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
 vidrecdev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
 vidrecprod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
 vidrectest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
-vuokra-asunnot.lahitapiola.fi AS202053 AS202053 - UPCLOUD LTD FI 80.69.172.0/22
 vuosiraportti.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
 vuosiraportti2012.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
 vuosiraportti2013.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
