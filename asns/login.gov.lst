@@ -2,7 +2,8 @@ data.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.204.0/22
 developer.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 developers.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 dm.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.202.0.0/15
-gitlab.production.gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+gitlab.production.gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 idp.dm.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
 mta-sts.login.gov AS16509 AS16509 - AMAZON.COM INC. US 13.225.208.0/21
 partners.login.gov AS16509 AS16509 - AMAZON.COM INC. US 13.225.204.0/22

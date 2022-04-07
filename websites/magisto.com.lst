@@ -7,6 +7,8 @@ http://docs.magisto.com
 http://feed.magisto.com
 http://ftp.magisto.com
 http://help.magisto.com
+http://help.magisto.com:2083
+http://help.magisto.com:2087
 http://help.magisto.com:8443
 http://imgmail.magisto.com
 http://ioslgr.magisto.com
@@ -31,6 +33,12 @@ http://vimeo.magisto.com
 http://wtest2.magisto.com
 http://www.magisto.com
 http://youtube.magisto.com
+http://zendesk4.magisto.com
+http://zendesk4.magisto.com:2052
+http://zendesk4.magisto.com:2082
+http://zendesk4.magisto.com:2086
+http://zendesk4.magisto.com:8080
+http://zendesk4.magisto.com:8880
 https://ablink.videofy.magisto.com
 https://api.magisto.com
 https://blog.magisto.com
@@ -62,3 +70,8 @@ https://vimeo.magisto.com
 https://wtest2.magisto.com
 https://www.magisto.com
 https://youtube.magisto.com
+https://zendesk4.magisto.com
+https://zendesk4.magisto.com:2053
+https://zendesk4.magisto.com:2083
+https://zendesk4.magisto.com:2087
+https://zendesk4.magisto.com:8443

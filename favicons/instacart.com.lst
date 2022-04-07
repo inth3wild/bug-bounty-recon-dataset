@@ -3,6 +3,10 @@
 -903707947	instacart	http://albertsons.instacart.com:80/
 -903707947	instacart	http://albertsonsmarketstreet.instacart.com:80/
 -903707947	instacart	http://aldi.instacart.com:80/
+-903707947	instacart	http://aldi.postcheckout-cf.instacart.com/
+-903707947	instacart	http://aldi.postcheckout-cf.instacart.com:2082/
+-903707947	instacart	http://aldi.postcheckout-cf.instacart.com:8080/
+-903707947	instacart	http://aldi.postcheckout-cf.instacart.com:8880/
 -903707947	instacart	http://api.instacart.com:80/
 -903707947	instacart	http://assets.ads.ads.instacart.com:80/
 -903707947	instacart	http://balduccis.instacart.com:80/
@@ -142,6 +146,7 @@
 -903707947	instacart	https://albertsons.instacart.com:443/
 -903707947	instacart	https://albertsonsmarketstreet.instacart.com:443/
 -903707947	instacart	https://aldi.instacart.com:443/
+-903707947	instacart	https://aldi.postcheckout-cf.instacart.com/
 -903707947	instacart	https://api.instacart.com:443/
 -903707947	instacart	https://assets.ads.ads.instacart.com:443/
 -903707947	instacart	https://balduccis.instacart.com:443/
@@ -297,6 +302,10 @@
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://albertsons.instacart.com:80/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://albertsonsmarketstreet.instacart.com:80/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://aldi.instacart.com:80/
+66fb14c8d3fbf1e749b5121f9730a885	instacart	http://aldi.postcheckout-cf.instacart.com/
+66fb14c8d3fbf1e749b5121f9730a885	instacart	http://aldi.postcheckout-cf.instacart.com:2082/
+66fb14c8d3fbf1e749b5121f9730a885	instacart	http://aldi.postcheckout-cf.instacart.com:8080/
+66fb14c8d3fbf1e749b5121f9730a885	instacart	http://aldi.postcheckout-cf.instacart.com:8880/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://api.instacart.com:80/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://assets.ads.ads.instacart.com:80/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	http://balduccis.instacart.com:80/
@@ -433,6 +442,7 @@
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://albertsons.instacart.com:443/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://albertsonsmarketstreet.instacart.com:443/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://aldi.instacart.com:443/
+66fb14c8d3fbf1e749b5121f9730a885	instacart	https://aldi.postcheckout-cf.instacart.com/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://api.instacart.com:443/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://assets.ads.ads.instacart.com:443/
 66fb14c8d3fbf1e749b5121f9730a885	instacart	https://balduccis.instacart.com:443/

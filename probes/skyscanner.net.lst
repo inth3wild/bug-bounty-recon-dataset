@@ -93,7 +93,6 @@ https://ww.skyscanner.net [301] [GET] [text/html] [301 Moved Permanently] [Apach
 https://www.business.skyscanner.net [301] [GET] [text/html] [301 Moved Permanently] [Apache/2.4.52 () OpenSSL/1.0.2k-fips] [Apache,OpenSSL] [0a0de795ca95f9c03ef9ad545c74f6b9]
 https://www.en.business.skyscanner.net [301] [GET] [] [] [Squarespace] [vhost] [Squarespace,Squarespace Commerce] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.forum.skyscanner.net [301] [GET] [text/html] [301 Moved Permanently] [Apache/2.4.52 () OpenSSL/1.0.2k-fips] [vhost] [Apache,OpenSSL] [0a0de795ca95f9c03ef9ad545c74f6b9]
-https://www.futuretech.skyscanner.net [401] [GET] [text/html] [Private Site] [Squarespace] [vhost] [Squarespace,Squarespace Commerce] [95cf654f69d09949772f9d198853d479]
 https://www.mailer.skyscanner.net [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://www.partners.skyscanner.net [200] [GET] [text/html] [Skyscanner Partners | Solutions for Your Business] [cloudflare] [vhost] [Cloudflare Network Error Logging,HubSpot,HubSpot CMS Hub] [c158d64f5a1b29c16995e7be1051d588]
 https://www.partners.skyscanner.net:8443 [200] [GET] [text/html] [Skyscanner Partners | Solutions for Your Business] [cloudflare] [vhost] [Cloudflare Network Error Logging,HubSpot,HubSpot CMS Hub] [c158d64f5a1b29c16995e7be1051d588]

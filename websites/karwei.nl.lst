@@ -2,6 +2,7 @@ http://api.acc.karwei.nl
 http://api.acceptatie.karwei.nl
 http://api.karwei.nl
 http://api.maakafspraak.karwei.nl
+http://audiotour.karwei.nl
 http://blog.karwei.nl
 http://cdn.email.karwei.nl
 http://chatapp.karwei.nl
@@ -42,12 +43,14 @@ http://static-acceptatie.karwei.nl
 http://static.karwei.nl
 http://winactie.karwei.nl
 http://www.acceptatie.karwei.nl
+http://www.audiotour.karwei.nl
 http://www.dev.karwei.nl
 http://www.karwei.nl
 https://api.acc.karwei.nl
 https://api.acceptatie.karwei.nl
 https://api.karwei.nl
 https://api.maakafspraak.karwei.nl
+https://audiotour.karwei.nl
 https://blog.karwei.nl
 https://cdn.email.karwei.nl
 https://chatapp.karwei.nl
@@ -88,5 +91,6 @@ https://static-acceptatie.karwei.nl
 https://static.karwei.nl
 https://winactie.karwei.nl
 https://www.acceptatie.karwei.nl
+https://www.audiotour.karwei.nl
 https://www.dev.karwei.nl
 https://www.karwei.nl

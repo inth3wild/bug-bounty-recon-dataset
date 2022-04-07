@@ -34,6 +34,7 @@
 0	zero byte favicon	http://us-west.jill.fc.yahoo.com/
 0	zero byte favicon	https://ap-southeast.jill.fc.yahoo.com/
 0	zero byte favicon	https://d.cp.yahoo.com/
+0	zero byte favicon	https://dev-ups.analytics.yahoo.com/
 0	zero byte favicon	https://eu-central.jill.fc.yahoo.com/
 0	zero byte favicon	https://origin.dispatcher.yahoo.com/
 0	zero byte favicon	https://origin.qa.dispatcher.yahoo.com/
@@ -258,6 +259,7 @@
 1523284537	yahoo	http://sandbox-api.admanager.yahoo.com/
 1523284537	yahoo	http://sandbox-api.gemini.yahoo.com/
 1523284537	yahoo	http://sandbox.datax.yahoo.com/
+1523284537	yahoo	http://sandbox.dataxonline.yahoo.com/
 1523284537	yahoo	http://sandbox.userloc.location.yahoo.com/
 1523284537	yahoo	http://sdk.amp.commerce.yahoo.com/
 1523284537	yahoo	http://sea.advertising.yahoo.com/
@@ -350,6 +352,7 @@
 1523284537	yahoo	http://vega.commerce.yahoo.com/
 1523284537	yahoo	http://vendor-beta.g11n.yahoo.com/
 1523284537	yahoo	http://vendor.g11n.yahoo.com/
+1523284537	yahoo	http://video-api.yql.yahoo.com/
 1523284537	yahoo	http://video.media.yql.yahoo.com/
 1523284537	yahoo	http://voice.yahoo.com/
 1523284537	yahoo	http://webscope.sandbox.yahoo.com/
@@ -562,6 +565,7 @@
 1523284537	yahoo	https://sandbox-api.admanager.yahoo.com/
 1523284537	yahoo	https://sandbox-api.gemini.yahoo.com/
 1523284537	yahoo	https://sandbox.datax.yahoo.com/
+1523284537	yahoo	https://sandbox.dataxonline.yahoo.com/
 1523284537	yahoo	https://sdk.amp.commerce.yahoo.com/
 1523284537	yahoo	https://sea.advertising.yahoo.com/
 1523284537	yahoo	https://search.yahoo.com/
@@ -651,6 +655,7 @@
 1523284537	yahoo	https://vega.commerce.yahoo.com/
 1523284537	yahoo	https://vendor-beta.g11n.yahoo.com/
 1523284537	yahoo	https://vendor.g11n.yahoo.com/
+1523284537	yahoo	https://video-api.yql.yahoo.com/
 1523284537	yahoo	https://video.media.yql.yahoo.com/
 1523284537	yahoo	https://voice.yahoo.com/
 1523284537	yahoo	https://webscope.sandbox.yahoo.com/
@@ -672,6 +677,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://us-east.jill.fc.yahoo.
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://us-west.jill.fc.yahoo.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ap-southeast.jill.fc.yahoo.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://d.cp.yahoo.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://dev-ups.analytics.yahoo.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://eu-central.jill.fc.yahoo.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://origin.dispatcher.yahoo.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://origin.qa.dispatcher.yahoo.com/
@@ -897,6 +903,7 @@ d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://safely.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sandbox-api.admanager.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sandbox-api.gemini.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sandbox.datax.yahoo.com/
+d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sandbox.dataxonline.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sandbox.userloc.location.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sdk.amp.commerce.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://sea.advertising.yahoo.com/
@@ -989,6 +996,7 @@ d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://us.csc.adserver.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://vega.commerce.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://vendor-beta.g11n.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://vendor.g11n.yahoo.com/
+d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://video-api.yql.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://video.media.yql.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://voice.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	http://webscope.sandbox.yahoo.com/
@@ -1203,6 +1211,7 @@ d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://safely.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sandbox-api.admanager.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sandbox-api.gemini.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sandbox.datax.yahoo.com/
+d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sandbox.dataxonline.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sdk.amp.commerce.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://sea.advertising.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://search.yahoo.com/
@@ -1292,6 +1301,7 @@ d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://us.csc.adserver.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://vega.commerce.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://vendor-beta.g11n.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://vendor.g11n.yahoo.com/
+d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://video-api.yql.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://video.media.yql.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://voice.yahoo.com/
 d76545e7b993723fb0c1d4b6eed1f5be	yahoo	https://webscope.sandbox.yahoo.com/

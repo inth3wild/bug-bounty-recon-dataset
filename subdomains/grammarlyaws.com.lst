@@ -74,7 +74,11 @@ datareport.private.subscription.grammarlyaws.com
 datareport.prod-gdpr-export.grammarlyaws.com
 datareport.qa-gdpr-export.grammarlyaws.com
 datareport.subscription.grammarlyaws.com
+datatasks--test.proofit.grammarlyaws.com
+datatasks-kos.proofit.grammarlyaws.com
+datatasks-luke.proofit.grammarlyaws.com
 datatasks-misha.proofit.grammarlyaws.com
+datatasks-parallel.proofit.grammarlyaws.com
 datatasks-test.proofit.grammarlyaws.com
 db.atool.proofit.grammarlyaws.com
 db.gitlab.platform.grammarlyaws.com
@@ -185,6 +189,7 @@ kutran-test-vpc-private-endpoint.sandbox.grammarlyaws.com
 lemma-lb.prod-lemma.grammarlyaws.com
 lumpkin.db.subscription.grammarlyaws.com
 lumpkin.subscription.grammarlyaws.com
+main.preprod-design-system.grammarlyaws.com
 master.prod-funnel.acquisition.grammarlyaws.com
 medoc.finance.grammarlyaws.com
 mercury.preprod-mercury.grammarlyaws.com
@@ -479,6 +484,7 @@ reader.prod-reader.grammarlyaws.com
 reader.qa-reader.grammarlyaws.com
 redis.auth-prod.grammarlyaws.com
 redshift.qa-data-warehouse.grammarlyaws.com
+renovate-all-gr-bazel-baz.preprod-design-system.grammarlyaws.com
 replicas.data-warehouse.grammarlyaws.com
 roman-test.sandbox.grammarlyaws.com
 rtmp.zoommarly.core-prod.grammarlyaws.com

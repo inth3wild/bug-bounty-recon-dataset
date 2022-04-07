@@ -1,5 +1,4 @@
 http://sellzone.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://static.sellzone.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 https://lp.sellzone.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [0a37ca16df0be266931ad637193337f2]
 https://sellzone.com [545] [GET] [text/html] [Just a moment] [] [Google Cloud,Google Cloud CDN] [7b5580d8cad1364a13f98a5e191f80ec]
 https://sellzone.com [545] [GET] [text/html] [Just a moment] [] [Google Cloud,Google Cloud CDN] [a255e37d23563dce92374a5b4978dd56]

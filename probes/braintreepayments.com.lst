@@ -44,6 +44,8 @@ https://demo.braintreepayments.com [301] [GET] [] [] [] [vhost] [cloudfront] [Am
 https://developer.braintreepayments.com [302] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://developers.braintreepayments.com [302] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://forwarding.qa.braintreepayments.com [200] [GET] [text/html] [Braintree Forward API] [nginx] [Nginx] [f288fd721d25640e6596441cbea78f34]
+https://funding.braintreepayments.com [406] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
+https://funding.braintreepayments.com:8443 [406] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://funding.qa2.braintreepayments.com [406] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://funding.qa2.braintreepayments.com:8443 [406] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://gateway.qa.braintreepayments.com [302] [GET] [text/html] [] [] [0a5f3b0be4a5009bfb2223ae805f5d8c]

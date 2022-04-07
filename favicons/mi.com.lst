@@ -20,6 +20,7 @@
 0	zero byte favicon	http://hk.mibi.mi.com/
 0	zero byte favicon	http://jr.mi.com/
 0	zero byte favicon	http://m.hk.mibi.mi.com/
+0	zero byte favicon	http://m.jr.mi.com/
 0	zero byte favicon	http://notify.insurance.jr.mi.com/
 0	zero byte favicon	http://staging.open.scf.mi.com/
 0	zero byte favicon	http://testing-hksdk.mgp.mi.com/
@@ -32,7 +33,9 @@
 0	zero byte favicon	https://hk.mibi.mi.com/
 0	zero byte favicon	https://jr.mi.com/
 0	zero byte favicon	https://m.hk.mibi.mi.com/
+0	zero byte favicon	https://m.jr.mi.com/
 0	zero byte favicon	https://notify.insurance.jr.mi.com/
+0	zero byte favicon	https://preview.api.miot.10046.mi.com/
 0	zero byte favicon	https://staging.open.scf.mi.com/
 0	zero byte favicon	https://testing-hksdk.mgp.mi.com/
 0	zero byte favicon	https://upload.dev.mi.com/
@@ -69,6 +72,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://carwith.link.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hk.mibi.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://jr.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.hk.mibi.mi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.jr.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://notify.insurance.jr.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging.open.scf.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://testing-hksdk.mgp.mi.com/
@@ -81,7 +85,9 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://carwith.link.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hk.mibi.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://jr.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.hk.mibi.mi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.jr.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://notify.insurance.jr.mi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://preview.api.miot.10046.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://staging.open.scf.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://testing-hksdk.mgp.mi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://upgrade.miglass.mi.com/

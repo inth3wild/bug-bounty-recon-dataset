@@ -28,6 +28,7 @@ http://api.cloudstation.us-west-2.dev3.hydra.sophos.com
 http://api.cloudstation.us-west-2.qa.hydra.sophos.com
 http://api.dev.hydra.sophos.com
 http://api.dev3.hydra.sophos.com
+http://api.hub.us-west-2.hub010pdx.ctr.sophos.com
 http://api.inf.hydra.sophos.com
 http://api.labs.sophos.com
 http://api.qa.hydra.sophos.com
@@ -52,6 +53,7 @@ http://app-wl-telem-cloudstation-us-east-2.qa.hydra.sophos.com
 http://app-wl-telem-cloudstation-us-west-2.dev3.hydra.sophos.com
 http://app-wl-telem-cloudstation-us-west-2.prod.hydra.sophos.com
 http://app-wl-telem-cloudstation-us-west-2.qa.hydra.sophos.com
+http://app.dev.factory.sophos.com
 http://app.go.sophos.com
 http://assets.sophos.com
 http://atp.feedback.sophos.com
@@ -260,6 +262,7 @@ http://public-rca.stn000cmh.ctr.sophos.com
 http://public-rca.stn010pdx.ctr.sophos.com
 http://public-rca.stn010yul.ctr.sophos.com
 http://public-rca.stn030bom.ctr.sophos.com
+http://public-rca.stn030gru.ctr.sophos.com
 http://public-rca.stn030syd.ctr.sophos.com
 http://public-rca.stn100hnd.ctr.sophos.com
 http://public-rca.stn100syd.ctr.sophos.com
@@ -279,6 +282,7 @@ http://rca-upload.stn000cmh.ctr.sophos.com
 http://rca-upload.stn010pdx.ctr.sophos.com
 http://rca-upload.stn010yul.ctr.sophos.com
 http://rca-upload.stn030bom.ctr.sophos.com
+http://rca-upload.stn030gru.ctr.sophos.com
 http://rca-upload.stn030syd.ctr.sophos.com
 http://rca-upload.stn030yul.ctr.sophos.com
 http://rca-upload.stn100syd.ctr.sophos.com
@@ -308,7 +312,12 @@ http://sftelemetry.sophos.com
 http://sg1.utmu2d.sophos.com
 http://sgnlic.sophos.com
 http://shop.sophos.com
+http://shop.sophos.com:2052
+http://shop.sophos.com:2082
+http://shop.sophos.com:2086
+http://shop.sophos.com:2095
 http://shop.sophos.com:8080
+http://shop.sophos.com:8880
 http://slapui.analysis.sophos.com
 http://slapui.test.analysis.sophos.com
 http://smc-cloudstation-us-west-2.dev3.hydra.sophos.com
@@ -430,6 +439,7 @@ https://2hwh5zd6.stn100yul.ctr.sophos.com
 https://2kahadp1.cloudstation.us-east-2.prod.hydra.sophos.com
 https://2m4s1pz4.cloudstation.eu-central-1.prod.hydra.sophos.com
 https://2ng4eajx.cloudstation.us-east-2.prod.hydra.sophos.com
+https://2sv49qv1.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://2t0qqbt1.cloudstation.us-east-2.prod.hydra.sophos.com
 https://2tz3j49o.cloudhub.eu-west-1.qa.hydra.sophos.com
 https://2wq20pn0.cloudstation.eu-central-1.prod.hydra.sophos.com
@@ -441,6 +451,7 @@ https://3qll5np7.stn030syd.ctr.sophos.com
 https://3sa37clh.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://3u2wweeb.cloudstation.eu-west-1.prod.hydra.sophos.com
 https://3w8i3nyn.cloudstation.us-west-2.qa.hydra.sophos.com
+https://3xh35l9k.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://437fys2n.stn030hnd.ctr.sophos.com
 https://4cj2z8xw.cloudhub.eu-west-1.dev3.hydra.sophos.com
 https://4cu701dc.cloudstation.eu-central-1.prod.hydra.sophos.com
@@ -454,6 +465,7 @@ https://4ytzp4hq.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://5ds38v1j.cloudstation.eu-central-1.prod.hydra.sophos.com
 https://5f58n4tb.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://5jm39zjq.cloudstation.us-west-2.qa.hydra.sophos.com
+https://5t7y7sym.cloudstation.eu-central-1.qa.hydra.sophos.com
 https://5ukfbw94.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://5w6hx3zm.us-west-2.qa.o365.sophos.com
 https://5yammrdd.stn100syd.ctr.sophos.com
@@ -520,6 +532,7 @@ https://accounts.home-qa.sophos.com
 https://accounts.home.sophos.com
 https://aci3utz1.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://ad9351ca-7fab-3ad4-bdf9-66b0bc4079da-wdx-7fab.broker.sophos.com
+https://afswnndy.stn100hnd.ctr.sophos.com
 https://agent-api.dev.factory.sophos.com
 https://ai.sophos.com
 https://airgap.u2d.sophos.com
@@ -598,6 +611,7 @@ https://api.dev3.hydra.sophos.com
 https://api.eu-central-1.prod.o365.sophos.com
 https://api.eu-west-1.dev.o365.sophos.com
 https://api.eu-west-1.prod.o365.sophos.com
+https://api.hub.us-west-2.hub010pdx.ctr.sophos.com
 https://api.inf.central.sophos.com
 https://api.inf.hydra.sophos.com
 https://api.labs.sophos.com
@@ -660,13 +674,16 @@ https://app-wl-telem-cloudstation-us-east-2.qa.hydra.sophos.com
 https://app-wl-telem-cloudstation-us-west-2.dev3.hydra.sophos.com
 https://app-wl-telem-cloudstation-us-west-2.prod.hydra.sophos.com
 https://app-wl-telem-cloudstation-us-west-2.qa.hydra.sophos.com
+https://app.dev.factory.sophos.com
 https://app.go.sophos.com
+https://asproxy.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://assets.sophos.com
 https://atp.feedback.sophos.com
 https://atr-report-alt.stn010yul.ctr.sophos.com
 https://atr-report-alt.stn030bom.ctr.sophos.com
 https://atr-report-alt.stn030hnd.ctr.sophos.com
 https://atr-report-alt.stn030syd.ctr.sophos.com
+https://atr-report-alt.stn100hnd.ctr.sophos.com
 https://atr-report-alt.stn100yul.ctr.sophos.com
 https://atr-report-cloudstation-eu-central-1.prod.hydra.sophos.com
 https://atr-report-cloudstation-eu-central-1.qa.hydra.sophos.com
@@ -686,6 +703,7 @@ https://atr-report.stn010yul.ctr.sophos.com
 https://atr-report.stn030bom.ctr.sophos.com
 https://atr-report.stn030hnd.ctr.sophos.com
 https://atr-report.stn030syd.ctr.sophos.com
+https://atr-report.stn100hnd.ctr.sophos.com
 https://atr-report.stn100yul.ctr.sophos.com
 https://auth.support.red.sophos.com
 https://avefstp3.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -755,7 +773,9 @@ https://cloud-assets.sophos.com
 https://cloud.sophos.com
 https://club.sophos.com
 https://cmd-res-aggregator-cloudhub-eu-west-1.dev.hydra.sophos.com
+https://cmd-res-aggregator-cloudstation-eu-west-1.dev.hydra.sophos.com
 https://cmd-res-aggregator.cloudhub.eu-west-1.dev.hydra.sophos.com
+https://cmd-res-aggregator.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://cnf-config-cloudstation-eu-central-1.qa.hydra.sophos.com
 https://cnf-config-cloudstation-us-west-2.qa.hydra.sophos.com
 https://cnf-config.cloudstation.eu-central-1.qa.hydra.sophos.com
@@ -987,6 +1007,7 @@ https://dzr-wifi-amzn-us-west-2-abba.upe.d3.hmr.sophos.com
 https://dzr-wifi-amzn-us-west-2-fa88.upe.p.hmr.sophos.com
 https://e5bx3rfc.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://eeh8ifk8.stn010yul.ctr.sophos.com
+https://efx1oheb.stn030gru.ctr.sophos.com
 https://ege7fijg.cloudstation.us-east-2.prod.hydra.sophos.com
 https://el3tquyg.cloudhub.eu-west-1.qa.hydra.sophos.com
 https://emeasip.sophos.com
@@ -1173,6 +1194,7 @@ https://ideas.sophos.com
 https://ilnx7sxu.cloudstation.eu-west-1.prod.hydra.sophos.com
 https://images.go.sophos.com
 https://imjv76wi.cloudstation.eu-central-1.qa.hydra.sophos.com
+https://inb9psbe.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://inf.hmr.sophos.com
 https://informatica-adapter-cloudhub-eu-west-1.dev.hydra.sophos.com
 https://informatica-adapter-cloudhub-eu-west-1.qa.hydra.sophos.com
@@ -1234,14 +1256,18 @@ https://license-report-alt.stn030syd.ctr.sophos.com
 https://license-report-alt.stn100syd.ctr.sophos.com
 https://license-report-alt.stn100yul.ctr.sophos.com
 https://license-report-cloudstation-eu-central-1.prod.hydra.sophos.com
+https://license-report-cloudstation-eu-central-1.qa.hydra.sophos.com
 https://license-report-cloudstation-eu-west-1.dev.hydra.sophos.com
 https://license-report-cloudstation-eu-west-1.prod.hydra.sophos.com
 https://license-report-cloudstation-us-east-2.prod.hydra.sophos.com
 https://license-report-cloudstation-us-west-2.prod.hydra.sophos.com
+https://license-report-cloudstation-us-west-2.qa.hydra.sophos.com
 https://license-report.cloudstation.eu-central-1.prod.hydra.sophos.com
+https://license-report.cloudstation.eu-central-1.qa.hydra.sophos.com
 https://license-report.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://license-report.cloudstation.eu-west-1.prod.hydra.sophos.com
 https://license-report.cloudstation.us-west-2.prod.hydra.sophos.com
+https://license-report.cloudstation.us-west-2.qa.hydra.sophos.com
 https://license-report.stn030syd.ctr.sophos.com
 https://license-report.stn100syd.ctr.sophos.com
 https://license-report.stn100yul.ctr.sophos.com
@@ -1431,6 +1457,7 @@ https://optix.sophos.com
 https://orwhnmd2.cloudstation.us-west-2.qa.hydra.sophos.com
 https://outsidemail.sophos.com
 https://owncloud.sophos.com
+https://oy028dm8.stn030gru.ctr.sophos.com
 https://oz8hwzy9.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://p0.d.hmr.sophos.com
 https://p0.d3.hmr.sophos.com
@@ -1512,10 +1539,12 @@ https://pmx-static.sophos.com
 https://pmx.sophos.com
 https://poc-gatekeeper.inf.hydra.sophos.com
 https://podcasts.sophos.com
+https://pordes3c.stn100hnd.ctr.sophos.com
 https://post-quarantine-alt.stn000cmh.ctr.sophos.com
 https://post-quarantine-alt.stn010yul.ctr.sophos.com
 https://post-quarantine-alt.stn030hnd.ctr.sophos.com
 https://post-quarantine-alt.stn030syd.ctr.sophos.com
+https://post-quarantine-alt.stn100hnd.ctr.sophos.com
 https://post-quarantine-alt.stn100syd.ctr.sophos.com
 https://post-quarantine-alt.stn100yul.ctr.sophos.com
 https://post-quarantine-cloudstation-eu-central-1.prod.hydra.sophos.com
@@ -1533,6 +1562,7 @@ https://post-quarantine.stn000cmh.ctr.sophos.com
 https://post-quarantine.stn010yul.ctr.sophos.com
 https://post-quarantine.stn030hnd.ctr.sophos.com
 https://post-quarantine.stn030syd.ctr.sophos.com
+https://post-quarantine.stn100hnd.ctr.sophos.com
 https://post-quarantine.stn100syd.ctr.sophos.com
 https://post-quarantine.stn100yul.ctr.sophos.com
 https://ppw84zkk.stn100hnd.ctr.sophos.com
@@ -1577,6 +1607,7 @@ https://public-rca.stn000cmh.ctr.sophos.com
 https://public-rca.stn010pdx.ctr.sophos.com
 https://public-rca.stn010yul.ctr.sophos.com
 https://public-rca.stn030bom.ctr.sophos.com
+https://public-rca.stn030gru.ctr.sophos.com
 https://public-rca.stn030syd.ctr.sophos.com
 https://public-rca.stn100hnd.ctr.sophos.com
 https://public-rca.stn100syd.ctr.sophos.com
@@ -1615,6 +1646,7 @@ https://rca-upload.stn000cmh.ctr.sophos.com
 https://rca-upload.stn010pdx.ctr.sophos.com
 https://rca-upload.stn010yul.ctr.sophos.com
 https://rca-upload.stn030bom.ctr.sophos.com
+https://rca-upload.stn030gru.ctr.sophos.com
 https://rca-upload.stn030syd.ctr.sophos.com
 https://rca-upload.stn030yul.ctr.sophos.com
 https://rca-upload.stn100syd.ctr.sophos.com
@@ -1622,6 +1654,7 @@ https://rdccl6ch.cloudstation.us-west-2.prod.hydra.sophos.com
 https://renewals.sophos.com
 https://report-scheduler-alt.stn010yul.ctr.sophos.com
 https://report-scheduler-alt.stn030bom.ctr.sophos.com
+https://report-scheduler-alt.stn030gru.ctr.sophos.com
 https://report-scheduler-alt.stn030syd.ctr.sophos.com
 https://report-scheduler-alt.stn100bom.ctr.sophos.com
 https://report-scheduler-alt.stn100syd.ctr.sophos.com
@@ -1642,6 +1675,7 @@ https://report-scheduler.cloudstation.us-west-2.prod.hydra.sophos.com
 https://report-scheduler.cloudstation.us-west-2.qa.hydra.sophos.com
 https://report-scheduler.stn010yul.ctr.sophos.com
 https://report-scheduler.stn030bom.ctr.sophos.com
+https://report-scheduler.stn030gru.ctr.sophos.com
 https://report-scheduler.stn030syd.ctr.sophos.com
 https://report-scheduler.stn100bom.ctr.sophos.com
 https://report-scheduler.stn100syd.ctr.sophos.com
@@ -1652,6 +1686,7 @@ https://rest-staging-3.id.sophos.com
 https://rest.sofa.labs.sophos.com
 https://rm47cbgu.cloudstation.eu-central-1.prod.hydra.sophos.com
 https://rna.labs.sophos.com
+https://rps3yb4e.cloudstation.us-west-2.qa.hydra.sophos.com
 https://rs76bhyy.stn100bom.ctr.sophos.com
 https://rsb9jks6.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://rso2jlqp.cloudstation.eu-west-1.prod.hydra.sophos.com
@@ -1710,6 +1745,10 @@ https://sftelemetry.sophos.com
 https://sg1.utmu2d.sophos.com
 https://sgnlic.sophos.com
 https://shop.sophos.com
+https://shop.sophos.com:2053
+https://shop.sophos.com:2083
+https://shop.sophos.com:2087
+https://shop.sophos.com:2096
 https://shop.sophos.com:8443
 https://sip.sophos.com
 https://sl195w9s.stn100hnd.ctr.sophos.com
@@ -1858,6 +1897,7 @@ https://toc-reporting.stn100hnd.ctr.sophos.com
 https://toc-reporting.stn100syd.ctr.sophos.com
 https://toc-reporting.stn100yul.ctr.sophos.com
 https://topic-manager-alt.stn030bom.ctr.sophos.com
+https://topic-manager-alt.stn030gru.ctr.sophos.com
 https://topic-manager-alt.stn030syd.ctr.sophos.com
 https://topic-manager-alt.stn030yul.ctr.sophos.com
 https://topic-manager-alt.stn100bom.ctr.sophos.com
@@ -1877,6 +1917,7 @@ https://topic-manager.cloudstation.us-east-2.prod.hydra.sophos.com
 https://topic-manager.cloudstation.us-west-2.prod.hydra.sophos.com
 https://topic-manager.cloudstation.us-west-2.qa.hydra.sophos.com
 https://topic-manager.stn030bom.ctr.sophos.com
+https://topic-manager.stn030gru.ctr.sophos.com
 https://topic-manager.stn030syd.ctr.sophos.com
 https://topic-manager.stn030yul.ctr.sophos.com
 https://topic-manager.stn100bom.ctr.sophos.com

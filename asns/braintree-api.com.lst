@@ -1,6 +1,7 @@
 arbiter-kubernetes-prod-us-west-2.production.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
 arbiter-kubernetes-sand-us-west-2.sandbox.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 44.224.0.0/11
 bazaar-prod-us-west-2.production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+bazaar-sand-us-west-2.sandbox.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 falcon-dev-ap-southeast-2.dev.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 13.54.0.0/15
 falcon-dev-us-east-2.dev.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 3.131.0.0/16
 falcon-dev-us-west-2.dev.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14

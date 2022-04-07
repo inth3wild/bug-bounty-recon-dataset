@@ -1,3 +1,6 @@
+apmv3.go.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
+ercot-gambit-eng.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+ercot-gambit-prd.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 label-docs.ap.tesla.services AS16509 AS16509 - AMAZON.COM INC. US 13.225.64.0/21
 national-grid-contego-eng.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 national-grid-contego-prd.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15

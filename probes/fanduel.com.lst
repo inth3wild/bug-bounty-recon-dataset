@@ -3,7 +3,6 @@ http://draft.fanduel.com [200] [GET] [text/html] [Expired DNS Hosting Services |
 http://racing-qa.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://racing-staging.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://racing.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://rgs.ct.casino.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://rgs.mi.casino.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://rgs.wv.casino.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://service.racing-qa.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]

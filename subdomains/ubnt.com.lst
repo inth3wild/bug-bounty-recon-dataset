@@ -283,6 +283,7 @@ rf1.ubnt.com
 rf2.ubnt.com
 riga.corp.ubnt.com
 rix-hive.corp.ubnt.com
+rix-nest.corp.ubnt.com
 rma.ubnt.com
 rollout.ubnt.com
 sc.ext.ubnt.com
@@ -369,6 +370,7 @@ suspendportal-proxy-stage.ec2-us-east-1.us1.svc.ubnt.com
 svc-dev.ubnt.com
 svc.ubnt.com
 switch.ubnt.com
+talkbuilder.corp.ubnt.com
 test-cloud.ubnt.com
 test.ubnt.com
 testing-demo.ubnt.com

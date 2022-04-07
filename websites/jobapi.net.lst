@@ -5,6 +5,7 @@ http://ingestion.jobapi.net
 http://ingestion0-bm-sjc04-us.jobapi.net
 http://ingestion1-bm-sjc04-us.jobapi.net
 http://kibana.jobapi.net
+http://landscape.jobapi.net
 http://lb-bm-sjc04-us.jobapi.net
 http://lb-bm-syd01-au.jobapi.net
 http://lb0-bm-sjc04-us.jobapi.net
@@ -23,6 +24,7 @@ https://ingestion.jobapi.net
 https://ingestion0-bm-sjc04-us.jobapi.net
 https://ingestion1-bm-sjc04-us.jobapi.net
 https://kibana.jobapi.net
+https://landscape.jobapi.net
 https://lb-bm-sjc04-us.jobapi.net
 https://lb-bm-syd01-au.jobapi.net
 https://lb0-bm-sjc04-us.jobapi.net

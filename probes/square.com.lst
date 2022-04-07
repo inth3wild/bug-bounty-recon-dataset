@@ -6,4 +6,5 @@ https://newcomputer.square.com [200] [GET] [text/html] [Block Laptop Setup Guide
 https://square.com [301] [GET] [text/html] [] [] [vhost] [f0f4c07d840efe4dc0ba44bd893a7c8c]
 https://squid-docs.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://video.square.com [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://web-eng-guides.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://www.square.com [301] [GET] [text/html] [] [] [vhost] [f0f4c07d840efe4dc0ba44bd893a7c8c]

@@ -10739,6 +10739,7 @@ elp006133.dint.telenet.be
 elvis.telenet.be
 email.telenet.be
 en.investors.telenet.be
+engine.slr.local.entertainment-tools-dev.awscloud.external.telenet.be
 enrollmfa.connect.telenet.be
 enrollmfa.prd.connect.telenet.be
 enrollmfa.uat.connect.telenet.be
@@ -11822,6 +11823,9 @@ pac.telenet.be
 pal34-2-78-200-121-174.fbx.proxs.telenet.be
 pam.prd.inet.telenet.be
 papeterie-stpi.telenet.be
+parental-static.int.digitalsecurity.telenet.be
+parental-static.lab.digitalsecurity.telenet.be
+parental-static.prd.digitalsecurity.telenet.be
 partan.ppraisehiess.telenet.be
 partners.telenet.be
 paulus.telenet.be
@@ -11866,6 +11870,7 @@ portal.connectuat.telenet.be
 portal.netw.telenet.be
 portalntd.connect.telenet.be
 portalssl.connect.telenet.be
+portalssl.connectuat.telenet.be
 powerems.sda-ran.inet.telenet.be
 ppp.telenet.be
 prcahn.corp.telenet.be
@@ -12099,6 +12104,9 @@ sisuat.telenet.be
 skandium.lss.telenet.be
 skpvip.prd.connect.telenet.be
 slp08-1-s.telenet.be
+slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 small2960.telenet.be
 smartcities.iot.telenet.be
 smartflow.telenet.be
@@ -12616,6 +12624,9 @@ www.onlinehelp.cloud.telenet.be
 www.order.cloud.telenet.be
 www.prd.telenet.be
 www.selfservice.telenet.be
+www.slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+www.slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+www.slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 www.sup.telenet.be
 www.teamspirit2.telenet.be
 www.telenet.be

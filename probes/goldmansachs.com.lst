@@ -1,5 +1,4 @@
 http://goldmansachs.com [301] [GET] [text/html] [] [] [vhost] [81051bcc2cf1bedf378224b0a93e2877]
-http://help.dsp.goldmansachs.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [20ad84d030031252141ca0b3fc0183f0]
 http://help.uat.dsp.goldmansachs.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [20ad84d030031252141ca0b3fc0183f0]
 https://beta.goldmansachs.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [41fbc08ea70c6bb3ee7eef6842d57ce7]
 https://beta.goldmansachs.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [f2ce6d8d8c9b98083efa2ee870e5d17d]

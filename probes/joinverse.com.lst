@@ -9,6 +9,7 @@ http://www.ambassadors.joinverse.com:8080 [404] [GET] [text/html] [404 Not Found
 http://www.joinverse.com:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 https://ambassadors.joinverse.com [404] [GET] [text/plain] [] [] [Google Cloud,Google Cloud CDN] [1cd7bc4b228010dbdf01f2df97123407]
 https://app.joinverse.com [404] [GET] [text/html] [Not Found] [nginx] [Google Cloud,Google Cloud CDN,Nginx] [64db5ad5f2ef41babdba80a6dd0518f6]
+https://bitpanda.api.joinverse.com [403] [GET] [text/html] [403] [] [vhost] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://globalx.joinverse.com [404] [GET] [text/plain] [] [] [Google Cloud,Google Cloud CDN] [1cd7bc4b228010dbdf01f2df97123407]
 https://joinverse.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [Google Cloud,Google Cloud CDN,Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://multiverse.joinverse.com [404] [GET] [text/plain] [] [] [Google Cloud,Google Cloud CDN] [1cd7bc4b228010dbdf01f2df97123407]

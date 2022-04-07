@@ -241,6 +241,7 @@ http://elie.telenet.be
 http://elvis.telenet.be
 http://email.telenet.be
 http://en.investors.telenet.be
+http://engine.slr.local.entertainment-tools-dev.awscloud.external.telenet.be
 http://enrollmfa.connect.telenet.be
 http://enrollmfa.prd.connect.telenet.be
 http://enrollmfa.uat.connect.telenet.be
@@ -618,6 +619,9 @@ http://simvip.int.telenet.be:8080
 http://simvip.prd.telenet.be
 http://simvip.uat.telenet.be
 http://simvip.uat.telenet.be:8080
+http://slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+http://slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+http://slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 http://smb.telenet.be
 http://smetrics.prd.telenet.be
 http://smetrics.telenet.be
@@ -816,6 +820,9 @@ http://www.maut.telenet.be:2096
 http://www.maut.telenet.be:8443
 http://www.nieuwsbrief.telenet.be
 http://www.prd.telenet.be
+http://www.slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+http://www.slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+http://www.slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 http://www.sup.telenet.be
 http://www.teamspirit2.telenet.be
 http://www.telenet.be
@@ -1351,6 +1358,9 @@ https://sisuat.telenet.be:8009
 https://sisuat.telenet.be:8010
 https://sisuat.telenet.be:8045
 https://skpvip.prd.connect.telenet.be
+https://slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+https://slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+https://slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 https://smartflow.telenet.be
 https://smartvisitor.connect.telenet.be
 https://smartwork.prd.telenet.be
@@ -1541,6 +1551,9 @@ https://www.local.slr.entertainment-tools-dev.awscloud.external.telenet.be
 https://www.maut.telenet.be
 https://www.nieuwsbrief.telenet.be
 https://www.prd.telenet.be
+https://www.slr.dev.entertainment-tools-dev.awscloud.external.telenet.be
+https://www.slr.local.entertainment-tools-dev.awscloud.external.telenet.be
+https://www.slr.prod.entertainment-tools-prod.awscloud.external.telenet.be
 https://www.teamspirit2.telenet.be
 https://www.telenet.be
 https://www2.prd.telenet.be

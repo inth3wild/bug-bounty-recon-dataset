@@ -159,7 +159,7 @@ https://embedded.creditkarma.com [404] [GET] [text/html] [] [CK-FG-server] [f4cd
 https://engineering.creditkarma.com [200] [GET] [text/html] [Credit Karma Engineering Blog - How Credit Karma engineers are helping 100 million members make financial progress] [nginx] [vhost] [Gravatar,MySQL,Nginx,PHP,WordPress,WordPress VIP,Yoast SEO,Yoast SEO Premium] [ffa857b50993c259aa5cfdac3d40a939]
 https://envs.corp.creditkarma.com [403] [GET] [text/html] [403] [] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://falcon.corp.creditkarma.com [403] [GET] [text/html] [403] [] [cf4bf23ae244e6fd5ca63598d4dcc82d]
-https://files.savings.creditkarma.com [404] [GET] [text/html] [Credit Karma] [CK-FG-server] [vhost] [React] [4ea7e65ccbb5306f26667ddff350a158]
+https://files.savings.creditkarma.com [404] [GET] [text/html] [Credit Karma] [CK-FG-server] [vhost] [React] [42e6fd20e1860a5bc7bff81fc7fc4b34]
 https://flare-api.corp.creditkarma.com [403] [GET] [text/html] [403] [] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://flare.corp.creditkarma.com [403] [GET] [text/html] [403] [] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://fraud.assets.admin.creditkarma.com [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]

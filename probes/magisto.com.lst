@@ -1,4 +1,3 @@
-http://help.magisto.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [20ad84d030031252141ca0b3fc0183f0]
 http://imgmail.magisto.com [403] [GET] [text/html] [] [nginx] [Nginx] [086d9069069ed62de536cbd4f326d0a9]
 http://m.magisto.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [b52f43c0c6f36cd9108f446fa0899f3e]
 http://mail.magisto.com [404] [GET] [text/html] [Error 404 (Not Found)!!1] [ghs] [b81150861bf911f947660cf73bce77f6]
@@ -39,3 +38,8 @@ https://vimeo.magisto.com [301] [GET] [text/html] [] [nginx/1.10.3] [vhost] [Ngi
 https://www.magisto.com [200] [GET] [text/html] [Online Video Editor | Smart Video Maker by Magisto] [nginx/1.10.3] [vhost] [Google Tag Manager,Nginx] [384060f83de7b46aa2469fd1a076de22]
 https://www.magisto.com [200] [GET] [text/html] [Online Video Editor | Smart Video Maker by Magisto] [nginx/1.10.3] [vhost] [Google Tag Manager,Nginx] [7d1b6ae307008ef9be178671c832679c]
 https://youtube.magisto.com [200] [GET] [text/html] [Online Video Editor | Smart Video Maker by Magisto] [nginx/1.10.3] [Google Tag Manager,Nginx] [f36c41652a2cfd5072fadaf5432aa682]
+https://zendesk4.magisto.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [1e592c666f49ec5d3c8933c571646d79]
+https://zendesk4.magisto.com:2053 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [1e592c666f49ec5d3c8933c571646d79]
+https://zendesk4.magisto.com:2083 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [1e592c666f49ec5d3c8933c571646d79]
+https://zendesk4.magisto.com:2087 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [1e592c666f49ec5d3c8933c571646d79]
+https://zendesk4.magisto.com:8443 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [1e592c666f49ec5d3c8933c571646d79]

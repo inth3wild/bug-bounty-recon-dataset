@@ -1,6 +1,7 @@
 https://a.staging.airtable.com [302] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
 https://api-staging.airtable.com [302] [GET] [text/plain] [] [Tengine] [vhost] [Tengine] [a717b45d1991c344a1e9101d285eeee1]
 https://api2-staging.airtable.com [302] [GET] [text/plain] [] [Tengine] [vhost] [Amazon ALB,Amazon Web Services,Tengine] [a717b45d1991c344a1e9101d285eeee1]
+https://community.staging.airtable.com [401] [GET] [text/html] [401 Authorization Required] [Apache] [vhost] [cloudfront] [Amazon ALB,Amazon Cloudfront,Amazon Web Services,Apache,Basic] [68d0f9f83d6399544686f51629f01971]
 https://dl.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [90fba1de5506aed8c2a556a743711ca0]
 https://dl.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [94c75420925546cee600015296bd288d]
 https://dl3.staging.airtable.com [400] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a9c79b8ca48a8930f5c93575f9ede3f0]

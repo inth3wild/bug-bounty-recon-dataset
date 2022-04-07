@@ -22,8 +22,6 @@ https://internal-platform-staging.cashstaging.app [500] [GET] [text/html] [Fastl
 https://internal.cashstaging.app [404] [GET] [] [] [envoy] [vhost] [fastly] [Envoy] [d41d8cd98f00b204e9800998ecf8427e]
 https://kit.cashstaging.app [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [0bcc8d98ff9ed11fde3086559c45b470]
 https://platform-test.cashstaging.app [500] [GET] [text/html] [Fastly error: unknown domain platform-test.cashstaging.app] [Varnish] [fastly] [e10edfb4acda3124b304a21dbc4b244c]
-https://sandbox.api.cashstaging.app [404] [GET] [] [] [envoy] [vhost] [fastly] [Envoy] [d41d8cd98f00b204e9800998ecf8427e]
-https://sandbox.global-network-api.cashstaging.app [404] [GET] [] [] [envoy] [vhost] [fastly] [Envoy] [d41d8cd98f00b204e9800998ecf8427e]
 https://taxes.cashstaging.app [403] [GET] [text/html] [403] [] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://taxeshelp-devprobox.cashstaging.app [200] [GET] [text/html] [Login | Salesforce] [] [Google Cloud,Google Cloud CDN] [257decc652fb44d74ed0ed294498fab3]
 https://web-cdn.cashstaging.app [403] [GET] [text/html] [403 Forbidden] [Varnish] [vhost] [fastly] [411d52fbacb66d44a4a877025e5f09cf]

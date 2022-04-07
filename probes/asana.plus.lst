@@ -20,7 +20,7 @@ https://jira-api.integrations.asana.plus [404] [GET] [text/plain] [] [Asana Jira
 https://jira-server.asana.plus [404] [GET] [application/json] [] [akka-http/10.2.7] [Akka HTTP] [9c37d35a0489e3448d4f01b1169dca2f]
 https://msft-teams.asana.plus [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [874d1f32400aac9dd1d7bf7bc7a68a63]
 https://msft-teams.asana.plus [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d640cb64e87f9ffb19ac58e6fed10c9f]
-https://outlook.asana.plus [200] [GET] [text/html] [View Asana Tasks in Outlook] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [035d45f7f94baeafbd87f8868a11db79]
+https://outlook.asana.plus [200] [GET] [text/html] [View Asana Tasks in Outlook] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [0c03973dec2197409cf4156aea12f8f1]
 https://reporting-api-beta.integrations.asana.plus [404] [GET] [text/plain] [] [awselb/2.0] [d41d8cd98f00b204e9800998ecf8427e]
 https://reporting-api-uat.integrations.asana.plus [404] [GET] [text/plain] [] [awselb/2.0] [d41d8cd98f00b204e9800998ecf8427e]
 https://reporting-api.integrations.asana.plus [404] [GET] [text/plain] [] [awselb/2.0] [d41d8cd98f00b204e9800998ecf8427e]

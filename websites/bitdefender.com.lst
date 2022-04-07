@@ -15,6 +15,11 @@ http://api.ti.bitdefender.com
 http://api.tip.bitdefender.com
 http://applecsrwebservice.bitdefender.com
 http://arca.bitdefender.com
+http://auth.mdr.bitdefender.com
+http://auth.mdr.bitdefender.com:2082
+http://auth.mdr.bitdefender.com:2086
+http://auth.mdr.bitdefender.com:8080
+http://auth.mdr.bitdefender.com:8880
 http://auth.mdrt.bitdefender.com
 http://auth.mdrt.bitdefender.com:2082
 http://auth.mdrt.bitdefender.com:2086
@@ -124,6 +129,8 @@ http://renewals.bitdefender.com
 http://research.bitdefender.com
 http://resellerportal.bitdefender.com
 http://resellerportal.bitdefender.com:8080
+http://rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com
+http://rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com
 http://sales.bitdefender.com
 http://sampleupload.bitdefender.com
 http://securityscan.bitdefender.com
@@ -180,6 +187,10 @@ https://api.ti.bitdefender.com
 https://api.tip.bitdefender.com
 https://arca.bitdefender.com
 https://attinsight.bitdefender.com
+https://auth.mdr.bitdefender.com
+https://auth.mdr.bitdefender.com:2083
+https://auth.mdr.bitdefender.com:2087
+https://auth.mdr.bitdefender.com:8443
 https://auth.mdrt.bitdefender.com
 https://auth.mdrt.bitdefender.com:2083
 https://auth.mdrt.bitdefender.com:2087
@@ -231,6 +242,7 @@ https://eu-lurker-input.gravityzone.bitdefender.com
 https://eu-tc.gravityzone.bitdefender.com
 https://explore-lb.bitdefender.com
 https://explore.bitdefender.com
+https://external-api.data.bitdefender.com
 https://feeds.ti.bitdefender.com
 https://feeds.tip.bitdefender.com
 https://forum.bitdefender.com
@@ -292,6 +304,8 @@ https://remote.bitdefender.com
 https://renewals.bitdefender.com
 https://research.bitdefender.com
 https://resellerportal.bitdefender.com
+https://rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com
+https://rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com
 https://sales.bitdefender.com
 https://sampleupload.bitdefender.com
 https://sandbox-portal-us.gravityzone.bitdefender.com

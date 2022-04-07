@@ -17,6 +17,7 @@ communication-demo.intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.20
 communication-stage.intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 communication-uat.intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 communication.intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 intigriti.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 jobs-demo.intigriti.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22

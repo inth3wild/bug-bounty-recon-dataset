@@ -16,9 +16,11 @@ acs.mobilevikings.be
 acs.staging.mobilevikings.be
 admin.mobilevikings.be
 adsl-7-125.mobilevikings.be
+alertmanager-k8s.acc-data.mobilevikings.be
 alertmanager-k8s.acc.mobilevikings.be
 alertmanager-k8s.dev.mobilevikings.be
 alertmanager-k8s.mas.mobilevikings.be
+alertmanager-k8s.prd-data.mobilevikings.be
 alertmanager-k8s.prd.mobilevikings.be
 alertmanager.acc.mobilevikings.be
 alertmanager.dev.mobilevikings.be
@@ -165,7 +167,12 @@ fraud.prd-nocdn.mobilevikings.be
 fraud.prd.mobilevikings.be
 fraud.staging.mobilevikings.be
 games.mobilevikings.be
+goldilocks.acc-data.mobilevikings.be
+goldilocks.dev-data.mobilevikings.be
 goldilocks.dev.mobilevikings.be
+goldilocks.internal.mobilevikings.be
+goldilocks.mas.mobilevikings.be
+goldilocks.prd.mobilevikings.be
 grafana-k8s.acc.mobilevikings.be
 grafana-k8s.dev.mobilevikings.be
 grafana-k8s.mas.mobilevikings.be
@@ -328,9 +335,11 @@ present.mobilevikings.be
 printer.office.mobilevikings.be
 production.ssl.mobilevikings.be
 prof.mobilevikings.be
+prometheus-k8s.acc-data.mobilevikings.be
 prometheus-k8s.acc.mobilevikings.be
 prometheus-k8s.dev.mobilevikings.be
 prometheus-k8s.mas.mobilevikings.be
+prometheus-k8s.prd-data.mobilevikings.be
 prometheus-k8s.prd.mobilevikings.be
 prometheus.acc.mobilevikings.be
 prometheus.dev.mobilevikings.be

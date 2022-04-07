@@ -10,6 +10,7 @@ admin.payments-test.starlink.com
 admin.payments.starlink.com
 admin.staging.starlink.com
 admin.starlink.com
+analytics.staging.starlink.com
 analytics.starlink.com
 api.beta.starlink.com
 api.payments-test.starlink.com
@@ -109,7 +110,9 @@ tax-reporting.dev.starlink.com
 tax-reporting.starlink.com
 u5728www.starlink.com
 ux.health.starlink.com
+vault.beta.starlink.com
 vault.staging.starlink.com
+vault.starlink.com
 virtuals.starlink.com
 webmail.starlink.com
 wifi-update.starlink.com
@@ -123,3 +126,5 @@ www.staging.starlink.com
 www.starlink-agent.staging.starlink.com
 www.starlink.com
 www.support-agent.staging.starlink.com
+www.vault.beta.starlink.com
+www.vault.starlink.com

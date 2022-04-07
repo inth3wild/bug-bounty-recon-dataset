@@ -50,10 +50,12 @@ wpp-partner-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239
 wpp-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 www.api1-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.api1.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+www.api2.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.creativeportal.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.creativeportfolio-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.creativeportfolio.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.culturenextvol1-sea.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+www.deckbuilder.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
 www.dentsu-partner-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.dentsu-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.havas-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15

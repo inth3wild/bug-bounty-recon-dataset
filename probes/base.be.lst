@@ -106,7 +106,7 @@ https://pegacloud.base.be:8443 [404] [GET] [text/html] [HTTP Status 404 – Not 
 https://pegacloud.uat.base.be [404] [GET] [text/html] [404] [] [vhost] [Amazon ALB,Amazon Web Services] [d990a558c87e90a2a24cc2e09bb85050]
 https://pegacloud.uat.base.be:7443 [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [613f79233487af685baf4b32a2397ede]
 https://pegacloud.uat.base.be:8443 [404] [GET] [text/html] [HTTP Status 404 – Not Found] [] [vhost] [Amazon ALB,Amazon Web Services] [5ae0173d1b4dd203431cc277bce57bee]
-https://press.base.be [200] [GET] [text/html] [Telenet Group NV - Pressroom] [] [vhost] [Google Font API,Section.io,Sentry,Sqreen] [9a2b9b50dcf265352a6d187a6b200879]
+https://press.base.be [200] [GET] [text/html] [Telenet Group NV - Pressroom] [] [vhost] [Google Font API,Section.io,Sentry,Sqreen] [ff0bc8d88c34e620739be7791349e864]
 https://promotion.base.be [404] [GET] [text/plain] [] [] [f9ae9006943e3a67b95ca4c6c733b6d4]
 https://qrbcmc-stag.base.be [200] [GET] [text/html] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [184570eafa562510066f4d9b7621f38d]
 https://qrbcmc.base.be [200] [GET] [text/html] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [60b404497823484d44fc8093fecebdc9]

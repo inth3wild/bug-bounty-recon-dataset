@@ -42,6 +42,7 @@ http://apis.txb.gs.com
 http://apitest.marquee-qa.gs.com
 http://assetmanagement-qa.gs.com
 http://assetmanagement.gs.com
+http://atlas-mfa.gs.com
 http://atlas-mfa.uat.gs.com
 http://atlassian.devcollab.gs.com
 http://beta.api.clearfactr.gs.com
@@ -50,6 +51,7 @@ http://beta.dsp.gs.com
 http://beta.global-liquidity.gs.com
 http://beta.qaglobal-liquidity.gs.com
 http://beta.uat.dsp.gs.com
+http://bmo-mfa.lp.gs.com
 http://bmo-mfa.uat.lp.gs.com
 http://careers.gs.com
 http://careersa.gs.com
@@ -111,6 +113,7 @@ http://help.gsmosaic.qa.gs.com
 http://help.gsmosaic.qa.gs.com:8443
 http://help.uat.gs.com
 http://hk.fx.gs.com
+http://huntington-mfa.liquidityportal.gs.com
 http://huntington-mfa.uat.liquidityportal.gs.com
 http://i.gs.com
 http://ias.gs.com
@@ -245,6 +248,7 @@ http://test.accounts.gs.com
 http://track.uk.enotifications.gs.com
 http://tracking.gs.com
 http://trackuat.uk.enotifications.gs.com
+http://truist-mfa.liquidity.gs.com
 http://truist-mfa.uat.liquidity.gs.com
 http://truist.gs.com
 http://txb.gs.com
@@ -369,6 +373,7 @@ https://assetmanagement-email-qa.gs.com
 https://assetmanagement-email.gs.com
 https://assetmanagement-qa.gs.com
 https://assetmanagement.gs.com
+https://atlas-mfa.gs.com
 https://atlas-mfa.uat.gs.com
 https://atlassian.devcollab.gs.com
 https://bdcexp01edge01.jabber.gs.com:8443
@@ -379,6 +384,7 @@ https://beta.dsp.gs.com
 https://beta.global-liquidity.gs.com
 https://beta.qaglobal-liquidity.gs.com
 https://beta.uat.dsp.gs.com
+https://bmo-mfa.lp.gs.com
 https://bmo-mfa.uat.lp.gs.com
 https://bwext-qa.gs.com
 https://careersa.gs.com
@@ -467,6 +473,8 @@ https://gw1.qalogin.gs.com
 https://gw2.qa-login.gs.com
 https://gw3.qa-login.gs.com
 https://help.dsp.gs.com
+https://help.dsp.gs.com:2083
+https://help.dsp.gs.com:2087
 https://help.dsp.gs.com:8443
 https://help.gs-mosaic.qa.gs.com
 https://help.gs-mosaic.qa.gs.com:8443
@@ -475,6 +483,7 @@ https://help.uat.gs.com
 https://help.uat.gs.com:8443
 https://hk.fx.gs.com
 https://hksdcexp01edge01.jabber.gs.com:8443
+https://huntington-mfa.liquidityportal.gs.com
 https://huntington-mfa.uat.liquidityportal.gs.com
 https://i.gs.com
 https://ias.gs.com
@@ -651,6 +660,7 @@ https://themarkets2.gs.com
 https://track.uk.enotifications.gs.com
 https://tracking.gs.com
 https://trackuat.uk.enotifications.gs.com
+https://truist-mfa.liquidity.gs.com
 https://truist-mfa.uat.liquidity.gs.com
 https://truist.gs.com
 https://txb.gs.com

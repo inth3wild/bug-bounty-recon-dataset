@@ -105,6 +105,7 @@ http://cc.jr.mi.com
 http://cdn.amx.mgp.mi.com
 http://cdn.amx.mgp.mi.com:8080
 http://cetus.mgp.mi.com
+http://chat.kefu.mi.com
 http://chaxun.mi.com
 http://cloud.mi.com
 http://cmcc.mina.mi.com
@@ -801,6 +802,7 @@ http://pos.mi.com
 http://powerrangers.g.mi.com
 http://pre.data.youpin.mi.com
 http://preview.api.jr.mi.com
+http://preview.api.miot.10046.mi.com
 http://preview.api.new.misim.10046.mi.com
 http://preview.api.recharge.10046.mi.com
 http://preview.help.jr.mi.com
@@ -1470,6 +1472,7 @@ https://carwith.link.mi.com
 https://cc.jr.mi.com
 https://cdn.amx.mgp.mi.com
 https://cetus.mgp.mi.com
+https://chat.kefu.mi.com
 https://chaxun.mi.com
 https://cloud.mi.com:8088
 https://cloud.mi.com:8089
@@ -1785,6 +1788,7 @@ https://pos.mi.com
 https://pp.mi.com
 https://pre.data.youpin.mi.com
 https://preview.api.jr.mi.com
+https://preview.api.miot.10046.mi.com
 https://preview.api.new.misim.10046.mi.com
 https://preview.api.recharge.10046.mi.com
 https://preview.i.ai.mi.com

@@ -64,6 +64,9 @@ es-china.fallguys-china.oncatapult.com
 es-dev.fallguys-dev.oncatapult.com
 es-loadtest.fallguys-dev.oncatapult.com
 es-prod.fallguys.oncatapult.com
+events-api-azure-ci.catapult-dev.oncatapult.com
+events-api-test-ci.catapult-dev.oncatapult.com
+events-api-testci.catapult-dev.oncatapult.com
 events-gc-gateway-ci.catapult-dev.oncatapult.com
 fallguys-china.oncatapult.com
 fallguys-dev.oncatapult.com
@@ -151,6 +154,7 @@ kibana.accounts-dev.oncatapult.com
 kibana.catapult-dev.oncatapult.com
 level-gateway-loadtest2.fallguys-dev.oncatapult.com
 level-gateway-testci.fallguys-dev.oncatapult.com
+loadtest-api-testci.catapult-dev.oncatapult.com
 loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 login-admin-clientdev.fallguys-dev.oncatapult.com
 login-admin-closedbeta.fallguys-dev.oncatapult.com
@@ -268,6 +272,7 @@ matchmaking-gateway-complianceqa.fallguys-dev.oncatapult.com
 matchmaking-gateway-externalqa.fallguys-dev.oncatapult.com
 matchmaking-gateway-internalqa.fallguys-dev.oncatapult.com
 matchmaking-gateway-loadtest2.fallguys-dev.oncatapult.com
+matchmaking-gateway-mobileqa.fallguys-dev.oncatapult.com
 matchmaking-gateway-openbeta.fallguys-dev.oncatapult.com
 matchmaking-gateway-porting.fallguys-dev.oncatapult.com
 matchmaking-gateway-prod3.fallguys.oncatapult.com

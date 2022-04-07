@@ -29,6 +29,7 @@ adaf.dev.use1a.on.epicgames.com
 aeae.dev.use1a.on.epicgames.com
 aeee.dev.use1a.on.epicgames.com
 afdb.dev.use1a.on.epicgames.com
+afea.live.use1a.on.epicgames.com
 affc.dev.use1a.on.epicgames.com
 affiliate-public-service-prod.ol.epicgames.com
 ak.epicgames.com
@@ -2270,6 +2271,8 @@ fortnite-public-service-bacchusplaytest-prod.ol.epicgames.com
 fortnite-public-service-batsickle-prod.ol.epicgames.com
 fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com
 fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com
+fortnite-public-service-brawler-prod.ol.epicgames.com
+fortnite-public-service-bubbles-prod.ol.epicgames.com
 fortnite-public-service-certstageb-stage.ol.epicgames.com
 fortnite-public-service-certstagec-stage.ol.epicgames.com
 fortnite-public-service-dailymain-prod.ol.epicgames.com
@@ -2738,6 +2741,7 @@ sda-admin.stage.it.epicgames.com
 sda-apigw-deployment.it-entapps-dev.epicgames.com
 sds-admin-gd.aeee.dev.use1a.on.epicgames.com
 seavpn.epicgames.com
+secsvr-scim.it.epicgames.com
 securemail.epicgames.com
 selvpn.epicgames.com
 service-bot.eut.it.epicgames.com
@@ -2757,6 +2761,7 @@ shared-static-prod.epicgames.com
 shithappens.cfbc.live.use1a.on.epicgames.com
 shithappens.liveops.on.epicgames.com
 sideband-ci.ceee.dev.use1a.on.epicgames.com
+sideband-live.deee.live.use1a.on.epicgames.com
 sip.epicgames.com
 sites.epicgames.com
 slack-approval-bot-adm.it-entapps-dev.epicgames.com
@@ -2809,6 +2814,7 @@ stun-2-nat.ol.epicgames.com
 substrate.on.epicgames.com
 substrate.store.epicgames.com
 sumoassist.ceee.dev.use1a.on.epicgames.com
+sumoassist.deee.live.use1a.on.epicgames.com
 sumoassist.on.epicgames.com
 svcnat2.epicgames.com
 sword-service-prod.ol.epicgames.com
@@ -2876,6 +2882,7 @@ uebd.epicgames.com
 ui.vault.substrate.on.epicgames.com
 unreal.epicgames.com
 unrealbd.epicgames.com
+unrealbugsubmissions.epicgames.com
 unrealengine-ci-debug.ol.epicgames.com
 unrealenginehelp.epicgames.com
 unrealstudio.epicgames.com

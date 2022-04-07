@@ -91,6 +91,7 @@ http://crypto-corner.opera.com
 http://crypto-corner.route53.opera.com
 http://crypto-proxy.opera.com
 http://crypto-proxy.route53.opera.com
+http://crypto.opera.com
 http://d.ns.e.opera.com
 http://dailymotion.tvstore.opera.com
 http://dataplans.opera.com
@@ -375,11 +376,13 @@ http://s-chef.adx.opera.com
 http://s.adx.opera.com
 http://s2.m.img10.f.appstatic.opera.com
 http://samsung.tvstore.opera.com
+http://satoshi-test.ams.op-mobile.opera.com
 http://screens.tvstore.opera.com
 http://sdklog.tvstore.opera.com
 http://search.opera.com
 http://search1.opera.com
 http://security.opera.com
+http://shopping-corner.opera.com
 http://singa-icb.opera.com
 http://sitecheck.geo.opera.com
 http://sitecheck2.geo.opera.com
@@ -402,6 +405,7 @@ http://stats.opera.com:8081
 http://stats.opera.com:8888
 http://status.opera.com
 http://suggestions.geo.opera.com
+http://support-vpn-pro.opera.com
 http://support.adx.opera.com
 http://support.opera.com
 http://swagger-redirector.www.blogs.route53.opera.com
@@ -576,6 +580,7 @@ https://crashstats-collector.opera.com
 https://crashstats-test.opera.com
 https://crypto-corner.opera.com
 https://crypto-proxy.opera.com
+https://crypto.opera.com
 https://d.ns.e.opera.com
 https://dailymotion.tvstore.opera.com
 https://dataplans.opera.com
@@ -825,11 +830,13 @@ https://s-chef.adx.opera.com
 https://s.adx.opera.com
 https://samsung.tvstore.opera.com
 https://samsung.tvstore.opera.com:84
+https://satoshi-test.ams.op-mobile.opera.com
 https://screens.tvstore.opera.com
 https://sdklog.tvstore.opera.com
 https://search.opera.com
 https://search1.opera.com
 https://security.opera.com
+https://shopping-corner.opera.com
 https://singa-icb.opera.com
 https://sitecheck.geo.opera.com
 https://sitecheck2.geo.opera.com
@@ -854,6 +861,10 @@ https://status.opera.com
 https://submit-com.geo.opera.com
 https://submit.geo.opera.com
 https://suggestions.geo.opera.com
+https://support-vpn-pro.opera.com
+https://support-vpn-pro.opera.com:2083
+https://support-vpn-pro.opera.com:2087
+https://support-vpn-pro.opera.com:8443
 https://support.adx.opera.com
 https://support.opera.com
 https://swagger-redirector.www.blogs.route53.opera.com

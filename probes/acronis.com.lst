@@ -63,7 +63,7 @@ https://bg-vpn.acronis.com [200] [GET] [text/html] [] [] [vhost] [ebc60595cb03be
 https://blog.acronis.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://br01-cloud.acronis.com [302] [GET] [application/json] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://br01-cloud.acronis.com:8443 [200] [GET] [text/xml] [] [nginx] [Nginx] [eb6a1564f8d54e80e485a49ff146e670]
-https://brand.acronis.com [404] [GET] [text/html] [] [nginx] [Nginx] [a1ea76c81a9ccb202fe047f3ff875f6d]
+https://brand.acronis.com [404] [GET] [text/html] [] [nginx] [Nginx] [d3619ec60f8a21a9b43bce4225badc13]
 https://bt01-cloud.acronis.com [302] [GET] [application/json] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://bt01-cloud.acronis.com:8443 [200] [GET] [text/xml] [] [nginx] [Nginx] [eb6a1564f8d54e80e485a49ff146e670]
 https://ca01-cloud.acronis.com [302] [GET] [application/json] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]

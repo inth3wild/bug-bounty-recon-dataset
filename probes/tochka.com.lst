@@ -121,7 +121,6 @@ https://www.allo.tochka.com [200] [GET] [text/html] [] [Variti/0.9.3a] [0f81c11f
 https://www.allo.tochka.com [200] [GET] [text/html] [] [Variti/0.9.3a] [dacc24178eee2be9c247bfb54dd2873c]
 https://www.bigdemo.tochka.com [200] [GET] [text/html] [Большое Демо Точки : UPDATE SHOW] [ddos-guard] [vhost] [Tilda] [23c930e9e919dc021c94f1e5ce25495a]
 https://www.do.tochka.com [200] [GET] [text/html] [Скажи это делом!] [ddos-guard] [vhost] [Google Font API,Tilda] [a125ef1759ea470e7013811618df87ee]
-https://www.happy.tochka.com [200] [GET] [text/html] [Шаблон Обратная связь. Оценка.] [ddos-guard] [vhost] [Tilda] [cc1181dab0c1218299fba27762b19ce4]
 https://www.job.tochka.com [200] [GET] [text/html] [Приходи в команду решительных и смелых] [ddos-guard] [vhost] [Google Tag Manager,Tilda] [530c21267b36614226a13f8a57af39b2]
 https://www.lampa.tochka.com [200] [GET] [text/html] [Лампа] [] [vhost] [React,Wix] [a04e2c8f7712784ce34270bbf175977a]
 https://www.lampa.tochka.com [403] [GET] [text/html] [] [] [vhost] [AngularJS] [2c1c09e9ecd51bc35767bf914e9963e3]

@@ -15,4 +15,5 @@ shapes.semrush.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 shapes.semrush.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
 smt-webhooks.semrush.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 sso-new.semrush.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+swag.semrush.com AS13335 AS13335 - CLOUDFLARE, INC. US 23.227.38.0/23
 uptime-proxy-k8s.semrush.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14

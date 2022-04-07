@@ -1123,6 +1123,8 @@ api.test48.stage.paypal.com
 api.test49.stage.paypal.com
 api.test50.stage.paypal.com
 api.test53.stage.paypal.com
+api.test54.stage.paypal.com
+api.test55.stage.paypal.com
 api.test98.stage.paypal.com
 api.test99.stage.paypal.com
 api.testing.perceptipi.stage2ms048.stage.paypal.com
@@ -1523,6 +1525,7 @@ dcg13.paypal.com
 dctest1.paypal.com
 dctest2.paypal.com
 dctest3.paypal.com
+ddlchangeautomation.qa.paypal.com
 demo-cdn.glb.paypal.com
 demo.glb.paypal.com
 demo.paypal.com
@@ -4432,6 +4435,7 @@ ppro.stage.paypal.com
 pps.vip.stage.paypal.com
 ppssued.qa.paypal.com
 ppv.paypal.com
+privacycookieoversight.qa.paypal.com
 privacyservices.qa.paypal.com
 private.paypal.com
 private.sandbox.paypal.com
@@ -4952,6 +4956,7 @@ spf.paypal.com
 splunk-api-vip-a.slc.paypal.com
 splunk-api-vip-b.slc.paypal.com
 splunk-api-vip.phx.paypal.com
+splunk-int.paypal.com
 splunk.paypal.com
 splunk1.paypal.com
 splunk2.paypal.com
@@ -5386,6 +5391,7 @@ te-payport-outbound.qa.paypal.com
 te-ptf-artcontrollerserv.qa.paypal.com
 te-quokka.qa.paypal.com
 te-reportingdash.qa.paypal.com
+te-rt-email-builder.qa.paypal.com
 te-salesforce.qa.paypal.com
 te-stage2ma151931.qa.paypal.com
 te-staging-worldready.qa.paypal.com
@@ -5526,6 +5532,7 @@ ukkkmgg.paypal.com
 umv1a9f565zzm4x0.stats.paypal.com
 uomgg.paypal.com
 update.paypal.com
+uptycshap.paypal.com
 uptycshon.paypal.com
 uptycsize.paypal.com
 uptycspay.paypal.com
@@ -6491,6 +6498,7 @@ www.te-alm-26606822009563260457670.qa.paypal.com
 www.te-alm-28654242102250735217287.qa.paypal.com
 www.te-alm-33097122109230750120046.qa.paypal.com
 www.te-alm-44525712104522943068089.qa.paypal.com
+www.te-dove.qa.paypal.com
 www.te-helium.qa.paypal.com
 www.te-ptf-artcontrollerserv.qa.paypal.com
 www.te-quokka.qa.paypal.com

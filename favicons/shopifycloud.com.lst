@@ -11,6 +11,7 @@
 -1132923558	ok-status	http://org-admin-web-staging-5.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-7won.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-c0n6.shopifycloud.com/
+-1132923558	ok-status	http://org-admin-web-staging-d9f2.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-pz8w.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-sxyc.shopifycloud.com/
@@ -29,6 +30,7 @@
 -1132923558	ok-status	https://org-admin-web-staging-5.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-7won.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-c0n6.shopifycloud.com/
+-1132923558	ok-status	https://org-admin-web-staging-d9f2.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-pz8w.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-sxyc.shopifycloud.com/
@@ -38,6 +40,7 @@
 0	zero byte favicon	http://apple-business-chat-commerce-staging.shopifycloud.com/
 0	zero byte favicon	http://apple-business-chat-commerce.shopifycloud.com/
 0	zero byte favicon	http://arrive-server.shopifycloud.com/
+0	zero byte favicon	http://arrive-website.shopifycloud.com/
 0	zero byte favicon	http://athena-staging.shopifycloud.com/
 0	zero byte favicon	http://athena.shopifycloud.com/
 0	zero byte favicon	http://atlas.shopifycloud.com/
@@ -62,6 +65,7 @@
 0	zero byte favicon	http://clusters.shopifycloud.com/
 0	zero byte favicon	http://compass.shopifycloud.com/
 0	zero byte favicon	http://country-service.shopifycloud.com/
+0	zero byte favicon	http://cross-sell-app.shopifycloud.com/
 0	zero byte favicon	http://curated-commerce-curator-staging.shopifycloud.com/
 0	zero byte favicon	http://curated-commerce-curator.shopifycloud.com/
 0	zero byte favicon	http://curated-commerce-staging.shopifycloud.com/
@@ -72,6 +76,7 @@
 0	zero byte favicon	http://deliveries.shopifycloud.com/
 0	zero byte favicon	http://delivery-promise.shopifycloud.com/
 0	zero byte favicon	http://devicemanager.shopifycloud.com/
+0	zero byte favicon	http://discovery-app-staging.shopifycloud.com/
 0	zero byte favicon	http://domain-suggestion-api-two-staging.shopifycloud.com/
 0	zero byte favicon	http://domain-suggestion-api-two.shopifycloud.com/
 0	zero byte favicon	http://duties-taxes-service.shopifycloud.com/
@@ -90,6 +95,7 @@
 0	zero byte favicon	http://flow-connectors-staging.shopifycloud.com/
 0	zero byte favicon	http://flow-connectors.shopifycloud.com/
 0	zero byte favicon	http://forms.shopifycloud.com/
+0	zero byte favicon	http://frontapp-hrc.shopifycloud.com/
 0	zero byte favicon	http://ftf-app-staging.shopifycloud.com/
 0	zero byte favicon	http://ftf-app.shopifycloud.com/
 0	zero byte favicon	http://fulfillify.shopifycloud.com/
@@ -100,11 +106,14 @@
 0	zero byte favicon	http://github-certification.shopifycloud.com/
 0	zero byte favicon	http://google-shopping-staging.shopifycloud.com/
 0	zero byte favicon	http://google-shopping.shopifycloud.com/
+0	zero byte favicon	http://graphql-schema-bot.shopifycloud.com/
 0	zero byte favicon	http://growth-tools.shopifycloud.com/
 0	zero byte favicon	http://hatchful-web-two.shopifycloud.com/
 0	zero byte favicon	http://hs-codes-service.shopifycloud.com/
 0	zero byte favicon	http://import-store.shopifycloud.com/
+0	zero byte favicon	http://inter-shop-domain-transfer.shopifycloud.com/
 0	zero byte favicon	http://jgv-test-app2.shopifycloud.com/
+0	zero byte favicon	http://launchpad-staging.shopifycloud.com/
 0	zero byte favicon	http://launchpad.shopifycloud.com/
 0	zero byte favicon	http://launchproduct.shopifycloud.com/
 0	zero byte favicon	http://marketing-landing-pages-staging.shopifycloud.com/
@@ -157,12 +166,14 @@
 0	zero byte favicon	http://shopcodes-staging.shopifycloud.com/
 0	zero byte favicon	http://shopcodes.shopifycloud.com/
 0	zero byte favicon	http://shopify-audiences-staging.shopifycloud.com/
+0	zero byte favicon	http://shopify-audiences.shopifycloud.com/
 0	zero byte favicon	http://shopify-bids-staging.shopifycloud.com/
 0	zero byte favicon	http://shopify-bids.shopifycloud.com/
 0	zero byte favicon	http://shopify-classifieds.shopifycloud.com/
 0	zero byte favicon	http://shopify-dev.shopifycloud.com/
 0	zero byte favicon	http://shopify-events-staging.shopifycloud.com/
 0	zero byte favicon	http://shopify-events.shopifycloud.com/
+0	zero byte favicon	http://shopify-graphiql-app.shopifycloud.com/
 0	zero byte favicon	http://shopify-payments-webhook-proxy.shopifycloud.com/
 0	zero byte favicon	http://shopify-slack-bot-staging.shopifycloud.com/
 0	zero byte favicon	http://shopify-slack-bot.shopifycloud.com/
@@ -201,6 +212,7 @@
 0	zero byte favicon	https://apple-business-chat-commerce-staging.shopifycloud.com/
 0	zero byte favicon	https://apple-business-chat-commerce.shopifycloud.com/
 0	zero byte favicon	https://arrive-server.shopifycloud.com/
+0	zero byte favicon	https://arrive-website.shopifycloud.com/
 0	zero byte favicon	https://athena-staging.shopifycloud.com/
 0	zero byte favicon	https://athena.shopifycloud.com/
 0	zero byte favicon	https://atlas.shopifycloud.com/
@@ -225,6 +237,7 @@
 0	zero byte favicon	https://clusters.shopifycloud.com/
 0	zero byte favicon	https://compass.shopifycloud.com/
 0	zero byte favicon	https://country-service.shopifycloud.com/
+0	zero byte favicon	https://cross-sell-app.shopifycloud.com/
 0	zero byte favicon	https://curated-commerce-curator-staging.shopifycloud.com/
 0	zero byte favicon	https://curated-commerce-curator.shopifycloud.com/
 0	zero byte favicon	https://curated-commerce-staging.shopifycloud.com/
@@ -235,6 +248,7 @@
 0	zero byte favicon	https://deliveries.shopifycloud.com/
 0	zero byte favicon	https://delivery-promise.shopifycloud.com/
 0	zero byte favicon	https://devicemanager.shopifycloud.com/
+0	zero byte favicon	https://discovery-app-staging.shopifycloud.com/
 0	zero byte favicon	https://domain-suggestion-api-two-staging.shopifycloud.com/
 0	zero byte favicon	https://domain-suggestion-api-two.shopifycloud.com/
 0	zero byte favicon	https://duties-taxes-service.shopifycloud.com/
@@ -253,6 +267,7 @@
 0	zero byte favicon	https://flow-connectors-staging.shopifycloud.com/
 0	zero byte favicon	https://flow-connectors.shopifycloud.com/
 0	zero byte favicon	https://forms.shopifycloud.com/
+0	zero byte favicon	https://frontapp-hrc.shopifycloud.com/
 0	zero byte favicon	https://ftf-app-staging.shopifycloud.com/
 0	zero byte favicon	https://ftf-app.shopifycloud.com/
 0	zero byte favicon	https://fulfillify.shopifycloud.com/
@@ -263,11 +278,14 @@
 0	zero byte favicon	https://github-certification.shopifycloud.com/
 0	zero byte favicon	https://google-shopping-staging.shopifycloud.com/
 0	zero byte favicon	https://google-shopping.shopifycloud.com/
+0	zero byte favicon	https://graphql-schema-bot.shopifycloud.com/
 0	zero byte favicon	https://growth-tools.shopifycloud.com/
 0	zero byte favicon	https://hatchful-web-two.shopifycloud.com/
 0	zero byte favicon	https://hs-codes-service.shopifycloud.com/
 0	zero byte favicon	https://import-store.shopifycloud.com/
+0	zero byte favicon	https://inter-shop-domain-transfer.shopifycloud.com/
 0	zero byte favicon	https://jgv-test-app2.shopifycloud.com/
+0	zero byte favicon	https://launchpad-staging.shopifycloud.com/
 0	zero byte favicon	https://launchpad.shopifycloud.com/
 0	zero byte favicon	https://launchproduct.shopifycloud.com/
 0	zero byte favicon	https://marketing-landing-pages-staging.shopifycloud.com/
@@ -320,12 +338,14 @@
 0	zero byte favicon	https://shopcodes-staging.shopifycloud.com/
 0	zero byte favicon	https://shopcodes.shopifycloud.com/
 0	zero byte favicon	https://shopify-audiences-staging.shopifycloud.com/
+0	zero byte favicon	https://shopify-audiences.shopifycloud.com/
 0	zero byte favicon	https://shopify-bids-staging.shopifycloud.com/
 0	zero byte favicon	https://shopify-bids.shopifycloud.com/
 0	zero byte favicon	https://shopify-classifieds.shopifycloud.com/
 0	zero byte favicon	https://shopify-dev.shopifycloud.com/
 0	zero byte favicon	https://shopify-events-staging.shopifycloud.com/
 0	zero byte favicon	https://shopify-events.shopifycloud.com/
+0	zero byte favicon	https://shopify-graphiql-app.shopifycloud.com/
 0	zero byte favicon	https://shopify-payments-webhook-proxy.shopifycloud.com/
 0	zero byte favicon	https://shopify-slack-bot-staging.shopifycloud.com/
 0	zero byte favicon	https://shopify-slack-bot.shopifycloud.com/
@@ -375,6 +395,7 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-5.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-7won.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-c0n6.shopifycloud.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-d9f2.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-pz8w.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-sxyc.shopifycloud.com/
@@ -393,6 +414,7 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-5.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-7won.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-c0n6.shopifycloud.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-d9f2.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-pz8w.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-sxyc.shopifycloud.com/
@@ -402,6 +424,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app-activity-integrati
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apple-business-chat-commerce-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apple-business-chat-commerce.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://arrive-server.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://arrive-website.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://athena-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://athena.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://atlas.shopifycloud.com/
@@ -426,6 +449,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://clusters-staging.shopi
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://clusters.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://compass.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://country-service.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://cross-sell-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://curated-commerce-curator-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://curated-commerce-curator.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://curated-commerce-staging.shopifycloud.com/
@@ -436,6 +460,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://data-stories-website.s
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://deliveries.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://delivery-promise.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://devicemanager.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://discovery-app-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://domain-suggestion-api-two-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://domain-suggestion-api-two.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://duties-taxes-service.shopifycloud.com/
@@ -454,6 +479,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://flow-connectors-canada
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://flow-connectors-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://flow-connectors.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://forms.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://frontapp-hrc.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ftf-app-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ftf-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fulfillify.shopifycloud.com/
@@ -464,11 +490,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommenda
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://github-certification.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://google-shopping-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://google-shopping.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://graphql-schema-bot.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://growth-tools.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hatchful-web-two.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hs-codes-service.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://import-store.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://inter-shop-domain-transfer.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://jgv-test-app2.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launchpad-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launchpad.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launchproduct.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://marketing-landing-pages-staging.shopifycloud.com/
@@ -520,11 +549,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopclass2018.shopifyc
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopcodes-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopcodes.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-audiences-staging.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-audiences.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-bids-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-bids.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-classifieds.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-dev.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-events-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-events.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-graphiql-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-payments-webhook-proxy.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-slack-bot-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopify-slack-bot.shopifycloud.com/
@@ -563,6 +595,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app-activity-integrat
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://apple-business-chat-commerce-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://apple-business-chat-commerce.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://arrive-server.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://arrive-website.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://athena-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://athena.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://atlas.shopifycloud.com/
@@ -587,6 +620,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://clusters-staging.shop
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://clusters.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://compass.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://country-service.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cross-sell-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://curated-commerce-curator-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://curated-commerce-curator.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://curated-commerce-staging.shopifycloud.com/
@@ -597,6 +631,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://data-stories-website.
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://deliveries.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://delivery-promise.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://devicemanager.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://discovery-app-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://domain-suggestion-api-two-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://domain-suggestion-api-two.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://duties-taxes-service.shopifycloud.com/
@@ -615,6 +650,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://flow-connectors-canad
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://flow-connectors-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://flow-connectors.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://forms.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://frontapp-hrc.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ftf-app-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ftf-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fulfillify.shopifycloud.com/
@@ -625,11 +661,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://geolocation-recommend
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://github-certification.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://google-shopping-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://google-shopping.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://graphql-schema-bot.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://growth-tools.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hatchful-web-two.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hs-codes-service.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://import-store.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://inter-shop-domain-transfer.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://jgv-test-app2.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://launchpad-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://launchpad.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://launchproduct.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://marketing-landing-pages-staging.shopifycloud.com/
@@ -682,12 +721,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopclass2018.shopify
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopcodes-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopcodes.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-audiences-staging.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-audiences.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-bids-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-bids.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-classifieds.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-dev.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-events-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-events.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-graphiql-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-payments-webhook-proxy.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-slack-bot-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify-slack-bot.shopifycloud.com/

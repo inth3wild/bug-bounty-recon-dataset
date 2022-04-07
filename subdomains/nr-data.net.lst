@@ -52,6 +52,7 @@ elastic-ellis.cell.us.nr-data.net
 eu-bitter-pack.cell.eu.nr-data.net
 eu-brave-experience.cell.eu.nr-data.net
 eu-flat-treat.cell.eu.nr-data.net
+eu-floppy-ears.cell.eu.nr-data.net
 eu-fresh-motor.cell.eu.nr-data.net
 eu-glass-king.cell.eu.nr-data.net
 eu-jaded-stage.cell.eu.nr-data.net
@@ -132,6 +133,7 @@ sleepy-brown.cell.us.nr-data.net
 spicy-flavortown.cell.us.nr-data.net
 staging-bam-cell.nr-data.net
 staging-bam.nr-data.net
+staging-fedramp-ingest.newrelic.com.gov-otlp.nr-data.net
 staging-insights-collector-origin.nr-data.net
 staging-otlp.nr-data.net
 staging-service.nr-data.net

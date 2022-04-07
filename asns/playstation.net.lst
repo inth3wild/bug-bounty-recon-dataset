@@ -24,9 +24,11 @@ email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM INC. US 52.72.0.0/15
 email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 email.stg.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
 escher-stg.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+ext.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
 gs2-sec.ww.e1.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 gs2-sec.ww.prod.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.219.92.0/23
 help-system.tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.57.128.0/19
+int.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
 kamajiwt.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.64.96.0/20
 kiki.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 m.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.10.128.0/20

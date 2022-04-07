@@ -3,9 +3,9 @@ about.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 addir-stage01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 adtester.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 advertisers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
-airflow.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
+airflow.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 airflow.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-airflow.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+airflow.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 am-01.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-01.ix7.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-02.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -26,7 +26,7 @@ data-analytics-ssl.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE L
 data-iab-interface.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
 data-iab-interface.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 data-iab-interface.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-data-mlflow.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
+data-mlflow.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 146.148.0.0/17
 data-tagme-rest-api.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 daysoff.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -105,6 +105,7 @@ developers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 dmxleo.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.149.0.0/16
 dmxleo.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
 dorne-legacy.stage-01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
+druid-broker-partner-stats.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 druid-partner-stats.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 email.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 ext.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -181,7 +182,7 @@ family-filter.stage-70.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195
 faq.dailymotion.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 flex.dailymotion.com AS16509 AS16509 - AMAZON.COM INC. US 15.188.0.0/16
 fr.advertising.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
-grafana.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+grafana.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 graphql-dc3.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 graphql-ix7.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 graphql-lrp.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
@@ -206,7 +207,7 @@ partner-stats.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US
 partner.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
 preprod.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 prometheus.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
-prometheus.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+prometheus.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 prometheus.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 prproxy.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 recommender-minio-staging-ew1.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14

@@ -9,6 +9,7 @@ https://braintreegateway.com [301] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800
 https://braintreegateway.com:8443 [403] [GET] [text/html] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://client-analytics.braintreegateway.com [200] [GET] [text/javascript] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://forwarding.braintreegateway.com [200] [GET] [text/html] [Braintree Forward API] [nginx] [Nginx] [f288fd721d25640e6596441cbea78f34]
+https://forwarding.braintreegateway.com:8443 [200] [GET] [text/html] [Braintree Forward API] [nginx] [Nginx] [f288fd721d25640e6596441cbea78f34]
 https://forwarding.sandbox.braintreegateway.com [200] [GET] [text/html] [Braintree Forward API] [nginx] [Nginx] [f288fd721d25640e6596441cbea78f34]
 https://gstatic.braintreegateway.com [200] [GET] [text/html] [The page you were looking for doesn't exist (404)] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [adc851c2e0698b5d05ef0380ed69f6b9]
 https://gstatic.sandbox.braintreegateway.com [200] [GET] [text/html] [The page you were looking for doesn't exist (404)] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [adc851c2e0698b5d05ef0380ed69f6b9]

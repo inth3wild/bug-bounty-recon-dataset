@@ -1,5 +1,4 @@
 http://minisites-dev.kinepolis.be [403] [GET] [text/html] [403 Forbidden] [Apache] [Apache] [0152ed695f4291488741d98ba066d280]
-http://shop-dev.kinepolis.be:8080 [404] [GET] [application/json] [] [nginx] [Nginx] [8a80554c91d9fca8acb82f023de02f11]
 http://stage-tribe.kinepolis.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://business.kinepolis.be:8443 [200] [GET] [text/html] [Kinepolis Business, meer dan alleen cinema] [cloudflare] [vhost] [Cloudflare Network Error Logging,Google Tag Manager,HubSpot,HubSpot CMS Hub] [ee699972823fa4816a8d3403e5275f8f]
 https://corporate.kinepolis.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]

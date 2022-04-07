@@ -12,6 +12,7 @@ http://kibana-dev.fallguys-dev.oncatapult.com
 http://kibana-loadtest.fallguys-dev.oncatapult.com
 http://kibana-prod.fallguys.oncatapult.com
 http://kibana.catapult-dev.oncatapult.com
+http://loadtest-api-testci.catapult-dev.oncatapult.com
 http://loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 http://mmbetaapi.fallguys-dev.oncatapult.com
 http://prod.cms.oncatapult.com
@@ -67,6 +68,7 @@ https://kibana-prod.fallguys.oncatapult.com
 https://kibana.catapult-dev.oncatapult.com
 https://level-gateway-loadtest2.fallguys-dev.oncatapult.com
 https://level-gateway-testci.fallguys-dev.oncatapult.com
+https://loadtest-api-testci.catapult-dev.oncatapult.com
 https://loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 https://login-admin-clientdev.fallguys-dev.oncatapult.com
 https://login-admin-closedbeta.fallguys-dev.oncatapult.com
@@ -91,6 +93,7 @@ https://matchmaking-gateway-complianceqa.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-externalqa.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-internalqa.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-loadtest2.fallguys-dev.oncatapult.com
+https://matchmaking-gateway-mobileqa.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-openbeta.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-porting.fallguys-dev.oncatapult.com
 https://matchmaking-gateway-prod3.fallguys.oncatapult.com

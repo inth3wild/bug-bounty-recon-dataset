@@ -340,7 +340,9 @@ cdn-ak-gls-2.gs.com
 cdn-ak-lgs-2.gs.com
 cdn-ak-lgs-apac1.gs.com
 cdn-ak-lgs-apac2.gs.com
+cdn-ak-lgs-apac3.gs.com
 cdn-ak-lgs-china.gs.com
+cdn-ak-lgs-china2.gs.com
 cdn-ak-lgs-emea.gs.com
 cdn-ak-mq-1.gs.com
 cdn-ak-mq-2.gs.com
@@ -1478,6 +1480,7 @@ qa.confluence.devcollab.gs.com
 qa.dev.gs.com
 qa.developer.gs.com
 qa.egressproxy.sky.site.gs.com
+qa.events.gs.com
 qa.fx.gs.com
 qa.growth.gs.com
 qa.gs.com
@@ -1491,6 +1494,7 @@ qa.jira.devcollab.gs.com
 qa.jira2.devcollab.gs.com
 qa.jira3.devcollab.gs.com
 qa.login.higher.gs.com
+qa.marcus.aws.ssl.tableau.site.gs.com
 qa.marcus.jira.devcollab.gs.com
 qa.marketing.gs.com
 qa.marqueetrader.gs.com

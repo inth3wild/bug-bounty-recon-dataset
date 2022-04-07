@@ -80,6 +80,8 @@ https://broker.miwifi.com [400] [GET] [application/octet-stream] [] [Tengine] [v
 https://d.miwifi.com [403] [GET] [text/html] [403 Forbidden] [Tengine] [Tengine] [0db87040d2253f6cca33ed28ea701cde]
 https://d.miwifi.com [403] [GET] [text/html] [403 Forbidden] [Tengine] [Tengine] [3cd75a1ddb3dcc3663aae7377fcb18fc]
 https://eu.api.miwifi.com [404] [GET] [text/html] [404 Not Found] [Tengine] [vhost] [Tengine] [8e1ab6d0065eb5edd6965bfa361bc2dc]
+https://eu.bigota.miwifi.com [400] [GET] [application/octet-stream] [] [nginx] [vhost] [Nginx] [67f8c577d03aa5d20070fde82cf245b5]
+https://eu.bigota.miwifi.com:8069 [403] [GET] [text/html] [403 Forbidden] [kngx/1.10.2] [f03f6374032e5b8a45972d62fdda96a0]
 https://eu.broker.miwifi.com [400] [GET] [application/octet-stream] [] [nginx] [vhost] [Nginx] [3be07f8afba0e6401221f3881f83c433]
 https://eu.broker.miwifi.com [400] [GET] [application/octet-stream] [] [nginx] [vhost] [Nginx] [ec9a0f98436c63339b8523e3495eb889]
 https://eu.broker.miwifi.com:10002 [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [64547b5131c24f4eec707dd663d3fa41]

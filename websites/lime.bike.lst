@@ -11,6 +11,16 @@ http://inbound.lime.bike
 http://internal.lime.bike
 http://iot-platform-core.lime.bike
 http://juicer.lime.bike
+http://lime.bike
+http://lime.bike:2053
+http://lime.bike:2082
+http://lime.bike:2083
+http://lime.bike:2086
+http://lime.bike:2087
+http://lime.bike:2096
+http://lime.bike:8080
+http://lime.bike:8443
+http://lime.bike:8880
 http://lp-staging.lime.bike
 http://lp.lime.bike
 http://rasserver-staging.lime.bike
@@ -38,6 +48,7 @@ https://inbound.lime.bike
 https://internal.lime.bike
 https://iot-platform-core.lime.bike
 https://juicer.lime.bike
+https://lime.bike
 https://lp-staging.lime.bike
 https://lp.lime.bike
 https://rasserver-staging.lime.bike

@@ -19,6 +19,7 @@ https://forecast-api.scoober.com [401] [GET] [application/json] [] [custom] [vho
 https://internal.beta.scoober.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [23df62569b6894b846b836cb67ae778f]
 https://job-list.beta.scoober.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [623f51b306b04ab7f73509e38a456eb8]
 https://job-list.beta.scoober.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [941da31fdf3841d576199f77acbd4d35]
+https://newsletter.scoober.com [404] [GET] [text/html] [Page Not Available | Mailchimp] [openresty] [vhost] [Nginx,OpenResty] [7c15786f5def1bfe06aa967f4b795cd1]
 https://payroll-api.dev.scoober.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://payroll-api.scoober.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://restaurant.dev.scoober.com [200] [GET] [text/html] [Restaurant - Scoober] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,AngularJS] [f454c145c4d37f75b9f068cd8a42565e]

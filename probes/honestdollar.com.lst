@@ -1,5 +1,3 @@
-http://help.honestdollar.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
-http://uat.help.honestdollar.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
 https://admin.honestdollar.com [301] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://admin.uat.honestdollar.com [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [8031eb9590dc036930214f952933b793]
 https://admin.uat.honestdollar.com [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [8967deb6ff78c7a36df8b75572f075e7]
@@ -33,7 +31,6 @@ https://services.uat.honestdollar.com [302] [GET] [text/html] [302 Found] [Apach
 https://site.honestdollar.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [0e63b9777930a7ac7d67c7a83ecc1d3c]
 https://site.honestdollar.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [952fcfeb0f204950ebb16de680148f82]
 https://site.uat.honestdollar.com [302] [GET] [text/html] [302 Found] [Apache] [vhost] [Apache] [52384b95446443b626500f2d8f083a73]
-https://uat.help.honestdollar.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Zendesk] [f10f0598369e3f13bd110d7e793c2ac2]
 https://uat.honestdollar.com [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [c0b8dc5f9cf7fba15ebc9ce3bfd8c8fd]
 https://uat.honestdollar.com [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [c7d05525b7f27094c4be28bd6eb881f4]
 https://v.honestdollar.com [400] [GET] [text/html] [] [Apache] [Apache] [825644f747baab2c00e420dbbc39e4b3]

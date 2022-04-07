@@ -7,6 +7,7 @@ https://app.tesla.cn [404] [GET] [] [] [AkamaiNetStorage] [vhost] [7605968e79d0c
 https://auth-stage.tesla.cn [200] [GET] [text/html] [SVG Lookup Table] [] [vhost] [Akamai] [7142e1d0e69bb3f95e652f8c0460b846]
 https://auth.tesla.cn [200] [GET] [text/html] [SVG Lookup Table] [] [vhost] [Akamai] [2312254c21d7f675ec6ccebd63d1fefe]
 https://community.tesla.cn [200] [GET] [text/html] [Tesla] [] [vhost] [80681c13c65692eb1a312d032dc67804]
+https://crossdock.tesla.cn [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [df8e9629ca181edd38ca5bac640f1b83]
 https://digitalassets-shop.tesla.cn [301] [GET] [] [] [Cloudinary] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://enterpriseenrollment.tesla.cn [302] [GET] [] [] [Microsoft-IIS/10.0] [azure] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
 https://enterpriseregistration.tesla.cn [404] [GET] [text/html] [Service] [] [azure] [17654c28a506596d05424ea295203bac]

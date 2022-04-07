@@ -60,6 +60,9 @@ blockfi-wp-prod.blockfi.com
 blockfi.com
 blog.blockfi.com
 blog.test.blockfi.com
+bullseye.dv.aws.blockfi.com
+bullseye.retail-dev.aws.blockfi.com
+bx.aws.blockfi.com
 celebi.chain-infrastructure-sandbox.aws.blockfi.com
 cerebro-prod.blockfi.com
 cerebro-sandbox.blockfi.com
@@ -116,9 +119,14 @@ mystique-st.retail-staging.aws.blockfi.com
 nebula-prod.blockfi.com
 nebula-sandbox.blockfi.com
 nebula.blockfi.com
+nick.shield-sandbox.aws.blockfi.com
 o1.ptr9077.blockfi.com
 orion-usage-test-dv.retail-dev.aws.blockfi.com
 pen-test.shield-sandbox.aws.blockfi.com
+pen-test2.shield-sandbox.aws.blockfi.com
+pen-test3.shield-sandbox.aws.blockfi.com
+pen-test4.shield-sandbox.aws.blockfi.com
+pen-test5.shield-sandbox.aws.blockfi.com
 pikachu.chain-infrastructure-sandbox.aws.blockfi.com
 pm-bounces.blockfi.com
 prime.blockfi.com
@@ -134,6 +142,7 @@ punchcard-dv.retail-dev.aws.blockfi.com
 punchcard-pr.retail-prod.aws.blockfi.com
 punchcard-st.retail-staging.aws.blockfi.com
 query-analyzer-dv.retail-dev.aws.blockfi.com
+query-analyzer-st.retail-staging.aws.blockfi.com
 rates.blockfi.com
 rhyhorn.chain-infrastructure-sandbox.aws.blockfi.com
 scim.retool-dev.aws.blockfi.com
@@ -159,6 +168,7 @@ storm2-st.retail-staging.aws.blockfi.com
 tableau.blockfi.com
 test.blockfi.com
 testdeploy.shield-sandbox.aws.blockfi.com
+timeline.fraud-dev.aws.blockfi.com
 togepi.chain-infrastructure-sandbox.aws.blockfi.com
 try.blockfi.com
 virtru-cks.blockfi.com
@@ -169,6 +179,7 @@ vis930.shield-sandbox.aws.blockfi.com
 vis930test.shield-sandbox.aws.blockfi.com
 vis930test2.shield-sandbox.aws.blockfi.com
 vis930test3.shield-sandbox.aws.blockfi.com
+vis995.shield-sandbox.aws.blockfi.com
 vision-prod.blockfi.com
 vision-sandbox.blockfi.com
 vision.blockfi.com

@@ -385,6 +385,7 @@ preprod.consumer.communications.marcus.com
 privatelink.infra.marcus.com
 privelbaec-prod.acqueon.infra.marcus.com
 privelbaec-qa.acqueon.infra.marcus.com
+prod-ha.scan.infra.marcus.com
 prod-pilot.agent.infra.marcus.com
 prod-sftp.infra.marcus.com
 prod-vip-splunk.vendor.marcus.com

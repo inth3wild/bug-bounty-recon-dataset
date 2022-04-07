@@ -289,7 +289,7 @@ https://auth3.uber.com [404] [GET] [text/plain] [] [ufe] [vhost] [Envoy] [9d1ead
 https://authn-foo.uber.com [301] [GET] [] [] [ufe] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://autor.uber.com [404] [GET] [] [] [ufe] [vhost] [Google Cloud,Google Cloud CDN] [d41d8cd98f00b204e9800998ecf8427e]
 https://base-design-docs-controller.uber.com [404] [GET] [text/html] [Error] [ufe] [vhost] [Envoy,Express,Google Cloud,Google Cloud CDN,Node.js] [da7da7d630292e7a2a7dda8ca87b3d39]
-https://base.uber.com [200] [GET] [text/html] [Expand] [Vercel] [vhost] [Vercel] [64915f945295ec15e94a878249ff32a9]
+https://base.uber.com [200] [GET] [text/html] [nuxtjs] [Vercel] [vhost] [Node.js,Nuxt.js,Vercel,Vue.js] [67bf94bb526b0e5b9405b61a41fc39d1]
 https://bb-dca1.uber.com [307] [GET] [text/html] [307 Temporary Redirect] [ufe] [Envoy] [62019120e2e6b6a77d348c07ed5801aa]
 https://bb-sjc1.uber.com [307] [GET] [text/html] [307 Temporary Redirect] [ufe] [Envoy] [62019120e2e6b6a77d348c07ed5801aa]
 https://be-geo.cfe.uber.com [405] [GET] [application/json] [] [ufe] [Envoy,Google Cloud,Google Cloud CDN] [334c2243bd7f284b609382aa13906343]

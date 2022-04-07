@@ -48,6 +48,7 @@ attinsight.bitdefender.com
 aur.bitdefender.com
 aut1.bitdefender.com
 aut1a.bitdefender.com
+auth.mdr.bitdefender.com
 auth.mdrt.bitdefender.com
 autodiscover.bitdefender.com
 autoreply.bitdefender.com
@@ -406,6 +407,8 @@ research-stage.bitdefender.com
 research.bitdefender.com
 resellerportal.bitdefender.com
 rgesk.omp.connect.bitdefender.com
+rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com
+rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com
 rvbpq.omp.connect.bitdefender.com
 s1.bitdefender.com
 s2.bitdefender.com

@@ -147,6 +147,8 @@ agents-summit03-cloud.acronis.com
 agents-tr01-cloud.acronis.com
 agents-tw01-cloud.acronis.com
 agents-us-cloud.acronis.com
+agents-us11-cloud.acronis.com
+agents-us12-cloud.acronis.com
 agents-us4-cloud.acronis.com
 agents-us5-cloud.acronis.com
 agents-us8-cloud.acronis.com
@@ -428,6 +430,8 @@ cloud-wr-sg1.acronis.com
 cloud-wr-tr01.acronis.com
 cloud-wr-tw01.acronis.com
 cloud-wr-us1.acronis.com
+cloud-wr-us11.acronis.com
+cloud-wr-us12.acronis.com
 cloud-wr-us2-02.acronis.com
 cloud-wr-us2.acronis.com
 cloud-wr-us2a.acronis.com
@@ -454,6 +458,10 @@ corp-dc2.corp.acronis.com
 corp-dc3.corp.acronis.com
 corp-dc6.corp.acronis.com
 corp.acronis.com
+cox1-repo.acronis.com
+cox1-s3gw.acronis.com
+cox2-repo.acronis.com
+cox2-s3gw.acronis.com
 cp-eu2.acronis.com
 cp.partners.acronis.com
 cpaneltest1.acronis.com
@@ -690,6 +698,8 @@ i3.acronis.com
 i3.eu.acronis.com
 i4.acronis.com
 i4.eu.acronis.com
+iad10-repo.acronis.com
+iad10-s3gw.acronis.com
 ibcm.acronis.com
 icn1-repo.acronis.com
 icn1-s3gw.acronis.com
@@ -1060,6 +1070,8 @@ rs-tr01-cloud.acronis.com
 rs-tw01-cloud.acronis.com
 rs-us-baas.acronis.com
 rs-us-cloud.acronis.com
+rs-us11-cloud.acronis.com
+rs-us12-cloud.acronis.com
 rs-us4-baas.acronis.com
 rs-us4-cloud.acronis.com
 rs-us5-baas.acronis.com
@@ -1312,6 +1324,7 @@ us-wr-cloud.acronis.com
 us.jp-pp.acronis.com
 us.metro.acronis.com
 us1.download.acronis.com
+us12-cloud.acronis.com
 us2-baas.acronis.com
 us2-bc-baas.acronis.com
 us2-wr-baas.acronis.com
@@ -1580,6 +1593,7 @@ www.us-ma-vpn.acronis.com
 www.us-ma-vpn2.acronis.com
 www.us-rnd-grafana.corp.acronis.com
 www.us-ts.acronis.com
+www.us12-cloud.acronis.com
 www.vcda.acronis.com
 www.webteam-grafana.corp.acronis.com
 www.webteam-zbx.corp.acronis.com

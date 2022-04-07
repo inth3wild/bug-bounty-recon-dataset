@@ -5,6 +5,9 @@ http://accountservices.betfair.it:8080
 http://acwbf.betfair.it
 http://acwbf.betfair.it:8080
 http://affiliates.betfair.it
+http://affiliates.betfair.it:2052
+http://affiliates.betfair.it:2082
+http://affiliates.betfair.it:2086
 http://affiliates.betfair.it:8080
 http://api.betfair.it
 http://api.betfair.it:8080
@@ -188,6 +191,8 @@ https://accountservices.betfair.it:8443
 https://acwbf.betfair.it
 https://acwbf.betfair.it:8443
 https://affiliates.betfair.it
+https://affiliates.betfair.it:2083
+https://affiliates.betfair.it:2087
 https://affiliates.betfair.it:8443
 https://api.betfair.it
 https://api.betfair.it:8443

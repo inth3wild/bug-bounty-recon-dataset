@@ -186,6 +186,7 @@ http://bcldb-integration-staging.shopifycloud.com
 http://bcldb-integration-uat-web-pxu-na-ne1-2.shopifycloud.com
 http://bcldb-integration-uat.shopifycloud.com
 http://bcldb-integration.shopifycloud.com
+http://beaker-metadata.shopifycloud.com
 http://beaker-view.streamlit-service.shopifycloud.com
 http://beaver.shopifycloud.com
 http://beta-buddy-production-web-apps-b-us-east1-5.shopifycloud.com
@@ -404,7 +405,9 @@ http://cloud-portal-apps-sandbox1-us-east1-hu25.shopifycloud.com
 http://cloud-portal-apps-sandbox2-us-central1-2.shopifycloud.com
 http://cloud-portal-core-exp-us-east1-3.shopifycloud.com
 http://cloud-portal-core-n1-us-ce1-kq61.shopifycloud.com
+http://cloud-portal-core-n1-us-ce1-nk30.shopifycloud.com
 http://cloud-portal-core-n1-us-ce1-rq03.shopifycloud.com
+http://cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com
 http://cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com
 http://cloud-portal-core-na-ne1-ns05.shopifycloud.com
 http://cloud-portal-core-us-ce1-sz55.shopifycloud.com
@@ -453,6 +456,7 @@ http://cloud-portal-es-apps-b-us-east1-1.shopifycloud.com
 http://cloud-portal-es-apps-na-ne1-1.shopifycloud.com
 http://cloud-portal-genghis-us-central1-1.shopifycloud.com
 http://cloud-portal-genghis-us-east1-1.shopifycloud.com
+http://cloud-portal-imagery-staging-us-ea1-fz36.shopifycloud.com
 http://cloud-portal-imagery-staging-us-east1-1.shopifycloud.com
 http://cloud-portal-imagery-us-central1-2.shopifycloud.com
 http://cloud-portal-imagery-us-central1-7.shopifycloud.com
@@ -592,6 +596,7 @@ http://commerce-algorithms-production-unres-5lm4hspk-apps-b-us-east1-7.shopifycl
 http://commerce-algorithms-production-unres-trrjqqzm-apps-b-us-east1-7.shopifycloud.com
 http://commerce-algorithms.shopifycloud.com
 http://commerceplus-production-unrestric-xx5lyncp-apps-b-us-central1-9.shopifycloud.com
+http://commerceplus-staging.shopifycloud.com
 http://commerceplus.shopifycloud.com
 http://commissioned-art-marketplace-app.shopifycloud.com
 http://comms-product-analysis-production-un-tkjjfqtx-apps-b-us-east1-8.shopifycloud.com
@@ -648,6 +653,7 @@ http://courier-canada.shopifycloud.com
 http://courier-production-canada-pii-restricted-web-apps-a-na-ne1-3.shopifycloud.com
 http://courier-production-web-apps-a-us-east1-5.shopifycloud.com
 http://courier-queue-test.shopifycloud.com
+http://courier-test-inbound.shopifycloud.com
 http://courier-tier2-central.shopifycloud.com
 http://courier-tier2.shopifycloud.com
 http://courier.shopifycloud.com
@@ -700,6 +706,7 @@ http://customer-data-platform.shopifycloud.com
 http://customer-engagement-service.shopifycloud.com
 http://customers-demo.shopifycloud.com
 http://customers.shopifycloud.com
+http://cypress-tests.shopifycloud.com
 http://d1egoaz-test-staging.shopifycloud.com
 http://d1egoaz-test.shopifycloud.com
 http://d4p3r.kibana.shopifycloud.com
@@ -709,6 +716,7 @@ http://dancefloor-staging.shopifycloud.com
 http://dancefloor.shopifycloud.com
 http://darby-production-web-apps-b-us-east1-5.shopifycloud.com
 http://darby.shopifycloud.com
+http://data-app-discovery.streamlit-service.shopifycloud.com
 http://data-frustrations-production-u-yrancml2-es-apps-b-us-central1-2.shopifycloud.com
 http://data-frustrations-production-unre-bgsd5rr4-apps-b-us-central1-9.shopifycloud.com
 http://data-frustrations.es-2ijln.shopifycloud.com
@@ -748,6 +756,7 @@ http://dcampos-h2-playground.shopifycloud.com
 http://declarative-forms-playground.shopifycloud.com
 http://deep-pii-production-unrestricted-ksvc-web-apps-b-us-east1-7.shopifycloud.com
 http://deep-pii.shopifycloud.com
+http://deep-tagging-similarity-jan2022.shopifycloud.com
 http://deep-understanding-similarity.shopifycloud.com
 http://delaygateway.shopifycloud.com
 http://delegation-of-authority-bot.shopifycloud.com
@@ -765,6 +774,10 @@ http://dev-docs-interactive.streamlit-service.shopifycloud.com
 http://dev-docs-sandbox.shopifycloud.com
 http://dev-success-2022-onboarding.shopifycloud.com
 http://dev-til.shopifycloud.com
+http://devdegree-bridge-ariana.shopifycloud.com
+http://devdegree-bridge-beyonce.shopifycloud.com
+http://devdegree-bridge-celine.shopifycloud.com
+http://devdegree-bridge-mariah.shopifycloud.com
 http://devdegree-placements-production-u-5ihsivub-apps-b-us-central1-9.shopifycloud.com
 http://devdegree-placements.shopifycloud.com
 http://devdegree-training-path-groups.shopifycloud.com
@@ -790,6 +803,7 @@ http://digital-community.shopifycloud.com
 http://disco-server-staging.shopifycloud.com
 http://disco-server.shopifycloud.com
 http://discounts-app-node.shopifycloud.com
+http://discovery-app-staging.shopifycloud.com
 http://docs.shopifycloud.com
 http://documentation-changelog-production-web-apps-a-us-east1-9.shopifycloud.com
 http://documentation-changelog-staging-unre-tr2rqnh6-apps-b-us-east1-8.shopifycloud.com
@@ -815,6 +829,7 @@ http://drill-deploy-production-canada-pii-rest-qxj6ubut-tier1-na-ne1-6.shopifycl
 http://drill-deploy-staging-unrestricted-u6-3no2i2gi-apps-b-us-east1-8.shopifycloud.com
 http://drill-staging.shopifycloud.com
 http://drill.shopifycloud.com
+http://drinks-app-staging.shopifycloud.com
 http://dsh3n.kibana.shopifycloud.com
 http://duties-taxes-service.shopifycloud.com
 http://dx3pr.kibana.shopifycloud.com
@@ -870,6 +885,7 @@ http://elasticsearch.secure-elasticsearch.data-portal-production.shopifycloud.co
 http://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted-pt50.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted-vats.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.deep-tagging-similarity-jan2022-production-unrestricted-y586.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-production-canada-pii-restr-5caf7984.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.shopifycloud.com
@@ -880,6 +896,7 @@ http://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-unr
 http://elasticsearch.secure-elasticsearch.ha-test-app-production-unrestricted.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.marketplace-platform-staging-unrestricted-muca.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
+http://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.shopify-payments-tools-production-unrestricted-rnzq.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.thehive-staging-unrestricted.shopifycloud.com
 http://elasticsearch.secure-elasticsearch.tree-house-production-unrestricted-z9uf.shopifycloud.com
@@ -928,6 +945,7 @@ http://es7-core-us-east1-es7--elasticsearch-es-core-us-east1-4.shopifycloud.com
 http://es7-core-us-east1-es7--kibana-es-core-us-east1-4.shopifycloud.com
 http://es7-staging-es-staging--elasticsearch-es-staging-us-central1-3.shopifycloud.com
 http://es7-staging-es-staging--kibana-es-staging-us-central1-3.shopifycloud.com
+http://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
 http://esinstance-test.secure-elasticsearch.leila.shopifycloud.com
 http://estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifycloud.com
 http://estuary.shopifycloud.com
@@ -951,7 +969,9 @@ http://exchange-staging-exchange-es6--el-mox7ulps-es-apps-b-us-east1-1.shopifycl
 http://exchange-staging-web-nginx-apps-b-us-east1-9.shopifycloud.com
 http://exchange-staging.shopifycloud.com
 http://exchange.shopifycloud.com
+http://exp-sample-size-calculator.streamlit-service.shopifycloud.com
 http://expansion-tool.shopifycloud.com
+http://experiment-explorer.streamlit-service.shopifycloud.com
 http://experiments-dashboard-production-webhooks-apps-a-us-east1-8.shopifycloud.com
 http://experiments-dashboard.shopifycloud.com
 http://explainify-production-unrestricted-web-apps-core-us-east1-1.shopifycloud.com
@@ -981,6 +1001,8 @@ http://fast-shopify.shopifycloud.com
 http://fastdog.shopifycloud.com
 http://fauxchure-production-unrestricted-web-apps-a-us-east1-5.shopifycloud.com
 http://fauxchure.shopifycloud.com
+http://fb-capi-staging-unrestricted-oku9-i0.shopifycloud.com
+http://fb-capi-staging-unrestricted-oku9-i1.shopifycloud.com
 http://fb-capi-staging.shopifycloud.com
 http://fb-capi.shopifycloud.com
 http://fbs-production-rails-node-ssr-apps-a-us-east1-6.shopifycloud.com
@@ -1326,6 +1348,7 @@ http://imagery4-staging.shopifycloud.com
 http://imagery4.shopifycloud.com
 http://import-store.shopifycloud.com
 http://inbox-message-classification-product-taxevqwo-apps-b-us-east1-7.shopifycloud.com
+http://inbox-message-classification-staging.shopifycloud.com
 http://inbox-message-classification.shopifycloud.com
 http://inbox-web-client-host-staging.shopifycloud.com
 http://inbox-web-client-host.shopifycloud.com
@@ -1358,6 +1381,7 @@ http://james-es.secure-elasticsearch.james.shopifycloud.com
 http://james-esi.es-wtgdi.shopifycloud.com
 http://james-esi.kibana.james.shopifycloud.com
 http://james-esi.secure-elasticsearch.james.shopifycloud.com
+http://james-hall-test-staging.shopifycloud.com
 http://james-hall-test.shopifycloud.com
 http://james-james-esi--elasticsearch-es-staging-us-east1-1.shopifycloud.com
 http://james-james-esi--kibana-es-staging-us-east1-1.shopifycloud.com
@@ -1372,6 +1396,7 @@ http://jdkjw.kibana.shopifycloud.com
 http://jennys-test-app.shopifycloud.com
 http://jess-jess-staging-1--kibana-es-apps-a-us-east1-1.shopifycloud.com
 http://jess-staging-1-kibana.shopifycloud.com
+http://jessie-test-cicd-state.shopifycloud.com
 http://jessie-test-event-api.shopifycloud.com
 http://jgv-test-app2.shopifycloud.com
 http://jojo-test-three.shopifycloud.com
@@ -1507,6 +1532,7 @@ http://marketing-styleguide-staging3-unrest-5du5g7fb-apps-b-us-east1-3.shopifycl
 http://marketing-styleguide-staging3.shopifycloud.com
 http://marketing-styleguide.shopifycloud.com
 http://marketingguidelines.shopifycloud.com
+http://marketplace-api-gateway-staging.shopifycloud.com
 http://marketplace-api-gateway.shopifycloud.com
 http://marketplace-heist-extension-backe-ajjv32ka-apps-b-us-central1-9.shopifycloud.com
 http://marketplace-heist-extension-backend.shopifycloud.com
@@ -1524,6 +1550,8 @@ http://mbruce-redis-migration-test.shopifycloud.com
 http://mc-partner-node-app-production-un-7e5xvilc-apps-b-us-central1-8.shopifycloud.com
 http://mc-partner-node-app.shopifycloud.com
 http://mc-partner-store.shopifycloud.com
+http://mdp-poc.shopifycloud.com
+http://memeify.shopifycloud.com
 http://merch-data-toolkit-sandbox-produc-esdhj3wk-apps-b-us-central1-8.shopifycloud.com
 http://merch-data-toolkit-sandbox-produc-zswks4vv-apps-b-us-central1-8.shopifycloud.com
 http://merch-data-toolkit-sandbox.shopifycloud.com
@@ -1558,6 +1586,7 @@ http://messenger-commerce.shopifycloud.com
 http://messenger-instagram-backend-staging.shopifycloud.com
 http://messenger-instagram-backend.shopifycloud.com
 http://meta-channel-poc.shopifycloud.com
+http://metadata-catalog-staging-se0h.shopifycloud.com
 http://metadata-catalog-staging.shopifycloud.com
 http://metadata-catalog.shopifycloud.com
 http://metric-cost-analysis.shopifycloud.com
@@ -1654,6 +1683,7 @@ http://mozart-pocs.shopifycloud.com
 http://mozart-production-unrestricted-0mnb--kjjokxba-apps-b-us-east1-8.shopifycloud.com
 http://mozart-staging.shopifycloud.com
 http://mozart.shopifycloud.com
+http://mrcthms-polaris-tokens-explorer.shopifycloud.com
 http://museum.shopifycloud.com
 http://my-es.kibana.my-test-namespace.shopifycloud.com
 http://my-es.secure-elasticsearch.my-test-namespace.shopifycloud.com
@@ -1700,6 +1730,7 @@ http://notary.shopifycloud.com
 http://notebooks-app.shopifycloud.com
 http://notebooks-staging.shopifycloud.com
 http://nyxr4.kibana.shopifycloud.com
+http://o11y-playground-service.shopifycloud.com
 http://o2dtd.kibana.shopifycloud.com
 http://oaceh.kibana.shopifycloud.com
 http://oauthboss-integration-test.shopifycloud.com
@@ -1788,6 +1819,7 @@ http://org-admin-web-staging-4.shopifycloud.com
 http://org-admin-web-staging-5.shopifycloud.com
 http://org-admin-web-staging-7won.shopifycloud.com
 http://org-admin-web-staging-c0n6.shopifycloud.com
+http://org-admin-web-staging-d9f2.shopifycloud.com
 http://org-admin-web-staging-ezky.shopifycloud.com
 http://org-admin-web-staging-pz8w.shopifycloud.com
 http://org-admin-web-staging-sxyc.shopifycloud.com
@@ -1859,6 +1891,7 @@ http://pcp-engine-production-unrestricte-mpputyx3-apps-b-us-central1-9.shopifycl
 http://pcp-engine-staging.shopifycloud.com
 http://pcp-engine.shopifycloud.com
 http://pepto-connector-manager-staging.shopifycloud.com
+http://pepto-connector-manager.shopifycloud.com
 http://pepto-infrastructure-pro-fcvtqre4-data-platform-a-us-central1-1.shopifycloud.com
 http://pepto-infrastructure.shopifycloud.com
 http://pepto-table-service-prod-sx2p3g6x-data-platform-a-us-central1-1.shopifycloud.com
@@ -2064,7 +2097,9 @@ http://reportify-query-staging-83ac.shopifycloud.com
 http://reportify-query-staging-query-admin-reportify-us-east1-3.shopifycloud.com
 http://reportify-query-staging.shopifycloud.com
 http://reports-audit.streamlit-service.shopifycloud.com
+http://reports-usage-network-graph.streamlit-service.shopifycloud.com
 http://requiem-in-d-minor.shopifycloud.com
+http://resoto.shopifycloud.com
 http://retail-labels-printer-production-web-apps-a-us-east1-5.shopifycloud.com
 http://retail-labels-printer.shopifycloud.com
 http://retail-search-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
@@ -2086,6 +2121,7 @@ http://robharper-test-marketplace.shopifycloud.com
 http://robots-txt-viewer.growth-labs.shopifycloud.com
 http://roger-tier4-2test.shopifycloud.com
 http://rohan-fluffy-go.shopifycloud.com
+http://rollout-monitor.streamlit-service.shopifycloud.com
 http://roshan-rep0-app-ra-thor-test-e-7wyjfnbd-es-apps-b-us-central1-2.shopifycloud.com
 http://roshan-rep0-app-ra-thor-test-e-hyr74e3b-es-apps-b-us-central1-2.shopifycloud.com
 http://roshan-rep1-app-ra-thor1-test--hohl66mi-es-apps-b-us-central1-2.shopifycloud.com
@@ -2155,6 +2191,7 @@ http://savage-sign-on.shopifycloud.com
 http://sbnua.kibana.shopifycloud.com
 http://scheduler.sfn-inventory-balancing-staging.shopifycloud.com
 http://scheduler.sfn-inventory-balancing.shopifycloud.com
+http://schema-migrations-staging.shopifycloud.com
 http://schema-migrations.shopifycloud.com
 http://schema-registry-viewer-production-chwn2nod-apps-b-us-central1-9.shopifycloud.com
 http://schema-registry-viewer-staging.shopifycloud.com
@@ -2304,6 +2341,7 @@ http://shop-exporter-production-shop-exporte-dtofz56t-core-us-east1-50.shopifycl
 http://shop-exporter.shopifycloud.com
 http://shop-list-production-unrestricted-0b-izt2dla7-apps-b-us-east1-9.shopifycloud.com
 http://shop-list.shopifycloud.com
+http://shop-lookup.streamlit-service.shopifycloud.com
 http://shop-mini-gift-exchange.shopifycloud.com
 http://shop-scryfall-server.shopifycloud.com
 http://shop-search-es.shopifycloud.com
@@ -2460,6 +2498,7 @@ http://shopimap.shopifycloud.com
 http://shopimoji-production-unrestricted-cr-cl4jyqfb-apps-b-us-east1-7.shopifycloud.com
 http://shopimoji.shopifycloud.com
 http://shopinauts-staging.shopifycloud.com
+http://shopinauts-web.shopifycloud.com
 http://shopisky-production-unrestricted--37wu6gkx-apps-b-us-central1-9.shopifycloud.com
 http://shopisky.shopifycloud.com
 http://shoplifter-api-server.shopifycloud.com
@@ -2615,11 +2654,13 @@ http://stocky-staging.shopifycloud.com
 http://stocky.shopifycloud.com
 http://store-localization.shopifycloud.com
 http://storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com
+http://storefront-search-us-east.secure-elasticsearch.storefront-search-production-useast-unrestricted-pmxy.shopifycloud.com
 http://streamlit-apps-production-unrestrict-5e6g5sxy-apps-b-us-east1-9.shopifycloud.com
 http://streamlit-apps.shopifycloud.com
 http://streamlit-poc-production-unrestricte-moeqcggl-apps-b-us-east1-8.shopifycloud.com
 http://streamlit-poc-staging.shopifycloud.com
 http://streamlit-poc.shopifycloud.com
+http://streamlit-service.shopifycloud.com
 http://streamlit.commerce-algorithms.shopifycloud.com
 http://streamlit.ecosystem-data-science.shopifycloud.com
 http://streamlit.revenue-data-research.shopifycloud.com
@@ -2672,6 +2713,8 @@ http://temp-dummy-domain.shopifycloud.com
 http://temp-tims-backend.shopifycloud.com
 http://tempo-staging-us-east1.shopifycloud.com
 http://tempo-tempo-tempo-us-east1-1.shopifycloud.com
+http://tempo-tempo-us-central1-2.shopifycloud.com
+http://tempo-tempo-us-east1-2.shopifycloud.com
 http://tempo-us-central1.shopifycloud.com
 http://tempo-us-east1.shopifycloud.com
 http://terminology-management-production-hxjrswkm-apps-b-us-central1-9.shopifycloud.com
@@ -2744,6 +2787,7 @@ http://traffic-misc-staging-unrestrict-krcclohc-tierstaging-us-east1-5.shopifycl
 http://traffic-misc-staging.shopifycloud.com
 http://traffic-misc.shopifycloud.com
 http://translation-platform.shopifycloud.com
+http://transporter-staging.shopifycloud.com
 http://transporter.shopifycloud.com
 http://trickle-production-platform-demo.flink.shopifycloud.com
 http://tricorder.shopifycloud.com
@@ -3108,6 +3152,7 @@ https://bcldb-integration-staging.shopifycloud.com
 https://bcldb-integration-uat-web-pxu-na-ne1-2.shopifycloud.com
 https://bcldb-integration-uat.shopifycloud.com
 https://bcldb-integration.shopifycloud.com
+https://beaker-metadata.shopifycloud.com
 https://beaker-view.streamlit-service.shopifycloud.com
 https://beaver.shopifycloud.com
 https://beta-buddy-production-web-apps-b-us-east1-5.shopifycloud.com
@@ -3324,7 +3369,9 @@ https://cloud-portal-apps-sandbox1-us-east1-hu25.shopifycloud.com
 https://cloud-portal-apps-sandbox2-us-central1-2.shopifycloud.com
 https://cloud-portal-core-exp-us-east1-3.shopifycloud.com
 https://cloud-portal-core-n1-us-ce1-kq61.shopifycloud.com
+https://cloud-portal-core-n1-us-ce1-nk30.shopifycloud.com
 https://cloud-portal-core-n1-us-ce1-rq03.shopifycloud.com
+https://cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com
 https://cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com
 https://cloud-portal-core-na-ne1-ns05.shopifycloud.com
 https://cloud-portal-core-us-ce1-sz55.shopifycloud.com
@@ -3375,6 +3422,7 @@ https://cloud-portal-es-apps-b-us-east1-1.shopifycloud.com
 https://cloud-portal-es-apps-na-ne1-1.shopifycloud.com
 https://cloud-portal-genghis-us-central1-1.shopifycloud.com
 https://cloud-portal-genghis-us-east1-1.shopifycloud.com
+https://cloud-portal-imagery-staging-us-ea1-fz36.shopifycloud.com
 https://cloud-portal-imagery-staging-us-east1-1.shopifycloud.com
 https://cloud-portal-imagery-us-central1-2.shopifycloud.com
 https://cloud-portal-imagery-us-central1-7.shopifycloud.com
@@ -3511,6 +3559,7 @@ https://commerce-algorithms-production-unres-5lm4hspk-apps-b-us-east1-7.shopifyc
 https://commerce-algorithms-production-unres-trrjqqzm-apps-b-us-east1-7.shopifycloud.com
 https://commerce-algorithms.shopifycloud.com
 https://commerceplus-production-unrestric-xx5lyncp-apps-b-us-central1-9.shopifycloud.com
+https://commerceplus-staging.shopifycloud.com
 https://commerceplus.shopifycloud.com
 https://commissioned-art-marketplace-app.shopifycloud.com
 https://comms-product-analysis-production-un-tkjjfqtx-apps-b-us-east1-8.shopifycloud.com
@@ -3563,6 +3612,7 @@ https://courier-canada.shopifycloud.com
 https://courier-production-canada-pii-restricted-web-apps-a-na-ne1-3.shopifycloud.com
 https://courier-production-web-apps-a-us-east1-5.shopifycloud.com
 https://courier-queue-test.shopifycloud.com
+https://courier-test-inbound.shopifycloud.com
 https://courier-tier2-central.shopifycloud.com
 https://courier-tier2.shopifycloud.com
 https://courier.shopifycloud.com
@@ -3615,6 +3665,7 @@ https://customer-data-platform.shopifycloud.com
 https://customer-engagement-service.shopifycloud.com
 https://customers-demo.shopifycloud.com
 https://customers.shopifycloud.com
+https://cypress-tests.shopifycloud.com
 https://d1egoaz-test-staging.shopifycloud.com
 https://d1egoaz-test.shopifycloud.com
 https://d4p3r.kibana.shopifycloud.com
@@ -3624,6 +3675,7 @@ https://dancefloor-staging.shopifycloud.com
 https://dancefloor.shopifycloud.com
 https://darby-production-web-apps-b-us-east1-5.shopifycloud.com
 https://darby.shopifycloud.com
+https://data-app-discovery.streamlit-service.shopifycloud.com
 https://data-frustrations-production-u-yrancml2-es-apps-b-us-central1-2.shopifycloud.com
 https://data-frustrations-production-unre-bgsd5rr4-apps-b-us-central1-9.shopifycloud.com
 https://data-frustrations.es-2ijln.shopifycloud.com
@@ -3663,6 +3715,7 @@ https://dcampos-h2-playground.shopifycloud.com
 https://declarative-forms-playground.shopifycloud.com
 https://deep-pii-production-unrestricted-ksvc-web-apps-b-us-east1-7.shopifycloud.com
 https://deep-pii.shopifycloud.com
+https://deep-tagging-similarity-jan2022.shopifycloud.com
 https://deep-understanding-similarity.shopifycloud.com
 https://delaygateway.shopifycloud.com
 https://delegation-of-authority-bot.shopifycloud.com
@@ -3680,6 +3733,10 @@ https://dev-docs-interactive.streamlit-service.shopifycloud.com
 https://dev-docs-sandbox.shopifycloud.com
 https://dev-success-2022-onboarding.shopifycloud.com
 https://dev-til.shopifycloud.com
+https://devdegree-bridge-ariana.shopifycloud.com
+https://devdegree-bridge-beyonce.shopifycloud.com
+https://devdegree-bridge-celine.shopifycloud.com
+https://devdegree-bridge-mariah.shopifycloud.com
 https://devdegree-placements-production-u-5ihsivub-apps-b-us-central1-9.shopifycloud.com
 https://devdegree-placements.shopifycloud.com
 https://devdegree-training-path-groups.shopifycloud.com
@@ -3705,6 +3762,7 @@ https://digital-community.shopifycloud.com
 https://disco-server-staging.shopifycloud.com
 https://disco-server.shopifycloud.com
 https://discounts-app-node.shopifycloud.com
+https://discovery-app-staging.shopifycloud.com
 https://docs.shopifycloud.com
 https://documentation-changelog-production-web-apps-a-us-east1-9.shopifycloud.com
 https://documentation-changelog-staging-unre-tr2rqnh6-apps-b-us-east1-8.shopifycloud.com
@@ -3730,6 +3788,7 @@ https://drill-deploy-production-canada-pii-rest-qxj6ubut-tier1-na-ne1-6.shopifyc
 https://drill-deploy-staging-unrestricted-u6-3no2i2gi-apps-b-us-east1-8.shopifycloud.com
 https://drill-staging.shopifycloud.com
 https://drill.shopifycloud.com
+https://drinks-app-staging.shopifycloud.com
 https://dsh3n.kibana.shopifycloud.com
 https://duties-taxes-service.shopifycloud.com
 https://dx3pr.kibana.shopifycloud.com
@@ -3785,6 +3844,7 @@ https://elasticsearch.secure-elasticsearch.data-portal-production.shopifycloud.c
 https://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted-pt50.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted-vats.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.data-portal-staging-unrestricted.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.deep-tagging-similarity-jan2022-production-unrestricted-y586.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-production-canada-pii-restr-5caf7984.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.shopifycloud.com
@@ -3795,6 +3855,7 @@ https://elasticsearch.secure-elasticsearch.elasticsearch-failover-dev-staging-un
 https://elasticsearch.secure-elasticsearch.ha-test-app-production-unrestricted.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.marketplace-platform-staging-unrestricted-muca.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com
+https://elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.shopify-payments-tools-production-unrestricted-rnzq.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.thehive-staging-unrestricted.shopifycloud.com
 https://elasticsearch.secure-elasticsearch.tree-house-production-unrestricted-z9uf.shopifycloud.com
@@ -3843,6 +3904,7 @@ https://es7-core-us-east1-es7--elasticsearch-es-core-us-east1-4.shopifycloud.com
 https://es7-core-us-east1-es7--kibana-es-core-us-east1-4.shopifycloud.com
 https://es7-staging-es-staging--elasticsearch-es-staging-us-central1-3.shopifycloud.com
 https://es7-staging-es-staging--kibana-es-staging-us-central1-3.shopifycloud.com
+https://esinstance-leila.secure-elasticsearch.leila.shopifycloud.com
 https://esinstance-test.secure-elasticsearch.leila.shopifycloud.com
 https://estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifycloud.com
 https://estuary.shopifycloud.com
@@ -3866,7 +3928,9 @@ https://exchange-staging-exchange-es6--el-mox7ulps-es-apps-b-us-east1-1.shopifyc
 https://exchange-staging-web-nginx-apps-b-us-east1-9.shopifycloud.com
 https://exchange-staging.shopifycloud.com
 https://exchange.shopifycloud.com
+https://exp-sample-size-calculator.streamlit-service.shopifycloud.com
 https://expansion-tool.shopifycloud.com
+https://experiment-explorer.streamlit-service.shopifycloud.com
 https://experiments-dashboard-production-webhooks-apps-a-us-east1-8.shopifycloud.com
 https://experiments-dashboard.shopifycloud.com
 https://explainify-production-unrestricted-web-apps-core-us-east1-1.shopifycloud.com
@@ -3896,6 +3960,8 @@ https://fast-shopify.shopifycloud.com
 https://fastdog.shopifycloud.com
 https://fauxchure-production-unrestricted-web-apps-a-us-east1-5.shopifycloud.com
 https://fauxchure.shopifycloud.com
+https://fb-capi-staging-unrestricted-oku9-i0.shopifycloud.com
+https://fb-capi-staging-unrestricted-oku9-i1.shopifycloud.com
 https://fb-capi-staging.shopifycloud.com
 https://fb-capi.shopifycloud.com
 https://fbs-production-rails-node-ssr-apps-a-us-east1-6.shopifycloud.com
@@ -4236,6 +4302,7 @@ https://imagery4-staging.shopifycloud.com
 https://imagery4.shopifycloud.com
 https://import-store.shopifycloud.com
 https://inbox-message-classification-product-taxevqwo-apps-b-us-east1-7.shopifycloud.com
+https://inbox-message-classification-staging.shopifycloud.com
 https://inbox-message-classification.shopifycloud.com
 https://inbox-web-client-host-staging.shopifycloud.com
 https://inbox-web-client-host.shopifycloud.com
@@ -4268,6 +4335,7 @@ https://james-es.secure-elasticsearch.james.shopifycloud.com
 https://james-esi.es-wtgdi.shopifycloud.com
 https://james-esi.kibana.james.shopifycloud.com
 https://james-esi.secure-elasticsearch.james.shopifycloud.com
+https://james-hall-test-staging.shopifycloud.com
 https://james-hall-test.shopifycloud.com
 https://james-james-esi--elasticsearch-es-staging-us-east1-1.shopifycloud.com
 https://james-james-esi--kibana-es-staging-us-east1-1.shopifycloud.com
@@ -4282,6 +4350,7 @@ https://jdkjw.kibana.shopifycloud.com
 https://jennys-test-app.shopifycloud.com
 https://jess-jess-staging-1--kibana-es-apps-a-us-east1-1.shopifycloud.com
 https://jess-staging-1-kibana.shopifycloud.com
+https://jessie-test-cicd-state.shopifycloud.com
 https://jessie-test-event-api.shopifycloud.com
 https://jgv-test-app2.shopifycloud.com
 https://jojo-test-three.shopifycloud.com
@@ -4417,6 +4486,7 @@ https://marketing-styleguide-staging3-unrest-5du5g7fb-apps-b-us-east1-3.shopifyc
 https://marketing-styleguide-staging3.shopifycloud.com
 https://marketing-styleguide.shopifycloud.com
 https://marketingguidelines.shopifycloud.com
+https://marketplace-api-gateway-staging.shopifycloud.com
 https://marketplace-api-gateway.shopifycloud.com
 https://marketplace-heist-extension-backe-ajjv32ka-apps-b-us-central1-9.shopifycloud.com
 https://marketplace-heist-extension-backend.shopifycloud.com
@@ -4434,6 +4504,8 @@ https://mbruce-redis-migration-test.shopifycloud.com
 https://mc-partner-node-app-production-un-7e5xvilc-apps-b-us-central1-8.shopifycloud.com
 https://mc-partner-node-app.shopifycloud.com
 https://mc-partner-store.shopifycloud.com
+https://mdp-poc.shopifycloud.com
+https://memeify.shopifycloud.com
 https://merch-data-toolkit-sandbox-produc-esdhj3wk-apps-b-us-central1-8.shopifycloud.com
 https://merch-data-toolkit-sandbox-produc-zswks4vv-apps-b-us-central1-8.shopifycloud.com
 https://merch-data-toolkit-sandbox.shopifycloud.com
@@ -4468,6 +4540,7 @@ https://messenger-commerce.shopifycloud.com
 https://messenger-instagram-backend-staging.shopifycloud.com
 https://messenger-instagram-backend.shopifycloud.com
 https://meta-channel-poc.shopifycloud.com
+https://metadata-catalog-staging-se0h.shopifycloud.com
 https://metadata-catalog-staging.shopifycloud.com
 https://metadata-catalog.shopifycloud.com
 https://metric-cost-analysis.shopifycloud.com
@@ -4561,6 +4634,7 @@ https://mozart-pocs.shopifycloud.com
 https://mozart-production-unrestricted-0mnb--kjjokxba-apps-b-us-east1-8.shopifycloud.com
 https://mozart-staging.shopifycloud.com
 https://mozart.shopifycloud.com
+https://mrcthms-polaris-tokens-explorer.shopifycloud.com
 https://museum.shopifycloud.com
 https://my-es.kibana.my-test-namespace.shopifycloud.com
 https://my-es.secure-elasticsearch.my-test-namespace.shopifycloud.com
@@ -4606,6 +4680,7 @@ https://notary.shopifycloud.com
 https://notebooks-app.shopifycloud.com
 https://notebooks-staging.shopifycloud.com
 https://nyxr4.kibana.shopifycloud.com
+https://o11y-playground-service.shopifycloud.com
 https://o2dtd.kibana.shopifycloud.com
 https://oaceh.kibana.shopifycloud.com
 https://oauthboss-integration-test.shopifycloud.com
@@ -4694,6 +4769,7 @@ https://org-admin-web-staging-4.shopifycloud.com
 https://org-admin-web-staging-5.shopifycloud.com
 https://org-admin-web-staging-7won.shopifycloud.com
 https://org-admin-web-staging-c0n6.shopifycloud.com
+https://org-admin-web-staging-d9f2.shopifycloud.com
 https://org-admin-web-staging-ezky.shopifycloud.com
 https://org-admin-web-staging-pz8w.shopifycloud.com
 https://org-admin-web-staging-sxyc.shopifycloud.com
@@ -4764,6 +4840,7 @@ https://pcp-engine-production-unrestricte-mpputyx3-apps-b-us-central1-9.shopifyc
 https://pcp-engine-staging.shopifycloud.com
 https://pcp-engine.shopifycloud.com
 https://pepto-connector-manager-staging.shopifycloud.com
+https://pepto-connector-manager.shopifycloud.com
 https://pepto-infrastructure-pro-fcvtqre4-data-platform-a-us-central1-1.shopifycloud.com
 https://pepto-infrastructure.shopifycloud.com
 https://pepto-table-service-prod-sx2p3g6x-data-platform-a-us-central1-1.shopifycloud.com
@@ -4960,7 +5037,9 @@ https://reportify-query-staging-83ac.shopifycloud.com
 https://reportify-query-staging-query-admin-reportify-us-east1-3.shopifycloud.com
 https://reportify-query-staging.shopifycloud.com
 https://reports-audit.streamlit-service.shopifycloud.com
+https://reports-usage-network-graph.streamlit-service.shopifycloud.com
 https://requiem-in-d-minor.shopifycloud.com
+https://resoto.shopifycloud.com
 https://retail-labels-printer-production-web-apps-a-us-east1-5.shopifycloud.com
 https://retail-labels-printer.shopifycloud.com
 https://retail-search-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
@@ -4982,6 +5061,7 @@ https://robharper-test-marketplace.shopifycloud.com
 https://robots-txt-viewer.growth-labs.shopifycloud.com
 https://roger-tier4-2test.shopifycloud.com
 https://rohan-fluffy-go.shopifycloud.com
+https://rollout-monitor.streamlit-service.shopifycloud.com
 https://roshan-rep0-app-ra-thor-test-e-7wyjfnbd-es-apps-b-us-central1-2.shopifycloud.com
 https://roshan-rep0-app-ra-thor-test-e-hyr74e3b-es-apps-b-us-central1-2.shopifycloud.com
 https://roshan-rep1-app-ra-thor1-test--hohl66mi-es-apps-b-us-central1-2.shopifycloud.com
@@ -5051,6 +5131,7 @@ https://savage-sign-on.shopifycloud.com
 https://sbnua.kibana.shopifycloud.com
 https://scheduler.sfn-inventory-balancing-staging.shopifycloud.com
 https://scheduler.sfn-inventory-balancing.shopifycloud.com
+https://schema-migrations-staging.shopifycloud.com
 https://schema-migrations.shopifycloud.com
 https://schema-registry-viewer-production-chwn2nod-apps-b-us-central1-9.shopifycloud.com
 https://schema-registry-viewer-staging.shopifycloud.com
@@ -5201,6 +5282,7 @@ https://shop-exporter-production-shop-exporter-5wogj5ao-core-us-east1-9.shopifyc
 https://shop-exporter.shopifycloud.com
 https://shop-list-production-unrestricted-0b-izt2dla7-apps-b-us-east1-9.shopifycloud.com
 https://shop-list.shopifycloud.com
+https://shop-lookup.streamlit-service.shopifycloud.com
 https://shop-mini-gift-exchange.shopifycloud.com
 https://shop-scryfall-server.shopifycloud.com
 https://shop-search-es.shopifycloud.com
@@ -5357,6 +5439,7 @@ https://shopimap.shopifycloud.com
 https://shopimoji-production-unrestricted-cr-cl4jyqfb-apps-b-us-east1-7.shopifycloud.com
 https://shopimoji.shopifycloud.com
 https://shopinauts-staging.shopifycloud.com
+https://shopinauts-web.shopifycloud.com
 https://shopisky-production-unrestricted--37wu6gkx-apps-b-us-central1-9.shopifycloud.com
 https://shopisky.shopifycloud.com
 https://shoplifter-api-server.shopifycloud.com
@@ -5512,11 +5595,13 @@ https://stocky-staging.shopifycloud.com
 https://stocky.shopifycloud.com
 https://store-localization.shopifycloud.com
 https://storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com
+https://storefront-search-us-east.secure-elasticsearch.storefront-search-production-useast-unrestricted-pmxy.shopifycloud.com
 https://streamlit-apps-production-unrestrict-5e6g5sxy-apps-b-us-east1-9.shopifycloud.com
 https://streamlit-apps.shopifycloud.com
 https://streamlit-poc-production-unrestricte-moeqcggl-apps-b-us-east1-8.shopifycloud.com
 https://streamlit-poc-staging.shopifycloud.com
 https://streamlit-poc.shopifycloud.com
+https://streamlit-service.shopifycloud.com
 https://streamlit.commerce-algorithms.shopifycloud.com
 https://streamlit.ecosystem-data-science.shopifycloud.com
 https://streamlit.revenue-data-research.shopifycloud.com
@@ -5569,6 +5654,8 @@ https://temp-dummy-domain.shopifycloud.com
 https://temp-tims-backend.shopifycloud.com
 https://tempo-staging-us-east1.shopifycloud.com
 https://tempo-tempo-tempo-us-east1-1.shopifycloud.com
+https://tempo-tempo-us-central1-2.shopifycloud.com
+https://tempo-tempo-us-east1-2.shopifycloud.com
 https://tempo-us-central1.shopifycloud.com
 https://tempo-us-east1.shopifycloud.com
 https://terminology-management-production-hxjrswkm-apps-b-us-central1-9.shopifycloud.com
@@ -5641,6 +5728,7 @@ https://traffic-misc-staging-unrestrict-krcclohc-tierstaging-us-east1-5.shopifyc
 https://traffic-misc-staging.shopifycloud.com
 https://traffic-misc.shopifycloud.com
 https://translation-platform.shopifycloud.com
+https://transporter-staging.shopifycloud.com
 https://transporter.shopifycloud.com
 https://trickle-production-platform-demo.flink.shopifycloud.com
 https://tricorder.shopifycloud.com

@@ -31,6 +31,7 @@ circleci.lystit.com
 circleci3.lystit.com
 cloudflare-logs.lystit.com
 cloudflare.eks-1-19.srv.lystit.com
+cloudflare.eks-1-20-b.srv.lystit.com
 cloudflare.eks-1-20-nr-prod-trial.srv.lystit.com
 cloudflare.eks-1-20.srv.lystit.com
 cloudflare.eks-ci.srv.lystit.com
@@ -61,6 +62,7 @@ eks-1-17.srv.lystit.com
 eks-1-18.srv.lystit.com
 eks-1-18b.srv.lystit.com
 eks-1-19.srv.lystit.com
+eks-1-20-b.srv.lystit.com
 eks-1-20-nr-prod-trial.srv.lystit.com
 eks-1-20.srv.lystit.com
 eks-20200522.srv.lystit.com
@@ -81,6 +83,7 @@ images-eu-west-1.lystit.com
 images-geo.lystit.com
 images.lystit.com
 intalb.eks-1-19.srv.lystit.com
+intalb.eks-1-20-b.srv.lystit.com
 intalb.eks-1-20-nr-prod-trial.srv.lystit.com
 intalb.eks-1-20.srv.lystit.com
 intalb.eks-ci.srv.lystit.com
@@ -88,6 +91,7 @@ intalb.eks-gha.srv.lystit.com
 intalb.eks-tktest.srv.lystit.com
 intalb.eks-tools-1-19.srv.lystit.com
 intelb.eks-1-19.srv.lystit.com
+intelb.eks-1-20-b.srv.lystit.com
 intelb.eks-1-20-nr-prod-trial.srv.lystit.com
 intelb.eks-1-20.srv.lystit.com
 intelb.eks-ci.srv.lystit.com
@@ -96,6 +100,7 @@ intelb.eks-tktest.srv.lystit.com
 intelb.eks-tools-1-19.srv.lystit.com
 internal.eks-1-18.srv.lystit.com
 internal.eks-1-19.srv.lystit.com
+internal.eks-1-20-b.srv.lystit.com
 internal.eks-1-20-nr-prod-trial.srv.lystit.com
 internal.eks-1-20.srv.lystit.com
 internal.eks-ci.srv.lystit.com
@@ -105,6 +110,7 @@ internal.eks-tktest.srv.lystit.com
 internal.eks-tools-1-18.srv.lystit.com
 internal.eks-tools-1-19.srv.lystit.com
 intnlb.eks-1-19.srv.lystit.com
+intnlb.eks-1-20-b.srv.lystit.com
 intnlb.eks-1-20-nr-prod-trial.srv.lystit.com
 intnlb.eks-1-20.srv.lystit.com
 intnlb.eks-ci.srv.lystit.com
@@ -146,6 +152,7 @@ plasma.lystit.com
 problemsets.lystit.com
 public.eks-1-18.srv.lystit.com
 public.eks-1-19.srv.lystit.com
+public.eks-1-20-b.srv.lystit.com
 public.eks-1-20-nr-prod-trial.srv.lystit.com
 public.eks-1-20.srv.lystit.com
 public.eks-ci.srv.lystit.com
@@ -160,6 +167,7 @@ queen.lystit.com
 reply.git.lystit.com
 restricted-public.eks-1-18.srv.lystit.com
 restricted-public.eks-1-19.srv.lystit.com
+restricted-public.eks-1-20-b.srv.lystit.com
 restricted-public.eks-1-20-nr-prod-trial.srv.lystit.com
 restricted-public.eks-1-20.srv.lystit.com
 restricted-public.eks-ci.srv.lystit.com
@@ -171,6 +179,7 @@ restricted-public.eks-tools-1-19.srv.lystit.com
 retailer-x-website-public.microservices.srv.lystit.com
 retailer.lystit.com
 rpubelb.eks-1-19.srv.lystit.com
+rpubelb.eks-1-20-b.srv.lystit.com
 rpubelb.eks-1-20-nr-prod-trial.srv.lystit.com
 rpubelb.eks-1-20.srv.lystit.com
 rpubelb.eks-ci.srv.lystit.com

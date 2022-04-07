@@ -730,6 +730,7 @@ http://gamma.ats.member.yahoo.com
 http://gamma.bt.edit.client.yahoo.com
 http://gamma.fb.member.yahoo.com
 http://gamma.frontier.mail.yahoo.com
+http://gamma.login.yahoo.com
 http://gamma.mts.mail.yahoo.com
 http://gamma.na.edit.client.yahoo.com
 http://gamma.openid.yahoo.com
@@ -1040,6 +1041,7 @@ http://safety.yahoo.com
 http://sandbox-api.admanager.yahoo.com
 http://sandbox-api.gemini.yahoo.com
 http://sandbox.datax.yahoo.com
+http://sandbox.dataxonline.yahoo.com
 http://sandbox.userloc.location.yahoo.com
 http://sb-image.ops.yahoo.com
 http://screen.yahoo.com
@@ -1049,6 +1051,7 @@ http://search.yahoo.com
 http://secure.yahoo.com
 http://secureboot.ops.yahoo.com
 http://security.yahoo.com
+http://service.idsync.analytics.yahoo.com
 http://sg.feature.yahoo.com
 http://sg.featured.yahoo.com
 http://shine.yahoo.com
@@ -1081,6 +1084,7 @@ http://stage.checkout.finance.yahoo.com
 http://stage.checkout.mail.yahoo.com
 http://stage.checkout.yahoo.com
 http://stage.geoinfo.location.yahoo.com
+http://stage.login.yahoo.com
 http://stage.maps.yahoo.com
 http://stage.mysubscriptions.finance.yahoo.com
 http://stage.mysubscriptions.mail.yahoo.com
@@ -1286,6 +1290,7 @@ http://vendor-beta.g11n.yahoo.com
 http://vendor.g11n.yahoo.com
 http://verification.hk.yahoo.com
 http://vespa.corp.yahoo.com
+http://video-api.yql.yahoo.com
 http://video.media.yql.yahoo.com
 http://video.yahoo.com
 http://vn.antoan.yahoo.com
@@ -2137,6 +2142,7 @@ https://finanzas.yahoo.com
 https://food.yahoo.com
 https://football.fantasysports.yahoo.com
 https://fr-ca.rogers.yahoo.com
+https://fsbcn.fp.yahoo.com
 https://gallery.tv.widgets.yahoo.com
 https://games.yahoo.com
 https://gamma.api.login.yahoo.com
@@ -2144,6 +2150,7 @@ https://gamma.ats.member.yahoo.com
 https://gamma.bt.edit.client.yahoo.com
 https://gamma.fb.member.yahoo.com
 https://gamma.frontier.mail.yahoo.com
+https://gamma.login.yahoo.com
 https://gamma.mts.mail.yahoo.com
 https://gamma.na.edit.client.yahoo.com
 https://gamma.openid.yahoo.com
@@ -2487,6 +2494,7 @@ https://safety.yahoo.com
 https://sandbox-api.admanager.yahoo.com
 https://sandbox-api.gemini.yahoo.com
 https://sandbox.datax.yahoo.com
+https://sandbox.dataxonline.yahoo.com
 https://sandbox.ui-vault.payment.yahoo.com
 https://sandbox.ui.payment.yahoo.com
 https://sandbox.uivault-referrer.payments.yahoo.com
@@ -2500,6 +2508,7 @@ https://secure.yahoo.com
 https://secureboot.ops.yahoo.com
 https://security.yahoo.com
 https://service-dev.idsync.analytics.yahoo.com
+https://service.idsync.analytics.yahoo.com
 https://sg.feature.yahoo.com
 https://sg.featured.yahoo.com
 https://shine.yahoo.com
@@ -2537,6 +2546,7 @@ https://stage.cdn.payments.yahoo.com
 https://stage.checkout.fantasysports.yahoo.com
 https://stage.checkout.finance.yahoo.com
 https://stage.checkout.mail.yahoo.com
+https://stage.checkout.mail.yahoo.com:8443
 https://stage.checkout.yahoo.com
 https://stage.consent.yahoo.com
 https://stage.consent.yahoo.com:4443
@@ -2548,6 +2558,7 @@ https://stage.guce.login.yahoo.com
 https://stage.guce.login.yahoo.com:4443
 https://stage.guce.yahoo.com
 https://stage.guce.yahoo.com:4443
+https://stage.login.yahoo.com
 https://stage.maps.yahoo.com
 https://stage.mysubscriptions.finance.yahoo.com
 https://stage.mysubscriptions.mail.yahoo.com
@@ -2776,6 +2787,7 @@ https://vendor.g11n.yahoo.com
 https://verification.hk.yahoo.com
 https://vertexlite.payments.yahoo.com
 https://vespa.corp.yahoo.com
+https://video-api.yql.yahoo.com
 https://video-seo.o2.yahoo.com
 https://video-seo.stage.o2.yahoo.com
 https://video.media.yql.yahoo.com

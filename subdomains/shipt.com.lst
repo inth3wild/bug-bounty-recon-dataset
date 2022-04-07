@@ -120,6 +120,8 @@ alertmanager.gateway.us-east4.shipt.com
 alertmanager.gateway.us-east4.staging.shipt.com
 alertmanager.innovation.us-east-1.staging.shipt.com
 alertmanager.innovationmesh.us-east-1.staging.shipt.com
+alertmanager.kafka.us-central1.staging.shipt.com
+alertmanager.ml.us-central1.shipt.com
 alertmanager.ml.us-central1.staging.shipt.com
 alertmanager.us-central1.shipt.com
 alertmanager.us-central1.staging.shipt.com
@@ -510,6 +512,7 @@ jwfly.usneocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 jygolf-neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 k3.neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 k76eocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
+kafka.us-central1.staging.shipt.com
 kafka.us-east4.staging.shipt.com
 kakoeocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 kamejikan-comeocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
@@ -594,6 +597,8 @@ metrics.gateway.us-central1.shipt.com
 metrics.gateway.us-central1.staging.shipt.com
 metrics.gateway.us-east4.shipt.com
 metrics.gateway.us-east4.staging.shipt.com
+metrics.kafka.us-central1.staging.shipt.com
+metrics.ml.us-central1.shipt.com
 metrics.ml.us-central1.staging.shipt.com
 metrics.shipt.com
 metrics.us-central1.shipt.com
@@ -750,6 +755,8 @@ prometheus.gateway.us-east4.shipt.com
 prometheus.gateway.us-east4.staging.shipt.com
 prometheus.innovation.us-east-1.staging.shipt.com
 prometheus.innovationmesh.us-east-1.staging.shipt.com
+prometheus.kafka.us-central1.staging.shipt.com
+prometheus.ml.us-central1.shipt.com
 prometheus.ml.us-central1.staging.shipt.com
 prometheus.us-central1.shipt.com
 prometheus.us-central1.staging.shipt.com
@@ -1105,6 +1112,8 @@ thanossidecar-0.gateway.us-central1.shipt.com
 thanossidecar-0.gateway.us-central1.staging.shipt.com
 thanossidecar-0.gateway.us-east4.shipt.com
 thanossidecar-0.gateway.us-east4.staging.shipt.com
+thanossidecar-0.kafka.us-central1.staging.shipt.com
+thanossidecar-0.ml.us-central1.shipt.com
 thanossidecar-0.ml.us-central1.staging.shipt.com
 thanossidecar-0.us-central1.shipt.com
 thanossidecar-0.us-central1.staging.shipt.com
@@ -1120,6 +1129,8 @@ thanossidecar-1.gateway.us-central1.shipt.com
 thanossidecar-1.gateway.us-central1.staging.shipt.com
 thanossidecar-1.gateway.us-east4.shipt.com
 thanossidecar-1.gateway.us-east4.staging.shipt.com
+thanossidecar-1.kafka.us-central1.staging.shipt.com
+thanossidecar-1.ml.us-central1.shipt.com
 thanossidecar-1.ml.us-central1.staging.shipt.com
 thanossidecar-1.us-central1.shipt.com
 thanossidecar-1.us-central1.staging.shipt.com

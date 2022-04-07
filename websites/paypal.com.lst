@@ -74,6 +74,7 @@ http://github-global.paypal.com
 http://history.paypal.com
 http://hotspot.paypal.com
 http://image.emails.paypal.com
+http://images.payflowlink.paypal.com
 http://ipnpb-v2.sandbox.paypal.com
 http://ipnpb.paypal.com
 http://ipnpb.sandbox.paypal.com
@@ -98,6 +99,7 @@ http://partner-monitoring.paypal.com
 http://partner-monitoring.paypal.com:8080
 http://partnermanager.paypal.com
 http://payflowlink.paypal.com
+http://payflowpro.paypal.com
 http://payments-reports.paypal.com
 http://payouts.paypal.com
 http://paypal.com
@@ -156,6 +158,7 @@ http://svcs.sandbox.paypal.com
 http://t-fastly.glb.paypal.com
 http://t.glb.paypal.com
 http://t.paypal.com
+http://tsp.paypal.com
 http://uptycshon.paypal.com
 http://uptycsize.paypal.com
 http://uptycspay.paypal.com
@@ -421,6 +424,7 @@ https://svcs.sandbox.paypal.com
 https://t-fastly.glb.paypal.com
 https://t.glb.paypal.com
 https://t.paypal.com
+https://tsp.paypal.com
 https://uptycshon.paypal.com
 https://uptycsize.paypal.com
 https://uptycspay.paypal.com

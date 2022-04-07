@@ -117,6 +117,7 @@ http://horizon.epicgames.com
 http://image.news.epicgames.com
 http://jira.it-entapps-dev.epicgames.com
 http://jira.operations.it.epicgames.com
+http://jira.stage.it.epicgames.com
 http://jupiter.2021-2.eu-central-1.devtools.epicgames.com
 http://jupiter.devtools-dev.epicgames.com
 http://jupiter.devtools.epicgames.com
@@ -192,6 +193,7 @@ http://ue5help.epicgames.com
 http://uebd.epicgames.com
 http://unreal.epicgames.com
 http://unrealbd.epicgames.com
+http://unrealbugsubmissions.epicgames.com
 http://unrealenginehelp.epicgames.com
 http://unrealstudio.epicgames.com
 http://unrealstudiohelp.epicgames.com
@@ -368,6 +370,8 @@ https://fortnite-public-service-bacchusplaytest-prod.ol.epicgames.com
 https://fortnite-public-service-batsickle-prod.ol.epicgames.com
 https://fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com
 https://fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com
+https://fortnite-public-service-brawler-prod.ol.epicgames.com
+https://fortnite-public-service-bubbles-prod.ol.epicgames.com
 https://fortnite-public-service-certstageb-stage.ol.epicgames.com
 https://fortnite-public-service-certstagec-stage.ol.epicgames.com
 https://fortnite-public-service-dailymain-prod.ol.epicgames.com
@@ -496,6 +500,7 @@ https://ixm.substrate.on.epicgames.com
 https://ixm.transit.use1a.on.epicgames.com
 https://jira.it-entapps-dev.epicgames.com
 https://jira.operations.it.epicgames.com
+https://jira.stage.it.epicgames.com
 https://jupiter.2021-2.eu-central-1.devtools.epicgames.com
 https://jupiter.devtools-dev.epicgames.com
 https://jupiter.devtools.epicgames.com
@@ -583,6 +588,7 @@ https://rtcp-test-ms-mock.dev.rtcp.on.epicgames.com
 https://rtcp-test-signaling-mock.dev.rtcp.on.epicgames.com
 https://sda-admin-okta.it-entapps-dev.epicgames.com
 https://sda-admin-okta.it.epicgames.com
+https://secsvr-scim.it.epicgames.com
 https://securemail.epicgames.com
 https://securemail.epicgames.com:10000
 https://service-bot.eut.it.epicgames.com
@@ -634,6 +640,9 @@ https://ue-launcher-website-prod.ol.epicgames.com
 https://ue5help.epicgames.com
 https://uebd.epicgames.com
 https://unrealbd.epicgames.com
+https://unrealbugsubmissions.epicgames.com
+https://unrealbugsubmissions.epicgames.com:8443
+https://unrealbugsubmissions.epicgames.com:9443
 https://unrealengine-ci-debug.ol.epicgames.com
 https://unrealenginehelp.epicgames.com
 https://unrealenginehelp.epicgames.com:8443

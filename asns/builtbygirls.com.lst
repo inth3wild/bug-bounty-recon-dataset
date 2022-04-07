@@ -4,6 +4,7 @@ eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 52.84.16.0/21
 eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 guce.builtbygirls.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
 oidc.builtbygirls.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.204.0/24
+stage.api.login.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stage.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14
 stage.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
 stage.login.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24

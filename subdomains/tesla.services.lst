@@ -5677,6 +5677,8 @@ equipment-reports-paint.mo.tesla.services
 equipment-reports.mo.tesla.se.tesla.services
 equipment-reports.mo.tesla.services
 ercot-eng.sn.tesla.services
+ercot-gambit-eng.sn.tesla.services
+ercot-gambit-prd.sn.tesla.services
 es.tesla.services
 esms-api-dev.mo.tesla.services
 esms-api-web-dev.mo.tesla.services

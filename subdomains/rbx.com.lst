@@ -36,9 +36,13 @@ autodiscover.rbx.com
 aws-ap-east-1a-lms.rbx.com
 aws-ap-east-1b-lms.rbx.com
 aws-ap-east-1c-lms.rbx.com
+aws-ap-northeast-1c-lms.rbx.com
 aws-eu-central-1a-lms.rbx.com
 aws-eu-central-1b-lms.rbx.com
 aws-eu-west-2c-lms.rbx.com
+aws-us-east-1a-lms.rbx.com
+aws-us-east-1c-lms.rbx.com
+aws-us-east-2b-lms.rbx.com
 azdo.rbx.com
 bpo-vpn.rbx.com
 cachet-stage.rbx.com
@@ -135,6 +139,8 @@ ml-platform-infra.ml.rbx.com
 ml-platform-private-internal.prod.ml.rbx.com
 ml-platform-private.prod.ml.rbx.com
 ml-platform-prod-internal.prod.ml.rbx.com
+ml-platform-prod-serving-internal.prod.ml.rbx.com
+ml-platform-prod-serving.prod.ml.rbx.com
 ml-platform-prod.prod.ml.rbx.com
 ml.rbx.com
 moderation.rbx.com
@@ -159,6 +165,8 @@ report.rbx.com
 ros-dev.rbx.com
 ros-stg.rbx.com
 ros.rbx.com
+rstudio-test.di.rbx.com
+rstudio.di.rbx.com
 scim.rbx.com
 sea-full-gw.vpn.rbx.com
 sea-gw.vpn.rbx.com

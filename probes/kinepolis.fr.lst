@@ -1,5 +1,4 @@
 http://autodiscover.kinepolis.fr [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
-http://shop-dev.kinepolis.fr:8080 [404] [GET] [application/json] [] [nginx] [Nginx] [8a80554c91d9fca8acb82f023de02f11]
 https://0-checkpoint.thomsonreuters.com.olinkserver.kinepolis.fr [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [523e0ce6dc52ca5b6567b5556264b894]
 https://0-checkpoint.thomsonreuters.com.olinkserver.kinepolis.fr [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [c63e46fa82d98c5374876cdfaf1d3dd2]
 https://0-customimages.webofknowledge.com.biblio.kinepolis.fr [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [1a71222622a63bfa87483d714b71f06e]
