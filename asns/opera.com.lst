@@ -38,8 +38,10 @@ ams02.recsys.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 antivirus.odessa.opera.com AS43103 AS43103 - ONE TELECOM LTD UA 80.90.224.0/20
 api-a.op-mobile.opera.com AS21837 AS21837 - OPERA SOFTWARE AMERICAS LLC US 107.167.123.0/24
 api.dataplans.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+api.dev.obux.opera.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 api.elysium.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 api.my.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
+api.obux.opera.com AS15169 AS15169 - GOOGLE LLC US 34.108.0.0/14
 api.recsys.geo.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 api.recsys.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 app.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 82.145.215.0/24
@@ -112,6 +114,8 @@ crypto-corner.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160
 crypto-proxy.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 crypto-proxy.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 crypto.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+crypto.staging.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
+crypto.test.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
 d.ns.e.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 37.228.104.0/21
 dailymotion.tvstore.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 dataplans.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.56.0/23
@@ -181,7 +185,7 @@ front-ams.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 front-geo.production.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 3.16.0.0/14
 front-tls-geo.opcom-prod.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 3.136.0.0/13
 front.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
-front.staging.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
+front.staging.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 ftp-social.op-mobile.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 82.145.213.0/24
 ftp.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 37.228.104.0/21
 funai.tvstore.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15

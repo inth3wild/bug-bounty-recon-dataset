@@ -17,6 +17,7 @@ http://lime.bike:2082
 http://lime.bike:2083
 http://lime.bike:2086
 http://lime.bike:2087
+http://lime.bike:2095
 http://lime.bike:2096
 http://lime.bike:8080
 http://lime.bike:8443
@@ -49,6 +50,7 @@ https://internal.lime.bike
 https://iot-platform-core.lime.bike
 https://juicer.lime.bike
 https://lime.bike
+https://lime.bike:2087
 https://lp-staging.lime.bike
 https://lp.lime.bike
 https://rasserver-staging.lime.bike

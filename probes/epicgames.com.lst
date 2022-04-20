@@ -288,6 +288,7 @@ https://fortnitehelp.epicgames.com [301] [GET] [text/html] [301 Moved Permanentl
 https://fortnitewaitingroom-public-service-prod-m.ol.epicgames.com [404] [GET] [text/html] [Error 404] [] [vhost] [Amazon ALB,Amazon Web Services] [3bffaea7e3f9b876d1c619809f13eec6]
 https://fortnitewaitingroom-public-service-prod.ak.epicgames.com [404] [GET] [text/html] [Error 404] [] [vhost] [Amazon ALB,Amazon Web Services] [3bffaea7e3f9b876d1c619809f13eec6]
 https://fortnitewaitingroom-public-service-prod.ol.epicgames.com [404] [GET] [text/html] [Error 404] [] [Amazon ELB,Amazon Web Services] [3bffaea7e3f9b876d1c619809f13eec6]
+https://fortnitewaitingroom-public-service-stage.ol.epicgames.com [404] [GET] [text/html] [Error 404] [] [3bffaea7e3f9b876d1c619809f13eec6]
 https://forums-cdn.epicgames.com [301] [GET] [text/html] [301 Moved Permanently] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [cd2e0e43980a00fb6a2742d3afd803b8]
 https://forums.epicgames.com [200] [GET] [text/html] [Forum - 				Epic Games Forums] [] [vhost] [PHP,vBulletin] [66c56f702fbf3b2c02fa667fe85ed437]
 https://forums.epicgames.com [200] [GET] [text/html] [Forum - 				Epic Games Forums] [] [vhost] [PHP,vBulletin] [dcb1fd684ea9d301ffdba19657ca2178]

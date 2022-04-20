@@ -112,8 +112,6 @@ no9pldds1lmn3.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/
 notifications.cs.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 50.17.0.0/16
 notifications.repost.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 numark.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-o.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
-o.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 o1.ptr8588.reporting.soundcloud.com AS11377 AS11377 - SENDGRID, INC. US 149.72.160.0/19
 o10.transactions.soundcloud.com AS11377 AS11377 - SENDGRID, INC. US 198.21.0.0/21
 o104.mail.notifications.soundcloud.com AS11377 AS11377 - SENDGRID, INC. US 167.89.64.0/19
@@ -159,14 +157,10 @@ o9.warnings.soundcloud.com AS11377 AS11377 - SENDGRID, INC. US 149.72.224.0/19
 on.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 opus-staging.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 opus.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-p.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
-p.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 p1.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 pages.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 playback.soundcloud.com AS15169 AS15169 - GOOGLE LLC US 107.178.192.0/18
 playerone.soundcloud.com AS15169 AS15169 - GOOGLE LLC US 107.178.192.0/18
-post.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
-post.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
 premium.soundcloud.com AS15830 AS15830 - TELECITYGROUP INTERNATIONAL LIMITED GB 82.199.64.0/19
 press.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 promote.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
@@ -179,8 +173,7 @@ registry.ingest.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.216.0.0/
 repost.ingest.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
 repost.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 rss-importer.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
-s.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
-s.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+s.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 scdrops.soundcloud.com AS53831 AS53831 - SQUARESPACE, INC. US 198.185.159.0/24
 secure-staging-fcc3ea5085.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 secure.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
@@ -199,8 +192,7 @@ style.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 swf.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 telemetry.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 theziasproject.soundcloud.com AS53831 AS53831 - SQUARESPACE, INC. US 198.49.23.0/24
-u.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
-u.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
+u.pwt.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
 url1220.reporting.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 108.159.224.0/21
 url1220.reporting.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 users.cs-staging.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
@@ -212,4 +204,5 @@ www.kia.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 www.promote.soundcloud.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
 www.scdrops.soundcloud.com AS53831 AS53831 - SQUARESPACE, INC. US 198.185.159.0/24
 www.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
+www.theziasproject.soundcloud.com AS53831 AS53831 - SQUARESPACE, INC. US 198.185.159.0/24
 wwww.soundcloud.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23

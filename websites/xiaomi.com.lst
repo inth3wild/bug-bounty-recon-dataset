@@ -1796,7 +1796,12 @@ http://ottl7-l2.pandora.xiaomi.com
 http://ottl7.pandora.xiaomi.com
 http://oversea.g0.cn.slb.xiaomi.com
 http://p.www.xiaomi.com
+http://p.www.xiaomi.com:8001
+http://p.www.xiaomi.com:8050
 http://p.www.xiaomi.com:8080
+http://p.www.xiaomi.com:8081
+http://p.www.xiaomi.com:8089
+http://p.www.xiaomi.com:8099
 http://p.www.xiaomi.com:8180
 http://package.box.xiaomi.com
 http://package.cdn.pandora.xiaomi.com
@@ -3168,6 +3173,7 @@ https://ottl7-l2.pandora.xiaomi.com
 https://ottl7.pandora.xiaomi.com
 https://oversea.g0.cn.slb.xiaomi.com
 https://p.www.xiaomi.com
+https://p.www.xiaomi.com:8445
 https://package.cdn.pandora.xiaomi.com
 https://package.wallpaper.cdn.pandora.xiaomi.com
 https://pay.xiaomi.com

@@ -94,6 +94,7 @@ blaketest.shopifykloud.com
 caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 canada-user.shopify-data-cloud-infra.shopifykloud.com
 canada.vpnify.shopifykloud.com
+capital-algo-streaming-production.flink.shopifykloud.com
 capital-algo-streaming-staging.flink.shopifykloud.com
 capital-algo-streaming.flink.shopifykloud.com
 cdp-orderaggs-experiment-1.flink.shopifykloud.com

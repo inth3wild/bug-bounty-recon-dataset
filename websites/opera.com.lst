@@ -32,9 +32,13 @@ http://ams02.recsys.opera.com
 http://api-a.op-mobile.opera.com
 http://api.dataplans.opera.com
 http://api.dataplans.route53.opera.com
+http://api.dev.obux.opera.com
+http://api.dev.obux.opera.com:8080
 http://api.elysium.geo.opera.com
 http://api.elysium.opera.com
 http://api.my.opera.com
+http://api.obux.opera.com
+http://api.obux.opera.com:8080
 http://api.recsys.geo.opera.com
 http://api.recsys.opera.com
 http://app.opera.com
@@ -92,6 +96,7 @@ http://crypto-corner.route53.opera.com
 http://crypto-proxy.opera.com
 http://crypto-proxy.route53.opera.com
 http://crypto.opera.com
+http://crypto.staging.opera-website.route53.opera.com
 http://d.ns.e.opera.com
 http://dailymotion.tvstore.opera.com
 http://dataplans.opera.com
@@ -524,9 +529,11 @@ https://ams01.recsys.opera.com
 https://ams02.recsys.opera.com
 https://api-a.op-mobile.opera.com
 https://api.dataplans.opera.com
+https://api.dev.obux.opera.com
 https://api.elysium.geo.opera.com
 https://api.elysium.opera.com
 https://api.my.opera.com
+https://api.obux.opera.com
 https://api.recsys.geo.opera.com
 https://api.recsys.opera.com
 https://app.opera.com
@@ -581,6 +588,7 @@ https://crashstats-test.opera.com
 https://crypto-corner.opera.com
 https://crypto-proxy.opera.com
 https://crypto.opera.com
+https://crypto.staging.opera-website.route53.opera.com
 https://d.ns.e.opera.com
 https://dailymotion.tvstore.opera.com
 https://dataplans.opera.com

@@ -1,4 +1,6 @@
 http://beta.verse.events:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://verse.events:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
+https://0xprial-poc.alpha.verse.events [200] [GET] [text/html] [Index of /] [LiteSpeed] [vhost] [LiteSpeed] [8741670100e9db9b63ff0dd696498e28]
+https://0xprial-poc.alpha.verse.events:2083 [200] [GET] [text/html] [cPanel Login] [] [cPanel] [8439d20df4d240b04ce7d6b56fa442ab]
 https://beta.verse.events [200] [GET] [application/octet-stream] [] [nginx] [vhost] [Google Cloud,Google Cloud CDN,Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://verse.events [200] [GET] [application/octet-stream] [] [nginx] [vhost] [Google Cloud,Google Cloud CDN,Nginx] [d41d8cd98f00b204e9800998ecf8427e]

@@ -36,7 +36,11 @@ http://data-dictionary.lystit.com:8080
 http://dbt-docs.lystit.com
 http://dbt-docs.lystit.com:8080
 http://docs.lystit.com
+http://docs.lystit.com:2082
+http://docs.lystit.com:2086
+http://docs.lystit.com:2095
 http://docs.lystit.com:8080
+http://docs.lystit.com:8880
 http://git.lystit.com
 http://grafana.lystit.com
 http://grafana.lystit.com:8080
@@ -120,6 +124,8 @@ https://data-dictionary.lystit.com:8443
 https://dbt-docs.lystit.com
 https://dbt-docs.lystit.com:8443
 https://docs.lystit.com
+https://docs.lystit.com:2083
+https://docs.lystit.com:2087
 https://docs.lystit.com:8443
 https://git.lystit.com
 https://grafana.lystit.com

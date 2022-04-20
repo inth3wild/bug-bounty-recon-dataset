@@ -1,3 +1,4 @@
+http://magazine.karwei.nl [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9a3b6d0b28bac26dac164251d389aecf]
 https://api.acceptatie.karwei.nl [404] [GET] [application/json] [] [] [vhost] [5ce3cf63fdc1cd5b39acb3a2d47b871a]
 https://api.karwei.nl [404] [GET] [application/json] [] [] [vhost] [47b10818255be98594a006863e25dd1b]
 https://api.maakafspraak.karwei.nl [200] [GET] [text/html] [Welcome to your Strapi app] [] [vhost] [Google Font API] [46ef7e015295207f58ffda45114b1027]

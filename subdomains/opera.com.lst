@@ -105,9 +105,11 @@ antivirus.odessa.opera.com
 api-a.op-mobile.opera.com
 api.dataplans.opera.com
 api.dataplans.route53.opera.com
+api.dev.obux.opera.com
 api.elysium.geo.opera.com
 api.elysium.opera.com
 api.my.opera.com
+api.obux.opera.com
 api.opera.com
 api.recsys.geo.opera.com
 api.recsys.opera.com
@@ -255,6 +257,8 @@ crypto-corner.route53.opera.com
 crypto-proxy.opera.com
 crypto-proxy.route53.opera.com
 crypto.opera.com
+crypto.staging.opera-website.route53.opera.com
+crypto.test.opera-website.route53.opera.com
 custom.opera.com
 customers-ams-vmw.opera.com
 customers-test-ams-vmw.opera.com

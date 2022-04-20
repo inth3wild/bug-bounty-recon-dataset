@@ -97,6 +97,7 @@ https://dev-wheeloffortune-api.withbuddies.com [302] [GET] [] [] [nginx/1.14.0 (
 https://dice-admin.withbuddies.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://dice-api.withbuddies.com [404] [GET] [] [] [nginx/1.14.0 (Ubuntu)] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx,Ubuntu] [d41d8cd98f00b204e9800998ecf8427e]
 https://dice-hangfire.withbuddies.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
+https://docs.dev.legend.withbuddies.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://email.withbuddies.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://facebook-dice.withbuddies.com [404] [GET] [] [] [nginx/1.14.0 (Ubuntu)] [vhost] [Nginx,Ubuntu] [d41d8cd98f00b204e9800998ecf8427e]
 https://facebookapi.preview.dice.withbuddies.com [404] [GET] [] [] [nginx/1.14.0 (Ubuntu)] [vhost] [Nginx,Ubuntu] [d41d8cd98f00b204e9800998ecf8427e]

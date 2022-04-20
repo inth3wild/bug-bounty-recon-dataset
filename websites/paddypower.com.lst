@@ -23,6 +23,9 @@ http://bgi.paddypower.com
 http://bingo.paddypower.com
 http://bingo.paddypower.com:8080
 http://blog.paddypower.com
+http://blog.paddypower.com:2052
+http://blog.paddypower.com:2086
+http://blog.paddypower.com:8080
 http://bts.lb.paddypower.com
 http://bts.paddypower.com
 http://bts.paddypower.com:8080
@@ -167,6 +170,9 @@ http://myfunds.paddypower.com:8080
 http://mypromos.paddypower.com
 http://mypromos.paddypower.com:8080
 http://news.paddypower.com
+http://news.paddypower.com:2083
+http://news.paddypower.com:2087
+http://news.paddypower.com:8443
 http://osg.paddypower.com
 http://osg.paddypower.com:2082
 http://osg.paddypower.com:2086
@@ -295,6 +301,9 @@ https://bgi.paddypower.com:8443
 https://bingo.paddypower.com
 https://bingo.paddypower.com:8443
 https://blog.paddypower.com
+https://blog.paddypower.com:2083
+https://blog.paddypower.com:2087
+https://blog.paddypower.com:8443
 https://bts.lb.paddypower.com
 https://bts.paddypower.com
 https://bts.paddypower.com:8443

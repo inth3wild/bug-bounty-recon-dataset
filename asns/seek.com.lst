@@ -73,8 +73,8 @@ login.staging.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 manage.developer.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 nov-staff.service.dev.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 origin.ap-southeast-1.development.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.214.0.0/15
-origin.ap-southeast-1.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 18.140.0.0/15
-origin.ap-southeast-1.test.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.214.0.0/15
+origin.ap-southeast-1.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.251.192.0/18
+origin.ap-southeast-1.test.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 18.142.0.0/15
 origin.ap-southeast-2.development.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.253.0.0/17
 origin.ap-southeast-2.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 origin.ap-southeast-2.sandbox.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
@@ -89,7 +89,7 @@ rr-api-oauth-l.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/1
 rr-api-oauth.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 rr-api-oauthengima.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 rr-metrics-forwarder.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
-secure.info.seek.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+secure.info.seek.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
 seek.com AS16509 AS16509 - AMAZON.COM, INC. US 52.64.128.0/17
 smtp-api-oauth.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 staff.service.dev.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19

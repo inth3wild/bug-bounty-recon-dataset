@@ -119,4 +119,4 @@ https://status.braintreepayments.com [301] [GET] [text/html] [301 Moved Permanen
 https://support.braintreepayments.com [302] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://watchtower.qwt.braintreepayments.com [302] [GET] [text/html] [] [thin] [d41d8cd98f00b204e9800998ecf8427e]
 https://watchtower.sand.braintreepayments.com [302] [GET] [text/html] [] [thin] [d41d8cd98f00b204e9800998ecf8427e]
-https://www.braintreepayments.com [200] [GET] [text/html] [Caret right] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Tag Manager,Nginx] [9adffb387d91a63c43e9654e7c611576]
+https://www.braintreepayments.com [200] [GET] [text/html] [Caret right] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Tag Manager,Nginx] [fc67ae2f9beb45a940f3b100847e8d2a]

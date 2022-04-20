@@ -4,7 +4,7 @@ https://cdn.email.gamma.be [403] [GET] [application/xml] [] [AmazonS3] [vhost] [
 https://chatapp.gamma.be [403] [GET] [text/html] [403 Forbidden] [] [vhost] [4b074b0b59693fa9f94fb71b175fb187]
 https://chatapp.gamma.be [403] [GET] [text/html] [403 Forbidden] [] [vhost] [9fe3cb2b7313dc79bb477bc8fde184a7]
 https://data.email.gamma.be [200] [GET] [] [] [jag] [d41d8cd98f00b204e9800998ecf8427e]
-https://feedback.gamma.be [200] [GET] [text/html] [Insocial] [nginx/1.20.0] [Google Font API,Nginx,Node.js,Nuxt.js,Vue.js] [36d12ac89e30f776e39fbc3fe1a36f09]
+https://feedback.gamma.be [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://gamma.be [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
 https://kassa.acceptatie.gamma.be [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [91b5ff9bc3eaed9c65405fb8e468a2f9]
 https://kassa.gamma.be [301] [GET] [] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]

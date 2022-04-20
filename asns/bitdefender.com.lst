@@ -34,7 +34,9 @@ push-hello.bitdefender.com AS16509 AS16509 - AMAZON.COM INC. US 52.208.0.0/13
 push-hello.bitdefender.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 ra.bitdefender.com AS23089 AS23089 - HOTWIRE COMMUNICATIONS US 72.13.152.0/22
 resellerportal.bitdefender.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+rmm-cw-client-api-plugin-intgr.dev.rmm.bitdefender.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
+rmm-cw-rmm-api-plugin-intgr.dev.rmm.bitdefender.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 sampleupload.bitdefender.com AS44418 AS44418 - BITDEFENDER SRL RO 195.189.155.0/24
 share.bitdefender.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.160.0/20

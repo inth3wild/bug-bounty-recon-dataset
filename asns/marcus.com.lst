@@ -27,6 +27,7 @@ pilot.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.13
 post.tw.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 18.232.0.0/14
 post.tw.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 post.tw.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+preprod.analytics.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 3.33.192.0/20
 prod-vip.vendor.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 148.86.15.0/24
 prod.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.90.0.0/15
 prod.analytics.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22

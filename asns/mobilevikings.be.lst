@@ -34,7 +34,6 @@ bss-preprod.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.156.120.0
 bss-preprod.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 bss.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 budskap.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
-budskap.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 business-support.mobilevikings.be AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 campaigner.acc-pub.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 campaigner.dev-pub.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -185,7 +184,6 @@ snurucallback.dev-pub.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 18.
 ss.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.api-2freedom.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.api.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-staging.budskap.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.docs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.ssl.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.static.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -216,7 +214,6 @@ vctry-prxy.dev.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/
 vctry-prxy.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 vikinginspace.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 vpn.mas-pub.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.228.0.0/16
-vpn.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 vpn.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.73.0.0/16
 web.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 webmail.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21

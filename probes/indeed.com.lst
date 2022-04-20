@@ -73,7 +73,7 @@ https://billing2.indeed.com [404] [GET] [text/html] [404 Not Found] [nginx] [Ngi
 https://blog.au.indeed.com [200] [GET] [text/html] [Indeed Blog | AU - Ideas. Data. Insight.] [nginx] [vhost] [Bootstrap,MySQL,Nginx,PHP,WordPress,Yoast SEO] [d66a4514f03830829cefe62290babf75]
 https://blog.de.indeed.com [200] [GET] [text/html] [Indeed Blog | DE - Ideas. Data. Insights.] [nginx] [vhost] [Bootstrap,MySQL,Nginx,PHP,WordPress,Yoast SEO] [77b1524eaf623fc2edf76ff22f95aba9]
 https://blog.indeed.com [301] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
-https://blog.jp.indeed.com [200] [GET] [text/html] [Indeed Blog | JP - 人事・採用担当者や経営者の方のために、採用の基本知識やトレンド、Indeedの活用法など役立つ情報をご紹介しています。] [nginx] [vhost] [Bootstrap,MySQL,Nginx,PHP,WordPress,Yoast SEO] [35063d58e60a120ead8939c4434d36be]
+https://blog.jp.indeed.com [200] [GET] [text/html] [Indeed Blog | JP - 人事・採用担当者や経営者の方のために、採用の基本知識やトレンド、Indeedの活用法など役立つ情報をご紹介しています。] [nginx] [vhost] [Bootstrap,MySQL,Nginx,PHP,WordPress,Yoast SEO] [b909f6071befd51b43bd350ac4f8c984]
 https://bloomberg.indeed.com [307] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://br.conv.indeed.com [307] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://br.indeed.com [200] [GET] [text/html] [Busca grátis de vagas de emprego | Indeed] [nginx] [vhost] [Google Font API,Nginx,React] [6c6551eec0fd386137fa8bafa2199502]

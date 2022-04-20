@@ -38,6 +38,7 @@ https://cbbbracket.fanduel.com [502] [GET] [text/html] [ERROR: The request could
 https://cbbbracket.fanduel.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [fda18d898cf852eb1606583c80266961]
 https://cdn2.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [025d398081436aed0274f635cb6fdc66]
 https://cdn2.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [e81945c3539dddb669b0db7109b0f682]
+https://cms-marketing-dev.fanduel.com [200] [GET] [text/html] [Log in | MVP] [nginx] [vhost] [Acquia Cloud Platform,Apache,Drupal,Nginx,PHP,Percona] [1bc86da1a35a9ee0e1d946ba25d009a3]
 https://cms.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [7d1c7a40c76a067acfa092d4a704aa50]
 https://cms.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [fa14e8211a1caa6e777f353b063249c4]
 https://companion.fanduel.com [404] [GET] [text/html] [Error] [nginx] [Express,Nginx,Node.js] [da7da7d630292e7a2a7dda8ca87b3d39]

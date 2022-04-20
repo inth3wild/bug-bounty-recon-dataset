@@ -30,6 +30,7 @@ http://bfcm-globe-products-staging.flink.shopifykloud.com
 http://bfcm-globe-trickle-cricket-staging.flink.shopifykloud.com
 http://bfcm-products-east-production.flink.shopifykloud.com
 http://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
+http://capital-algo-streaming-production.flink.shopifykloud.com
 http://cdp-orderaggs-experiment-1.flink.shopifykloud.com
 http://cef-load-testdata-central-stg.flink.shopifykloud.com
 http://conductor-server.shopify-data-presto-global.shopifykloud.com
@@ -57,6 +58,7 @@ http://druid-general-druid-router-ingress-druid-global-us-central1-2.global.drui
 http://druid-general-druid-router-ingress-druid-global-us-east1-2.global.druid.shopifykloud.com
 http://email-engagement-production.flink.shopifykloud.com
 http://email-engagement-staging.flink.shopifykloud.com
+http://email-engagement-v2-production.flink.shopifykloud.com
 http://email-engagement-v2-staging.flink.shopifykloud.com
 http://exp-caching-staging.shopify-data-presto-global.shopifykloud.com
 http://fast-monorail.shopify-data-presto-global.shopifykloud.com
@@ -295,6 +297,7 @@ https://bfcm-globe-trickle-cricket-staging.flink.shopifykloud.com
 https://bfcm-products-east-production.flink.shopifykloud.com
 https://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 https://canada.vpnify.shopifykloud.com
+https://capital-algo-streaming-production.flink.shopifykloud.com
 https://cdp-orderaggs-experiment-1.flink.shopifykloud.com
 https://cef-load-testdata-central-stg.flink.shopifykloud.com
 https://conductor-server.shopify-data-presto-global.shopifykloud.com
@@ -322,6 +325,7 @@ https://druid-general-druid-router-ingress-druid-global-us-central1-2.global.dru
 https://druid-general-druid-router-ingress-druid-global-us-east1-2.global.druid.shopifykloud.com
 https://email-engagement-production.flink.shopifykloud.com
 https://email-engagement-staging.flink.shopifykloud.com
+https://email-engagement-v2-production.flink.shopifykloud.com
 https://email-engagement-v2-staging.flink.shopifykloud.com
 https://exp-caching-staging.shopify-data-presto-global.shopifykloud.com
 https://fast-monorail.shopify-data-presto-global.shopifykloud.com

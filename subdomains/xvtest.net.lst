@@ -195,6 +195,9 @@ origin-wp-singapore-1.web-staging.xvtest.net
 origin-wp-singapore-2.web-staging.xvtest.net
 origin.xvtest.net
 pangt-1.pmgr.playground.xvtest.net
+pangt-2.pmgr.playground.xvtest.net
+pangt-3.pmgr.playground.xvtest.net
+pangt-4.pmgr.playground.xvtest.net
 pangt.pmgr.playground.xvtest.net
 pap.xvtest.net
 papperoni.xvtest.net
@@ -643,6 +646,11 @@ web-frontend-pr-9138.frontend-qa.xvtest.net
 web-frontend-pr-9140.frontend-qa.xvtest.net
 web-frontend-pr-9141.frontend-qa.xvtest.net
 web-frontend-pr-9142.frontend-qa.xvtest.net
+web-frontend-pr-9160.frontend-qa.xvtest.net
+web-frontend-pr-9161.frontend-qa.xvtest.net
+web-frontend-pr-9164.frontend-qa.xvtest.net
+web-frontend-pr-9165.frontend-qa.xvtest.net
+web-frontend-pr-9168.frontend-qa.xvtest.net
 web-frontend-staging.frontend-qa.xvtest.net
 web-staging.xvtest.net
 web3-qa.xvtest.net
@@ -1112,6 +1120,11 @@ www.web-frontend-pr-9138.frontend-qa.xvtest.net
 www.web-frontend-pr-9140.frontend-qa.xvtest.net
 www.web-frontend-pr-9141.frontend-qa.xvtest.net
 www.web-frontend-pr-9142.frontend-qa.xvtest.net
+www.web-frontend-pr-9160.frontend-qa.xvtest.net
+www.web-frontend-pr-9161.frontend-qa.xvtest.net
+www.web-frontend-pr-9164.frontend-qa.xvtest.net
+www.web-frontend-pr-9165.frontend-qa.xvtest.net
+www.web-frontend-pr-9168.frontend-qa.xvtest.net
 www.web-frontend-staging.frontend-qa.xvtest.net
 www.www.3.v2-staging-dennis.xvtest.net
 www.xvtest.net

@@ -47,6 +47,7 @@ origin-fe-singapore-2.web-staging.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. 
 origin-wp-singapore-1.web-staging.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.251.144.0/20
 origin-wp-singapore-2.web-staging.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.251.0.0/18
 pangt-1.pmgr.playground.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 18.136.0.0/16
+pangt-4.pmgr.playground.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 18.140.0.0/15
 pangt.pmgr.playground.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 3.0.0.0/15
 papperoni.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.176.0.0/15
 pmgr-ianc.playground.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
@@ -164,6 +165,10 @@ web-frontend-pr-9138.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. U
 web-frontend-pr-9140.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 web-frontend-pr-9141.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 web-frontend-pr-9142.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+web-frontend-pr-9160.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
+web-frontend-pr-9164.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+web-frontend-pr-9165.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
+web-frontend-pr-9168.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 web-frontend-staging.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 www.fe-singapore-1.web-staging.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 www.fe-singapore-2.web-staging.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
@@ -269,3 +274,7 @@ www.web-frontend-pr-9138.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, IN
 www.web-frontend-pr-9140.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 www.web-frontend-pr-9141.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 www.web-frontend-pr-9142.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+www.web-frontend-pr-9160.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
+www.web-frontend-pr-9164.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+www.web-frontend-pr-9165.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
+www.web-frontend-pr-9168.frontend-qa.xvtest.net AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23

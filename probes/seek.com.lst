@@ -199,7 +199,6 @@ https://rr-api-oauth-l.sg.seek.com [418] [GET] [text/plain] [] [cloudflare] [vho
 https://rr-api-oauthengima.sg.seek.com [418] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [416e916bfd36d5b865cfe2b5ab61bdcb]
 https://rr-metrics-forwarder.sg.seek.com [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Express,Node.js] [e17cc10b1ee6f3322ba730aba2af9b39]
 https://secure.info.seek.com [200] [GET] [] [] [jag] [d41d8cd98f00b204e9800998ecf8427e]
-https://secure.info.seek.com [200] [GET] [] [] [jag] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://seek.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [4aa7a432bb447f094408f1bd6229c605]
 https://smtp-api-oauth.sg.seek.com [418] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [416e916bfd36d5b865cfe2b5ab61bdcb]
 https://static.rr.seek.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [85e4d52490effdb78aff623688744a45]

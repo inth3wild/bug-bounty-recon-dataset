@@ -329,6 +329,7 @@
 0	zero byte favicon	http://video.market.xiaomi.com:8180/
 0	zero byte favicon	http://wallpaper.cdn.pandora.xiaomi.com/
 0	zero byte favicon	http://wallpaper.cdn.pandora.xiaomi.com:80/
+0	zero byte favicon	http://wap.phonerecharge.pay.xiaomi.com/
 0	zero byte favicon	http://wap.phonerecharge.pay.xiaomi.com:80/
 0	zero byte favicon	http://web.recharge.pay.xiaomi.com:80/
 0	zero byte favicon	http://www.account.xiaomi.com:80/
@@ -495,6 +496,7 @@
 0	zero byte favicon	https://video.market.xiaomi.com:443/
 0	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
 0	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com:443/
+0	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
 0	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com:443/
 0	zero byte favicon	https://web.recharge.pay.xiaomi.com:443/
 0	zero byte favicon	https://www.account.xiaomi.com:443/
@@ -863,6 +865,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://video.market.xiaomi.co
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://video.market.xiaomi.com:8180/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wallpaper.cdn.pandora.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wallpaper.cdn.pandora.xiaomi.com:80/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wap.phonerecharge.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wap.phonerecharge.pay.xiaomi.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web.recharge.pay.xiaomi.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.account.xiaomi.com:80/
@@ -1029,6 +1032,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://vd0.market.xiaomi.com
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://video.market.xiaomi.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com:443/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web.recharge.pay.xiaomi.com:443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.account.xiaomi.com:443/

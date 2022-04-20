@@ -12,7 +12,7 @@ api-aa.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 api-aa.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 api-m-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 api-m.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-api-m.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
+api-m.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 api-s-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 api-s.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.208.0/20
 api-s.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
@@ -23,10 +23,10 @@ api.cardinal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.cxd.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.dialogflow.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.financing-mint.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.141.0/24
-api.financing.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.140.0/24
 api.heroku.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.imagescreening.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.mercadopago.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.networkmandate.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.networktoken.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 api.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
@@ -177,6 +177,7 @@ api.test50.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test53.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test54.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test55.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.test99.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.uer.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.venmomsm.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.webhnotifications-perf.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -184,16 +185,12 @@ api.webhnotifications.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.24
 api.xoomunp.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 auth.test49.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 business-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
-business.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
-business.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-business.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
+business.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.30.0/23
 business.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 c-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-c.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 c.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 c.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 c.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-c6.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 c6.paypal.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 cei11.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 cei11.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -204,24 +201,20 @@ click.emails.paypal.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.110.0.0/16
 click.mktg1.paypal.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.110.0.0/16
 cloud.emails.paypal.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.110.0.0/16
 cors.api-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
+cors.api.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 cors.api.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 creditapply.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
-creditapply.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 demo.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.3.112.0/20
 developer.paypal.com AS17012 AS17012 - PAYPAL INC. US 173.0.88.0/21
 developer.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 dropzone.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
-financing.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 financing.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-financing.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 fpdbs.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 fpdbs.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 fpdbs.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 fpdbs.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 github-global.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
-history.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 history.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-history.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 image.emails.paypal.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.50.53.0/24
 images.paypal.com AS17012 AS17012 - PAYPAL INC. US 173.0.80.0/21
 ipnpb-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
@@ -241,12 +234,8 @@ payments-reports.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 paypalmanager.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 paypalmanager.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 pep.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
-pep.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-pep.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 pics-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-pics.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.200.196.0/22
-pics.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.209.184.0/22
-pics.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.41.168.0/22
+pics.paypal.com AS15133 AS15133 - MCI COMMUNICATIONS SERVICES, INC. D/B/A VERIZON BUSINESS US 192.229.210.0/24
 pics.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 pilot-payflowlink.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 pilot-payflowpro.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
@@ -256,25 +245,18 @@ pointofsale-s.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.111.
 pointofsale.paypal.com AS17012 AS17012 - PAYPAL, INC. US 66.211.168.0/23
 postcollector.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 qwac.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-qwac.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-qwac.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 registration.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 rms.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.80.0/21
-safebreach.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.6.28.0/22
 safebreach.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 safetyhub.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 secure.paypal.com AS17012 AS17012 - PAYPAL INC. US 173.0.88.0/21
 securepayments-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-securepayments.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.209.184.0/22
-securepayments.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
-securepayments.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
-securepayments.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
+securepayments.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.209.184.0/22
 securepayments.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 shopping.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.140.0/24
 ssp.paypal.com AS17012 AS17012 - PAYPAL INC. US 173.0.88.0/21
 ssp.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
-sspserv.paypal.com AS17012 AS17012 - PAYPAL INC. US 173.0.88.0/21
 sspserv.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 svcs-v2.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 svcs.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
@@ -291,10 +273,14 @@ view.emails.paypal.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.110.0.0/16
 www-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 www.bt-fraud-protection.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.cardinal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.creditauciti-dev.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.creditauciti-m.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.creditauciti.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.cxd.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.dialogflow.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.heroku.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.mercadopago.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.networkmandate.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.networktoken.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 173.223.56.0/22
 www.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22

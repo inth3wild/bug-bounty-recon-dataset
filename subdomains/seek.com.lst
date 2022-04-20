@@ -41,6 +41,7 @@ ap-southeast-1.test.internal.seek.com
 ap-southeast-2.development.internal.seek.com
 ap-southeast-2.production.internal.seek.com
 ap-southeast-2.sandbox.internal.seek.com
+ap-southeast-2.test.internal.seek.com
 apex-metrics.sg.seek.com
 api-au-oidc.rr.seek.com
 api-au.rr.seek.com
@@ -265,6 +266,7 @@ ingress.ap-southeast-1.test.external.seek.com
 ingress.ap-southeast-2.development.external.seek.com
 ingress.ap-southeast-2.production.external.seek.com
 ingress.ap-southeast-2.sandbox.external.seek.com
+ingress.ap-southeast-2.test.external.seek.com
 insight.seek.com
 insightsresources.seek.com
 investors.seek.com

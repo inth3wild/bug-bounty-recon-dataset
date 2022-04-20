@@ -84,6 +84,7 @@ https://storm.blockfi.com [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [C
 https://try.blockfi.com [404] [GET] [text/plain] [] [] [f9ae9006943e3a67b95ca4c6c733b6d4]
 https://vis-661.shield-sandbox.aws.blockfi.com [200] [GET] [text/html] [Shield - BlockFi] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [e05645bebea28168eaac0ecba00c1092]
 https://vis880.shield-sandbox.aws.blockfi.com [200] [GET] [text/html] [Shield - BlockFi] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [0d771f3fbf9921ff2716fea4ad575929]
+https://vis990.shield-sandbox.aws.blockfi.com [200] [GET] [text/html] [Shield - BlockFi] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [ae75c494c0a1ddf64109b566b13b9434]
 https://vis995.shield-sandbox.aws.blockfi.com [200] [GET] [text/html] [Shield - BlockFi] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [a8ec683ed72c8c6d9156152c62cb2545]
 https://www.app.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://www.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]

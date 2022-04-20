@@ -30,4 +30,4 @@ https://login.intigriti.com [302] [GET] [] [] [Hidden] [vhost] [cloudfront] [Ama
 https://www-demo.intigriti.com [403] [GET] [text/html] [intigriti - ethical hacking and managed bug bounty platform] [Hidden] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Font API] [39d31d22f3a43b0f19da78981d210eaf]
 https://www-stage.intigriti.com [403] [GET] [text/html] [intigriti - ethical hacking and managed bug bounty platform] [Hidden] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Font API] [39d31d22f3a43b0f19da78981d210eaf]
 https://www-uat.intigriti.com [403] [GET] [text/html] [intigriti - ethical hacking and managed bug bounty platform] [Hidden] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Font API] [39d31d22f3a43b0f19da78981d210eaf]
-https://www.intigriti.com [200] [GET] [text/html] [social instagram] [Hidden] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [ec42057d2046dec2fd5dcc9a3bda28ad]
+https://www.intigriti.com [200] [GET] [text/html] [social instagram] [Hidden] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [898637ca6d50859f222670355e7a77bc]

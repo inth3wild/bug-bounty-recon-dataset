@@ -2,7 +2,6 @@ http://api.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb159
 http://doc.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://ibood.io [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
 http://lb.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://shop.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://web.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://worker.ibood.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://www.ibood.io [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [d41d8cd98f00b204e9800998ecf8427e]

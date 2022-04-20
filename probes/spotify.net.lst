@@ -40,7 +40,7 @@ http://writing.spotify.net:8080 [404] [GET] [text/html] [404 Not Found] [] [2e92
 https://abtesting.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [Apache,Google Cloud,Google Cloud CDN] [b3c8789230c39e705c197ed768c7b246]
 https://backstage.spotify.net [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://bettermau5-dev.spotify.net [200] [GET] [text/html] [Endpoints Portal] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Google Font API,Node.js] [efb3bd1e397d6f088c4963ae176789d9]
-https://bettermau5.spotify.net [200] [GET] [text/html] [Endpoints Portal] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Google Font API,Node.js] [97419d83ad60f16b6130f53ab6e9b97f]
+https://bettermau5.spotify.net [200] [GET] [text/html] [Endpoints Portal] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Google Font API,Node.js] [641e9c24d1233ec8f872ef407c3600c4]
 https://brand.spotify.net [302] [GET] [text/html] [] [Google Frontend] [vhost] [Google App Engine] [d41d8cd98f00b204e9800998ecf8427e]
 https://campaignadmin.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [Apache,Google Cloud,Google Cloud CDN] [9a5a1a62c554b452f730580fc98158ce]
 https://cases.feedzai-sandbox.spotify.net [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]

@@ -129,7 +129,9 @@ http://renewals.bitdefender.com
 http://research.bitdefender.com
 http://resellerportal.bitdefender.com
 http://resellerportal.bitdefender.com:8080
+http://rmm-cw-client-api-plugin-intgr.dev.rmm.bitdefender.com
 http://rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com
+http://rmm-cw-rmm-api-plugin-intgr.dev.rmm.bitdefender.com
 http://rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com
 http://sales.bitdefender.com
 http://sampleupload.bitdefender.com
@@ -304,7 +306,9 @@ https://remote.bitdefender.com
 https://renewals.bitdefender.com
 https://research.bitdefender.com
 https://resellerportal.bitdefender.com
+https://rmm-cw-client-api-plugin-intgr.dev.rmm.bitdefender.com
 https://rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com
+https://rmm-cw-rmm-api-plugin-intgr.dev.rmm.bitdefender.com
 https://rmm-cw-rmm-api-plugin-uat.dev.rmm.bitdefender.com
 https://sales.bitdefender.com
 https://sampleupload.bitdefender.com

@@ -13,7 +13,6 @@ codesearch.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 collins.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 community-staging.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 ctf.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-devsupport.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 echo-test.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 echo.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
 gists.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
@@ -34,7 +33,6 @@ sonar-staging.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
 sonar.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.92.0.0/14
 soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 style.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
-support.soundcloud.org AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
 support.soundcloud.org AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
 thanos.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
 traefik.soundcloud.org AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14

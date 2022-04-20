@@ -513,6 +513,7 @@ https://lert.uber.com [200] [GET] [text/html] [] [] [vhost] [ApexPages,Salesforc
 https://link.recruitermail.uber.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://link.recruitermail.uber.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://liveops.uber.com [403] [GET] [text/html] [403 Forbidden] [ufe] [vhost] [Envoy] [735272b9ddede509dfbb7039bfe4a1f4]
+https://lobby-cms.uber.com [200] [GET] [text/html] [uber-hqlobby-cms-fe] [ufe] [vhost] [Envoy] [6572457d67f1a896a25bded09e5af666]
 https://local.uber.com [307] [GET] [text/html] [307 Temporary Redirect] [ufe] [Envoy,Google Cloud,Google Cloud CDN] [62019120e2e6b6a77d348c07ed5801aa]
 https://login.uber.com [404] [GET] [text/html] [404 Not Found] [ufe] [vhost] [Envoy] [ad76203cbb9feb6a77342842816f7b51]
 https://lost.uber.com [301] [GET] [] [] [ufe] [vhost] [Google Cloud,Google Cloud CDN] [d41d8cd98f00b204e9800998ecf8427e]

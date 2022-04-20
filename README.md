@@ -2,10 +2,10 @@
 <tr><th>LABEL</th><th>COUNT</th></tr>
 <tr><td>PROGRAMs</th><td>130</th></tr>
 <tr><td>DOMAINs</th><td>462</th></tr>
-<tr><td>SUBDOMAINs</th><td>1071298</th></tr>
-<tr><td>ASNs</th><td>71352</th></tr>
-<tr><td>WEBSITEs</th><td>176201</th></tr>
-<tr><td>PROBEs</th><td>94703</th></tr>
-<tr><td>FAVICONs</th><td>20337</th></tr>
-<tr><td>SCREENSHOTs</th><td>32075</th></tr>
+<tr><td>SUBDOMAINs</th><td>1072293</th></tr>
+<tr><td>ASNs</th><td>71573</th></tr>
+<tr><td>WEBSITEs</th><td>176778</th></tr>
+<tr><td>PROBEs</th><td>93692</th></tr>
+<tr><td>FAVICONs</th><td>20538</th></tr>
+<tr><td>SCREENSHOTs</th><td>32664</th></tr>
 </table></p></div>

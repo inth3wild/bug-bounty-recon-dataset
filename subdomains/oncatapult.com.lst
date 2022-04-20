@@ -154,6 +154,7 @@ kibana.accounts-dev.oncatapult.com
 kibana.catapult-dev.oncatapult.com
 level-gateway-loadtest2.fallguys-dev.oncatapult.com
 level-gateway-testci.fallguys-dev.oncatapult.com
+level-gateway-unstable.fallguys-dev.oncatapult.com
 loadtest-api-testci.catapult-dev.oncatapult.com
 loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 login-admin-clientdev.fallguys-dev.oncatapult.com

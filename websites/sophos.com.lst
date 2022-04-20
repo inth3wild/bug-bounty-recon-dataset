@@ -202,6 +202,8 @@ http://live-terminal.stn100yul.ctr.sophos.com
 http://ll-auth-downloads.sophos.com
 http://login.sophos.com
 http://lon.ff.staging.labs.sophos.com
+http://lon1.ff.labs.sophos.com
+http://lon3.ff.labs.sophos.com
 http://lp.sophos.com
 http://lpas-cloudstation-us-west-2.qa.hydra.sophos.com
 http://lpashub-cloudhub-eu-west-1.dev.hydra.sophos.com:8080
@@ -405,6 +407,7 @@ http://xgatp.feedback.sophos.com
 http://xgsizing-internal.sophos.com
 http://xgsni-feedback.sophos.com
 http://xgtls-feedback.sophos.com
+https://00a9r1l4.stn030gru.ctr.sophos.com
 https://0886z16u.stn010yul.ctr.sophos.com
 https://0agndc5p.cloudstation.us-east-2.prod.hydra.sophos.com
 https://0bk7ogj0.stn100syd.ctr.sophos.com
@@ -1009,6 +1012,7 @@ https://e5bx3rfc.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://eeh8ifk8.stn010yul.ctr.sophos.com
 https://efx1oheb.stn030gru.ctr.sophos.com
 https://ege7fijg.cloudstation.us-east-2.prod.hydra.sophos.com
+https://eh94egta.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://el3tquyg.cloudhub.eu-west-1.qa.hydra.sophos.com
 https://emeasip.sophos.com
 https://emeaucwebrp01.sophos.com
@@ -1081,6 +1085,7 @@ https://fciugv5n.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://fcqdf800.cloudstation.eu-west-1.prod.hydra.sophos.com
 https://fd22kmf9-cloudhub-eu-west-1.dev.hydra.sophos.com
 https://fd93a284-5ce5-3887-9346-6cbec2987fa5-wdx-5ce5.broker.sophos.com
+https://fdg2fhn9.cloudhub.eu-west-1.inf.hydra.sophos.com
 https://federation-qa.sophos.com
 https://federation.sophos.com
 https://feedback.sophos.com
@@ -1189,6 +1194,7 @@ https://hub.analysis.sophos.com
 https://hub.hub010pdx.ctr.sophos.com
 https://hubwifi-cloudstation-eu-west-1.inf.hydra.sophos.com
 https://i5icu0ng.cloudstation.us-east-2.prod.hydra.sophos.com
+https://i9f0qh2h.cloudstation.us-west-2.prod.hydra.sophos.com
 https://id.sophos.com
 https://ideas.sophos.com
 https://ilnx7sxu.cloudstation.eu-west-1.prod.hydra.sophos.com
@@ -1266,6 +1272,7 @@ https://license-report.cloudstation.eu-central-1.prod.hydra.sophos.com
 https://license-report.cloudstation.eu-central-1.qa.hydra.sophos.com
 https://license-report.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://license-report.cloudstation.eu-west-1.prod.hydra.sophos.com
+https://license-report.cloudstation.us-east-2.prod.hydra.sophos.com
 https://license-report.cloudstation.us-west-2.prod.hydra.sophos.com
 https://license-report.cloudstation.us-west-2.qa.hydra.sophos.com
 https://license-report.stn030syd.ctr.sophos.com

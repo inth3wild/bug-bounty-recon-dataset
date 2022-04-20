@@ -1,5 +1,6 @@
 http://admin.staging.starlink.com
 http://admin.staging.starlink.com:8080
+http://analytics.beta.starlink.com
 http://analytics.starlink.com
 http://api.payments-test.starlink.com
 http://api.payments.starlink.com
@@ -44,6 +45,7 @@ http://support.starlink.com
 http://webmail.starlink.com
 http://www.starlink.com
 https://admin.staging.starlink.com
+https://analytics.beta.starlink.com
 https://analytics.starlink.com
 https://api.payments-test.starlink.com
 https://api.payments.starlink.com

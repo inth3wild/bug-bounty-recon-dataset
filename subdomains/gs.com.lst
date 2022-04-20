@@ -964,6 +964,7 @@ lnrail2.orbit.gs.com
 lockbox-qa.gs.com
 lockbox.gs.com
 login-cap.gs.com
+login-higher.gs.com
 login.ap-southeast-1.idfs-dev.gs.com
 login.ap-southeast-1.idfs-qa.gs.com
 login.ap-southeast-1.idfs.gs.com
@@ -1436,6 +1437,7 @@ prod.wecom.gs.com
 prod.zoom.workplace.gs.com
 prod1-360.gs.com
 prod1.marcus.aws.ssl.tableau.site.gs.com
+prod2.marcus.aws.ssl.tableau.site.gs.com
 projx.api.clearfactr.gs.com
 projx.app.clearfactr.gs.com
 provenir.uat.gs.com

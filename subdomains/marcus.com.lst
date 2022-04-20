@@ -381,6 +381,7 @@ pl.uat.cardnotificationservice.infra.marcus.com
 pl1.prod.cardnotificationservice.infra.marcus.com
 pl2.prod.cardnotificationservice.infra.marcus.com
 post.tw.marcus.com
+preprod.analytics.marcus.com
 preprod.consumer.communications.marcus.com
 privatelink.infra.marcus.com
 privelbaec-prod.acqueon.infra.marcus.com
