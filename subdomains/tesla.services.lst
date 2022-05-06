@@ -5691,6 +5691,7 @@ ethermuse.tesla.services
 eu-vpn.vn-www.antivirus.tesla.services
 eu-vpn.vn.tesla.services
 eu-west-1.eng.fa.tesla.services
+eu-west-1.prd.sn.tesla.services
 eval.eng.ap.tesla.services
 events.tesla.services
 everbank.tesla.services
@@ -6446,6 +6447,7 @@ omicron.tesla.services
 online.tesla.services
 openfire.tesla.services
 openid.tesla.services
+openvpn.secengovp.tesla.services
 opus.tesla.services
 org.demo.tesla.services
 orientalmassagelondon.tesla.services

@@ -33,7 +33,11 @@
 0	zero byte favicon	http://ecommerce.shopify.com/
 0	zero byte favicon	http://ecommerce.shopify.com:80/
 0	zero byte favicon	http://engineering.shopify.com/
+0	zero byte favicon	http://engineering.shopify.com:2082/
+0	zero byte favicon	http://engineering.shopify.com:2086/
 0	zero byte favicon	http://engineering.shopify.com:80/
+0	zero byte favicon	http://engineering.shopify.com:8080/
+0	zero byte favicon	http://engineering.shopify.com:8880/
 0	zero byte favicon	http://es.shopify.com/
 0	zero byte favicon	http://es.shopify.com:2082/
 0	zero byte favicon	http://es.shopify.com:80/
@@ -250,7 +254,11 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://datastories.shopify.co
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ecommerce.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ecommerce.shopify.com:80/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com:2082/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com:2086/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com:80/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com:8080/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://engineering.shopify.com:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://es.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://es.shopify.com:2082/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://es.shopify.com:80/

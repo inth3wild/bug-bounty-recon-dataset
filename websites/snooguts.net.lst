@@ -2,6 +2,7 @@ http://airflow-psql-gcp.data.ue1.snooguts.net
 http://assets.github.snooguts.net
 http://avatars.github.snooguts.net
 http://codeload.github.snooguts.net
+http://data.ue1.snooguts.net
 http://docker.github.snooguts.net
 http://gist.github.snooguts.net
 http://maven.github.snooguts.net
@@ -27,6 +28,7 @@ http://vault.dev.ue1.snooguts.net
 http://vault.reddit.ue1.snooguts.net
 http://vault.relevance.ue1.snooguts.net
 http://vault.search.ue1.snooguts.net
+http://vault.test.ue1.snooguts.net
 http://vpn.snooguts.net
 http://www.vault.ads.ue1.snooguts.net
 http://www.vault.reddit.ue1.snooguts.net
@@ -57,4 +59,5 @@ https://vault.dev.ue1.snooguts.net
 https://vault.reddit.ue1.snooguts.net
 https://vault.relevance.ue1.snooguts.net
 https://vault.search.ue1.snooguts.net
+https://vault.test.ue1.snooguts.net
 https://vpn.snooguts.net

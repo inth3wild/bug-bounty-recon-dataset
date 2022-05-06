@@ -84,6 +84,7 @@ adequate-desk-production-web-apps-b-us-east1-5.shopifycloud.com
 adequate-desk-production-web-apps-b-us-east1-8.shopifycloud.com
 adequate-desk-production-web-tier3.shopifycloud.com
 adequate-desk.shopifycloud.com
+adhoc.merlin.shopifycloud.com
 aditya-envoy-test.shopifycloud.com
 aditya-staging.shopifycloud.com
 aditya-test-production-unrestri-n3lbyxjn-tierstaging-us-east1-3.shopifycloud.com
@@ -518,6 +519,7 @@ atlas-production-unrestricted-2v4-h4ltwzje-es-apps-a-us-east1-2.shopifycloud.com
 atlas-production-unrestricted-2v4-woqwvd2w-es-apps-a-us-east1-2.shopifycloud.com
 atlas-production-unrestricted-2v48--uzqnxdtk-apps-b-us-east1-10.shopifycloud.com
 atlas-production-unrestricted-2v48-r-fnnsuqlz-apps-b-us-east1-6.shopifycloud.com
+atlas-staging.shopifycloud.com
 atlas.shopifycloud.com
 attend-ease-production-web-api-apps-b-us-east1-4.shopifycloud.com
 attend-ease-production-web-api-apps-b-us-east1-6.shopifycloud.com
@@ -581,6 +583,7 @@ b2b-app-production-unrestricted-web-apps-b-us-central1-3.shopifycloud.com
 b2b-app.shopifycloud.com
 b2b-draft-hack.shopifycloud.com
 b2mwv.kibana.shopifycloud.com
+backfilter.shopifycloud.com
 backup-verification-northamerica-northeast1.shopifycloud.com
 backup-verification-production-bv-web-tier1-na-ne1-3.shopifycloud.com
 backup-verification-production-bv-web-tier1-us-central1-6.shopifycloud.com
@@ -1206,7 +1209,9 @@ cloud-portal-apps-a-us-east1-1.shopifycloud.com
 cloud-portal-apps-a-us-east1-10.shopifycloud.com
 cloud-portal-apps-a-us-east1-12.shopifycloud.com
 cloud-portal-apps-a-us-east1-13.shopifycloud.com
+cloud-portal-apps-a-us-east1-14.shopifycloud.com
 cloud-portal-apps-a-us-east1-15.shopifycloud.com
+cloud-portal-apps-a-us-east1-16.shopifycloud.com
 cloud-portal-apps-a-us-east1-2.shopifycloud.com
 cloud-portal-apps-a-us-east1-3.shopifycloud.com
 cloud-portal-apps-a-us-east1-4.shopifycloud.com
@@ -1225,6 +1230,7 @@ cloud-portal-apps-b-us-central1-8.shopifycloud.com
 cloud-portal-apps-b-us-central1-9.shopifycloud.com
 cloud-portal-apps-b-us-east1-1.shopifycloud.com
 cloud-portal-apps-b-us-east1-10.shopifycloud.com
+cloud-portal-apps-b-us-east1-12.shopifycloud.com
 cloud-portal-apps-b-us-east1-13.shopifycloud.com
 cloud-portal-apps-b-us-east1-2.shopifycloud.com
 cloud-portal-apps-b-us-east1-3.shopifycloud.com
@@ -1234,6 +1240,7 @@ cloud-portal-apps-b-us-east1-6.shopifycloud.com
 cloud-portal-apps-b-us-east1-7.shopifycloud.com
 cloud-portal-apps-b-us-east1-8.shopifycloud.com
 cloud-portal-apps-b-us-east1-9.shopifycloud.com
+cloud-portal-apps-core-eu-we3-cx34.shopifycloud.com
 cloud-portal-apps-core-na-ne1-1.shopifycloud.com
 cloud-portal-apps-core-us-central1-1.shopifycloud.com
 cloud-portal-apps-core-us-east1-1.shopifycloud.com
@@ -1258,6 +1265,7 @@ cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com
 cloud-portal-core-n1-us-ea1-vv43.shopifycloud.com
 cloud-portal-core-n1-us-ea1-vw48.shopifycloud.com
 cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com
+cloud-portal-core-n1-us-ea1-zq96.shopifycloud.com
 cloud-portal-core-na-ne1-1.shopifycloud.com
 cloud-portal-core-na-ne1-2.shopifycloud.com
 cloud-portal-core-na-ne1-ns05.shopifycloud.com
@@ -1390,12 +1398,14 @@ cloud-portal-genghis-us-central1-1.shopifycloud.com
 cloud-portal-genghis-us-east1-1.shopifycloud.com
 cloud-portal-imagery-staging-us-ea1-fz36.shopifycloud.com
 cloud-portal-imagery-staging-us-east1-1.shopifycloud.com
+cloud-portal-imagery-us-ce1-zk12.shopifycloud.com
 cloud-portal-imagery-us-central1-1.shopifycloud.com
 cloud-portal-imagery-us-central1-2.shopifycloud.com
 cloud-portal-imagery-us-central1-3.shopifycloud.com
 cloud-portal-imagery-us-central1-5.shopifycloud.com
 cloud-portal-imagery-us-central1-6.shopifycloud.com
 cloud-portal-imagery-us-central1-7.shopifycloud.com
+cloud-portal-imagery-us-ea1-fv18.shopifycloud.com
 cloud-portal-imagery-us-ea1-lv43.shopifycloud.com
 cloud-portal-imagery-us-east1-1.shopifycloud.com
 cloud-portal-imagery-us-east1-2.shopifycloud.com
@@ -1404,6 +1414,7 @@ cloud-portal-imagery-us-east1-5.shopifycloud.com
 cloud-portal-imagery-us-east1-6.shopifycloud.com
 cloud-portal-imagery-us-east1-7.shopifycloud.com
 cloud-portal-infra-sandbox-us-ea1-az75.shopifycloud.com
+cloud-portal-infra-sandbox-us-ea1-ji99.shopifycloud.com
 cloud-portal-infra-sandbox-us-ea1-nu79.shopifycloud.com
 cloud-portal-infra-sandbox-us-ea1-ps93.shopifycloud.com
 cloud-portal-management-staging-us-central1-3.shopifycloud.com
@@ -1689,6 +1700,7 @@ cloud-test-82be27c858.shopifycloud.com
 cloud-test-9b084b8f51.shopifycloud.com
 cloud-test-ab26d7c97d.shopifycloud.com
 cloud-test-ac778ed3e1.shopifycloud.com
+cloud-test-app-10.shopifycloud.com
 cloud-test-app-31.shopifycloud.com
 cloud-test-app-58.shopifycloud.com
 cloud-test-app-68.shopifycloud.com
@@ -2907,6 +2919,7 @@ david-t-test-one.shopifycloud.com
 davids-shopify-app-production-unrest-rz2djo4x-apps-b-us-east1-1.shopifycloud.com
 davids-shopify-app.shopifycloud.com
 dawn-internal-git.shopifycloud.com
+db-marinas-app.shopifycloud.com
 dcampos-h2-playground-staging.shopifycloud.com
 dcampos-h2-playground.shopifycloud.com
 dcopeland-staging.shopifycloud.com
@@ -3253,6 +3266,7 @@ drill-test.shopifycloud.com
 drill.shopifycloud.com
 drinks-app-staging.shopifycloud.com
 dsh3n.kibana.shopifycloud.com
+dt-services-db-test.shopifycloud.com
 dullahan.shopifycloud.com
 dummy-app-production-web-tier4-us-east1-2.shopifycloud.com
 dummy-app.shopifycloud.com
@@ -3374,6 +3388,7 @@ elasticsearch-kibana.shopifycloud.com
 elasticsearch-shopify-demo-production-es--kibana-tier4.shopifycloud.com
 elasticsearch-shopify-demo-production-web-tier4.shopifycloud.com
 elasticsearch-shopify-demo.shopifycloud.com
+elasticsearch-splainer.shopifycloud.com
 elasticsearch-wheeljack-staging-kibana.shopifycloud.com
 elasticsearch-wheeljack-staging.es-loni7.shopifycloud.com
 elasticsearch-wheeljack-staging.secure-elasticsearch.wheeljack-staging-unrestricted.shopifycloud.com
@@ -3421,9 +3436,11 @@ elasticsearch.es-rprug.shopifycloud.com
 elasticsearch.es-sy5kv.shopifycloud.com
 elasticsearch.es-t4stc.shopifycloud.com
 elasticsearch.es-tbbnv.shopifycloud.com
+elasticsearch.es-wphzy.shopifycloud.com
 elasticsearch.es-wyrad.shopifycloud.com
 elasticsearch.es-wzmob.shopifycloud.com
 elasticsearch.es-xudhb.shopifycloud.com
+elasticsearch.es-yi5cx.shopifycloud.com
 elasticsearch.es-yvxpg.shopifycloud.com
 elasticsearch.kibana.i0.production-unrestricted-2gjy.leila-search.shopifycloud.com
 elasticsearch.kibana.i0.production-unrestricted-2v48.atlas.shopifycloud.com
@@ -3447,7 +3464,9 @@ elasticsearch.kibana.i0.staging-unrestricted.data-portal.shopifycloud.com
 elasticsearch.kibana.i0.staging-unrestricted.elasticsearch-failover-dev.shopifycloud.com
 elasticsearch.kibana.i0.staging-unrestricted.email-parser.shopifycloud.com
 elasticsearch.secure-elasticsearch.atlas-production-unrestricted-2v48.shopifycloud.com
+elasticsearch.secure-elasticsearch.atlas-staging-unrestricted-ks35.shopifycloud.com
 elasticsearch.secure-elasticsearch.blog-production-unrestricted.shopifycloud.com
+elasticsearch.secure-elasticsearch.command-menu-prototype-production-unrestricted-jnzi.shopifycloud.com
 elasticsearch.secure-elasticsearch.cortex-production-unrestricted.shopifycloud.com
 elasticsearch.secure-elasticsearch.cronograma-staging-unrestricted-hec2.shopifycloud.com
 elasticsearch.secure-elasticsearch.data-portal-production.shopifycloud.com
@@ -4077,6 +4096,7 @@ genesis-production-web-nginx-apps-b-us-east1-5.shopifycloud.com
 genesis-production-web-nginx-tier3.shopifycloud.com
 genesis.shopifycloud.com
 genghis-internal-staging.shopifycloud.com
+genghis-internal.shopifycloud.com
 genghis-production-master-nginx-apps-b-us-east1-4.shopifycloud.com
 genghis-production-master-nginx-apps-b-us-east1-6.shopifycloud.com
 genghis-production-master-nginx-tier3.shopifycloud.com
@@ -5013,6 +5033,7 @@ intsecops-staging-unrestricted-misp-tier4-us-east1-2.shopifycloud.com
 intsecops-staging-unrestricted-thehive-tier4-us-east1-2.shopifycloud.com
 intsecops.es-3hdmc.shopifycloud.com
 intsecops.secure-elasticsearch.intsecops-production-unrestricted.shopifycloud.com
+inventory-api.shopifycloud.com
 inventory-calculator-prototype-pr-26tq6qdp-apps-b-us-central1-2.shopifycloud.com
 inventory-calculator-prototype-pr-agbekefe-apps-b-us-central1-4.shopifycloud.com
 inventory-calculator-prototype.shopifycloud.com
@@ -5104,6 +5125,7 @@ james-dedicated-gke-test.es-wtgdi.shopifycloud.com
 james-dedicated-gke-test.secure-elasticsearch.james.shopifycloud.com
 james-es-2.es-nq7fl.shopifycloud.com
 james-es-2.secure-elasticsearch.james-2022.shopifycloud.com
+james-es-3-splainer.shopifycloud.com
 james-es-3.es-wtgdi.shopifycloud.com
 james-es-3.secure-elasticsearch.james.shopifycloud.com
 james-es-splainer.shopifycloud.com
@@ -5475,6 +5497,7 @@ kafka-kafka-regional-europe-west1-2.shopifycloud.com
 kafka-kafka-regional-europe-west4-1.shopifycloud.com
 kafka-kafka-regional-europe-west4-2.shopifycloud.com
 kafka-kafka-regional-na-ne1-1.shopifycloud.com
+kafka-kafka-regional-unrestricted-eu-we3-me82.shopifycloud.com
 kafka-kafka-regional-us-central1-1.shopifycloud.com
 kafka-kafka-regional-us-east1-1.shopifycloud.com
 kafka-kafka-sandbox-us-ea1-vs69.shopifycloud.com
@@ -5758,6 +5781,7 @@ lia-production-unrestricted-ei3v-web-apps-b-us-east1-6.shopifycloud.com
 lia.shopifycloud.com
 libra-graphql-playground-producti-ptczjidu-apps-b-us-central1-2.shopifycloud.com
 libra-graphql-playground.shopifycloud.com
+lightdash-exp.shopifycloud.com
 lighthouse-ruby-production-unrest-6cczlek2-apps-b-us-central1-2.shopifycloud.com
 lighthouse-ruby-production-unrest-ovpz7l3f-apps-b-us-central1-4.shopifycloud.com
 lighthouse-ruby-staging-unrestricted-lmjy-web-apps-b-us-east1-6.shopifycloud.com
@@ -5805,6 +5829,7 @@ location-limits-production-unrest-ipk7bkaj-apps-b-us-central1-2.shopifycloud.com
 location-limits.shopifycloud.com
 location.shopifycloud.com
 location3.shopifycloud.com
+logging-rails-playground.shopifycloud.com
 logpush-batch-loader-staging.shopifycloud.com
 logpush-batch-loader.shopifycloud.com
 logs-canada-na-ne1-a-1.shopifycloud.com
@@ -5978,6 +6003,7 @@ mason-staging.shopifycloud.com
 mason.shopifycloud.com
 matchmaking-tool-hackdays.shopifycloud.com
 mathusan-cert-gameday.shopifycloud.com
+mauro-test-jobs.shopifycloud.com
 max-test-1-es6-test--kibana-tier4.shopifycloud.com
 mazen-playground.shopifycloud.com
 mbruce-redis-migration-test.shopifycloud.com
@@ -6064,6 +6090,7 @@ merchant-timeline.shopifycloud.com
 mercury-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
 mercury.shopifycloud.com
 merge-queue.shopifycloud.com
+merlin-api-adhoc.shopifycloud.com
 merlin-production-unrestricted-8jqa--ys5sq64w-apps-b-us-east1-5.shopifycloud.com
 merlin-production.shopifycloud.com
 merlin.shopifycloud.com
@@ -6168,7 +6195,10 @@ million-strong-shopify-production-un-twu3va3r-apps-b-us-east1-4.shopifycloud.com
 million-strong-shopify-production-unrestricted-web-tier3.shopifycloud.com
 million-strong-shopify.shopifycloud.com
 millionstrong.shopifycloud.com
+mimir-alertmanager.shopifycloud.com
 mimir-ingest.shopifycloud.com
+mimir-query.shopifycloud.com
+mimir-ruler.shopifycloud.com
 mind-game-production-unrestricted-web-apps-b-us-central1-2.shopifycloud.com
 mind-game.shopifycloud.com
 minerva-bot-production-web-apps-b-us-east1-4.shopifycloud.com
@@ -6365,7 +6395,9 @@ mode-analytics-extractor.shopifycloud.com
 mode-api-embed-production-unrestricted-web-api-tier4-us-east1-2.shopifycloud.com
 mode-api-embed.shopifycloud.com
 mode-navigation-host.shopifycloud.com
+moi-comet-model.shopifycloud.com
 moi-prototype.shopifycloud.com
+moi-test-service.shopifycloud.com
 money-platform-integration.shopifycloud.com
 money-platform-staging.shopifycloud.com
 money-platform.shopifycloud.com
@@ -6589,6 +6621,7 @@ newrelic-test.shopifycloud.com
 news-production-unrestricted-web-apps-b-us-central1-2.shopifycloud.com
 news.shopifycloud.com
 newsroom.shopifycloud.com
+nextjs-admin-starter.shopifycloud.com
 nextus-production-unrestricted-web-apps-b-us-central1-2.shopifycloud.com
 nextus-production-unrestricted-web-apps-b-us-central1-4.shopifycloud.com
 nextus-production-unrestricted-web-public-apps-b-us-central1-10.shopifycloud.com
@@ -7061,6 +7094,9 @@ patdown-staging.shopifycloud.com
 patdown.shopifycloud.com
 patricias-prod-platform-test-app--br3hcxbi-apps-b-us-central1-2.shopifycloud.com
 patricias-prod-platform-test-app.shopifycloud.com
+patricks-app-playground-canary-router.shopifycloud.com
+patricks-app-playground-canary.shopifycloud.com
+patricks-app-playground.shopifycloud.com
 pay-staging-unrestricted-2-web-internal-apps-b-us-central1-2.shopifycloud.com
 pay-staging-unrestricted-2-web-internal-apps-b-us-central1-8.shopifycloud.com
 pay-staging2.shopifycloud.com
@@ -7450,6 +7486,7 @@ product-sync-staging.shopifycloud.com
 product-sync.shopifycloud.com
 product-update-stream-production-unre-stiyecjp-tier4-us-east1-2.shopifycloud.com
 product-update-stream.shopifycloud.com
+production-deploys-demo-app.shopifycloud.com
 production-platform-productio-htaqtz65-management-us-central1-3.shopifycloud.com
 production-platform-productio-rj4d74xg-management-us-central1-2.shopifycloud.com
 production-platform-production-u-hkcnuq2k-management-us-east1-2.shopifycloud.com
@@ -7485,12 +7522,17 @@ projectzrt-production-web-apps-b-us-east1-7.shopifycloud.com
 projectzrt-production-web-tier3.shopifycloud.com
 projectzrt-production-web-tier4.shopifycloud.com
 projectzrt.shopifycloud.com
+prom-staging-us-ce1-vr63.shopifycloud.com
 prometheus-as-se1-rx92.shopifycloud.com
+prometheus-as-se1-wq60.shopifycloud.com
 prometheus-asia-southeast1-1.shopifycloud.com
+prometheus-eu-we1-bx03.shopifycloud.com
 prometheus-na-ne1-hz50.shopifycloud.com
 prometheus-sandbox-1.shopifycloud.com
+prometheus-us-ce1-eb98.shopifycloud.com
 prometheus-us-ce1-vu91.shopifycloud.com
 prometheus-us-central1-1.shopifycloud.com
+prometheus-us-ea1-ln22.shopifycloud.com
 prometheus-us-ea4-df28.shopifycloud.com
 promotional-credits.shopifycloud.com
 propify-production-unrestricted-web-apps-b-us-central1-3.shopifycloud.com
@@ -7756,6 +7798,7 @@ rnd-camp-alexbro.shopifycloud.com
 rnd-camp-behrooz.shopifycloud.com
 rnd-camp-josh.shopifycloud.com
 rnd-camp-zoe-cloud-test.shopifycloud.com
+rnd-disco-test.shopifycloud.com
 rndcamp-nabs-cloud-rails-sample.shopifycloud.com
 rndcamp-nicktaylor.shopifycloud.com
 rndcamp-samle-rails-pl.shopifycloud.com
@@ -7871,6 +7914,8 @@ safe-delete-test-app-staging.shopifycloud.com
 safe-delete-test-app.shopifycloud.com
 safebrowsing-cloud-production-web-tier3.shopifycloud.com
 safebrowsing-cloud.shopifycloud.com
+safer-backend.shopifycloud.com
+safer-hashing-service.shopifycloud.com
 safer.shopifycloud.com
 sage-production-unrestricted-rai-64yzpuqa-apps-b-us-central1-10.shopifycloud.com
 sage-production-unrestricted-rail-4yrb3hjf-apps-b-us-central1-2.shopifycloud.com
@@ -7953,8 +7998,11 @@ scheduler.sfn-inventory-balancing.shopifycloud.com
 schema-migrations-production-unrestr-key2geh3-apps-b-us-east1-6.shopifycloud.com
 schema-migrations-staging.shopifycloud.com
 schema-migrations.shopifycloud.com
+schema-registry-kafka-cdc-eu-we4-kr60.shopifycloud.com
 schema-registry-kafka-cdc-staging-us-ea1-iz62.shopifycloud.com
 schema-registry-kafka-cdc-staging-us-east1-1.shopifycloud.com
+schema-registry-kafka-cdc-us-east1-1.shopifycloud.com
+schema-registry-kafka-cdc-us-east4-2.shopifycloud.com
 schema-registry-viewer-production-chwn2nod-apps-b-us-central1-9.shopifycloud.com
 schema-registry-viewer-production-qgbvwc5b-apps-b-us-central1-3.shopifycloud.com
 schema-registry-viewer-staging.shopifycloud.com
@@ -8133,6 +8181,7 @@ sfe-test-app.shopifycloud.com
 sfe-test.shopifycloud.com
 sfn-changelog-production-unrestri-osdesc7d-apps-b-us-central1-8.shopifycloud.com
 sfn-changelog.shopifycloud.com
+sfn-ds-intake-bot.shopifycloud.com
 sfn-inventory-balancing-staging.shopifycloud.com
 sfn-inventory-balancing.shopifycloud.com
 sfn-realtime-analytics-production-u-zvyzuyjt-apps-us-central1-2.shopifycloud.com
@@ -8187,6 +8236,7 @@ shakify-hack-day-production-unrestricted-web-tier4-us-east1-2.shopifycloud.com
 shakify-hack-day.shopifycloud.com
 sharding-spike-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
 sharding-spike.shopifycloud.com
+shardlifter-manager.shopifycloud.com
 shared-commerce-backend.shopifycloud.com
 sharify-production-unrestricted-web-apps-b-us-central1-2.shopifycloud.com
 sharify.shopifycloud.com
@@ -8616,6 +8666,7 @@ shopify-payments-webhook-proxy-production-web-apps-a-us-east1-2.shopifycloud.com
 shopify-payments-webhook-proxy-production-web-apps-a-us-east1-6.shopifycloud.com
 shopify-payments-webhook-proxy-production-web-tier2.shopifycloud.com
 shopify-payments-webhook-proxy.shopifycloud.com
+shopify-planet.shopifycloud.com
 shopify-products-admin-web-production-unrestrict-nry2ir3p-tier3.shopifycloud.com
 shopify-products-admin-web-production-unrestricted-web-tier3.shopifycloud.com
 shopify-products-admin-web.shopifycloud.com
@@ -8769,6 +8820,8 @@ signup-bot-production-unrestricted-web-apps-b-us-central1-9.shopifycloud.com
 signup-bot-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
 signup-bot.shopifycloud.com
 signup-service-poc.shopifycloud.com
+signup-spam-mitigation.shopifycloud.com
+signup-traffic-control.shopifycloud.com
 simple-failover-test-app-pro-omfqqwkr-tierstaging-us-central1-5.shopifycloud.com
 simple-failover-test-app.shopifycloud.com
 simple-github-state-api.shopifycloud.com
@@ -9149,6 +9202,7 @@ supermodels-grpc.shopifycloud.com
 supermodels-production-unrestrict-wwip64jl-apps-a-us-central1-1.shopifycloud.com
 supermodels-production-unrestricted-grpc-apps-a-us-central1-1.shopifycloud.com
 supermodels.shopifycloud.com
+superset-exp.shopifycloud.com
 superset-poc-production-unrestricted-90kf-web-apps-b-us-east1-6.shopifycloud.com
 superset-poc-staging-unrestricted-3vlo-web-apps-b-us-east1-5.shopifycloud.com
 superset-poc-staging.shopifycloud.com
@@ -9376,13 +9430,26 @@ tf-model-serving-production-web-tier4.shopifycloud.com
 tf-model-serving-staging-web-tier4.shopifycloud.com
 tf-model-serving-staging.shopifycloud.com
 tf-model-serving.shopifycloud.com
+thanos-global-staging.shopifycloud.com
+thanos-global.shopifycloud.com
 thanos-query-frontend.shopifycloud.com
+thanos-query-grpc-prom-staging-us-ce1-vr63.shopifycloud.com
+thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com
+thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com
+thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com
+thanos-query-grpc-prometheus-us-ea1-ln22.shopifycloud.com
+thanos-query-grpcprom-staging-us-ce1-vr63.shopifycloud.com
+thanos-query-prom-staging-us-ce1-vr63.shopifycloud.com
 thanos-query-prometheus-as-se1-rx92.shopifycloud.com
+thanos-query-prometheus-as-se1-wq60.shopifycloud.com
+thanos-query-prometheus-eu-we1-bx03.shopifycloud.com
 thanos-query-prometheus-na-ne1-hz50.shopifycloud.com
 thanos-query-prometheus-sandbox-1.shopifycloud.com
 thanos-query-prometheus-sandbox.shopifycloud.com
+thanos-query-prometheus-us-ce1-eb98.shopifycloud.com
 thanos-query-prometheus-us-ce1-vu91.shopifycloud.com
 thanos-query-prometheus-us-central1-1.shopifycloud.com
+thanos-query-prometheus-us-ea1-ln22.shopifycloud.com
 that-one-name-for-tests-misc.shopifycloud.com
 the-wrong-domain-cert-gameday.shopifycloud.com
 the-wrong-domain-fix-cert-gameday.shopifycloud.com
@@ -9609,6 +9676,8 @@ trekkie.tier2.shopifycloud.com
 trekkie.tierstaging.shopifycloud.com
 tribe-production-web-tier4-us-east1-2.shopifycloud.com
 tribe.shopifycloud.com
+trickle-production-platform-demo-runtime.flink.shopifycloud.com
+trickle-production-platform-demo-staging.shopifycloud.com
 trickle-production-platform-demo.flink.shopifycloud.com
 trickle.shopifycloud.com
 tricorder-production-unrestricted-hb-dqckrscf-apps-b-us-east1-5.shopifycloud.com
@@ -10017,6 +10086,7 @@ web-staging-web-org-admin-apps-b-us-east1-4.shopifycloud.com
 web-staging-web-org-admin-internal-apps-b-us-east1-10.shopifycloud.com
 web-staging-web-tier4.shopifycloud.com
 web-staging.shopifycloud.com
+web.adhoc.merlin.shopifycloud.com
 web.apache-atlas.shopifycloud.com
 web.dev.merlin.shopifycloud.com
 web.global.merlin.shopifycloud.com

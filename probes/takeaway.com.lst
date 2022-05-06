@@ -122,7 +122,6 @@ https://dutchworkscouncil.takeaway.com [302] [GET] [text/html] [] [nginx/1.18.0 
 https://easylogin.takeaway.com [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
 https://easylogin.takeaway.com [429] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,hCaptcha] [cec70def51b127e75c2c7b96307d0179]
 https://emails.recruitment.takeaway.com [404] [GET] [text/html] [404 Not Found] [] [vhost] [8e325dc2fea7c8900fc6c4b8c6c394fe]
-https://emails.restaurants.takeaway.com [404] [GET] [text/html] [404 Not Found] [] [vhost] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://emails.restaurants.takeaway.com [404] [GET] [text/html] [404 Not Found] [] [vhost] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://enterpriseenrollment.takeaway.com [302] [GET] [] [] [Microsoft-IIS/10.0] [azure] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
 https://enterpriseregistration.takeaway.com [404] [GET] [text/html] [Service] [] [azure] [17654c28a506596d05424ea295203bac]

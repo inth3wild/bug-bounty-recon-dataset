@@ -219,6 +219,7 @@ http://data-kub.dev.gcp.dailymotion.com
 http://data-kub.gcp.dailymotion.com
 http://data-mlflow.data-kub.dev.gcp.dailymotion.com
 http://data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com
+http://data-tagme-rest-api.data-kub.gcp.dailymotion.com
 http://data-tagme-rest-api.data-kub.stage.gcp.dailymotion.com
 http://daysoff.dailymotion.com
 http://developer.dailymotion.com
@@ -1118,6 +1119,7 @@ https://data-kub.dev.gcp.dailymotion.com
 https://data-kub.gcp.dailymotion.com
 https://data-mlflow.data-kub.dev.gcp.dailymotion.com
 https://data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com
+https://data-tagme-rest-api.data-kub.gcp.dailymotion.com
 https://data-tagme-rest-api.data-kub.stage.gcp.dailymotion.com
 https://daysoff.dailymotion.com
 https://developer.dailymotion.com

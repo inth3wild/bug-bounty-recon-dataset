@@ -6,6 +6,7 @@ national-grid-contego-eng.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. U
 national-grid-contego-prd.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
 national-grid-eng.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 national-grid-prd.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+openvpn.secengovp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 qr-server-staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
 qr-server-staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM INC. US 35.80.0.0/12

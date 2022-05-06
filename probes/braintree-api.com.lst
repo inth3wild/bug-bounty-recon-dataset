@@ -166,7 +166,7 @@ https://payments.sandbox.braintree-api.com [404] [GET] [application/json] [] [ng
 https://payments.sandbox.braintree-api.com:8443 [302] [GET] [text/html] [] [] [vhost] [f9e3282963670842036194d74f0bd2f0]
 https://pigeon.dev.braintree-api.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
 https://pigeon.production.braintree-api.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
-https://pigeon.sandbox.braintree-api.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [bc56979a0b381a791dd59713198a87fb]
+https://pigeon.sandbox.braintree-api.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
 https://processor-webhook-receiver-prod-us-west-2.production.braintree-api.com [404] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://processor-webhook-receiver-sand-us-west-2.sandbox.braintree-api.com [404] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://prodconf-website-qa-us-west-2.dev.braintree-api.com [302] [GET] [] [] [nginx/1.9.9] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]

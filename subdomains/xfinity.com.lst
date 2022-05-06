@@ -553,6 +553,10 @@ cdn.wcdc.stg.customer.xfinity.com
 cdn.wcdc.stg.xfinity.com
 cdn.wcdc.xfinity.com
 cdn.xfinity.com
+celestial-dev.xfinity.com
+celestial-perf.xfinity.com
+celestial-stg.xfinity.com
+celestial.xfinity.com
 centralep-ci.xcp-ep.xfinity.com
 centralep-dev.xcp-ep.xfinity.com
 centralep-perf.xcp-ep-lower.xfinity.com

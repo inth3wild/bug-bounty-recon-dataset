@@ -22,6 +22,7 @@ http://bc-eu4-baas.acronis.com
 http://bc-heg-baas.acronis.com
 http://bc-us4-baas.acronis.com
 http://beta-cloud.acronis.com
+http://bg01-cloud.acronis.com
 http://blog.acronis.com
 http://br01-cloud.acronis.com
 http://brand.acronis.com
@@ -40,6 +41,7 @@ http://cftp.acronis.com
 http://cleverbridge.acronis.com
 http://cloud-rs-jp1.acronis.com
 http://cloud-wr-au1.acronis.com
+http://cloud-wr-bg01.acronis.com
 http://cloud-wr-br01.acronis.com
 http://cloud-wr-bt01.acronis.com
 http://cloud-wr-ca01.acronis.com
@@ -61,6 +63,7 @@ http://cloud-wrh-eu1.acronis.com
 http://cloud-wrh-us1.acronis.com
 http://cloud.acronis.com
 http://cn99-cloud.acronis.com:10001
+http://connect.acronis.com
 http://cp-eu2.acronis.com
 http://cpas-test.acronis.com
 http://cz.acronis.com
@@ -152,6 +155,7 @@ http://promosandbox.acronis.com
 http://registration.acronis.com
 http://report.acronis.com
 http://rpc.acronis.com
+http://rs-bg01-cloud.acronis.com
 http://rs-br01-cloud.acronis.com
 http://rs-bt01-baas.acronis.com
 http://rs-bt01-cloud.acronis.com
@@ -174,6 +178,7 @@ http://sg-cloud.acronis.com
 http://sg1-cloud.acronis.com
 http://skg1-repo.acronis.com
 http://snpool.acronis.com
+http://sof1-repo.acronis.com
 http://solutions.acronis.com
 http://staging.partners.acronis.com
 http://storage-repo.acronis.com
@@ -213,6 +218,7 @@ https://acep.acronis.com
 https://acronis.com
 https://activation.acronis.com
 https://affiliate.acronis.com
+https://agents-bg01-cloud.acronis.com
 https://agents-br01-cloud.acronis.com
 https://agents-bt01-cloud.acronis.com
 https://agents-ca01-cloud.acronis.com
@@ -261,6 +267,8 @@ https://bc-us4-baas.acronis.com:8443
 https://beta-cloud.acronis.com
 https://beta-cloud.acronis.com:8443
 https://bg-vpn.acronis.com
+https://bg01-cloud.acronis.com
+https://bg01-cloud.acronis.com:8443
 https://blog.acronis.com
 https://br01-cloud.acronis.com
 https://br01-cloud.acronis.com:8443
@@ -311,6 +319,8 @@ https://cleverbridge.acronis.com
 https://cloud-wr-au1.acronis.com
 https://cloud-wr-au1.acronis.com:8080
 https://cloud-wr-au1.acronis.com:8443
+https://cloud-wr-bg01.acronis.com
+https://cloud-wr-bg01.acronis.com:8443
 https://cloud-wr-br01.acronis.com
 https://cloud-wr-br01.acronis.com:8443
 https://cloud-wr-bt01.acronis.com
@@ -349,6 +359,8 @@ https://cloud-wrh-preview1.acronis.com
 https://cloud-wrh-us1.acronis.com
 https://cloud-wrh-us1.acronis.com:8443
 https://cloud.acronis.com
+https://connect.acronis.com
+https://connect.acronis.com:8443
 https://cp-eu2.acronis.com
 https://cpas-test.acronis.com
 https://cz.acronis.com
@@ -472,6 +484,8 @@ https://provisioning-vpn.acronis.com
 https://registration.acronis.com
 https://report.acronis.com
 https://rpc.acronis.com
+https://rs-bg01-cloud.acronis.com
+https://rs-bg01-cloud.acronis.com:8443
 https://rs-br01-cloud.acronis.com
 https://rs-br01-cloud.acronis.com:8443
 https://rs-bt01-baas.acronis.com
@@ -528,6 +542,8 @@ https://sg1-cloud.acronis.com:8443
 https://skg1-repo.acronis.com
 https://skg1-s3gw.acronis.com
 https://snpool.acronis.com
+https://sof1-repo.acronis.com
+https://sof1-s3gw.acronis.com
 https://solutions.acronis.com
 https://staging.partners.acronis.com
 https://storage-repo.acronis.com

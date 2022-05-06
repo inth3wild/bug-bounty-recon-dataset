@@ -525,6 +525,7 @@ data-kub.stage.gcp.dailymotion.com
 data-mlflow.data-kub.dev.gcp.dailymotion.com
 data-stage.gcp.dailymotion.com
 data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com
+data-tagme-rest-api.data-kub.gcp.dailymotion.com
 data-tagme-rest-api.data-kub.stage.gcp.dailymotion.com
 data.gcp.dailymotion.com
 databus-01.dc3.dailymotion.com
@@ -1092,6 +1093,7 @@ lb-09.dc3.dailymotion.com
 lb-10.dailymotion.com
 lb-10.dc3.dailymotion.com
 leaseweb-01.adm.dailymotion.com
+legal.dailymotion.com
 lemeilleurdelacoupedumonde.ondailymotion.com
 license-01.dc3.dailymotion.com
 license-02.ix7.dailymotion.com

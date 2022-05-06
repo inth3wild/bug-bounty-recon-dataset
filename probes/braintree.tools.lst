@@ -20,7 +20,7 @@ https://knowledge-test.braintree.tools [302] [GET] [text/html] [] [nginx] [Nginx
 https://knowledge.braintree.tools [302] [GET] [text/html] [] [nginx] [Nginx] [6bd7cea264b770fed2cb87a498b7a2f0]
 https://knowledge.braintree.tools [302] [GET] [text/html] [] [nginx] [Nginx] [71bd2ba1ad6d3103802e95e398e06bc4]
 https://luigi.braintree.tools [403] [GET] [text/html] [Sign In] [nginx] [Nginx] [d898cb4a092236cc31f763728c278dad]
-https://osquery-manager.braintree.tools [200] [GET] [text/html] [Fleet for osquery] [nginx] [Nginx] [926563eb94048eb3430228bd751c48e1]
+https://osquery-manager.braintree.tools [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
 https://prodconf.braintree.tools [302] [GET] [] [] [nginx/1.9.9] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://puppetdb.braintree.tools [401] [GET] [text/html] [401 Authorization Required] [nginx] [Basic,Nginx] [481905a1e2cd3034b6976bafb7a3abda]
 https://puppetdb.braintree.tools:444 [401] [GET] [text/html] [401 Authorization Required] [nginx] [Basic,Nginx] [481905a1e2cd3034b6976bafb7a3abda]

@@ -99,6 +99,7 @@ agents-au1-cloud.acronis.com
 agents-beta-cloud.acronis.com
 agents-beta1-baas.acronis.com
 agents-beta1-cloud.acronis.com
+agents-bg01-cloud.acronis.com
 agents-br01-cloud.acronis.com
 agents-bt01-cloud.acronis.com
 agents-ca01-cloud.acronis.com
@@ -121,6 +122,7 @@ agents-il01-cloud-cloud.acronis.com
 agents-il01-cloud.acronis.com
 agents-io99-cloud.acronis.com
 agents-jp-cloud.acronis.com
+agents-jp03-cloud.acronis.com
 agents-kr01-cloud.acronis.com
 agents-li01-cloud.acronis.com
 agents-lv01-cloud.acronis.com
@@ -271,6 +273,7 @@ beta2-cloud.acronis.com
 bg-qa-officeonline.acronis.com
 bg-vpn.acronis.com
 bg-vpn2.acronis.com
+bg01-cloud.acronis.com
 bgtest.corp.acronis.com
 bjs1-repo.acronis.com
 bll1-repo.acronis.com
@@ -394,6 +397,7 @@ cloud-status.acronis.com
 cloud-wr-at01.acronis.com
 cloud-wr-au1.acronis.com
 cloud-wr-beta.acronis.com
+cloud-wr-bg01.acronis.com
 cloud-wr-br01.acronis.com
 cloud-wr-bt01.acronis.com
 cloud-wr-ca01.acronis.com
@@ -416,6 +420,7 @@ cloud-wr-gr01.acronis.com
 cloud-wr-il01-cloud.acronis.com
 cloud-wr-il01.acronis.com
 cloud-wr-io99.acronis.com
+cloud-wr-jp03.acronis.com
 cloud-wr-jp1.acronis.com
 cloud-wr-jp2.acronis.com
 cloud-wr-kr01.acronis.com
@@ -451,6 +456,7 @@ cloudlinux1.acronis.com
 cms1.jp-pp.acronis.com
 cn.metro.acronis.com
 cn99-cloud.acronis.com
+connect.acronis.com
 consumer.acronis.com
 content.acronis.com
 corp-dc1.corp.acronis.com
@@ -685,6 +691,8 @@ hi.jp-pp.acronis.com
 history.acronis.com
 hk.metro.acronis.com
 hkvpn.acronis.com
+hnd1-repo.acronis.com
+hnd1-s3gw.acronis.com
 howto.jp-pp.acronis.com
 hpl-baas.acronis.com
 hris.acronis.com
@@ -749,6 +757,7 @@ jp-wr-baas.acronis.com
 jp-wr-backup.acronis.com
 jp-wr-cloud.acronis.com
 jp.metro.acronis.com
+jp03-cloud.acronis.com
 jp2-cloud.acronis.com
 jp2-s3.acronis.com
 jpmerchant.metro.acronis.com
@@ -1012,6 +1021,7 @@ rs-beta-baas.acronis.com
 rs-beta-cloud.acronis.com
 rs-beta1-baas.acronis.com
 rs-beta1-cloud.acronis.com
+rs-bg01-cloud.acronis.com
 rs-br01-cloud.acronis.com
 rs-bt01-baas.acronis.com
 rs-bt01-cloud.acronis.com
@@ -1045,6 +1055,7 @@ rs-il01-cloud.acronis.com
 rs-io99-cloud.acronis.com
 rs-jp-baas.acronis.com
 rs-jp-cloud.acronis.com
+rs-jp03-cloud.acronis.com
 rs-kaseya-cloud.acronis.com
 rs-kr01-cloud.acronis.com
 rs-li01-cloud.acronis.com
@@ -1190,6 +1201,8 @@ smtp.partners.acronis.com
 smtpsandbox.partners.acronis.com
 snactivation.acronis.com
 snpool.acronis.com
+sof1-repo.acronis.com
+sof1-s3gw.acronis.com
 softbank.acronis.com
 solutions.acronis.com
 south.jp-pp.acronis.com
@@ -1439,6 +1452,7 @@ www.auth.acronis.com
 www.axtest.acronis.com
 www.bg-vpn.acronis.com
 www.bg-vpn2.acronis.com
+www.bg01-cloud.acronis.com
 www.br01-cloud.acronis.com
 www.bt-eu2-cloud.acronis.com
 www.bt01-cloud.acronis.com
@@ -1464,6 +1478,7 @@ www.cloud-rs-preview1.acronis.com
 www.cloud-wrh-preview1.acronis.com
 www.cloudlinux1.acronis.com
 www.cn99-cloud.acronis.com
+www.connect.acronis.com
 www.corp-dc1.corp.acronis.com
 www.corp-dc2.corp.acronis.com
 www.corp-dc3.corp.acronis.com
@@ -1512,6 +1527,7 @@ www.jenkins.platform.corp.acronis.com
 www.jet.acronis.com
 www.jp-pp.acronis.com
 www.jp-vpn.acronis.com
+www.jp03-cloud.acronis.com
 www.kaseya-tap-asd.acronis.com
 www.kaseya-tap-asd2.acronis.com
 www.kaseya-tap-asd3.acronis.com

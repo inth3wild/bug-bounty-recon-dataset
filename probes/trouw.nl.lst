@@ -59,7 +59,7 @@ https://verhalen.trouw.nl [200] [GET] [text/html] [Home - Trouw] [Apache/2.4.38 
 https://verhalen.trouw.nl [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://video.trouw.nl [404] [GET] [] [] [AkamaiNetStorage] [vhost] [ddf0e2c382137c5bee8ee282368616f4]
 https://web.trouw.nl [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,PHP,Webflow] [c0666cde79e5426946974302fe3307c3]
-https://webwinkel.trouw.nl [200] [GET] [text/html] [Van Trouw speciaal voor jou - De Trouw Shop] [] [vhost] [Google Tag Manager,Next.js,Node.js,React,webpack] [db3e659f941fd3968344e42e958a41cc]
+https://webwinkel.trouw.nl [200] [GET] [text/html] [Van Trouw speciaal voor jou - De Trouw Shop] [] [vhost] [Google Tag Manager,Next.js,Node.js,React,webpack] [2ceaf566cb65b03ee9dd62639faab577]
 https://wedstrijd.trouw.nl [404] [GET] [text/html] [-] [NCSA/1.4.2] [d57424ca602fa39a59d65a02e43e5e55]
 https://winkel.trouw.nl [403] [GET] [text/html] [Web App - Unavailable] [] [vhost] [azure] [fa175a75967d5661c4d38eaf18e28fc8]
 https://www.trouw.nl [302] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]

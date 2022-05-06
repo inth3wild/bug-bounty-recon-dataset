@@ -36,7 +36,7 @@ https://graphql.unrealengine.com [404] [GET] [text/html] [] [] [vhost] [87b2de68
 https://info.unrealengine.com [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8bc4374c7fe9ae7a1abb6518f3bf9af1]
 https://kaltura.unrealengine.com [503] [GET] [text/html] [Error] [AkamaiGHost] [vhost] [e70d9decc3ef1cc3796aa561e583a9d2]
 https://link.unrealengine.com [302] [GET] [text/plain] [] [] [vhost] [Amazon ELB,Amazon Web Services] [fe00e927e7779e64e9d0b96e36ad19ce]
-https://login-academy.unrealengine.com [302] [GET] [text/html] [Object moved] [Microsoft-IIS/10.0] [vhost] [azure] [IIS,Microsoft ASP.NET,Windows Server] [3cfdf571361e360c24068b321c34af9f]
+https://login-academy.unrealengine.com [302] [GET] [text/html] [Object moved] [Microsoft-IIS/10.0] [vhost] [azure] [Azure,IIS,Microsoft ASP.NET,Windows Server] [3cfdf571361e360c24068b321c34af9f]
 https://onlinelearninghelp.unrealengine.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [4aa7a432bb447f094408f1bd6229c605]
 https://publish.unrealengine.com [302] [GET] [] [] [] [vhost] [Amazon ALB,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
 https://static-assets-prod.unrealengine.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [2f018cda6f4759af8c73c658a05f0ac6]

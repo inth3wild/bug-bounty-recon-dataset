@@ -35,7 +35,7 @@ api-docs-adm-certmanalstatustic-service-cdn-dev.apollo.staging.cloud.seek.com.au
 api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 api.id.api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 api.incubator.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-api.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.85.160.0/23
+api.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 143.204.140.0/22
 api.staging.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 api.talentsearch.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15
 apple.com.index.staging-administrator.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
@@ -150,7 +150,7 @@ https-www.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 id.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 identity-metrics.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 image-service-cdn.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.64.128.0/17
-image-service-cdn.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
+image-service-cdn.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
 image-service-cdn.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 image-service-cdn.staging.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 image-service-cdn.staging.us-east-7.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
@@ -269,6 +269,7 @@ secure.staging.cdn-secure.media.vpn-oscar.staging.cloud.seek.com.au AS16509 AS16
 secure.staging.cdn-secure.web.media.oscar.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 secure.staging.cdnskins.media.oscar.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15
+seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.64.128.0/17
 sendgrid-events.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 service.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 showcase-metrics-forwarder.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
@@ -312,7 +313,6 @@ team6.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, IN
 team7.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 team8.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 team9.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-test.api.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.85.160.0/23
 testcrunch-runner-js-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 testsubdomain.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 theseeker.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15

@@ -136,6 +136,7 @@ http://korea-idle.sg-dev.seek.com
 http://login.seek.com
 http://login.staging.seek.com
 http://manage.developer.seek.com
+http://manage.developer.staging.seek.com
 http://nov-staff.service.dev.sg.seek.com
 http://php-rr-api-oauth.sg.seek.com
 http://polandidle.sg-dev.seek.com
@@ -275,6 +276,7 @@ https://korea-idle.sg-dev.seek.com
 https://login.seek.com
 https://login.staging.seek.com
 https://manage.developer.seek.com
+https://manage.developer.staging.seek.com
 https://php-rr-api-oauth.sg.seek.com
 https://polandidle.sg-dev.seek.com
 https://redirector-idle.sg-dev.seek.com

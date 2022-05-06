@@ -30,6 +30,7 @@ https://oncall.myteksi.net [403] [GET] [text/html] [ERROR: The request could not
 https://partner-profile-pic.myteksi.net [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [55a7a32ef33bf8f4c8028c6bbea524b9]
 https://partner-profile-pic.myteksi.net [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [da31e7ea441d29c4b7e49dcddf17df70]
 https://scim-bridge.foundation.azure.myteksi.net [200] [GET] [text/html] [1Password SCIM Bridge Login] [] [1458e5f1376d8b5333adce09ed932ca3]
+https://scim-bridge2.foundation.azure.myteksi.net [307] [GET] [text/html] [] [] [6bc692ccc10112a7d62b6e36e43c2a0b]
 https://slam.myteksi.net [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://stratus.myteksi.net [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [08a5d0ddf8f84a3d0bb2dac367d099fa]
 https://stratus.myteksi.net [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [91e45b5ed575982d23f2355d463a5f5d]

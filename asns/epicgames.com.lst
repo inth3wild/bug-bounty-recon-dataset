@@ -1,3 +1,5 @@
+accounts.epicgames-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+accounts.launcher-ci.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 accounts.launcher-website-prod07.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 accts.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
 approval-bot.it-entapps-dev.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
@@ -11,6 +13,8 @@ dev-rc2.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
 devs.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
 eos-sdk.on.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 fn-service-datastorage-prod-public.dcaf.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+fn-service-discovery-prod-public.ogs.dev.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+fn-service-sessiontracker-prod-public.ogs.dev.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
 fortnite-public-service-athena-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
 fortnite-public-service-bacchusplaytest-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
@@ -77,7 +81,8 @@ netbox-test.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 netbox.coreinfra.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
 netbox.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 playtest-bot.eut.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
-playtest-bot.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+playtest-bot.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+playtest-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 recap.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 sda-admin-okta.it-entapps-dev.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 sda-admin-okta.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.0.0/17

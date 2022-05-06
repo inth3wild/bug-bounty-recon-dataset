@@ -16,6 +16,10 @@ http://identityserver-acc.landmarkcinemas.com
 http://identityserver.landmarkcinemas.com
 http://infomail.landmarkcinemas.com
 http://innovation.landmarkcinemas.com
+http://landmarkcinemas.com
+http://landmarkcinemas.com:2083
+http://landmarkcinemas.com:2087
+http://landmarkcinemas.com:8443
 http://loyaltycard-api.landmarkcinemas.com
 http://m.landmarkcinemas.com
 http://mail.landmarkcinemas.com
@@ -59,6 +63,7 @@ https://identityserver-acc.landmarkcinemas.com
 https://identityserver.landmarkcinemas.com
 https://infomail.landmarkcinemas.com
 https://innovation.landmarkcinemas.com
+https://landmarkcinemas.com
 https://loyaltycard-api.landmarkcinemas.com
 https://m.landmarkcinemas.com
 https://mail.landmarkcinemas.com

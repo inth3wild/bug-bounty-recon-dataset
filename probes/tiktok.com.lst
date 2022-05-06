@@ -56,6 +56,7 @@ https://media.tiktok.com [502] [GET] [text/html] [502 Bad Gateway] [nginx] [vhos
 https://meteor.tiktok.com [404] [GET] [text/html] [404 Not Found] [nginx] [vhost] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://mg.tiktok.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://mg.tiktok.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
+https://music.tiktok.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [Nginx] [bc56979a0b381a791dd59713198a87fb]
 https://musician.tiktok.com [302] [GET] [text/html] [302 Found] [nginx] [vhost] [Nginx] [cfbeaf604823f038b8b46f0ac862b98c]
 https://newsroom.tiktok.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [f2fa66ea1fe9d480289c75c19ba023b0]
 https://open-api-useast1a.tiktok.com [404] [GET] [text/html] [404 Not Found] [nginx] [vhost] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]

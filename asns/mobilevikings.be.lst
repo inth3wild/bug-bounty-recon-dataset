@@ -5,9 +5,7 @@ acc-strapi.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
 acc-strapi.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
 acm-test.acc.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 acp.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-acs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 acs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
-acs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 admin.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 adsl-7-125.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 alfa.api-2freedom.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -110,9 +108,7 @@ insights.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 inst.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 ipa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 jenkins-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.228.0.0/16
-jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
-jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.33.46.0/24
 joeribot.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 k2.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 k3.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -123,7 +119,6 @@ keycloak.idm.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/
 kk.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 kr.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 ku1720.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-ldap-pwdreset.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
 ldap-pwdreset.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.228.0.0/16
 local.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 lolcentral.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -147,12 +142,13 @@ new.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 news.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 nn.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 order.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-ota-tool.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+ota-tool.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.33.46.0/24
 passport.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 pay.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
 pay.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 people.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 postur.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+pp-677-poc-preview.dev-pub.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.170.0.0/16
 pp.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 ppp.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 prd-strapi.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15

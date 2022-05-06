@@ -1,6 +1,5 @@
 http://hr.semrush.net [301] [GET] [text/html] [301 Moved Permanently] [nginx/1.19.9] [Nginx] [2238b51133ed2ad269c94050c90886bd]
 http://i-test.semrush.net:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://kb-rc.semrush.net:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://kb.semrush.net:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://netbox.semrush.net:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
 http://spb.semrush.net [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]

@@ -659,6 +659,7 @@ http://edit.yahoo.com
 http://ee.mail.yahoo.com
 http://ee.my.yahoo.com
 http://eks-dashboard.prod.int.o2.yahoo.com
+http://eks-dashboard.stage.int.mplex.yahoo.com
 http://eks-dashboard.stage.int.o2.yahoo.com
 http://election2020.yahoo.com
 http://emailanalytics.yahoo.com
@@ -884,7 +885,9 @@ http://me.advertising.yahoo.com
 http://merchant.gemini.yahoo.com
 http://merchant.yahoo.com
 http://messenger.yahoo.com
+http://metroplex-admin.stage.int.mplex.yahoo.com
 http://metroplex-admin.stage.int.o2.yahoo.com
+http://metroplex-api.stage.int.mplex.yahoo.com
 http://metroplex-api.stage.int.o2.yahoo.com
 http://mg.mail.yahoo.com
 http://mgws2.dev.maps.yahoo.com
@@ -982,6 +985,7 @@ http://pl.search.yahoo.com
 http://pl.yhs4.search.yahoo.com
 http://plans.yahoo.com
 http://play.yahoo.com
+http://plus.yahoo.com
 http://points.yahoo.com
 http://politicaladsapi.adx.yahoo.com
 http://post.update.wtag.ssp.yahoo.com
@@ -2027,6 +2031,7 @@ https://edit.yahoo.com
 https://ee.mail.yahoo.com
 https://ee.my.yahoo.com
 https://eks-dashboard.prod.int.o2.yahoo.com
+https://eks-dashboard.stage.int.mplex.yahoo.com
 https://eks-dashboard.stage.int.o2.yahoo.com
 https://election2020.yahoo.com
 https://emailanalytics.yahoo.com
@@ -2321,7 +2326,9 @@ https://me.advertising.yahoo.com
 https://merchant.gemini.yahoo.com
 https://merchant.yahoo.com
 https://messenger.yahoo.com
+https://metroplex-admin.stage.int.mplex.yahoo.com
 https://metroplex-admin.stage.int.o2.yahoo.com
+https://metroplex-api.stage.int.mplex.yahoo.com
 https://metroplex-api.stage.int.o2.yahoo.com
 https://mg.mail.yahoo.com
 https://mh.video.yahoo.com
@@ -2430,6 +2437,7 @@ https://pl.search.yahoo.com
 https://pl.yhs4.search.yahoo.com
 https://plans.yahoo.com
 https://play.yahoo.com
+https://plus.yahoo.com
 https://points.yahoo.com
 https://politicaladsapi.adx.yahoo.com
 https://polls.stage.o2.yahoo.com

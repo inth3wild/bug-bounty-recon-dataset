@@ -194,6 +194,7 @@ employer.sg.jobstreet.staging.unified.seek.com.unified.staging.seek.com
 employer.sg.jobstreet.unified.seek.com
 employer.th.jobsdb.staging.unified.seek.com.unified.staging.seek.com
 employer.th.jobsdb.unified.seek.com
+employer.unified.staging.seek.com
 engineering.cloud.seek.com
 engineeringdistance.sg.seek.com
 espace-distance.sg.seek.com
@@ -316,6 +317,7 @@ mail.seek.com
 mailgate.seek.com
 maintenance.seek.com
 manage.developer.seek.com
+manage.developer.staging.seek.com
 mapi.cloud.seek.com
 melexch1.seek.com
 metrics.rr.seek.com

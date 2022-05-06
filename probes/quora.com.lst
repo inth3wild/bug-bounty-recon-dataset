@@ -7,7 +7,7 @@ http://mail.net.quora.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [de7
 https://aws-east-www.edge.quora.com [302] [GET] [text/html] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://go.ad.quora.com [302] [GET] [text/html] [] [nginx] [vhost] [fastly] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://info.quora.com [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8bc4374c7fe9ae7a1abb6518f3bf9af1]
-https://localhost.quora.com [200] [GET] [text/html] [Localhost] [nginx] [vhost] [fastly] [Nginx] [c8cadf2486775ea70b9b27366cf6b955]
+https://localhost.quora.com [200] [GET] [text/html] [Localhost] [nginx] [vhost] [fastly] [Nginx] [37763f3d51eedeb94953997194c2046c]
 https://main.quora.com [302] [GET] [text/html] [] [nginx] [vhost] [fastly] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://post.quora.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://quora.com [308] [GET] [text/html] [308 Permanent Redirect] [nginx] [vhost] [Nginx] [f23c4815ecaef1588f16ac735c0e15d6]

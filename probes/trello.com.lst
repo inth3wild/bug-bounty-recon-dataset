@@ -16,7 +16,7 @@ https://design.trello.com [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Ama
 https://developers.trello.com [200] [GET] [text/html] [Redirecter] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [c096e8867e17cd22f1e2f1c7067a89be]
 https://dnstest.trello.com [302] [GET] [text/html] [302 Moved] [HTTP server (unknown)] [4603cd027760d24928f83c9f6530313c]
 https://go.trello.com [503] [GET] [text/html] [Moving Mountains] [globaledge-envoy] [vhost] [aa334045c09c0d6f0576a362a6cf8fa7]
-https://help.trello.com [200] [GET] [text/html] [Trello Help] [openresty] [vhost] [Nginx,OpenResty,Play,Scala] [d50075b84ae12bc373e87851508238d1]
+https://help.trello.com [200] [GET] [text/html] [Trello Help] [openresty] [vhost] [Nginx,OpenResty,Play,Scala] [4ff2ffcef0935f5e074f6c30827ea4e4]
 https://info.trello.com [301] [GET] [] [] [cloudflare] [vhost] [Cloudflare,Cloudflare Network Error Logging] [d41d8cd98f00b204e9800998ecf8427e]
 https://info.trello.com:8443 [521] [GET] [text/html] [521 Origin Down] [cloudflare] [vhost] [Cloudflare Network Error Logging] [78f6172748bd555a4e93b975fce4cded]
 https://mgo.trello.com [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8bc4374c7fe9ae7a1abb6518f3bf9af1]

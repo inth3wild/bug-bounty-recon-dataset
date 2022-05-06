@@ -14,6 +14,6 @@ https://rtb-staging.airtable.com [404] [GET] [application/octet-stream] [] [Teng
 https://sco-assets.support.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [5231b105abdfedddec6668da4c9079f7]
 https://sco-assets.support.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [6b7f5f8b1a07f0f37f6b6a8f63b18e92]
 https://staging.airtable.com [301] [GET] [text/plain] [] [Tengine] [Tengine] [ec30d2d51db597e4dc72696a35e0ba8a]
-https://static.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [3841299c0ab3db0e6306472ee8361c81]
+https://static.staging.airtable.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [bdf895ee3da6a582c97e986d31d15378]
 https://www.staging.airtable.com [200] [GET] [text/html] [Airtable | Create apps that perfectly fit your team's needs] [Tengine] [vhost] [Heroku,Tengine] [9000ff6cdc140e71180913fdfed0aa54]
 https://www.staging.airtable.com [200] [GET] [text/html] [Airtable | Create apps that perfectly fit your team's needs] [Tengine] [vhost] [Heroku,Tengine] [f0b864be33bd968fa271c34ecb49e7dc]

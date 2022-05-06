@@ -60,7 +60,6 @@ agent-gateway.int.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. 
 agent-gateway.lab.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
 agent-gateway.prd.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
 ais.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
-alain.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 alexandervervaet.be.apache52.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24
 alpha.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 alphabru.be.apache51.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24
@@ -191,7 +190,6 @@ cwmp.devicemanagement.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 cwmp.prd.devicemanagement.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 dans.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 daphne.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
-darwin.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 dbadmin.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 185.35.53.0/24
 dc.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 dealer.dvp.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
@@ -249,11 +247,9 @@ dwn.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 dynamic.telenet.be AS60781 AS60781 - LEASEWEB NETHERLANDS B.V. NL 85.17.0.0/16
 dzp.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 e-learning.telenet.be AS6848 AS6848 - TELENET BVBA BE 212.123.0.0/19
-e-mail.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 e.videocall.telenet.be AS50018 AS50018 - FLOWMAILER B.V. NL 185.136.65.0/24
 eagle.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 easycare.telenet.be AS6848 AS6848 - TELENET BVBA BE 212.123.0.0/19
-easymail.telenet.be AS3257 AS3257 - GTT COMMUNICATIONS INC. US 213.193.128.0/18
 ebiz.telenet.be AS6848 AS6848 - TELENET BVBA BE 212.123.0.0/19
 ebizuat.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 echannel.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
@@ -264,7 +260,6 @@ eis.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
 elearning.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 elie.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 elvis.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
-email.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 en.investors.telenet.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.49.248.0/24
 engine.slr.local.entertainment-tools-dev.awscloud.external.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.28.0.0/16
 envelope.maut.telenet.be AS15395 AS15395 - RACKSPACE LTD. GB 185.28.196.0/24
@@ -349,9 +344,9 @@ iot.prd.telenet.be AS44944 AS44944 - TELENET GROUP NV BE 217.72.224.0/20
 iot.telenet.be AS44944 AS44944 - TELENET GROUP NV BE 217.72.224.0/20
 iot.uat.telenet.be AS44944 AS44944 - TELENET GROUP NV BE 217.72.224.0/20
 ipv6.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
-ispgateway.int.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
-ispgateway.lab.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
-ispgateway.prd.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
+ispgateway.int.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
+ispgateway.lab.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
+ispgateway.prd.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
 itk.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 iwan.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 jaarverslag2010.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
@@ -400,7 +395,6 @@ lingier.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 linstantaupresent.be.apache51.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24
 lkwadraat.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 local.slr.entertainment-tools-dev.awscloud.external.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
-login.mail.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
 login.prd.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 logproxy.int.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
 logproxy.lab.digitalsecurity.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.28.0.0/16
@@ -410,7 +404,6 @@ luna.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 m.prd.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 m.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 magino.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
-mail-in.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 mail-out.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 mail.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 mail.uat.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
@@ -862,8 +855,6 @@ vrnmctvip.uat.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
 vrt.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 wa.telenet.be AS3356 AS3356 - LEVEL 3 PARENT, LLC US 64.152.0.0/13
 webapps.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
-webemail.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
-weblogin.telenet.be AS6848 AS6848 - TELENET BVBA BE 212.123.0.0/19
 webmail.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.196.0/24
 webmail.int.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 webmail.prd.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19

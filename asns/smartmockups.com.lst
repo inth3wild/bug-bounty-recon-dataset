@@ -15,5 +15,4 @@ o3428.abmail.e.smartmockups.com AS11377 AS11377 - SENDGRID INC. US 50.31.32.0/20
 smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 76.76.21.0/24
 smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 staging-api.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
-www.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 76.76.21.0/24
-www.smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
+www.smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.112.0/20

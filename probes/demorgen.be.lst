@@ -45,7 +45,7 @@ https://secure-acc.demorgen.be [503] [GET] [text/html] [Service Unavailable] [Ak
 https://secure-acc.demorgen.be [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [ae3f6b5085f985727a98d353bb65ab02]
 https://secure.demorgen.be [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [053efb909fd8272ec9c93216aba73211]
 https://secure.demorgen.be [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [fa7b7956bf86150a7b17c7dacd73997f]
-https://shop.demorgen.be [200] [GET] [text/html] [De Morgen Shop] [] [vhost] [Google Tag Manager,Next.js,Node.js,React,webpack] [c5fd1e719f5392db7c6ea55c076a3f16]
+https://shop.demorgen.be [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [6392eb20b955c578b3f01cc6ee43f5a3]
 https://social.demorgen.be [200] [GET] [text/html] [] [] [IIS,Microsoft ASP.NET] [d41d8cd98f00b204e9800998ecf8427e]
 https://static.demorgen.be [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [859b85e7b771c9ef7dcb83cbbfabdfd9]
 https://static.demorgen.be [503] [GET] [text/html] [Service Unavailable] [AkamaiGHost] [vhost] [8e9c5b7875026d184b6c1191f078db8a]

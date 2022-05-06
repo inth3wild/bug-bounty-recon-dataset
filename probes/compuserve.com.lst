@@ -45,7 +45,6 @@ https://people.compuserve.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traf
 https://people.compuserve.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traffic Server] [b6f1e24a47fa1681b6862ed8c7a09535]
 https://qa.help.compuserve.com [403] [GET] [text/html] [Access Denied] [ATS] [vhost] [Apache Traffic Server] [0b9f141735cd9ff3da6617d369b35b0f]
 https://qa.myaccount.compuserve.com [403] [GET] [text/html] [Access Denied] [ATS] [vhost] [Apache Traffic Server] [0b9f141735cd9ff3da6617d369b35b0f]
-https://qa.origin.help.compuserve.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://qa.origin.help.compuserve.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [bad2e8579dcdb79399aac2064216a37d]
 https://qa.payments.compuserve.com [403] [GET] [text/html] [Access Denied] [ATS] [vhost] [Apache Traffic Server] [0b9f141735cd9ff3da6617d369b35b0f]
 https://search.compuserve.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traffic Server] [baa95bae8a1fee855115f76f31638270]

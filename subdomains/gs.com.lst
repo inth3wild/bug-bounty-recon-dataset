@@ -397,6 +397,7 @@ confluence1.csf.services.gs.com
 connectibd.gs.com
 connectibdplus.gs.com
 connessionididattiche.gs.com
+content.aycopfm.gs.com
 correspondenceguide.gs.com
 coutellerie-suisse.gs.com
 cpanel.crooksey.gs.com
@@ -510,6 +511,10 @@ dev-api-higher.gs.com
 dev-higher.gs.com
 dev-linux-4.portal.services.gs.com
 dev-login-higher.gs.com
+dev-participant-1.besu.digitalassets.gs.com
+dev-participant-2.besu.digitalassets.gs.com
+dev-participant-3.besu.digitalassets.gs.com
+dev-participant-4.besu.digitalassets.gs.com
 dev.accounts.gs.com
 dev.atlassian.devcollab.gs.com
 dev.b2b.gsbank.site.gs.com
@@ -532,6 +537,7 @@ dev.services.gsbank.site.gs.com
 dev.sharepoint.gs.com
 dev.site1.sitehostingdemo.gs.com
 dev.site2.sitehostingdemo.gs.com
+dev.spendservices.site.gs.com
 dev.webid.site.gs.com
 dev.zoom.workplace.gs.com
 dev1.ibd-salesforce.site.gs.com
@@ -733,6 +739,7 @@ global-liquidity-srp.gs.com
 global-liquidity.gs.com
 globalcash.gs.com
 gls.services.gs.com
+go.aycopfm.gs.com
 goa.gs.com
 goldman360.gs.com
 goldmansachsbankag--qa.my.salesforce.nimbus.gs.com
@@ -1456,6 +1463,7 @@ qa-360proxy.gs.com
 qa-api-higher.gs.com
 qa-cftfeb2bapi.gs.com
 qa-commod-ng-edi.gs.com
+qa-control-plane.iamhub-services.site.gs.com
 qa-dr.sharepoint.gs.com
 qa-efetnet-srp.gs.com
 qa-efetnet.gs.com
@@ -1614,6 +1622,7 @@ reports.tech-qa.gs.com
 reports.tech.gs.com
 reps-uat.fwgctreps.services.gs.com
 reps.ny.fw.gs.com
+research-internal.gir.services.gs.com
 research-poc.gs.com
 research-qa-upgrade.gs.com
 research-qa.gs.com
@@ -1925,6 +1934,7 @@ webdisk.meet.oo.gs.com
 webet.gs.com
 webhooks.dev.txb.gs.com
 webhooks.test.txb.gs.com
+webhooks.txb.gs.com
 webid-qa.is.gs.com
 webid-sha1.is.gs.com
 webid.gs.com

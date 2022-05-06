@@ -14,6 +14,7 @@ plum-market.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208
 reset.sftp-catalog.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 reset.sftp-dataeng.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 reset.sftp-infra.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
+reset.sftp-partners.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 reset.sftp-payments.dev.instacart.tools AS14618 AS14618 - AMAZON.COM INC. US 52.2.0.0/15
 reset.sftp-payments.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 sproutspbi.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23

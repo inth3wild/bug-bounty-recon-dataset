@@ -3,6 +3,10 @@ http://api.pexels.com
 http://blog.pexels.com
 http://cat.pexels.com
 http://e.community.pexels.com
+http://e.community.pexels.com:2082
+http://e.community.pexels.com:2086
+http://e.community.pexels.com:2095
+http://e.community.pexels.com:8080
 http://elephant.pexels.com
 http://email.pexels.com
 http://flamingo.pexels.com
@@ -10,6 +14,14 @@ http://help.pexels.com
 http://images.pexels.com
 http://kibana.pexels.com
 http://l.community.pexels.com
+http://l.community.pexels.com:2053
+http://l.community.pexels.com:2082
+http://l.community.pexels.com:2083
+http://l.community.pexels.com:2086
+http://l.community.pexels.com:2087
+http://l.community.pexels.com:2095
+http://l.community.pexels.com:8080
+http://l.community.pexels.com:8443
 http://lion.pexels.com
 http://mantis.pexels.com
 http://mobius.pexels.com
@@ -31,6 +43,10 @@ https://api.pexels.com
 https://blog.pexels.com
 https://cat.pexels.com
 https://e.community.pexels.com
+https://e.community.pexels.com:2053
+https://e.community.pexels.com:2083
+https://e.community.pexels.com:2087
+https://e.community.pexels.com:8443
 https://elephant.pexels.com
 https://email.pexels.com
 https://flamingo.pexels.com

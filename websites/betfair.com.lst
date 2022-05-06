@@ -502,7 +502,10 @@ http://strandsweave.betfair.com:8080
 http://support.betfair.com
 http://support.betfair.com:8080
 http://support.developer.betfair.com
+http://support.developer.betfair.com:2083
+http://support.developer.betfair.com:2087
 http://support.developer.betfair.com:8080
+http://support.developer.betfair.com:8443
 http://swa.betfair.com
 http://swa.betfair.com:8080
 http://swa.lb.betfair.com

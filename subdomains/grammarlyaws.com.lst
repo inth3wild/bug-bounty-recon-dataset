@@ -111,7 +111,9 @@ experiment-be.qa-experimentation.grammarlyaws.com
 experiment.preprod-experimentation.grammarlyaws.com
 experiment.prod-experimentation.grammarlyaws.com
 experiment.qa-experimentation.grammarlyaws.com
+f-display-counter.preprod-design-system.grammarlyaws.com
 f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
+f-tools-sdui.preprod-design-system.grammarlyaws.com
 f5591295eb.preprod-design-system.grammarlyaws.com
 facade.db.acquisition.grammarlyaws.com
 features.grammarlyaws.com
@@ -532,6 +534,8 @@ subscription.subscription.grammarlyaws.com
 support-automations.subscription.grammarlyaws.com
 support.qa-subscription.grammarlyaws.com
 support.subscription.grammarlyaws.com
+tableau-server-zt-int.sandbox.grammarlyaws.com
+tableau-server-zt.sandbox.grammarlyaws.com
 tableuqa.sandbox.grammarlyaws.com
 teamcity.common.grammarlyaws.com
 terminator.platform.grammarlyaws.com

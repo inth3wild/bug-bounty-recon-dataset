@@ -224,6 +224,7 @@ adm.playstation.net
 admin.playstation.net
 admin1.playstation.net
 admin2.playstation.net
+admin21.kcloud.playstation.net
 admin3.playstation.net
 administration.playstation.net
 adrvdsstore.dl.playstation.net
@@ -4634,6 +4635,7 @@ prod-qa.tools.playstation.net
 prod.dataocean.playstation.net
 prod.dl.playstation.net
 prod.playstation.net
+prod21.kcloud.playstation.net
 production.playstation.net
 products.playstation.net
 prof.np.community.playstation.net
@@ -5113,6 +5115,7 @@ s16.playstation.net
 s2.playstation.net
 s20.playstation.net
 s24.playstation.net
+s2s.d1-np.playstation.net
 s2s.e1-np.playstation.net
 s2s.mgmt.playstation.net
 s2s.np.playstation.net
@@ -6765,6 +6768,7 @@ www.rnps-crl.dl.playstation.net
 www.roles.playstation.net
 www.rss.playstation.net
 www.ru.playstation.net
+www.s2s.d1-np.playstation.net
 www.s2s.e1-np.playstation.net
 www.s2s.mgmt.playstation.net
 www.s2s.np.playstation.net

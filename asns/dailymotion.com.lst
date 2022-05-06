@@ -29,6 +29,7 @@ data-iab-interface.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC U
 data-iab-interface.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-mlflow.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
+data-tagme-rest-api.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-tagme-rest-api.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 daysoff.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 developer.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
@@ -196,6 +197,7 @@ jobs.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 kibana.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 kibana.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 kibana.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+legal.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 links.alerts.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 links.notifications.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 marocinmotion.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19

@@ -254,6 +254,7 @@ https://malaysia.indeed.com [200] [GET] [text/html] [Job Search | Jawatan Kosong
 https://malaysia.indeed.com [307] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://marvin-sigsci.ausprod.indeed.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [370e16c3b7dba286cff055f93b9a94d8]
 https://marvin-sigsci.ausprod.indeed.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8eec510e57f5f732fd2cce73df7b73ef]
+https://mgs-qa.indeed.com [404] [GET] [application/json] [] [] [vhost] [cdb85de760fa2ba4ebed9581c72dfe89]
 https://micro-content-api.dyn.indeed.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [370e16c3b7dba286cff055f93b9a94d8]
 https://military.indeed.com [301] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://mint.indeed.com [200] [GET] [text/html] [Jobs in IT, Ingenieurwesen & Technik finden | Indeed MINT] [nginx] [vhost] [Bootstrap,Google Font API,Nginx] [4cbf81a1db0ea3c21dc99169411d8ec5]

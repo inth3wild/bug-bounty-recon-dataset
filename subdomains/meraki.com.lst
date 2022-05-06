@@ -3138,6 +3138,8 @@ master.ldap.meraki.com
 master.meraki.com
 master.sandbox.meraki.com
 medusa-proxy.idp.meraki.com
+medusa.meraki.com
+medusatest.meraki.com
 meraki-vision.meraki.com
 meraki.com
 meraki.dev.meraki.com

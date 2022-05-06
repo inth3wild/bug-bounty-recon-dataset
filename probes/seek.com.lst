@@ -192,6 +192,7 @@ https://korea-idle.sg-dev.seek.com [418] [GET] [text/plain] [] [cloudflare] [vho
 https://login.seek.com [302] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [c90105d026913943cfba58e46d175897]
 https://login.staging.seek.com [302] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [3187ddab9c604f859ab8848976d2970d]
 https://manage.developer.seek.com [200] [GET] [text/html] [Developer Dashboard | SEEK] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API] [34d97097dd6e6417cc972d5b173dec6c]
+https://manage.developer.staging.seek.com [200] [GET] [text/html] [Developer Dashboard | SEEK] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API] [2ba80eac87092da1cc7680dadf79f588]
 https://php-rr-api-oauth.sg.seek.com [418] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [416e916bfd36d5b865cfe2b5ab61bdcb]
 https://polandidle.sg-dev.seek.com [418] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [416e916bfd36d5b865cfe2b5ab61bdcb]
 https://redirector-idle.sg-dev.seek.com [418] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [416e916bfd36d5b865cfe2b5ab61bdcb]

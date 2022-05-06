@@ -79,8 +79,10 @@ autodiscover.epicgames.com
 avatar-service-stage.identity.dev.on.epicgames.com
 battlebreakers-live-cdn.ol.epicgames.com
 battlebreakershelp.epicgames.com
+bdae.live.use1a.on.epicgames.com
 bdeb.dev.use1a.on.epicgames.com
 bebe.dev.use1a.on.epicgames.com
+bebf.dev.use1a.on.epicgames.com
 beee.live.use1a.on.epicgames.com
 beef.live.use1a.on.epicgames.com
 befa.live.use1a.on.epicgames.com
@@ -2236,11 +2238,14 @@ fn-service-discovery-loadtest-public.dcaf.dev.use1a.on.epicgames.com
 fn-service-discovery-loadtest-public.ogs.dev.on.epicgames.com
 fn-service-discovery-loadtest-w01-public.dcaf.dev.use1a.on.epicgames.com
 fn-service-discovery-loadtest-w02-public.dcaf.dev.use1a.on.epicgames.com
+fn-service-discovery-prod-public.ogs.dev.on.epicgames.com
 fn-service-discovery-stage-public.ogs.dev.on.epicgames.com
+fn-service-sessiontracker-prod-public.ogs.dev.on.epicgames.com
 fn-svc-discovery-live-w01-pub.ogs.live.on.epicgames.com
 fn-svc-discovery-live-w02-pub.ogs.live.on.epicgames.com
 fn-svc-discovery-lt-w01-pub.ogs.dev.on.epicgames.com
 fn-svc-discovery-lt-w02-pub.ogs.dev.on.epicgames.com
+fn-svc-discovery-prod-pub.ogs.dev.on.epicgames.com
 fn-svc-discovery-stage-pub.ogs.dev.on.epicgames.com
 fortnite-ci-debug.ol.epicgames.com
 fortnite-island-screenshots-live-cdn.ol.epicgames.com
@@ -2864,6 +2869,8 @@ testtrack.epicgames.com
 tools.ci-use1b.ci.qstv.on.epicgames.com
 tools.dev-usw2-locust.dev.qstv.on.epicgames.com
 tools.dev-usw2b.dev.qstv.on.epicgames.com
+tools.dev-usw2d.dev.qstv.on.epicgames.com
+tools.dev-usw2s.dev.qstv.on.epicgames.com
 tools.lt-use1b.lt.qstv.on.epicgames.com
 tools.stage-usw2b.stage.qstv.on.epicgames.com
 tp.epicgames.com

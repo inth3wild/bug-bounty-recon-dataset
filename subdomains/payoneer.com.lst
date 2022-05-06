@@ -55,6 +55,8 @@ crldp.payoneer.com
 crossbalanceapi.sandbox.payoneer.com
 custhelp.payoneer.com
 customerfiles.payoneer.com
+customerfiles.qa.payoneer.com
+customerfiles.sandbox.payoneer.com
 customerprofileapi.sandbox.payoneer.com
 cx.payoneer.com
 cx1.payoneer.com
@@ -298,6 +300,9 @@ workingcapitalreferralapi.sandbox.payoneer.com
 www-stg.payoneer.com
 www.appian.payoneer.com
 www.brand.payoneer.com
+www.customerfiles.payoneer.com
+www.customerfiles.qa.payoneer.com
+www.customerfiles.sandbox.payoneer.com
 www.cx.payoneer.com
 www.cx1.payoneer.com
 www.developer.payoneer.com

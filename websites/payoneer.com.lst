@@ -35,6 +35,8 @@ http://checkoutdocs.payoneer.com:8080
 http://contact.payoneer.com
 http://custhelp.payoneer.com
 http://customerfiles.payoneer.com
+http://customerfiles.qa.payoneer.com
+http://customerfiles.sandbox.payoneer.com
 http://design.payoneer.com
 http://design.payoneer.com:2052
 http://design.payoneer.com:2082
@@ -368,6 +370,8 @@ https://checkoutdocs.payoneer.com
 https://contact.payoneer.com
 https://custhelp.payoneer.com
 https://customerfiles.payoneer.com
+https://customerfiles.qa.payoneer.com
+https://customerfiles.sandbox.payoneer.com
 https://design.payoneer.com
 https://developer.payoneer.com
 https://discover.payoneer.com

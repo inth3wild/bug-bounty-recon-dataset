@@ -5712,6 +5712,7 @@ cephs3-mech-vip.nprd.corp.telenet.be
 cephs3-mech.nprd.corp.telenet.be
 cephs3-mech.prd.corp.telenet.be
 cert.telenet.be
+certificaterequestcheck.prd.telenet.be
 cess.telenet.be
 cfloralienlaan400b.telenet.be
 cfonteinstjansvliet.telenet.be
@@ -5763,6 +5764,7 @@ conf02.staff.telenet.be
 confluence.rel.apps.telenet.be
 connect.telenet.be
 connectdvp.telenet.be
+connectioncheck.telenet.be
 connectuat.telenet.be
 connmgr.telenet.be
 connmgr.uat.telenet.be
@@ -11691,6 +11693,7 @@ norm-test.prd.inet.telenet.be
 norm-tools.prd.inet.telenet.be
 norm-vip.prd.inet.telenet.be
 norm-vip.tst.inet.telenet.be
+norm-zabbix.prd.inet.telenet.be
 norm.inet.telenet.be
 norm.prd.inet.telenet.be
 normapi-devel.prd.inet.telenet.be
@@ -12482,6 +12485,7 @@ vess.telenet.be
 vh.telenet.be
 viccess.telenet.be
 vil47-1-78-230-162-2ccess.telenet.be
+virgon.inet.telenet.be
 vitrine.telenet.be
 vm.connect.telenet.be
 vm.nprd.corp.telenet.be

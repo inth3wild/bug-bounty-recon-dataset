@@ -103,6 +103,7 @@ reset.sftp-dataeng.dev.instacart.tools
 reset.sftp-demo.dev.instacart.tools
 reset.sftp-infra-development.dev.instacart.tools
 reset.sftp-infra.dev.instacart.tools
+reset.sftp-partners.dev.instacart.tools
 reset.sftp-payments.dev.instacart.tools
 sandbox.instacart.tools
 security-scanner.instacart.tools
@@ -115,6 +116,7 @@ sftp-admin-dataeng.dev.instacart.tools
 sftp-admin-demo.dev.instacart.tools
 sftp-admin-infra-development.dev.instacart.tools
 sftp-admin-infra.dev.instacart.tools
+sftp-admin-partners.dev.instacart.tools
 sftp-admin-payments.dev.instacart.tools
 sftp-catalog-development.dev.instacart.tools
 sftp-catalog.dev.instacart.tools

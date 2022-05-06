@@ -50,7 +50,7 @@ https://temptation.volkskrant.nl [403] [GET] [application/xml] [] [AmazonS3] [vh
 https://video.volkskrant.nl [404] [GET] [] [] [AkamaiNetStorage] [vhost] [ddf0e2c382137c5bee8ee282368616f4]
 https://volkskrant.nl [301] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://web.volkskrant.nl [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,PHP,Webflow] [c0666cde79e5426946974302fe3307c3]
-https://webwinkel.volkskrant.nl [200] [GET] [text/html] [Van de Volkskrant speciaal voor jou - De Volkskrant Shop] [] [vhost] [Google Tag Manager,Next.js,Node.js,React,webpack] [34579bdc4c0d4ba4e1d0d36a3fe0e3d9]
+https://webwinkel.volkskrant.nl [200] [GET] [text/html] [Van de Volkskrant speciaal voor jou - De Volkskrant Shop] [] [vhost] [Google Tag Manager,Next.js,Node.js,React,webpack] [648cece71e9eff43b5b56c12b5d191ba]
 https://welkom.staging.volkskrant.nl [302] [GET] [text/html] [] [Apache] [vhost] [Apache,Craft CMS,Yii] [d41d8cd98f00b204e9800998ecf8427e]
 https://welkom.volkskrant.nl [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://wiki.volkskrant.nl [200] [GET] [text/html] [] [nginx/1.14.0 (Ubuntu)] [vhost] [Nginx,Ubuntu] [eaa3ed1a7c625b7e466f27894d729c0f]

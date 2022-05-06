@@ -32,6 +32,9 @@ http://bfcm-products-east-production.flink.shopifykloud.com
 http://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 http://capital-algo-streaming-production.flink.shopifykloud.com
 http://cdp-orderaggs-experiment-1.flink.shopifykloud.com
+http://cdp-orderaggs-experiment-2.flink.shopifykloud.com
+http://cdp-orderaggs-experiment-3.flink.shopifykloud.com
+http://cdp-orderaggs-experiment-4.flink.shopifykloud.com
 http://cef-load-testdata-central-stg.flink.shopifykloud.com
 http://conductor-server.shopify-data-presto-global.shopifykloud.com
 http://conductor-staging-s.shopify-data-presto-global.shopifykloud.com
@@ -81,6 +84,7 @@ http://honeybee.shopify-data-presto-global.shopifykloud.com
 http://hue-starscream-qa-hue-starscream-qa-us-central1-2.shopify-data-starscream-qa.shopifykloud.com
 http://hue.shopify-data-starscream-qa.shopifykloud.com
 http://hue.starscream-qa.starscream-qa.yarn.shopifykloud.com
+http://identity-graph-matrix-staging.flink.shopifykloud.com
 http://inbox-analytics-staging.flink.shopifykloud.com
 http://inventory-analytics-staging.flink.shopifykloud.com
 http://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -92,6 +96,7 @@ http://kafka-azkaban-web.data-acq.shopifykloud.com
 http://marketing-event-sales-production.flink.shopifykloud.com
 http://marketing-event-sales-staging-red.flink.shopifykloud.com
 http://marketing-event-sales-staging.flink.shopifykloud.com
+http://megan-test-tmp.shopify-data-presto-global.shopifykloud.com
 http://metadata-a.shopify-data-presto-global.shopifykloud.com
 http://metadata-b.shopify-data-presto-global.shopifykloud.com
 http://metadata-play-tmp.shopify-data-presto-global.shopifykloud.com
@@ -99,6 +104,7 @@ http://metadata-staging.shopify-data-presto-global.shopifykloud.com
 http://monorail-a.shopify-data-presto-global.shopifykloud.com
 http://monorail-b.shopify-data-presto-global.shopifykloud.com
 http://mt-shop-domain-production.flink.shopifykloud.com
+http://my-cluster-tmp.shopify-data-presto-global.shopifykloud.com
 http://oauth-tunnel-yarn.starscream-qa.yarn.shopifykloud.com
 http://oozie-dataproc.starscream-adhoc.yarn.shopifykloud.com
 http://oozie-dataproc.starscream.yarn.shopifykloud.com
@@ -238,6 +244,7 @@ http://submarine-production-web-longboat-us-central1-2.data-acq.shopifykloud.com
 http://submarine-staging-web-longboat-us-central1-2.data-acq.shopifykloud.com
 http://submarine-staging.data-acq.shopifykloud.com
 http://submarine.data-acq.shopifykloud.com
+http://superset.staging.tools.k8s-exp.shopifykloud.com
 http://test-caching.shopify-data-presto-global.shopifykloud.com
 http://test-staging.flink.shopifykloud.com
 http://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
@@ -247,6 +254,8 @@ http://trickle-v2-examples-vend-production.flink.shopifykloud.com
 http://trickle-v2-examples-vendors-staging.flink.shopifykloud.com
 http://trickle-v2-third-party-demo-staging.flink.shopifykloud.com
 http://turnilo.general.dev.druid.shopifykloud.com
+http://turnilo.general.global.druid.shopifykloud.com
+http://turnilo.insights-sales.global.druid.shopifykloud.com
 http://turnilo.staging.global.druid.shopifykloud.com
 http://usage-service-reporting-production.flink.shopifykloud.com
 http://web.atlas.k8s-exp.shopifykloud.com
@@ -299,6 +308,9 @@ https://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 https://canada.vpnify.shopifykloud.com
 https://capital-algo-streaming-production.flink.shopifykloud.com
 https://cdp-orderaggs-experiment-1.flink.shopifykloud.com
+https://cdp-orderaggs-experiment-2.flink.shopifykloud.com
+https://cdp-orderaggs-experiment-3.flink.shopifykloud.com
+https://cdp-orderaggs-experiment-4.flink.shopifykloud.com
 https://cef-load-testdata-central-stg.flink.shopifykloud.com
 https://conductor-server.shopify-data-presto-global.shopifykloud.com
 https://conductor-staging-s.shopify-data-presto-global.shopifykloud.com
@@ -362,6 +374,7 @@ https://hue.yarn-adhoc.starscream-adhoc.yarn.shopifykloud.com
 https://hue.yarn-adhoc.starscream-adhoc.yarn.shopifykloud.com:8000
 https://hue.yarn-production.starscream.yarn.shopifykloud.com
 https://hue.yarn-production.starscream.yarn.shopifykloud.com:8000
+https://identity-graph-matrix-staging.flink.shopifykloud.com
 https://inbox-analytics-staging.flink.shopifykloud.com
 https://inventory-analytics-staging.flink.shopifykloud.com
 https://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -373,6 +386,7 @@ https://kafka-azkaban-web.data-acq.shopifykloud.com
 https://marketing-event-sales-production.flink.shopifykloud.com
 https://marketing-event-sales-staging-red.flink.shopifykloud.com
 https://marketing-event-sales-staging.flink.shopifykloud.com
+https://megan-test-tmp.shopify-data-presto-global.shopifykloud.com
 https://metadata-a.shopify-data-presto-global.shopifykloud.com
 https://metadata-b.shopify-data-presto-global.shopifykloud.com
 https://metadata-play-tmp.shopify-data-presto-global.shopifykloud.com
@@ -380,6 +394,7 @@ https://metadata-staging.shopify-data-presto-global.shopifykloud.com
 https://monorail-a.shopify-data-presto-global.shopifykloud.com
 https://monorail-b.shopify-data-presto-global.shopifykloud.com
 https://mt-shop-domain-production.flink.shopifykloud.com
+https://my-cluster-tmp.shopify-data-presto-global.shopifykloud.com
 https://oauth-tunnel-yarn.starscream-qa.yarn.shopifykloud.com
 https://oozie-dataproc.starscream-adhoc.yarn.shopifykloud.com
 https://oozie-dataproc.starscream.yarn.shopifykloud.com
@@ -518,6 +533,7 @@ https://submarine-production-web-longboat-us-central1-2.data-acq.shopifykloud.co
 https://submarine-staging-web-longboat-us-central1-2.data-acq.shopifykloud.com
 https://submarine-staging.data-acq.shopifykloud.com
 https://submarine.data-acq.shopifykloud.com
+https://superset.staging.tools.k8s-exp.shopifykloud.com
 https://test-caching.shopify-data-presto-global.shopifykloud.com
 https://test-staging.flink.shopifykloud.com
 https://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
@@ -527,6 +543,8 @@ https://trickle-v2-examples-vend-production.flink.shopifykloud.com
 https://trickle-v2-examples-vendors-staging.flink.shopifykloud.com
 https://trickle-v2-third-party-demo-staging.flink.shopifykloud.com
 https://turnilo.general.dev.druid.shopifykloud.com
+https://turnilo.general.global.druid.shopifykloud.com
+https://turnilo.insights-sales.global.druid.shopifykloud.com
 https://turnilo.staging.global.druid.shopifykloud.com
 https://usage-service-reporting-production.flink.shopifykloud.com
 https://vpnify.data-acq-canada.shopifykloud.com

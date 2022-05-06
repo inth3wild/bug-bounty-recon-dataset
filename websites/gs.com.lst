@@ -68,6 +68,9 @@ http://ctw.gs.com
 http://derivativesuniversity.gs.com
 http://design.gs.com
 http://dev-login-higher.gs.com
+http://dev-participant-1.besu.digitalassets.gs.com:8545
+http://dev-participant-2.besu.digitalassets.gs.com:8545
+http://dev-participant-4.besu.digitalassets.gs.com:8545
 http://dev.accounts.gs.com
 http://dev.atlassian.devcollab.gs.com
 http://dev.confluence.devcollab.gs.com
@@ -110,6 +113,8 @@ http://gstransactqa2.gs.com
 http://help.dsp.gs.com
 http://help.gs-mosaic.qa.gs.com
 http://help.gsmosaic.qa.gs.com
+http://help.gsmosaic.qa.gs.com:2083
+http://help.gsmosaic.qa.gs.com:2087
 http://help.gsmosaic.qa.gs.com:8443
 http://help.uat.gs.com
 http://hk.fx.gs.com
@@ -296,6 +301,8 @@ http://www.gsmosaic.gs.com
 http://www.gsmosaic.qa.gs.com
 http://www.help.gs-mosaic.qa.gs.com
 http://www.help.gsmosaic.gs.com
+http://www.help.gsmosaic.gs.com:2083
+http://www.help.gsmosaic.gs.com:2087
 http://www.help.gsmosaic.gs.com:8443
 http://www.help.gsmosaic.qa.gs.com
 http://www.ias.gs.com

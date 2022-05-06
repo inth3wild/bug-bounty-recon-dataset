@@ -22,6 +22,8 @@ https://job-list.beta.scoober.com [403] [GET] [text/html] [ERROR: The request co
 https://newsletter.scoober.com [404] [GET] [text/html] [Page Not Available | Mailchimp] [openresty] [vhost] [Nginx,OpenResty] [7c15786f5def1bfe06aa967f4b795cd1]
 https://payroll-api.dev.scoober.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://payroll-api.scoober.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
+https://r.logistics.scoober.com [301] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
+https://r.logistics.scoober.com:4443 [301] [GET] [] [] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://restaurant.dev.scoober.com [200] [GET] [text/html] [Restaurant - Scoober] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,AngularJS] [f454c145c4d37f75b9f068cd8a42565e]
 https://restaurant.scoober.com [200] [GET] [text/html] [Restaurant - Scoober] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,AngularJS] [caaaeda02a932b98cecbdeefeb281fcc]
 https://scoober-courier-api.scoober.com [503] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,hCaptcha] [3e63603621016bc0555af7ae4a934fe6]

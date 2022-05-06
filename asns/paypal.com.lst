@@ -17,6 +17,7 @@ api-s-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 api-s.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.208.0/20
 api-s.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 api-v2.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
+api.amex.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.au10tix.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.bt-fraud-protection.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.cardinal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -24,11 +25,14 @@ api.cxd.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.dialogflow.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.financing-mint.paypal.com AS30393 AS30393 - BILL ME LATER US 208.76.141.0/24
 api.heroku.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
+api.honey-paypal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.honey.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.imagescreening.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.mercadopago.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.networkmandate.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.networktoken.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
+api.pnp.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 api.stage2d0077.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.stage2d0078.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
@@ -114,6 +118,10 @@ api.stage2du135.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du136.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du137.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du138.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.stage2du145.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.stage2du146.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.stage2du147.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.stage2du148.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du23.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.stage2du23.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du24.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
@@ -166,6 +174,7 @@ api.stage2du96.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.stage2du99.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 api.stage2du99.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.swift.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+api.test35.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test37.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test38.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 api.test41.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
@@ -236,7 +245,7 @@ paypalmanager.sandbox.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 pep.paypal.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
 pics-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 pics.paypal.com AS15133 AS15133 - MCI COMMUNICATIONS SERVICES, INC. D/B/A VERIZON BUSINESS US 192.229.210.0/24
-pics.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
+pics.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 pilot-payflowlink.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 pilot-payflowpro.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 pilot-rms.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.80.0/21
@@ -271,6 +280,7 @@ uptycspay.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 uptycsven.paypal.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 view.emails.paypal.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.110.0.0/16
 www-v2.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
+www.amex.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.bt-fraud-protection.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.cardinal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.creditauciti-dev.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
@@ -279,10 +289,13 @@ www.creditauciti.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/2
 www.cxd.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.dialogflow.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.heroku.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
+www.honey-paypal.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.honey.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.mercadopago.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.networkmandate.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.networktoken.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.paypal.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 173.223.56.0/22
+www.pnp.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.sandbox.paypal.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 www.stage2d0073.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.stage2d0074.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
@@ -374,6 +387,10 @@ www.stage2du135.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.stage2du136.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.stage2du137.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.stage2du138.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.stage2du145.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.stage2du146.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.stage2du147.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.stage2du148.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.stage2du23.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.stage2du23.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.stage2du24.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
@@ -427,6 +444,7 @@ www.stage2du99.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
 www.stage2du99.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.swift.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test28.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+www.test35.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test37.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test38.stage.paypal.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 www.test41.stage.paypal.com AS17012 AS17012 - PAYPAL INC. US 64.4.244.0/22
