@@ -58,6 +58,9 @@ http://redirect.skyscanner.net
 http://redirect2.skyscanner.net
 http://ro.skyscanner.net
 http://schedule-change.travel.skyscanner.net
+http://schedule-change.travel.skyscanner.net:2083
+http://schedule-change.travel.skyscanner.net:2087
+http://schedule-change.travel.skyscanner.net:8443
 http://se.skyscanner.net
 http://secure-pay.travel.skyscanner.net
 http://secure.skyscanner.net

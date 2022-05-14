@@ -56,6 +56,7 @@ confluence-dev.rbx.com
 confluence-prod.rbx.com
 confluence-stage.rbx.com
 confluence.rbx.com
+corp-assets.rbx.com
 corp-metrics.rbx.com
 cortex-stage.rbx.com
 cortex.rbx.com
@@ -100,6 +101,8 @@ houston.astro-dev.di.rbx.com
 iad-full-gw.bpo-vpn.rbx.com
 iad-gw.bpo-vpn.rbx.com
 iguazio.ml.rbx.com
+insight-prod1.rbx.com
+insight-stage7.rbx.com
 install.astro-dev.di.rbx.com
 internal.rbx.com
 jfmc-prod1.rbx.com

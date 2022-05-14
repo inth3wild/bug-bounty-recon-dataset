@@ -379,7 +379,9 @@ s11.tstaging.tools
 s13.tstaging.tools
 spinnaker.ue1.d1.tstaging.tools
 teleport-tag.ue1.d1.tstaging.tools
+teleport-tag.ue1.stg1.tstaging.tools
 teleport.ue1.d1.tstaging.tools
+teleport.ue1.stg1.tstaging.tools
 test-influxext.ue1.cloudhub.tstaging.tools
 test.ue1.staging-data.tstaging.tools
 tools-legacy.ue1.d2.tstaging.tools

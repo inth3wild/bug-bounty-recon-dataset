@@ -8,6 +8,7 @@ http://account.krisp.ai:8080
 http://account.krisp.ai:8443
 http://account.krisp.ai:8880
 http://analytics.krisp.ai
+http://analytics.krisp.ai:2052
 http://analytics.krisp.ai:2053
 http://analytics.krisp.ai:2082
 http://analytics.krisp.ai:2083
@@ -15,6 +16,7 @@ http://analytics.krisp.ai:2086
 http://analytics.krisp.ai:2087
 http://analytics.krisp.ai:2095
 http://analytics.krisp.ai:8080
+http://analytics.krisp.ai:8443
 http://analytics.krisp.ai:8880
 http://api.krisp.ai
 http://api.krisp.ai:2052
@@ -78,6 +80,7 @@ http://download.krisp.ai:8080
 http://download.krisp.ai:8880
 http://files.krisp.ai
 http://files.prelive.krisp.ai
+http://help-jp.krisp.ai
 http://help.krisp.ai
 http://help.krisp.ai:2083
 http://help.krisp.ai:2087
@@ -86,6 +89,7 @@ http://jobs.krisp.ai
 http://jpmchase-uat.krisp.ai
 http://jpmchase.krisp.ai
 http://krisp.ai
+http://krisp.ai:2052
 http://krisp.ai:2053
 http://krisp.ai:2082
 http://krisp.ai:2083
@@ -93,6 +97,7 @@ http://krisp.ai:2086
 http://krisp.ai:2087
 http://krisp.ai:2095
 http://krisp.ai:8080
+http://krisp.ai:8443
 http://krisp.ai:8880
 http://new.account.krisp.ai
 http://new.account.krisp.ai:2052
@@ -277,6 +282,7 @@ https://download.krisp.ai
 https://download.krisp.ai:2087
 https://files.krisp.ai
 https://files.prelive.krisp.ai
+https://help-jp.krisp.ai
 https://help.krisp.ai
 https://jobs.krisp.ai
 https://jpmchase-uat.krisp.ai

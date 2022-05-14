@@ -27,6 +27,7 @@ http://ftp.starlink.com
 http://fulfillment.staging.starlink.com
 http://fulfillment.staging.starlink.com:8080
 http://lyncdiscover.starlink.com
+http://metabase.starlink.com
 http://mobilemail.starlink.com
 http://msoid.starlink.com
 http://my.starlink.com
@@ -60,6 +61,7 @@ https://email.starlink.com
 https://ftp.starlink.com
 https://fulfillment.staging.starlink.com
 https://lyncdiscover.starlink.com
+https://metabase.starlink.com
 https://mobilemail.starlink.com
 https://msoid.starlink.com
 https://pda.starlink.com

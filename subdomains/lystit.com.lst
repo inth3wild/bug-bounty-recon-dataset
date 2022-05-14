@@ -35,6 +35,7 @@ cloudflare.eks-1-20-b.srv.lystit.com
 cloudflare.eks-1-20-nr-prod-trial.srv.lystit.com
 cloudflare.eks-1-20.srv.lystit.com
 cloudflare.eks-1-22-test.srv.lystit.com
+cloudflare.eks-1-22.srv.lystit.com
 cloudflare.eks-ci.srv.lystit.com
 cloudflare.eks-gha.srv.lystit.com
 cloudflare.eks-tktest.srv.lystit.com
@@ -67,6 +68,7 @@ eks-1-20-b.srv.lystit.com
 eks-1-20-nr-prod-trial.srv.lystit.com
 eks-1-20.srv.lystit.com
 eks-1-22-test.srv.lystit.com
+eks-1-22.srv.lystit.com
 eks-20200522.srv.lystit.com
 eks-ci.srv.lystit.com
 eks-circle-1-18.srv.lystit.com
@@ -89,6 +91,7 @@ intalb.eks-1-20-b.srv.lystit.com
 intalb.eks-1-20-nr-prod-trial.srv.lystit.com
 intalb.eks-1-20.srv.lystit.com
 intalb.eks-1-22-test.srv.lystit.com
+intalb.eks-1-22.srv.lystit.com
 intalb.eks-ci.srv.lystit.com
 intalb.eks-gha.srv.lystit.com
 intalb.eks-tktest.srv.lystit.com
@@ -98,6 +101,7 @@ intelb.eks-1-20-b.srv.lystit.com
 intelb.eks-1-20-nr-prod-trial.srv.lystit.com
 intelb.eks-1-20.srv.lystit.com
 intelb.eks-1-22-test.srv.lystit.com
+intelb.eks-1-22.srv.lystit.com
 intelb.eks-ci.srv.lystit.com
 intelb.eks-gha.srv.lystit.com
 intelb.eks-tktest.srv.lystit.com
@@ -108,6 +112,7 @@ internal.eks-1-20-b.srv.lystit.com
 internal.eks-1-20-nr-prod-trial.srv.lystit.com
 internal.eks-1-20.srv.lystit.com
 internal.eks-1-22-test.srv.lystit.com
+internal.eks-1-22.srv.lystit.com
 internal.eks-ci.srv.lystit.com
 internal.eks-circle-1-18.srv.lystit.com
 internal.eks-gha.srv.lystit.com
@@ -119,6 +124,7 @@ intnlb.eks-1-20-b.srv.lystit.com
 intnlb.eks-1-20-nr-prod-trial.srv.lystit.com
 intnlb.eks-1-20.srv.lystit.com
 intnlb.eks-1-22-test.srv.lystit.com
+intnlb.eks-1-22.srv.lystit.com
 intnlb.eks-ci.srv.lystit.com
 intnlb.eks-gha.srv.lystit.com
 intnlb.eks-tktest.srv.lystit.com
@@ -162,6 +168,7 @@ public.eks-1-20-b.srv.lystit.com
 public.eks-1-20-nr-prod-trial.srv.lystit.com
 public.eks-1-20.srv.lystit.com
 public.eks-1-22-test.srv.lystit.com
+public.eks-1-22.srv.lystit.com
 public.eks-ci.srv.lystit.com
 public.eks-circle-1-18.srv.lystit.com
 public.eks-gha.srv.lystit.com
@@ -178,6 +185,7 @@ restricted-public.eks-1-20-b.srv.lystit.com
 restricted-public.eks-1-20-nr-prod-trial.srv.lystit.com
 restricted-public.eks-1-20.srv.lystit.com
 restricted-public.eks-1-22-test.srv.lystit.com
+restricted-public.eks-1-22.srv.lystit.com
 restricted-public.eks-ci.srv.lystit.com
 restricted-public.eks-circle-1-18.srv.lystit.com
 restricted-public.eks-gha.srv.lystit.com
@@ -191,6 +199,7 @@ rpubelb.eks-1-20-b.srv.lystit.com
 rpubelb.eks-1-20-nr-prod-trial.srv.lystit.com
 rpubelb.eks-1-20.srv.lystit.com
 rpubelb.eks-1-22-test.srv.lystit.com
+rpubelb.eks-1-22.srv.lystit.com
 rpubelb.eks-ci.srv.lystit.com
 rpubelb.eks-gha.srv.lystit.com
 rpubelb.eks-tktest.srv.lystit.com

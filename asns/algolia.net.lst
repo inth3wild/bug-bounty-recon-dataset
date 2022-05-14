@@ -1,6 +1,7 @@
 edge-controller-ctrl.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 108.128.0.0/13
 edge-controller-testing-sd.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 54.73.0.0/16
 idp.auth.platform-dev.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+idp.auth.platform.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16
 infra-api-v3-testing.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 kb.logs-de.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 3.64.0.0/12
 kb.logs-de.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 52.57.0.0/16

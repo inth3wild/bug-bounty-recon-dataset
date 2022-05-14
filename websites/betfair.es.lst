@@ -13,6 +13,8 @@ http://assets.betfair.es:8080
 http://ayuda.betfair.es
 http://beatthedrop.betfair.es
 http://betfair.es
+http://betfair.es:2082
+http://betfair.es:2086
 http://betfair.es:8080
 http://cache.betfair.es
 http://cache.betfair.es:8080
@@ -133,6 +135,8 @@ https://assets.betfair.es:8443
 https://ayuda.betfair.es
 https://beatthedrop.betfair.es
 https://betfair.es
+https://betfair.es:2083
+https://betfair.es:2087
 https://betfair.es:8443
 https://cache.betfair.es
 https://cache.betfair.es:8443

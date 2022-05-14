@@ -798,6 +798,11 @@ http://m.sandbox.meraki.com
 http://mail-las.dnstest.meraki.com
 http://manage.meraki.com
 http://marketo.meraki.com
+http://marketo.meraki.com:2053
+http://marketo.meraki.com:2083
+http://marketo.meraki.com:2087
+http://marketo.meraki.com:2096
+http://marketo.meraki.com:8443
 http://master-staging.meraki.com
 http://master.sandbox.meraki.com
 http://meraki.com

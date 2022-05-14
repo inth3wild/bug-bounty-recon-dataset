@@ -16,7 +16,10 @@ http://assets.betfair.se
 http://assets.betfair.se:8080
 http://beatthedrop.betfair.se
 http://betfair.se
+http://betfair.se:2082
+http://betfair.se:2086
 http://betfair.se:8080
+http://betfair.se:8880
 http://cashout-exchange.betfair.se
 http://cashout-exchange.betfair.se:8080
 http://cashout-service.betfair.se
@@ -145,6 +148,7 @@ https://assets.betfair.se
 https://assets.betfair.se:8443
 https://beatthedrop.betfair.se
 https://betfair.se
+https://betfair.se:2087
 https://betfair.se:8443
 https://cashout-exchange.betfair.se
 https://cashout-exchange.betfair.se:8443

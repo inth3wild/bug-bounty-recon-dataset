@@ -6448,6 +6448,7 @@ online.tesla.services
 openfire.tesla.services
 openid.tesla.services
 openvpn.secengovp.tesla.services
+openvpnlogin.secengovp.tesla.services
 opus.tesla.services
 org.demo.tesla.services
 orientalmassagelondon.tesla.services
@@ -6530,6 +6531,7 @@ pod.tesla.services
 poker.tesla.services
 pop.tesla.services
 pop3.tesla.services
+portal.secengovp.tesla.services
 portal.tesla.services
 post.tesla.services
 potes.tesla.services

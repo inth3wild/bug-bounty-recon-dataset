@@ -550,6 +550,7 @@ eng-11.xoom.com
 eng-12.xoom.com
 eng-14.xoom.com
 eng-9.xoom.com
+engineering.jenkins.ord.engtools.xoom.com
 engtools.xoom.com
 enter.xoom.com
 eou.xoom.com
@@ -759,6 +760,7 @@ imx-services.xoom.com
 imx.xoom.com
 indietro.xoom.com
 indyproject.xoom.com
+infeng.jenkins.ord.engtools.xoom.com
 infinigraph.xoom.com
 instana.atl.xoom.com
 instana.sjc.xoom.com
@@ -1062,6 +1064,7 @@ master.xoom.com
 mastermind.xoom.com
 matabase.xoom.com
 maur.xoom.com
+maven.ord.engtools.xoom.com
 maxghi.xoom.com
 maxxboost.xoom.com
 maybs.xoom.com
@@ -1188,6 +1191,7 @@ pages.messages.xoom.com
 pages.xoom.com
 pantest.xoom.com
 panvpn.xoom.com
+panvpntest.xoom.com
 partner.fra.xoom.com
 partner.oma.xoom.com
 partner.xoom.com
@@ -1223,6 +1227,7 @@ ping702.corp.xoom.com
 ping703.corp.xoom.com
 pingadmin.corp.xoom.com
 pingidsso.xoom.com
+platform.jenkins.ord.engtools.xoom.com
 platform.xoom.com
 portal.xoom.com
 privacy-k8s-master.oma.prod.xoom.com
@@ -1234,6 +1239,7 @@ privacy-services.oma.xoom.com
 promotions.xoom.com
 pry.tools.xoom.com
 q955.xoom.com
+qa.jenkins.ord.engtools.xoom.com
 qa.xoom.com
 qa20.qa.xoom.com
 qa31web101.qa.xoom.com
@@ -1662,6 +1668,11 @@ www3.xoom.com
 www4.xoom.com
 www5.xoom.com
 www6.xoom.com
+xib-manager-sandbox.qa.xoom.com
+xib-manager-xoomlab.ord.engtools.xoom.com
+xib-manager.ord.engtools.xoom.com
+xib-manager.qa.xoom.com
+xm.jenkins.ord.engtools.xoom.com
 xoom.com
 xoom.fra.xoom.com
 xoom.oma.xoom.com

@@ -6,6 +6,7 @@ analytics.bitmex.com
 api.testnet.bitmex.com
 auth.bitmex.com
 auth.devhk.bitmex.com
+auth.devsf.bitmex.com
 auth.devsf2.bitmex.com
 auth.devsf3.bitmex.com
 auth.testnet.bitmex.com
@@ -71,6 +72,8 @@ podcasts.academy.bitmex.com
 production-app-calico.services.bitmex.com
 production-app.services.bitmex.com
 radius.bitmex.com
+refer.bitmex.com
+refer.services.bitmex.com
 research-ch.bitmex.com
 research-cn.bitmex.com
 sc-dtc.bitmex.com

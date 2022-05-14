@@ -122,7 +122,7 @@ https://localpay-checkout.sandbox.braintree-api.com [302] [GET] [text/html] [] [
 https://login-prod.production.braintree-api.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
 https://login-qa-us-east-1.dev.braintree-api.com [302] [GET] [text/html] [] [nginx] [Nginx,Ruby,Ruby on Rails] [2d173c96bb887bd171ab4f00a310c1bb]
 https://login-qa.dev.braintree-api.com [302] [GET] [text/html] [] [nginx] [Nginx,Ruby,Ruby on Rails] [a65e3c659227bd602694a4da61a0f424]
-https://marketing-prod-us-east-2.production.braintree-api.com [200] [GET] [text/html] [Caret right] [nginx] [Google Tag Manager,Nginx] [85b857b2040039858e84e07e335e7366]
+https://marketing-prod-us-east-2.production.braintree-api.com [200] [GET] [text/html] [Braintree | Online Payment Solutions and Global Payment Processor] [nginx] [Google Tag Manager,Nginx] [85b857b2040039858e84e07e335e7366]
 https://marketing-qa-us-east-2.dev.braintree-api.com [200] [GET] [text/html] [Caret right] [nginx] [Google Tag Manager,Nginx] [2481860c5ea4853405266cd6554a9d30]
 https://merchant-panel-prod-us-west-2.production.braintree-api.com [301] [GET] [text/plain] [] [] [Express,Node.js] [cb750eeb668dafe46b72b91f976e7af8]
 https://merchant-panel-qa-us-west-2.dev.braintree-api.com [301] [GET] [text/plain] [] [] [Express,Node.js] [08a7f2933a2756493505f528b7d9d4b6]

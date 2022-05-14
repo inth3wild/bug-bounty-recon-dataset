@@ -14,9 +14,12 @@ http://msoid.xoom.com
 http://mymail.xoom.com
 http://news.xoom.com
 http://okta.xoom.com
+http://oma.staging.xoom.com
+http://oma.staging.xoom.com:8080
 http://pages.messages.xoom.com
 http://pages.xoom.com
 http://panvpn.xoom.com
+http://panvpntest.xoom.com
 http://partner.xoom.com
 http://refer.xoom.com
 http://sjc-panvpn.xoom.com
@@ -46,6 +49,7 @@ https://news.xoom.com
 https://pages.messages.xoom.com
 https://pages.xoom.com
 https://panvpn.xoom.com
+https://panvpntest.xoom.com
 https://partner.xoom.com
 https://partnerships.xoom.com
 https://refer.xoom.com

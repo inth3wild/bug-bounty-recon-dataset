@@ -1,3 +1,4 @@
+https://admin.proofit.grammarly.io [200] [GET] [text/html] [Balto / Adminka 2.0] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API] [6600be11f53682890191aeac217aa30c]
 https://eng-challenge.grammarly.io [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [905b1fbb26e082557ff0b3b3553cda6c]
 https://f-log-at.grammarly.io [404] [GET] [text/plain] [] [] [595e88012a6521aae3e12cbebe76eb9e]
 https://f-log-balto.grammarly.io [404] [GET] [text/plain] [] [] [595e88012a6521aae3e12cbebe76eb9e]
@@ -22,5 +23,6 @@ https://femetrics.grammarly.io [404] [GET] [text/plain] [] [] [595e88012a6521aae
 https://gnar-rest-public.grammarly.io [403] [GET] [text/plain] [] [awselb/2.0] [722969577a96ca3953e84e3d949dee81]
 https://prism.grammarly.io [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://proofit.grammarly.io [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [4aa7a432bb447f094408f1bd6229c605]
-https://public-static.it.grammarly.io [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [273b775b2978e07d6175e59cb2155dc0]
-https://public-static.it.grammarly.io [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [87096cbafe2bdeb84ecf347b4041d276]
+https://public-static.it.grammarly.io [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [1fd748d96a1f0a84f9f8ec3c4999e5a8]
+https://public-static.it.grammarly.io [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [46254bd46ba41ec8d96dad9f22901ad2]
+https://ui.proofit.grammarly.io [200] [GET] [text/html] [Proofit UI] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [4a39bc3ac736293a7188c5eca8066afd]

@@ -1,6 +1,6 @@
 as.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 autodiscover.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 207.148.128.0/18
-birthdays.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
+birthdays.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
 booking.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 bookingapi.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 bookingapistage.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20

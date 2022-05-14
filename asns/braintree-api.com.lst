@@ -29,7 +29,11 @@ k8s-oidc.data-production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US
 k8s-oidc.data-staging.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 3.16.0.0/14
 k8s-oidc.production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 k8s-oidc.sandbox.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
+marketing-prod-us-east-2.production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 3.12.0.0/16
 origin-analytics-prod.production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 18.220.0.0/14
+origin-analytics-qa.dev.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 18.116.0.0/14
+origin-analytics-sand.sandbox.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 52.57.0.0/16
+pigeon.production.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 pigeon.sandbox.braintree-api.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 pricing-prod.production.braintree-api.com AS14618 AS14618 - AMAZON.COM INC. US 54.84.0.0/15
 tugboat-dev-us-west-2.dev.braintree-api.com AS16509 AS16509 - AMAZON.COM INC. US 54.148.0.0/15

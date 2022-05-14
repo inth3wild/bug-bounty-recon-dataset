@@ -166,6 +166,7 @@ http://cobrowse.xchat.xfinity.com
 http://common-area-api.xc3.xfinity.com
 http://common-payment.dev.xfinity.com
 http://common-payment.int.xfinity.com
+http://common-payment.xfinity.com
 http://communities.xfinity.com
 http://community.re.xfinity.com
 http://communitydev.re.xfinity.com
@@ -625,6 +626,7 @@ http://preview.privacy-dev.dss-ops.xfinity.com
 http://preview.privacy-qa.dss-ops.xfinity.com
 http://preview.www.stg.xfinity.com
 http://preview.www.xfinity.com
+http://privacy-demo.dss-ops.xfinity.com
 http://privacy-dev.dss-ops.xfinity.com
 http://privacy-opt-out-dev.dss-ops.xfinity.com
 http://privacy-prod.dss-ops.xfinity.com
@@ -783,6 +785,7 @@ http://sit2-hop.cybersource.xfinity.com:2083
 http://sit2-hop.cybersource.xfinity.com:2086
 http://sit2-hop.cybersource.xfinity.com:2087
 http://sit2-hop.cybersource.xfinity.com:8080
+http://sit2-hop.cybersource.xfinity.com:8443
 http://sit2-hop.cybersource.xfinity.com:8880
 http://sitesearch.xfinity.com
 http://sl-handoff-preprod.cws.xfinity.com
@@ -1289,6 +1292,7 @@ https://cobrowse.xchat.xfinity.com
 https://common-area-api.xc3.xfinity.com
 https://common-payment.dev.xfinity.com
 https://common-payment.int.xfinity.com
+https://common-payment.xfinity.com
 https://communities.xfinity.com
 https://community.re.xfinity.com
 https://communitydev.re.xfinity.com
@@ -1852,6 +1856,7 @@ https://preview.www.xfinity.com
 https://preview.xapi.ch2.prd.xfinity.com
 https://preview.xapi.pdc.stg.xfinity.com
 https://preview.xapi.xfinity.com
+https://privacy-demo.dss-ops.xfinity.com
 https://privacy-dev.dss-ops.xfinity.com
 https://privacy-opt-out-dev.dss-ops.xfinity.com
 https://privacy-prod.dss-ops.xfinity.com

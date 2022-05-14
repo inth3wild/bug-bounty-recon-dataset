@@ -335,6 +335,7 @@ cdn-ak-9.gs.com
 cdn-ak-cwm-pb-1.gs.com
 cdn-ak-cwm-pb-2.gs.com
 cdn-ak-gir-1.gs.com
+cdn-ak-gir-2.gs.com
 cdn-ak-gls-1.gs.com
 cdn-ak-gls-2.gs.com
 cdn-ak-lgs-2.gs.com
@@ -346,6 +347,7 @@ cdn-ak-lgs-china2.gs.com
 cdn-ak-lgs-emea.gs.com
 cdn-ak-mq-1.gs.com
 cdn-ak-mq-2.gs.com
+cdn-ak-msh-1.gs.com
 cdn-ak-pipg-1.gs.com
 cdn-ak-pipg-2.gs.com
 cdn-ak-pwm-ad-1.gs.com
@@ -537,6 +539,7 @@ dev.services.gsbank.site.gs.com
 dev.sharepoint.gs.com
 dev.site1.sitehostingdemo.gs.com
 dev.site2.sitehostingdemo.gs.com
+dev.sitehostingdemo.gs.com
 dev.spendservices.site.gs.com
 dev.webid.site.gs.com
 dev.zoom.workplace.gs.com
@@ -1422,6 +1425,8 @@ pre-prod.portal.gs.com
 prod-360.gs.com
 prod-asia.dashmobile.site.gs.com
 prod-commod-ng-edi.gs.com
+prod-control-plane.iamhub-services.site.gs.com
+prod-data-plane.iamhub-services.site.gs.com
 prod-emea.dashmobile.site.gs.com
 prod-sfx2.gs.com
 prod-visr.gs.com
@@ -1438,6 +1443,7 @@ prod.pfmb2csalesforce.nimbus.gs.com
 prod.recovery.site.gs.com
 prod.reps.site.gs.com
 prod.sfx.gs.com
+prod.site1.sitehostingdemo.gs.com
 prod.symphony.gs.com
 prod.tmt.gs.com
 prod.wecom.gs.com
@@ -1684,6 +1690,7 @@ sfx2.gs.com
 sfxqa.gs.com
 sgadcexp01edge01.jabber.gs.com
 sgadcexp01edge01.jabber.url.gs.com
+sggsi1.zoom-softphone.url.gs.com
 sgxtitanotc-b.prod.viking.services.gs.com
 sgxtitanotca-p.prod.viking.services.gs.com
 sgxtitanotca-p.qa.viking.services.gs.com
@@ -2066,6 +2073,8 @@ www.uat-mosaic.cft.gs.com
 www.unitedcp.cimd.site.gs.com
 www.unitedcp.gs.com
 www.valueaccelerator.gs.com
+www.vestmark-dr.gs.com
+www.vestmark.gs.com
 www.wako.ar.gs.com
 www.yx255906.42101.gs.com
 www1.qalogin.gs.com

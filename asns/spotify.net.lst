@@ -10,7 +10,7 @@ facets-static.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 facets-static.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 foss.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 globalprint.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
-grafana.feedzai-sandbox.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
+grafana.feedzai-sandbox.spotify.net AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
 grafana.feedzai.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
 incident-status.spotify.net AS396982 AS396982 - GOOGLE LLC US 35.245.48.0/20
 infographictool.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
@@ -25,7 +25,7 @@ podztools.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 premium-brand.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 premium-brand.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 premium-brand.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
-prometheus.feedzai-sandbox.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
+prometheus.feedzai-sandbox.spotify.net AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
 prometheus.feedzai.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 pulse-ds.feedzai-sandbox.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
 pulse-ds.feedzai.spotify.net AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15

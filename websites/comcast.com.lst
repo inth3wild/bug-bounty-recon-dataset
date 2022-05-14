@@ -21,6 +21,12 @@ http://accountbillingsummary-api-stage.np.salesx.comcast.com
 http://accountbillingsummary-api.salesx.comcast.com
 http://accountdatausage-api.salesx.comcast.com
 http://accounttimeline-api.salesx.comcast.com
+http://acquisition-ui-beta.digital.business.comcast.com
+http://acquisition-ui-dev.np.digital.business.comcast.com
+http://acquisition-ui-pqa.np.digital.business.comcast.com
+http://acquisition-ui-prod.digital.business.comcast.com
+http://acquisition-ui-qa.np.digital.business.comcast.com
+http://acquisition-ui-stg.np.digital.business.comcast.com
 http://activecore-ui-assets-dev.np.digital.business.comcast.com
 http://activecore-ui-assets-pqa.np.digital.business.comcast.com
 http://activecore-ui-assets-prod-va.digital.business.comcast.com
@@ -485,6 +491,7 @@ http://dev-transcripts.chat.comcast.com
 http://dev.achievementunlocked.comcast.com
 http://dev.activecore.mobileapp.np.digital.business.comcast.com
 http://dev.api-tp-cs.comcast.com
+http://dev.bestie.comcast.com
 http://dev.cart.ecom.np.digital.business.comcast.com
 http://dev.esign.np.digital.business.comcast.com
 http://dev.ibis.comcast.com
@@ -707,6 +714,7 @@ http://innovation.business.comcast.com
 http://innovationfund.comcast.com
 http://integration-dr-contingent.comcast.com
 http://integration-dr-contingent.g.comcast.com
+http://integration-gateway.dev.developer.comcast.com
 http://integration.api.dh.comcast.com
 http://internal.beta.comcast.com
 http://internetessentials.comcast.com
@@ -957,6 +965,7 @@ http://phlai.comcast.com
 http://pia.comcast.com
 http://pittsburgh.comcast.com
 http://pivot-qa.comcast.com
+http://platco-settings-app.thor.comcast.com
 http://playbook.comcast.com
 http://playtimeservice-east.r53.merlin.comcast.com
 http://playtimeservice-lbr.merlin.comcast.com
@@ -1165,6 +1174,14 @@ http://singleview-api.salesx.comcast.com
 http://sit-cbm-hop.cybersource.comcast.com
 http://sit-hop.cybersource.comcast.com
 http://sit2-hop.cybersource.comcast.com
+http://sit2-hop.cybersource.comcast.com:2082
+http://sit2-hop.cybersource.comcast.com:2083
+http://sit2-hop.cybersource.comcast.com:2086
+http://sit2-hop.cybersource.comcast.com:2087
+http://sit2-hop.cybersource.comcast.com:2096
+http://sit2-hop.cybersource.comcast.com:8080
+http://sit2-hop.cybersource.comcast.com:8443
+http://sit2-hop.cybersource.comcast.com:8880
 http://sitesearch.comcast.com
 http://sitvod01.vqae.comcast.com
 http://sitvod02.vqae.comcast.com
@@ -1188,6 +1205,16 @@ http://sptnccweb-as-1p.slb.comcast.com
 http://sptnccweb-ho-1p.slb.comcast.com
 http://sptnccweb.gslb2.comcast.com
 http://srportal.comcast.com
+http://ss-help-home-content-dev.np.digital.business.comcast.com
+http://ss-help-home-content-int.np.digital.business.comcast.com
+http://ss-help-home-content-pqa.np.digital.business.comcast.com
+http://ss-help-home-content-qa.np.digital.business.comcast.com
+http://ss-help-shared-content-dev.np.digital.business.comcast.com
+http://ss-help-shared-content-int.np.digital.business.comcast.com
+http://ss-help-shared-content-pqa.np.digital.business.comcast.com
+http://ss-help-shared-content-prod-va.digital.business.comcast.com
+http://ss-help-shared-content-qa.np.digital.business.comcast.com
+http://ss-help-shared-content-stg-va.np.digital.business.comcast.com
 http://sso.g.comcast.com
 http://ssotest.comcast.com
 http://ssp.g.comcast.com
@@ -1216,6 +1243,7 @@ http://stg.va.activecore.mobileapp.np.digital.business.comcast.com
 http://store.comcast.com
 http://stxf.g.comcast.com
 http://subscriberdataservice-prod-fo-us-east-1.r53.merlin.comcast.com
+http://suite-tests.devplat.comcast.com
 http://supplierportal.comcast.com
 http://symcom.comcast.com
 http://tableau.digital.business.comcast.com
@@ -1226,6 +1254,7 @@ http://techevents.comcast.com
 http://techfund.comcast.com
 http://techspot-test.comcast.com
 http://techspot.comcast.com
+http://telesales-reg-content-prod-va.digital.business.comcast.com
 http://telesales-registration-ui-dev.np.digital.business.comcast.com
 http://telesales-registration-ui-int.np.digital.business.comcast.com
 http://telesales-registration-ui-pqa.np.digital.business.comcast.com
@@ -1439,6 +1468,12 @@ https://accountdatausage-api-g.salesx.comcast.com
 https://accountdatausage-api.salesx.comcast.com
 https://accounttimeline-api-g.salesx.comcast.com
 https://accounttimeline-api.salesx.comcast.com
+https://acquisition-ui-beta.digital.business.comcast.com
+https://acquisition-ui-dev.np.digital.business.comcast.com
+https://acquisition-ui-pqa.np.digital.business.comcast.com
+https://acquisition-ui-prod.digital.business.comcast.com
+https://acquisition-ui-qa.np.digital.business.comcast.com
+https://acquisition-ui-stg.np.digital.business.comcast.com
 https://activecore-gateway.api-business.comcast.com
 https://activecore-ui-assets-dev.np.digital.business.comcast.com
 https://activecore-ui-assets-pqa.np.digital.business.comcast.com
@@ -1498,6 +1533,8 @@ https://api-qa.np.fxbuyflow.business.comcast.com
 https://api-qa2.np.fxbuyflow.business.comcast.com
 https://api-simulator-poc.internal.dev.np.api-business.comcast.com
 https://api-tp-cs.comcast.com
+https://api-ue1.fxbuyflow.business.comcast.com
+https://api-uw2.fxbuyflow.business.comcast.com
 https://api.ch2.int.comcast.com
 https://api.ch2.prd.cable.comcast.com
 https://api.ch2.prd.comcast.com
@@ -2040,6 +2077,7 @@ https://dev-transcripts.chat.comcast.com
 https://dev.achievementunlocked.comcast.com
 https://dev.activecore.mobileapp.np.digital.business.comcast.com
 https://dev.api-tp-cs.comcast.com
+https://dev.bestie.comcast.com
 https://dev.cart.ecom.np.digital.business.comcast.com
 https://dev.commerce.comcast.com
 https://dev.core-gateway.np.api-business.comcast.com
@@ -2570,6 +2608,7 @@ https://nashville.comcast.com
 https://ned.comcast.com
 https://nedpolitemail-read.cable.comcast.com
 https://nedpolitemail.cable.comcast.com
+https://neptunegateway.cable.comcast.com:7002
 https://nest-adapter-next.comcast.com
 https://nest-adapter.comcast.com
 https://networking-test.np.digital.business.comcast.com
@@ -2678,6 +2717,7 @@ https://phconnect.mes.comcast.com:8443
 https://phfac.mes.comcast.com
 https://philadelphia.comcast.com
 https://pittsburgh.comcast.com
+https://platco-settings-app.thor.comcast.com
 https://player.gslb2.comcast.com
 https://playtimeservice-east.r53.merlin.comcast.com
 https://playtimeservice-lbr.merlin.comcast.com
@@ -2823,6 +2863,7 @@ https://pr-wss-ch2-f-007.555.comcast.com
 https://pr-wss-ch2-f-008.555.comcast.com
 https://pr-wss-ch2-f-009.555.comcast.com
 https://pr-wss-ho-c-0010.555.comcast.com
+https://prash-test-pr.lucid.comcast-us-useast1.dxsre.comcast.com
 https://prash-test.comcast-us-useast1.dxsre.comcast.com
 https://prdstry-web.gslb2.comcast.com
 https://preprod-cloudsolutions2.comcast.com
@@ -3127,6 +3168,16 @@ https://sptbcn-wc-1p.slb.comcast.com
 https://sptnccweb-as-1p.slb.comcast.com
 https://sptnccweb-ho-1p.slb.comcast.com
 https://sptnccweb.gslb2.comcast.com
+https://ss-help-home-content-dev.np.digital.business.comcast.com
+https://ss-help-home-content-int.np.digital.business.comcast.com
+https://ss-help-home-content-pqa.np.digital.business.comcast.com
+https://ss-help-home-content-qa.np.digital.business.comcast.com
+https://ss-help-shared-content-dev.np.digital.business.comcast.com
+https://ss-help-shared-content-int.np.digital.business.comcast.com
+https://ss-help-shared-content-pqa.np.digital.business.comcast.com
+https://ss-help-shared-content-prod-va.digital.business.comcast.com
+https://ss-help-shared-content-qa.np.digital.business.comcast.com
+https://ss-help-shared-content-stg-va.np.digital.business.comcast.com
 https://ss-ra-startup-agnostic-api.np.api-business.comcast.com
 https://ssm-host-us-ashburn-88.spn.comcast.com
 https://ssm-host-us-ashburn-93.spn.comcast.com
@@ -3179,6 +3230,7 @@ https://sticr.555.comcast.com
 https://sts.comcast.com
 https://stxf.g.comcast.com
 https://subscriberdataservice-prod-fo-us-east-1.r53.merlin.comcast.com
+https://suite-tests.devplat.comcast.com
 https://supplierportal.comcast.com
 https://symcom.comcast.com
 https://tableau-prod-test.r53.coe.comcast.com
@@ -3196,6 +3248,7 @@ https://tchosted.stg.comcast.com
 https://techfund.comcast.com
 https://techspot-test.comcast.com
 https://techspot.comcast.com
+https://telesales-reg-content-prod-va.digital.business.comcast.com
 https://telesales-registration-ui-dev.np.digital.business.comcast.com
 https://telesales-registration-ui-int.np.digital.business.comcast.com
 https://telesales-registration-ui-pqa.np.digital.business.comcast.com

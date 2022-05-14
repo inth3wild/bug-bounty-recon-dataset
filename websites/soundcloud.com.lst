@@ -27,6 +27,7 @@ http://api.soundcloud.com
 http://attachments.soundcloud.com
 http://backstage.soundcloud.com
 http://blog.soundcloud.com
+http://blog.soundcloud.com:2053
 http://blog.soundcloud.com:2083
 http://blog.soundcloud.com:2087
 http://blog.soundcloud.com:2096
@@ -116,6 +117,7 @@ http://playerone.soundcloud.com
 http://playerone.soundcloud.com:8080
 http://post.pwt.soundcloud.com
 http://press.soundcloud.com
+http://prod.igf.soundcloud.com
 http://promote.soundcloud.com
 http://promoted-staging.soundcloud.com
 http://promoted.soundcloud.com
@@ -273,6 +275,7 @@ https://playerone.soundcloud.com
 https://post.pwt.soundcloud.com
 https://premium.soundcloud.com
 https://press.soundcloud.com
+https://prod.igf.soundcloud.com
 https://promote.soundcloud.com
 https://promoted-staging.soundcloud.com
 https://promoted.soundcloud.com

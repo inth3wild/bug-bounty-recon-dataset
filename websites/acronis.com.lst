@@ -4,6 +4,7 @@ http://acronis.com
 http://acronis.com:8080
 http://activation.acronis.com
 http://affiliate.acronis.com
+http://agents-jp03-cloud.acronis.com
 http://akl1-repo.acronis.com
 http://ams7795-jp-cloud.acronis.com
 http://appdirect-eu2-cloud.acronis.com
@@ -52,6 +53,7 @@ http://cloud-wr-eu2.acronis.com
 http://cloud-wr-eu5.acronis.com
 http://cloud-wr-gr01.acronis.com
 http://cloud-wr-io99.acronis.com
+http://cloud-wr-jp03.acronis.com
 http://cloud-wr-jp1.acronis.com
 http://cloud-wr-jp2.acronis.com
 http://cloud-wr-pl01.acronis.com
@@ -106,6 +108,8 @@ http://gr01-cloud.acronis.com
 http://gru1-repo.acronis.com
 http://heg-baas.acronis.com
 http://help.dr.acronis.com
+http://hnd1-repo.acronis.com
+http://hnd1-s3gw.acronis.com
 http://i1.acronis.com
 http://i2.acronis.com
 http://i3.acronis.com
@@ -122,6 +126,7 @@ http://ist1-repo.acronis.com
 http://jp-baas.acronis.com
 http://jp-cloud.acronis.com
 http://jp-vpn.acronis.com
+http://jp03-cloud.acronis.com
 http://kaseya-cloud.acronis.com
 http://lms.acronis.com
 http://logo.acronis.com
@@ -165,6 +170,7 @@ http://rs-es01-cloud.acronis.com
 http://rs-eu-cloud.acronis.com
 http://rs-gr01-cloud.acronis.com
 http://rs-io99-cloud.acronis.com
+http://rs-jp03-cloud.acronis.com
 http://rs-msptest2.acronis.com
 http://rs-nz01-cloud.acronis.com
 http://rs-pl01-cloud.acronis.com
@@ -227,6 +233,7 @@ https://agents-es01-cloud.acronis.com
 https://agents-eu5-cloud.acronis.com
 https://agents-gr01-cloud.acronis.com
 https://agents-io99-cloud.acronis.com
+https://agents-jp03-cloud.acronis.com
 https://agents-mc-io99-cloud.acronis.com
 https://agents-nz01-cloud.acronis.com
 https://agents-pl01-cloud.acronis.com
@@ -338,6 +345,8 @@ https://cloud-wr-eu5.acronis.com:8443
 https://cloud-wr-gr01.acronis.com
 https://cloud-wr-gr01.acronis.com:8443
 https://cloud-wr-io99.acronis.com
+https://cloud-wr-jp03.acronis.com
+https://cloud-wr-jp03.acronis.com:8443
 https://cloud-wr-jp1.acronis.com
 https://cloud-wr-jp1.acronis.com:8443
 https://cloud-wr-jp2.acronis.com
@@ -421,6 +430,7 @@ https://gru1-s3gw.acronis.com
 https://heg-baas.acronis.com
 https://heg-baas.acronis.com:8443
 https://help.dr.acronis.com
+https://hnd1-repo.acronis.com
 https://i1.acronis.com
 https://i2.acronis.com
 https://i3.acronis.com
@@ -439,6 +449,8 @@ https://jp-baas.acronis.com:8443
 https://jp-cloud.acronis.com
 https://jp-cloud.acronis.com:8443
 https://jp-vpn.acronis.com
+https://jp03-cloud.acronis.com
+https://jp03-cloud.acronis.com:8443
 https://kaseya-cloud.acronis.com
 https://kaseya-cloud.acronis.com:8443
 https://lms.acronis.com
@@ -503,6 +515,8 @@ https://rs-eu-cloud.acronis.com:8443
 https://rs-gr01-cloud.acronis.com
 https://rs-gr01-cloud.acronis.com:8443
 https://rs-io99-cloud.acronis.com
+https://rs-jp03-cloud.acronis.com
+https://rs-jp03-cloud.acronis.com:8443
 https://rs-msptest2.acronis.com
 https://rs-msptest2.acronis.com:8443
 https://rs-nz01-cloud.acronis.com

@@ -1,5 +1,5 @@
 https://activation-ext.xfiplatform.com [401] [GET] [] [] [] [da3e39a94933cabff529fc5773dc669c]
-https://activation-integration-ext.xfiplatform.com [502] [GET] [text/html] [502 Bad Gateway] [awselb/2.0] [2b04736d96787f2c09e31a234e40273e]
+https://activation-integration-ext.xfiplatform.com [502] [GET] [text/html] [502 Bad Gateway] [awselb/2.0] [7418cbee906b4db0f20614d0eeebceff]
 https://activation-staging-ext.xfiplatform.com [401] [GET] [] [] [] [da3e39a94933cabff529fc5773dc669c]
 https://activation.xfiplatform.com [401] [GET] [] [] [] [da3e39a94933cabff529fc5773dc669c]
 https://gateway-activation-test.xfiplatform.com [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [81df4d3863debf3eceb5cf84251fd472]

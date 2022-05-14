@@ -517,6 +517,7 @@ intercom-auth.service.newrelic.com
 intercom-auth.staging-service.newrelic.com
 internal.newrelic.com
 ip-connectivity-test-162-247-240.newrelic.com
+issues.newrelic.com
 jasper-rolls.autodiscover.service.newrelic.com
 java.newrelic.com
 jp.newrelic.com
@@ -654,6 +655,7 @@ rpm.newrelic.com
 rpmstatus.newrelic.com
 rpr.newrelic.com
 rt.newrelic.com
+security.newrelic.com
 self-serve.service.newrelic.com
 service-6.newrelic.com
 service-7.newrelic.com

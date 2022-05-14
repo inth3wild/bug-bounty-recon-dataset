@@ -3,6 +3,7 @@ http://api.acc.gamma.nl
 http://api.acceptatie.gamma.nl
 http://api.afspraakmaken.gamma.nl
 http://api.gamma.nl
+http://cdn.email.gamma.nl
 http://chatapp.gamma.nl
 http://cloudfront.dev.gamma.nl
 http://data.email.gamma.nl
@@ -48,6 +49,7 @@ https://api.acc.gamma.nl
 https://api.acceptatie.gamma.nl
 https://api.afspraakmaken.gamma.nl
 https://api.gamma.nl
+https://cdn.email.gamma.nl
 https://chatapp.gamma.nl
 https://data.email.gamma.nl
 https://duurzaamheidszuil.gamma.nl

@@ -14,6 +14,7 @@ cas-grafana-prod.cas.tesla.cn
 community.tesla.cn
 crossdock.tesla.cn
 digitalassets-shop.tesla.cn
+digitalassets.tesla.cn
 eng.chen.cloud.tesla.cn
 enterpriseenrollment.tesla.cn
 enterpriseregistration.tesla.cn
@@ -54,6 +55,10 @@ static-assets.tesla.cn
 stg-crossdock.tesla.cn
 tesla.cn
 tutorial.vn.cloud.tesla.cn
+vehicle-files.eng.cnn1.vn.cloud.tesla.cn
+vehicle-files.eng.vn.cloud.tesla.cn
+vehicle-files.prd.cnn1.vn.cloud.tesla.cn
+vehicle-files.prd.vn.cloud.tesla.cn
 wechat-stg.tesla.cn
 wechat.tesla.cn
 www.tesla.cn

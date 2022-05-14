@@ -125,6 +125,11 @@ docs.mips.mobilevikings.be
 docs.mobilevikings.be
 docs.snuru.dev.mobilevikings.be
 docs.uwa.dev.mobilevikings.be
+dt-2519.blockz.dev.mobilevikings.be
+dt-2519.dev.mobilevikings.be
+dt-2519.internal.dev.mobilevikings.be
+dt-2519.pay.dev.mobilevikings.be
+dt-2519.www.dev.mobilevikings.be
 e.mobilevikings.be
 echo.api-2freedom.mobilevikings.be
 echo.api.mobilevikings.be
@@ -292,6 +297,7 @@ mvn.mobilevikings.be
 my.mobilevikings.be
 myhome.mobilevikings.be
 netbox.internal.mobilevikings.be
+netbox.mas.mobilevikings.be
 new.mobilevikings.be
 newlaptop.mobilevikings.be
 news.mobilevikings.be

@@ -387,6 +387,7 @@ http://login.lat.connect.telenet.be
 http://login.mail.telenet.be
 http://login.mre.connect.telenet.be
 http://login.prd.telenet.be
+http://login.preprod.connect.telenet.be
 http://login.sup.connect.telenet.be
 http://login.trg.connect.telenet.be
 http://login.uat.connect.telenet.be
@@ -1151,6 +1152,7 @@ https://login.mail.telenet.be
 https://login.mre.connect.telenet.be
 https://login.prd.telenet.be
 https://login.prd.telenet.be:8443
+https://login.preprod.connect.telenet.be
 https://login.sup.connect.telenet.be
 https://login.trg.connect.telenet.be
 https://login.uat.connect.telenet.be

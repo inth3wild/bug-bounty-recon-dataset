@@ -703,6 +703,7 @@ dev.pc.mi.com
 dev.shop.mi.com
 dev0.shop.mi.com
 dev1.shop.mi.com
+developer.mi.com
 developer.unity.mi.com
 developers.xiaoai.mi.com
 device.gorouter.wifi.mi.com
@@ -965,6 +966,7 @@ id.shop.mi.com
 id.tv.global.mi.com
 idm.api.io.mi.com
 idm.iot.mi.com
+iedi.be.mi.com
 ignregisternet.mi.com
 ikeyama.dev.mi.com
 image.shop.mi.com
@@ -1870,6 +1872,7 @@ service.shop.mi.com
 services.mi.com
 settle.g.mi.com
 sf.test.mi.com
+sg-dt.mi.com
 sg-urc.io.mi.com
 sg.a.stat.mi.com
 sg.alexa.io.mi.com
@@ -1877,6 +1880,7 @@ sg.api.home.mi.com
 sg.api.io.mi.com
 sg.app.men.mi.com
 sg.backend.mi.com
+sg.broker.mina.mi.com
 sg.bs.api.mi.com
 sg.business.smartcamera.api.io.mi.com
 sg.c.mi.com
@@ -2009,6 +2013,8 @@ st.ts.youpin.mi.com
 st.youpin.mi.com
 staff.jr.mi.com
 staff.shop.mi.com
+staging-dt.mi.com
+staging-sg-dt.mi.com
 staging-tws.wear.mi.com
 staging.admin.e.mi.com
 staging.admin.micard.10046.pt.mi.com

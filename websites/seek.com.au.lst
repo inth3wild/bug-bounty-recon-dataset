@@ -47,6 +47,7 @@ http://click.email.seek.com.au
 http://clients.staging.cloud.seek.com.au
 http://cloud.email.seek.com.au
 http://cloudfront-northamerica-ir.staging.cloud.seek.com.au
+http://collect.seek.com.au
 http://company-profiles-cdn-dev.cloud.seek.com.au
 http://company-profiles-cdn.cloud.seek.com.au
 http://company-proxy-prod-staging-widge-service-cdnredirector.staging.cloud.seek.com.au
@@ -72,6 +73,14 @@ http://home.staging.cloud.seek.com.au
 http://httpbin.staging.cloud.seek.com.au
 http://image-service-cdn.cloud.seek.com.au
 http://image-service-cdn.seek.com.au
+http://image-service-cdn.seek.com.au:2082
+http://image-service-cdn.seek.com.au:2083
+http://image-service-cdn.seek.com.au:2086
+http://image-service-cdn.seek.com.au:2087
+http://image-service-cdn.seek.com.au:2096
+http://image-service-cdn.seek.com.au:8080
+http://image-service-cdn.seek.com.au:8443
+http://image-service-cdn.seek.com.au:8880
 http://image-service-cdn.staging.cloud.seek.com.au
 http://image-service-cdn.staging.seek.com.au
 http://image-service-cdnebs.staging.cloud.seek.com.au
@@ -280,6 +289,7 @@ https://clients.staging.cloud.seek.com.au
 https://cloud.email.seek.com.au
 https://cloudfront-northamerica-ir.staging.cloud.seek.com.au
 https://cm-recommendation-api.cloud.seek.com.au
+https://collect.seek.com.au
 https://commentence-conversars-cdn.cloud.seek.com.au
 https://company-prod-conversars-cdn-dev.cloud.seek.com.au
 https://company-profiles-api.cloud.seek.com.au

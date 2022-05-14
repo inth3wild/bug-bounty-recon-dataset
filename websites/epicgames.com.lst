@@ -345,6 +345,8 @@ https://fg-matchmaking-public-service-prod.ol.epicgames.com
 https://fn-service-datastorage-prod-public.dcaf.dev.use1a.on.epicgames.com
 https://fn-service-discovery-live-public.ogs.live.on.epicgames.com
 https://fn-service-discovery-loadtest-public.ogs.dev.on.epicgames.com
+https://fn-service-discovery-prod-public.ogs.dev.on.epicgames.com
+https://fn-service-discovery-stage-public.ogs.dev.on.epicgames.com
 https://fn-svc-discovery-live-w01-pub.ogs.live.on.epicgames.com
 https://fn-svc-discovery-live-w02-pub.ogs.live.on.epicgames.com
 https://fn-svc-discovery-lt-w01-pub.ogs.dev.on.epicgames.com
@@ -372,8 +374,12 @@ https://fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com
 https://fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com
 https://fortnite-public-service-brawler-prod.ol.epicgames.com
 https://fortnite-public-service-bubbles-prod.ol.epicgames.com
+https://fortnite-public-service-burnout-prod.ol.epicgames.com
+https://fortnite-public-service-carbon-prod.ol.epicgames.com
 https://fortnite-public-service-certstageb-stage.ol.epicgames.com
 https://fortnite-public-service-certstagec-stage.ol.epicgames.com
+https://fortnite-public-service-checker-prod.ol.epicgames.com
+https://fortnite-public-service-cipher-prod.ol.epicgames.com
 https://fortnite-public-service-dailymain-prod.ol.epicgames.com
 https://fortnite-public-service-dailyreleasea-prod.ol.epicgames.com
 https://fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com

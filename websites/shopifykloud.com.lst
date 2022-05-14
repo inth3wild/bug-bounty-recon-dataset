@@ -1,5 +1,6 @@
 http://abandonment-pipeline-production.flink.shopifykloud.com
 http://abandonment-pipeline-staging.flink.shopifykloud.com
+http://ad-audience-sharing-log-production.flink.shopifykloud.com
 http://ad-audience-staging.flink.shopifykloud.com
 http://affiliate-signal-trickle-production.flink.shopifykloud.com
 http://affiliate-signal-trickle-staging.flink.shopifykloud.com
@@ -12,6 +13,14 @@ http://airflow-airflow-webserver-ingress-airflow-dev-us-central1-1.dev.airflow.s
 http://airflow-airflow-webserver-ingress-airflow-global-us-central1-1.global.airflow.shopifykloud.com
 http://airflow-airflow-webserver-ingress-airflow-na-ne1-1.canada.airflow.shopifykloud.com
 http://airflow-airflow-webserver-ingress-airflow-staging-us-central1-1.staging.airflow.shopifykloud.com
+http://amp-developer-docs.flink.shopifykloud.com
+http://amp-grid-next.flink.shopifykloud.com
+http://amp-inbox.flink.shopifykloud.com
+http://amp-metafields.flink.shopifykloud.com
+http://amp-pos-next.flink.shopifykloud.com
+http://amp-pos-now.flink.shopifykloud.com
+http://amp-shop.flink.shopifykloud.com
+http://amp-support.flink.shopifykloud.com
 http://api-druid.k8s-exp.shopifykloud.com
 http://api.general.dev.druid.shopifykloud.com
 http://api.general.global.druid.shopifykloud.com
@@ -101,6 +110,7 @@ http://metadata-a.shopify-data-presto-global.shopifykloud.com
 http://metadata-b.shopify-data-presto-global.shopifykloud.com
 http://metadata-play-tmp.shopify-data-presto-global.shopifykloud.com
 http://metadata-staging.shopify-data-presto-global.shopifykloud.com
+http://metadata-transformer-staging.flink.shopifykloud.com
 http://monorail-a.shopify-data-presto-global.shopifykloud.com
 http://monorail-b.shopify-data-presto-global.shopifykloud.com
 http://mt-shop-domain-production.flink.shopifykloud.com
@@ -136,6 +146,9 @@ http://presto-gateway-production-pr-cgork7r7-data-presto-us-central1-3.shopify-d
 http://presto-gateway-testing-presto-gateway-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 http://presto-gateway-testing.k8s-exp.shopifykloud.com
 http://presto-gateway.shopify-data-presto-global.shopifykloud.com
+http://presto-hpa-a.shopify-data-presto-global.shopifykloud.com
+http://presto-hpa-b.shopify-data-presto-global.shopifykloud.com
+http://presto-hpa-staging.shopify-data-presto-global.shopifykloud.com
 http://presto-kb.shopify-data-presto-global.shopifykloud.com
 http://presto-logging.shopify-data-presto-global.shopifykloud.com
 http://presto-oauth-test.shopify-data-presto-global.shopifykloud.com
@@ -170,6 +183,8 @@ http://presto-staging-exp-load-a.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-exp-load-b.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-exp-load.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-fast-monorail-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
+http://presto-staging-hpa-a.shopify-data-presto-global.shopifykloud.com
+http://presto-staging-hpa-b.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-logging-plugin-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-metadata-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
 http://presto-staging-seamster-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
@@ -275,6 +290,7 @@ http://yarn-oauth.starscream-adhoc.yarn.shopifykloud.com
 http://yarn-oauth.starscream.yarn.shopifykloud.com
 https://abandonment-pipeline-production.flink.shopifykloud.com
 https://abandonment-pipeline-staging.flink.shopifykloud.com
+https://ad-audience-sharing-log-production.flink.shopifykloud.com
 https://ad-audience-staging.flink.shopifykloud.com
 https://affiliate-signal-trickle-production.flink.shopifykloud.com
 https://affiliate-signal-trickle-staging.flink.shopifykloud.com
@@ -287,6 +303,14 @@ https://airflow-airflow-webserver-ingress-airflow-dev-us-central1-1.dev.airflow.
 https://airflow-airflow-webserver-ingress-airflow-global-us-central1-1.global.airflow.shopifykloud.com
 https://airflow-airflow-webserver-ingress-airflow-na-ne1-1.canada.airflow.shopifykloud.com
 https://airflow-airflow-webserver-ingress-airflow-staging-us-central1-1.staging.airflow.shopifykloud.com
+https://amp-developer-docs.flink.shopifykloud.com
+https://amp-grid-next.flink.shopifykloud.com
+https://amp-inbox.flink.shopifykloud.com
+https://amp-metafields.flink.shopifykloud.com
+https://amp-pos-next.flink.shopifykloud.com
+https://amp-pos-now.flink.shopifykloud.com
+https://amp-shop.flink.shopifykloud.com
+https://amp-support.flink.shopifykloud.com
 https://api-druid.k8s-exp.shopifykloud.com
 https://api.general.dev.druid.shopifykloud.com
 https://api.general.global.druid.shopifykloud.com
@@ -391,6 +415,7 @@ https://metadata-a.shopify-data-presto-global.shopifykloud.com
 https://metadata-b.shopify-data-presto-global.shopifykloud.com
 https://metadata-play-tmp.shopify-data-presto-global.shopifykloud.com
 https://metadata-staging.shopify-data-presto-global.shopifykloud.com
+https://metadata-transformer-staging.flink.shopifykloud.com
 https://monorail-a.shopify-data-presto-global.shopifykloud.com
 https://monorail-b.shopify-data-presto-global.shopifykloud.com
 https://mt-shop-domain-production.flink.shopifykloud.com
@@ -425,6 +450,9 @@ https://presto-gateway-production-pr-cgork7r7-data-presto-us-central1-3.shopify-
 https://presto-gateway-testing-presto-gateway-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 https://presto-gateway-testing.k8s-exp.shopifykloud.com
 https://presto-gateway.shopify-data-presto-global.shopifykloud.com
+https://presto-hpa-a.shopify-data-presto-global.shopifykloud.com
+https://presto-hpa-b.shopify-data-presto-global.shopifykloud.com
+https://presto-hpa-staging.shopify-data-presto-global.shopifykloud.com
 https://presto-kb.shopify-data-presto-global.shopifykloud.com
 https://presto-logging.shopify-data-presto-global.shopifykloud.com
 https://presto-oauth-test.shopify-data-presto-global.shopifykloud.com
@@ -459,6 +487,8 @@ https://presto-staging-exp-load-a.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-exp-load-b.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-exp-load.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-fast-monorail-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
+https://presto-staging-hpa-a.shopify-data-presto-global.shopifykloud.com
+https://presto-staging-hpa-b.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-logging-plugin-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-metadata-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
 https://presto-staging-seamster-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com

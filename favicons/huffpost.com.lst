@@ -26,8 +26,6 @@
 -1590483069	huffpost	http://styleguide.huffpost.com/
 -1590483069	huffpost	http://www.huffpost.com/
 -1590483069	huffpost	https://api.login.huffpost.com/
--1590483069	huffpost	https://beta.preview.www.huffpost.com/
--1590483069	huffpost	https://beta.www.huffpost.com/
 -1590483069	huffpost	https://cambria.assets.huffpost.com/
 -1590483069	huffpost	https://chaski.huffpost.com/
 -1590483069	huffpost	https://flipside.huffpost.com/
@@ -42,8 +40,8 @@
 -1590483069	huffpost	https://oidc.huffpost.com/
 -1590483069	huffpost	https://preview.m.huffpost.com/
 -1590483069	huffpost	https://preview.www.huffpost.com/
+-1590483069	huffpost	https://qa-cambria.assets.huffpost.com/
 -1590483069	huffpost	https://qa.m.huffpost.com/
--1590483069	huffpost	https://qa.preview.www.huffpost.com/
 -1590483069	huffpost	https://qa.www.huffpost.com/
 -1590483069	huffpost	https://s-s.huffpost.com/
 -1590483069	huffpost	https://s0.huffpost.com/
@@ -51,14 +49,13 @@
 -1590483069	huffpost	https://s2.huffpost.com/
 -1590483069	huffpost	https://s3.huffpost.com/
 -1590483069	huffpost	https://sketchy.huffpost.com/
+-1590483069	huffpost	https://staging-cambria.assets.huffpost.com/
 -1590483069	huffpost	https://staging.m.huffpost.com/
 -1590483069	huffpost	https://staging.mapi.huffpost.com/
 -1590483069	huffpost	https://staging.preview.m.huffpost.com/
 -1590483069	huffpost	https://staging.www.huffpost.com/
 -1590483069	huffpost	https://styleguide.huffpost.com/
 -1590483069	huffpost	https://www.huffpost.com/
-0	zero byte favicon	http://staging.widgets.huffpost.com/
-0	zero byte favicon	https://staging.widgets.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	http://api.login.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	http://cambria.assets.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	http://flipside.huffpost.com/
@@ -87,8 +84,6 @@
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	http://styleguide.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	http://www.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://api.login.huffpost.com/
-124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://beta.preview.www.huffpost.com/
-124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://beta.www.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://cambria.assets.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://chaski.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://flipside.huffpost.com/
@@ -103,8 +98,8 @@
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://oidc.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://preview.m.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://preview.www.huffpost.com/
+124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://qa-cambria.assets.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://qa.m.huffpost.com/
-124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://qa.preview.www.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://qa.www.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://s-s.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://s0.huffpost.com/
@@ -112,11 +107,10 @@
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://s2.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://s3.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://sketchy.huffpost.com/
+124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://staging-cambria.assets.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://staging.m.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://staging.mapi.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://staging.preview.m.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://staging.www.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://styleguide.huffpost.com/
 124c65dc7ab3ab8d814fbcfd6fc68fc6	huffpost	https://www.huffpost.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging.widgets.huffpost.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://staging.widgets.huffpost.com/

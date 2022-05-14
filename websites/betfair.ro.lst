@@ -6,7 +6,9 @@ http://assets.betfair.ro
 http://assets.betfair.ro:8080
 http://beatthedrop.betfair.ro
 http://betfair.ro
+http://betfair.ro:2082
 http://betfair.ro:8080
+http://betfair.ro:8880
 http://cashout-service.betfair.ro
 http://cashout-service.betfair.ro:8080
 http://cashrace.betfair.ro
@@ -130,6 +132,8 @@ https://assets.betfair.ro
 https://assets.betfair.ro:8443
 https://beatthedrop.betfair.ro
 https://betfair.ro
+https://betfair.ro:2083
+https://betfair.ro:2087
 https://betfair.ro:8443
 https://cashout-service.betfair.ro
 https://cashout-service.betfair.ro:8443

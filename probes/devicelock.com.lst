@@ -8,7 +8,6 @@ https://m.devicelock.com [301] [GET] [text/html] [301 Moved Permanently] [nginx/
 https://mail.office.devicelock.com [404] [GET] [text/html] [404 Not Found] [nginx/1.20.1] [Nginx] [565c1eae816296eb5a8240c33f015484]
 https://mx.office.devicelock.com [404] [GET] [text/html] [404 Not Found] [nginx/1.20.1] [Nginx] [565c1eae816296eb5a8240c33f015484]
 https://noleaks.devicelock.com [301] [GET] [text/html] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
-https://noleaks.devicelock.com [301] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://office.devicelock.com [404] [GET] [text/html] [404 Not Found] [nginx/1.20.1] [Nginx] [565c1eae816296eb5a8240c33f015484]
 https://ru.ftp.devicelock.com [404] [GET] [text/html] [404 Not Found] [nginx/1.20.1] [Nginx] [565c1eae816296eb5a8240c33f015484]
 https://www.devicelock.com [301] [GET] [text/html] [301 Moved Permanently] [nginx/1.19.0] [Nginx] [2b00de2b3dcaa8469dea097e4a5e5fb7]

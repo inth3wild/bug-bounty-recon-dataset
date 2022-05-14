@@ -7,6 +7,7 @@ http://abuse.yahoo.com
 http://accessibility.yahoo.com
 http://add.my.yahoo.com
 http://adfeedback.beap.adx.yahoo.com
+http://adm.tns.nevec.yahoo.com
 http://admanagerplus.yahoo.com
 http://admktg.yahoo.com
 http://admktg.yahoo.com:2053
@@ -48,6 +49,7 @@ http://api-da.local.yahoo.com
 http://api-ext-sched-ing.pbp.vip.bf2.yahoo.com
 http://api-onepush.query.yahoo.com
 http://api-partnerinsights.yahoo.com
+http://api-public.opsdb.ops.yahoo.com
 http://api-secure.sports.yahoo.com
 http://api-yts.cricket.yahoo.com
 http://api.admanager.yahoo.com
@@ -241,6 +243,7 @@ http://dev.subscriptions.yahoo.com
 http://develop.immersive.yahoo.com
 http://dictionary.search.yahoo.com
 http://dispatcher.yahoo.com
+http://docapi.location.yahoo.com
 http://downloads.yahoo.com
 http://e1.ycpi.aeb.yahoo.com
 http://e1.ycpi.cla.yahoo.com
@@ -740,6 +743,7 @@ http://gamma.sky.mail.yahoo.com
 http://gemini.yahoo.com
 http://geo.query.yahoo.com
 http://geo.yahoo.com
+http://geoinfo.location.yahoo.com
 http://gl.search.yahoo.com
 http://global.adserver.yahoo.com
 http://global3.l7.search.ystg1.b.yahoo.com
@@ -874,6 +878,12 @@ http://m.voices.yahoo.com
 http://m.yahoo.com
 http://m.yap.yahoo.com
 http://mab-ext.data.yahoo.com
+http://mail.publishers.yahoo.com
+http://mail.publishers.yahoo.com:2053
+http://mail.publishers.yahoo.com:2083
+http://mail.publishers.yahoo.com:2087
+http://mail.publishers.yahoo.com:2096
+http://mail.publishers.yahoo.com:8443
 http://mail.yahoo.com
 http://mailplus.mail.yahoo.com
 http://makers.yahoo.com
@@ -902,6 +912,7 @@ http://msd-pub.athenz.yahoo.com
 http://msg.edit.yahoo.com
 http://msrd.yahoo.com
 http://mt.search.yahoo.com
+http://mtls.comet.yahoo.com
 http://mtls.pr.comet.yahoo.com
 http://mu.search.yahoo.com
 http://mujer.yahoo.com
@@ -986,6 +997,7 @@ http://pl.yhs4.search.yahoo.com
 http://plans.yahoo.com
 http://play.yahoo.com
 http://plus.yahoo.com
+http://point.yahoo.com
 http://points.yahoo.com
 http://politicaladsapi.adx.yahoo.com
 http://post.update.wtag.ssp.yahoo.com
@@ -1012,8 +1024,12 @@ http://promo.yahoo.com
 http://protect.yahoo.com
 http://pubgw.ads.yahoo.com
 http://pubgw.yahoo.com
+http://public1.comet.vip.bf1.yahoo.com
+http://public1.comet.vip.gq1.yahoo.com
+http://public1.comet.vip.sg3.yahoo.com
 http://qa-d.cp.yahoo.com
 http://qa-srv.cp.yahoo.com
+http://qa.api-public.opsdb.ops.yahoo.com
 http://qa.checkout.fantasysports.yahoo.com
 http://qa.checkout.finance.yahoo.com
 http://qa.checkout.mail.yahoo.com
@@ -1174,6 +1190,7 @@ http://tw.esports.yahoo.com
 http://tw.female.theme.mall.yahoo.com
 http://tw.finance.yahoo.com
 http://tw.futures.finance.yahoo.com
+http://tw.help.yahoo.com
 http://tw.house.yahoo.com
 http://tw.image.news.yahoo.com
 http://tw.image.search.yahoo.com
@@ -1223,6 +1240,7 @@ http://tw.shopping.search.yahoo.com
 http://tw.stock.yahoo.com
 http://tw.store.bid.yahoo.com
 http://tw.style.yahoo.com
+http://tw.t.wlp.billing.yahoo.com
 http://tw.tech.yahoo.com
 http://tw.trendr.yahoo.com
 http://tw.tv.yahoo.com
@@ -1340,12 +1358,14 @@ http://www.whoknew.news.yahoo.com
 http://www.yahoo.com
 http://www.za.yahoo.com
 http://xml-nar-dm.ysm.yahoo.com
+http://yahoo-client.tap.yahoo.com
 http://yahoo.com
 http://yahoomail.feature.yahoo.com
 http://yakl.ops.yahoo.com
 http://ycpi-sb.ops.yahoo.com
 http://yosgamma.login.yahoo.com
 http://yql.yahoo.com
+http://ys.shops.yahoo.com
 https://3p-ews.hl.yahoo.com
 https://3p-pclick.europe.yahoo.com
 https://3p-pclick.internal.yahoo.com
@@ -1355,6 +1375,7 @@ https://abuse.yahoo.com
 https://accessibility.yahoo.com
 https://add.my.yahoo.com
 https://adfeedback.beap.adx.yahoo.com
+https://adm.tns.nevec.yahoo.com
 https://admanagerplus.yahoo.com
 https://admin.amt.yahoo.com
 https://admktg.yahoo.com
@@ -1392,6 +1413,7 @@ https://api-partnerinsights.yahoo.com
 https://api-prod-amt.amt.vip.bf1.yahoo.com
 https://api-prod-amt.amt.vip.gq1.yahoo.com
 https://api-prod-amt.amt.vip.ir2.yahoo.com
+https://api-public.opsdb.ops.yahoo.com
 https://api-secure.sports.yahoo.com
 https://api-trunk.memberprofile.yahoo.com
 https://api-trunk.profile.yahoo.com
@@ -1606,6 +1628,7 @@ https://dev.demoui.payments.yahoo.com
 https://dev.fzdata.payments.yahoo.com
 https://dev.gdpr.payments.yahoo.com
 https://dev.help.yahoo.com
+https://dev.helpcachetool.media.corp.yahoo.com
 https://dev.mysubscriptions.finance.yahoo.com
 https://dev.mysubscriptions.mail.yahoo.com
 https://dev.mysubscriptions.yahoo.com
@@ -1623,6 +1646,7 @@ https://dev.vertexlite.payments.yahoo.com
 https://develop.immersive.yahoo.com
 https://dictionary.search.yahoo.com
 https://dispatcher.yahoo.com
+https://docapi.location.yahoo.com
 https://downloads.yahoo.com
 https://e1.ycpi.aeb.yahoo.com
 https://e1.ycpi.cla.yahoo.com
@@ -2165,6 +2189,7 @@ https://gdpr.payments.yahoo.com
 https://gemini.yahoo.com
 https://geo.query.yahoo.com
 https://geo.yahoo.com
+https://geoinfo.location.yahoo.com
 https://git.corp.yahoo.com
 https://gl.search.yahoo.com
 https://global.adserver.yahoo.com
@@ -2315,6 +2340,7 @@ https://m.voices.yahoo.com
 https://m.yahoo.com
 https://m.yap.yahoo.com
 https://mab-ext.data.yahoo.com
+https://mail.publishers.yahoo.com
 https://mail.yahoo.com
 https://mailplus.mail.yahoo.com
 https://makers.yahoo.com
@@ -2438,6 +2464,7 @@ https://pl.yhs4.search.yahoo.com
 https://plans.yahoo.com
 https://play.yahoo.com
 https://plus.yahoo.com
+https://point.yahoo.com
 https://points.yahoo.com
 https://politicaladsapi.adx.yahoo.com
 https://polls.stage.o2.yahoo.com
@@ -2468,8 +2495,12 @@ https://protect.yahoo.com
 https://pub-tap.push.yahoo.com
 https://pubgw.ads.yahoo.com
 https://pubgw.yahoo.com
+https://public1.comet.vip.bf1.yahoo.com
+https://public1.comet.vip.gq1.yahoo.com
+https://public1.comet.vip.sg3.yahoo.com
 https://qa-d.cp.yahoo.com
 https://qa-srv.cp.yahoo.com
+https://qa.api-public.opsdb.ops.yahoo.com
 https://qa.checkout.fantasysports.yahoo.com
 https://qa.checkout.finance.yahoo.com
 https://qa.checkout.mail.yahoo.com
@@ -2719,6 +2750,7 @@ https://tw.shopping.search.yahoo.com
 https://tw.stock.yahoo.com
 https://tw.store.bid.yahoo.com
 https://tw.style.yahoo.com
+https://tw.t.wlp.billing.yahoo.com
 https://tw.tech.yahoo.com
 https://tw.trendr.yahoo.com
 https://tw.tv.yahoo.com
@@ -2905,8 +2937,10 @@ https://www.whoknew.news.yahoo.com
 https://www.yahoo.com
 https://www.za.yahoo.com
 https://xml-nar-dm.ysm.yahoo.com
+https://yahoo-client.tap.yahoo.com
 https://yahoo.com
 https://yahoomail.feature.yahoo.com
 https://ycpi-sb.ops.yahoo.com
 https://yosgamma.login.yahoo.com
 https://yql.yahoo.com
+https://ys.shops.yahoo.com

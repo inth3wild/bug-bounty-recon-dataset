@@ -40,6 +40,9 @@ http://ipv6.secnews.gr:8080
 http://mail.secnews.gr
 http://publish.secnews.gr
 http://report.secnews.gr
+http://report.secnews.gr:2082
+http://report.secnews.gr:2086
+http://report.secnews.gr:8880
 http://ru.secnews.gr
 http://ru.secnews.gr:2052
 http://ru.secnews.gr:2082
@@ -49,7 +52,10 @@ http://ru.secnews.gr:8080
 http://ru.secnews.gr:8443
 http://ru.secnews.gr:8880
 http://secnews.gr
+http://secnews.gr:2082
+http://secnews.gr:2086
 http://secnews.gr:8080
+http://secnews.gr:8880
 http://sites.secnews.gr
 http://tr.secnews.gr
 http://tr.secnews.gr:2052
@@ -97,8 +103,14 @@ https://ipv6.secnews.gr
 https://ipv6.secnews.gr:8443
 https://publish.secnews.gr
 https://report.secnews.gr
+https://report.secnews.gr:2083
+https://report.secnews.gr:2087
+https://report.secnews.gr:8443
 https://ru.secnews.gr
 https://secnews.gr
+https://secnews.gr:2083
+https://secnews.gr:2087
+https://secnews.gr:2096
 https://secnews.gr:8443
 https://tr.secnews.gr
 https://www.publish.secnews.gr

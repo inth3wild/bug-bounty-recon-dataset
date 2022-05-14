@@ -1,5 +1,6 @@
 1c-server.it.grammarlyaws.com
 1c.finance.grammarlyaws.com
+a4e072f5e3.preprod-design-system.grammarlyaws.com
 abrikosik.common.grammarlyaws.com
 acquisition.grammarlyaws.com
 admin.dev.grammarlyaws.com
@@ -12,6 +13,8 @@ airflow.meta.db.core-prod.grammarlyaws.com
 airflow.meta.db.data-warehouse.grammarlyaws.com
 airflow.meta.db.nlp-processing.grammarlyaws.com
 airflow.nlp-processing.grammarlyaws.com
+airflow.qa-nlp-processing.grammarlyaws.com
+airflow2.nlp-processing.grammarlyaws.com
 alb-okta-test-qa.platform.grammarlyaws.com
 analytics.preprod-analytics.grammarlyaws.com
 analytics.prod-analytics.grammarlyaws.com
@@ -65,6 +68,7 @@ data-warehouse.grammarlyaws.com
 data.grammarlyaws.com
 datacat-ext.nlp-processing.grammarlyaws.com
 datacat-ext.qa-nlp-processing.grammarlyaws.com
+datacat-test.qa-nlp-processing.grammarlyaws.com
 datacat.qa-nlp-processing.grammarlyaws.com
 datareport.preprod-gdpr-export.grammarlyaws.com
 datareport.private.preprod-gdpr-export.grammarlyaws.com
@@ -111,11 +115,15 @@ experiment-be.qa-experimentation.grammarlyaws.com
 experiment.preprod-experimentation.grammarlyaws.com
 experiment.prod-experimentation.grammarlyaws.com
 experiment.qa-experimentation.grammarlyaws.com
+f-assets.preprod-design-system.grammarlyaws.com
 f-display-counter.preprod-design-system.grammarlyaws.com
 f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
+f-java-poc.preprod-design-system.grammarlyaws.com
+f-publish-rt.preprod-design-system.grammarlyaws.com
 f-tools-sdui.preprod-design-system.grammarlyaws.com
 f5591295eb.preprod-design-system.grammarlyaws.com
 facade.db.acquisition.grammarlyaws.com
+feature-store.qa-feature-store.grammarlyaws.com
 features.grammarlyaws.com
 finance.grammarlyaws.com
 foobar.sandbox.grammarlyaws.com
@@ -205,6 +213,7 @@ misha.proofit.grammarlyaws.com
 mobile.db.acquisition.grammarlyaws.com
 narnia-test.it.grammarlyaws.com
 narnia.it.grammarlyaws.com
+new-tf-features-playground.sandbox.grammarlyaws.com
 ngrams.core-prod.grammarlyaws.com
 ngrams.preprod-core.grammarlyaws.com
 nlp-processing.grammarlyaws.com
@@ -463,6 +472,7 @@ qa.alextest.sandbox.grammarlyaws.com
 qa.okta-test.sandbox.grammarlyaws.com
 qa.platformuniversity.sandbox.grammarlyaws.com
 qa.plaunimklovak.sandbox.grammarlyaws.com
+qa.stromme-platformu.sandbox.grammarlyaws.com
 qa.vox.core-prod.grammarlyaws.com
 qa.wintermute.core-prod.grammarlyaws.com
 qqdtrfbts0.preprod-design-system.grammarlyaws.com
@@ -555,6 +565,7 @@ vnhsd43jil.preprod-design-system.grammarlyaws.com
 vox.preprod-vox.grammarlyaws.com
 vox.prod-vox.grammarlyaws.com
 vox.qa-vox.grammarlyaws.com
+vpce-qa-datacat.qa-nlp-processing.grammarlyaws.com
 wintermute.core-prod.grammarlyaws.com
 workspaces.grammarlyaws.com
 write-replicas.data-warehouse.grammarlyaws.com

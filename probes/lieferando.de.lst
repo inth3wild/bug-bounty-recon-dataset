@@ -29,6 +29,7 @@ https://click.update.lieferando.de [403] [GET] [text/html] [403 - Forbidden: Acc
 https://cloud.update.lieferando.de [403] [GET] [text/html] [403 - Forbidden: Access is denied.] [] [11ca4578cb026a23713aea6781b8ece3]
 https://dining.lieferando.de [403] [GET] [text/html] [Attention Required! | Cloudflare] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [eec24f1b3b035f3d383eac6d3c932736]
 https://dining.lieferando.de [530] [GET] [text/html] [Origin DNS error | dining.lieferando.de | Cloudflare] [cloudflare] [vhost] [cloudflare] [dce3626836d055b137b3f3ba539ead20]
+https://email.prco.lieferando.de [200] [GET] [application/octet-stream] [] [nginx] [Nginx] [9f36c1c909fa94ed5e7af41387ae3dae]
 https://emails.restaurants.lieferando.de [404] [GET] [text/html] [404 Not Found] [] [vhost] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://fastly.lieferando.de [500] [GET] [text/html] [Fastly error: unknown domain fastly.lieferando.de] [Varnish] [fastly] [9ada8e9fd250acdf42f55d074adc42be]
 https://fastly.lieferando.de [500] [GET] [text/html] [Fastly error: unknown domain fastly.lieferando.de] [Varnish] [fastly] [cbc6083a36ea0e18b2fe823432e779c5]

@@ -1,16 +1,18 @@
 -1279294674	zendesk-support	http://help.honestdollar.com/
--1279294674	zendesk-support	http://help.honestdollar.com:80/
--1279294674	zendesk-support	http://uat.help.honestdollar.com:80/
+-1279294674	zendesk-support	http://uat.help.honestdollar.com/
 -1279294674	zendesk-support	https://help.honestdollar.com/
--1279294674	zendesk-support	https://help.honestdollar.com:443/
--1279294674	zendesk-support	https://uat.help.honestdollar.com:443/
-0	zero byte favicon	http://v.honestdollar.com:80/
-0	zero byte favicon	https://v.honestdollar.com:443/
+-1279294674	zendesk-support	https://uat.help.honestdollar.com/
+-1897520417	goldman-sachs	http://b2b.uat.honestdollar.com/
+-1897520417	goldman-sachs	https://b2b.uat.honestdollar.com/
+0	zero byte favicon	http://v.honestdollar.com/
+0	zero byte favicon	https://v.honestdollar.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://help.honestdollar.com/
-1f2804bd63515db219aeea50f61df277	zendesk-support	http://help.honestdollar.com:80/
-1f2804bd63515db219aeea50f61df277	zendesk-support	http://uat.help.honestdollar.com:80/
+1f2804bd63515db219aeea50f61df277	zendesk-support	http://uat.help.honestdollar.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	https://help.honestdollar.com/
-1f2804bd63515db219aeea50f61df277	zendesk-support	https://help.honestdollar.com:443/
-1f2804bd63515db219aeea50f61df277	zendesk-support	https://uat.help.honestdollar.com:443/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://v.honestdollar.com:80/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v.honestdollar.com:443/
+1f2804bd63515db219aeea50f61df277	zendesk-support	https://uat.help.honestdollar.com/
+76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	http://b2b.uat.honestdollar.com/
+76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	https://b2b.uat.honestdollar.com/
+7b763f677d8fb39cf1092ca2f502b668	goldman-sachs	https://login-qa.honestdollar.com/
+7b763f677d8fb39cf1092ca2f502b668	goldman-sachs	https://login.honestdollar.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://v.honestdollar.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v.honestdollar.com/

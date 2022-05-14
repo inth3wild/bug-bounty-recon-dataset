@@ -5507,6 +5507,7 @@ apio.int.centrex.telenet.be
 apio.prd.centrex.telenet.be
 apitest.cmt.prd.apps.telenet.be
 apm.prd.telenet.be
+apm.uat.cloud-infra-prod.awscloud.external.telenet.be
 apostrophe.telenet.be
 appareils.telenet.be
 apple.dvp.telenet.be
@@ -10754,6 +10755,7 @@ eric.telenet.be
 ess.telenet.be
 eto26-1-78-230-151-185.fbx.proccess.telenet.be
 eve.inet.telenet.be
+eve.uat.inet.telenet.be
 eve.ws.fsps.uat.inet.telenet.be
 events.telenet.be
 exivity.pf.iot.telenet.be
@@ -11344,6 +11346,7 @@ login.mail.telenet.be
 login.mre.connect.telenet.be
 login.prd.connect.telenet.be
 login.prd.telenet.be
+login.preprod.connect.telenet.be
 login.rel.connect.telenet.be
 login.sup.connect.telenet.be
 login.telenet.be
@@ -11756,6 +11759,7 @@ ns3.cloud.telenet.be
 ntp.telenet.be
 ntp2.telenet.be
 ntp3.telenet.be
+oac.sup.connect.telenet.be
 oagdvip.dvp.connect.telenet.be
 oagdvip.mre.connect.telenet.be
 oagdvip.sup.connect.telenet.be
@@ -11779,6 +11783,7 @@ ogw.int.connect.telenet.be
 ogw.prd.connect.telenet.be
 ogw.trg.connect.telenet.be
 ogw.uat.connect.telenet.be
+oic.sup.connect.telenet.be
 olvc.telenet.be
 one2go.telenet.be
 online-commercial-dev-tmp.awscloud.external.telenet.be
@@ -12459,6 +12464,7 @@ vault.prd.corp.telenet.be
 vault.uat.corp.telenet.be
 vaultvip.prd.corp.telenet.be
 vaultvip.uat.corp.telenet.be
+vbc.sup.connect.telenet.be
 vcc-prd-sip.connect.telenet.be
 vcc-sbc-prd-sig.connect.telenet.be
 vcc-sbc-uat-sig.connect.telenet.be

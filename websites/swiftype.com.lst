@@ -54,6 +54,11 @@ http://host-xxxx.api.swiftype.com
 http://host-xxxxx.api.swiftype.com
 http://local.api.swiftype.com
 http://lp.swiftype.com
+http://lp.swiftype.com:2053
+http://lp.swiftype.com:2083
+http://lp.swiftype.com:2087
+http://lp.swiftype.com:2096
+http://lp.swiftype.com:8443
 http://lp2.swiftype.com
 http://mail.swiftype.com
 http://search-api-latency.swiftype.com

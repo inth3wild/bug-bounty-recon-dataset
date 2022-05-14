@@ -22,7 +22,11 @@ http://apismx.betfair.it:8080
 http://assets.betfair.it
 http://assets.betfair.it:8080
 http://betfair.it
+http://betfair.it:2052
+http://betfair.it:2082
+http://betfair.it:2086
 http://betfair.it:8080
+http://betfair.it:8880
 http://cache.download.betfair.it
 http://cashout-exchange.betfair.it
 http://cashout-exchange.betfair.it:8080
@@ -207,6 +211,9 @@ https://apismx.betfair.it:8443
 https://assets.betfair.it
 https://assets.betfair.it:8443
 https://betfair.it
+https://betfair.it:2083
+https://betfair.it:2087
+https://betfair.it:2096
 https://betfair.it:8443
 https://cache.download.betfair.it
 https://cashout-exchange.betfair.it

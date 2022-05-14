@@ -15,6 +15,7 @@ http://haproxystage-hoc-02.sys.comcast.net
 http://pevinet-ch2-01p.sys.comcast.net
 http://pevinet-po-01p.sys.comcast.net
 http://proxy-wdp-as.sys.comcast.net
+http://px-apps.sys.comcast.net
 http://spacaptive-as-a1p.sys.comcast.net
 http://spacaptive-ch2-a1p.sys.comcast.net
 http://vodfp-cmc-a1p.sys.comcast.net
@@ -51,6 +52,8 @@ https://emcngx-wc-c2u.sys.comcast.net
 https://etwiki.sys.comcast.net
 https://exlaspc-ch2-a2d.sys.comcast.net
 https://haproxystage-hoc-02.sys.comcast.net
+https://haproxysvdev-hoc-01.sys.comcast.net
+https://haproxysvqa-hoc-01.sys.comcast.net
 https://hitsportal-dev.sys.comcast.net
 https://hitsproxy-ch2-lab-019927.sys.comcast.net
 https://ilex-qa.sys.comcast.net
@@ -75,8 +78,14 @@ https://pevinet-ch2-01p.sys.comcast.net
 https://pevinet-po-01p.sys.comcast.net
 https://pivot-qa.sys.comcast.net
 https://playback-qa-cvr-aws-eu1.sys.comcast.net
+https://pr-dmsapp-ho-c-002.sys.comcast.net
+https://pr-dmsapp-ho-c-006.sys.comcast.net
+https://pr-dmsapphap-ho-c-002.sys.comcast.net
+https://pr-dmsapphap-ho-c-003.sys.comcast.net
+https://pr-dmsfw-ho-c-001.sys.comcast.net
 https://proxy-wdp-as.sys.comcast.net
 https://proxy-wdp-as.sys.comcast.net:8443
+https://px-apps.sys.comcast.net
 https://spacaptive-as-a1p.sys.comcast.net
 https://spacaptive-ch2-a1p.sys.comcast.net
 https://streamacs-ch2-e02p.sys.comcast.net

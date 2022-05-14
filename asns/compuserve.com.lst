@@ -2,6 +2,7 @@ bill.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 billupdate.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 cancel.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 changeplan.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
+csmail.compuserve.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 free-qa.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 free.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 go-qa.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
@@ -26,7 +27,7 @@ origin.www.compuserve.com AS14618 AS14618 - AMAZON.COM INC. US 54.164.0.0/15
 origin.www.compuserve.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 password.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 payments.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
-prod.origin.help.compuserve.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+prod.origin.help.compuserve.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
 qa.myaccount.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 qa.payments.compuserve.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 stage.guce.compuserve.com AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12

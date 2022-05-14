@@ -140,6 +140,7 @@ ks-vendingtransactions-mq3.donations.livestream.com AS54113 AS54113 - FASTLY US 
 ks-vendingtransactions-mq4.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 kubernetes.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 lists.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+livestream.com AS54113 AS54113 - FASTLY US 151.101.128.0/22
 livestream.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
 livestream.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 liveupdate.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
@@ -171,7 +172,7 @@ mx1.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 mx2.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 mysql.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 new.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
-new.livestream.com AS396982 AS396982 - GOOGLE LLC US 104.196.192.0/20
+new.livestream.com AS396982 AS396982 - GOOGLE LLC US 35.185.64.0/20
 news.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 nginx-newest.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 nginx-newest1.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22

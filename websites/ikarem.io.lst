@@ -125,6 +125,7 @@ https://dal.artifactory.int.ikarem.io
 https://dashboard.test.ikarem.io
 https://dev.netbox.ikarem.io
 https://docker.dal.artifactory.int.ikarem.io
+https://dse-integration.dev.ikarem.io
 https://edulog.sin-replica.artifactory.ikarem.io
 https://enkrino.use.latitude.dev.ikarem.io
 https://fundi.mun-replica.artifactory.prod.ikarem.io
@@ -135,6 +136,7 @@ https://hahas.artifactory.int.ikarem.io
 https://hrm0.artifactory.int.ikarem.io
 https://hurts.artifactory.int.ikarem.io
 https://imapsha.artifactory.prod.ikarem.io
+https://ingress.dse-integration.usw.development.k8s.ikarem.io
 https://ios.meraki.dev.ikarem.io
 https://jcschoolstn.artifactory.ikarem.io
 https://jmorgan.sdg.artifactory.int.ikarem.io

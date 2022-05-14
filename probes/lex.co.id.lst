@@ -1,4 +1,3 @@
-https://lex.co.id [502] [GET] [text/html] [502 Bad Gateway] [Tengine/Aserver] [vhost] [Tengine] [40567d1b5e2c875ff82eecc9fbd7a9fd]
-https://lex.co.id [502] [GET] [text/html] [502 Bad Gateway] [Tengine/Aserver] [vhost] [Tengine] [c1616352c18acf6362ab576b738741b6]
-https://pre.lex.co.id [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [0e43b40d794348190892bbf0e8b59a80]
-https://pre.lex.co.id [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [6f89972d3b7a1c184026d5172a6be654]
+https://lex.co.id [301] [GET] [text/html] [301 Moved Permanently] [Tengine/Aserver] [vhost] [Tengine] [67194376ec810b1466000b45b043ab94]
+https://pre.lex.co.id [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [7a6ba5fdca5a9eceb34c8d854487d968]
+https://pre.lex.co.id [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [f7a9b506b25a5d8d400e01cd55353b9c]

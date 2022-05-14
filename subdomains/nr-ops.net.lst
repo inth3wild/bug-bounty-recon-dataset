@@ -89,6 +89,7 @@ dr2a.cell.us.nr-ops.net
 dt2a.cell.us.nr-ops.net
 dy1a.cell.us.nr-ops.net
 elastic-ellis.cell.us.nr-ops.net
+eu-bander-snatch.cell.eu.nr-ops.net
 eu-bitter-pack.cell.eu.nr-ops.net
 eu-brave-experience.cell.eu.nr-ops.net
 eu-broken-mug.cell.eu.nr-ops.net
@@ -100,6 +101,7 @@ eu-fluffy-paws.nucleus-lb.nr-ops.net
 eu-fresh-motor.cell.eu.nr-ops.net
 eu-glass-king.cell.eu.nr-ops.net
 eu-high-rabbit.cell.eu.nr-ops.net
+eu-high-road.cell.eu.nr-ops.net
 eu-jaded-stage.cell.eu.nr-ops.net
 eu-meek-maybe.cell.eu.nr-ops.net
 eu-mere-hospital.cell.eu.nr-ops.net
@@ -110,11 +112,13 @@ eu-sane-exam.cell.eu.nr-ops.net
 eu-shady-hide.cell.eu.nr-ops.net
 eu-silly-club.cell.eu.nr-ops.net
 eu-smol-name.cell.eu.nr-ops.net
+eu-snick-snack.cell.eu.nr-ops.net
 eu-steep-hill.cell.eu.nr-ops.net
 eu-steep-hill.nucleus-lb.nr-ops.net
 eu-tooting-horn.cell.eu.nr-ops.net
 eu-tough-sense.cell.eu.nr-ops.net
 eu-vague-thing.cell.eu.nr-ops.net
+eu-vorpal-blade.cell.eu.nr-ops.net
 eu-white-tone.cell.eu.nr-ops.net
 eu.c2.nr-ops.net
 eu.nr-ops.net
@@ -1158,8 +1162,10 @@ us-able-vase.cell.us.nr-ops.net
 us-acrobatic-title.cell.us.nr-ops.net
 us-alive-apple.cell.us.nr-ops.net
 us-alive-tent.cell.us.nr-ops.net
+us-arcane-scroll.cell.us.nr-ops.net
 us-aromatic-bake.cell.us.nr-ops.net
 us-aware-stone.cell.us.nr-ops.net
+us-banana-grams.cell.us.nr-ops.net
 us-bay-bridge.cell.us.nr-ops.net
 us-big-motor.cell.us.nr-ops.net
 us-big-tension.cell.us.nr-ops.net
@@ -1168,6 +1174,7 @@ us-boring-wozniak.cell.us.nr-ops.net
 us-brave-bath.cell.us.nr-ops.net
 us-calm-chain.cell.us.nr-ops.net
 us-caring-sail.cell.us.nr-ops.net
+us-chuck-arena.cell.us.nr-ops.net
 us-civil-rain.cell.us.nr-ops.net
 us-classic-bell.cell.us.nr-ops.net
 us-clear-pane.cell.us.nr-ops.net
@@ -1219,10 +1226,14 @@ us-lonely-nest.cell.us.nr-ops.net
 us-long-reach.cell.us.nr-ops.net
 us-lovely-hire.cell.us.nr-ops.net
 us-loving-heart.cell.us.nr-ops.net
+us-low-rabbit.cell.us.nr-ops.net
 us-lucid-lewin.cell.us.nr-ops.net
 us-lucky-river.cell.us.nr-ops.net
 us-mad-grass.cell.us.nr-ops.net
 us-mad-king.cell.us.nr-ops.net
+us-magic-hat.cell.us.nr-ops.net
+us-medium-rabbit.cell.us.nr-ops.net
+us-mild-curry.cell.us.nr-ops.net
 us-mixed-gate.cell.us.nr-ops.net
 us-motherly-team.cell.us.nr-ops.net
 us-musing-saha.cell.us.nr-ops.net
@@ -1245,6 +1256,7 @@ us-safe-tell.cell.us.nr-ops.net
 us-salty-great.cell.us.nr-ops.net
 us-serene-lalande.cell.us.nr-ops.net
 us-shiny-fork.cell.us.nr-ops.net
+us-shocking-order.cell.us.nr-ops.net
 us-silly-maxwell.cell.us.nr-ops.net
 us-sleepy-drop.cell.us.nr-ops.net
 us-slushy-action.cell.us.nr-ops.net

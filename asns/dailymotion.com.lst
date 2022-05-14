@@ -10,11 +10,13 @@ am-01.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-01.ix7.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-02.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-02.ix7.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
+api-staging.pxl.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
+api.pxl.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
 api.revenues.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 bahamax.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19
 bahamazingexperiences.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19
 careers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
-cast.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
+cast.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 cdn.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
 corpostatic.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 crproxy.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -105,7 +107,6 @@ developer.stage-69.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.2
 developer.stage-70.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 developers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 dmxleo.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.149.0.0/16
-dmxleo.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
 dorne-legacy.stage-01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 druid-broker-partner-stats.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 druid-partner-stats.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -182,7 +183,7 @@ family-filter.stage-68.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195
 family-filter.stage-69.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 family-filter.stage-70.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 faq.dailymotion.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
-flex.dailymotion.com AS16509 AS16509 - AMAZON.COM INC. US 15.188.0.0/16
+flex.dailymotion.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
 fr.advertising.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 grafana.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 graphql-dc3.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
@@ -218,7 +219,6 @@ recommender-stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0
 recommender.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.92.0.0/14
 revshare.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 speedtest.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.200.0/24
-speedtest.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
 style.stage-01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 style.stage-02.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 style.stage-03.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -294,4 +294,5 @@ test.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 update.dailymotion.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 vc-realtime-ew1.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 webmail.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
+wiki.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 www.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24

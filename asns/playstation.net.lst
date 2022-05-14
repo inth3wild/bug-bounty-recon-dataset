@@ -5,6 +5,7 @@ api.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICE
 api.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
 apsnobj.non-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
 apsnobj.stage.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 bee-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
 bee-i-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
 cdn.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
@@ -20,9 +21,7 @@ doc-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73
 doc-stg.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 email.qa.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 email.qa.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
-email.sit.pt.playstation.net AS14618 AS14618 - AMAZON.COM INC. US 35.168.0.0/13
-email.sit.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-email.sit.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
+email.sit.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM INC. US 52.72.0.0/15
 email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 email.stg.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
@@ -30,21 +29,25 @@ escher-stg.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS
 ext.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
 gs2-sec.ww.e1.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 gs2-sec.ww.prod.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.219.92.0/23
-help-system.tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.57.128.0/19
+gst.prod.dl.playstation.net AS3356 AS3356 - LEVEL 3 PARENT, LLC US 8.240.0.0/12
 int.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
 kamajiwt.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.64.96.0/20
+kiki-dev.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+kiki-qa.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
 kiki.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 m.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.10.128.0/20
 m.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
 manuals.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
 mds.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
 nsx.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
-nsx.sec.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.87.4.0/22
+nsx.sec.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.194.116.0/24
 panup-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
 pc.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
 psapp.updptl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.16.0/22
 psn-rsc.e1.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.57.128.0/19
+psn-rsc.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.85.160.0/22
 psnobj.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+pspc.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.127.64.0/19
 recorder-clust01-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
 recorder-clust02-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
 resource.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
@@ -70,7 +73,7 @@ theia.prod-qa.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 
 theia.sp-int.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 themis.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 104.97.96.0/19
 tmdb.e1-np.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
-tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.4.224.0/20
+tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
 ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 18.132.0.0/14
 upload.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
 uvp-assets.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
@@ -81,5 +84,6 @@ vulcan.sp-int.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 
 web.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.44.208.0/22
 www-dev.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
 www-stg.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
+www.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 www.ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.176.0.0/15
 www.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20

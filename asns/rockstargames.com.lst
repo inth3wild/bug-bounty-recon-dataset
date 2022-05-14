@@ -19,6 +19,7 @@ image.newsletter.rockstargames.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. N
 keys.rockstargames.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
 load-catalog-cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
 load.hosted.cloud.rockstargames.com AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 69.28.128.0/18
+media-dev.rockstargames.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.112.0.0/12
 media.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.64.96.0/20
 media.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.123.160.0/19
 pages.newsletter.rockstargames.com AS22606 AS22606 - SALESFORCE.COM INC. US 13.111.0.0/16

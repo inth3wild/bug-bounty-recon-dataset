@@ -57,7 +57,7 @@ authenticate.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 authenticate.staging.seek.com.au AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 autodiscover.seek.com.au AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
 base-ress-conversars-cdn.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
-belonging.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+belonging.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
 beta.wikipedia-engineering.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 betterview-integration-service.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 betterview-integration-service.o.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
@@ -96,6 +96,7 @@ clients.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.6
 cloud.email.seek.com.au AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 cloudfront-northamerica-ir.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 cm-recommendation-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
+collect.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 3.33.176.0/20
 commentence-conversars-cdn.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 company-prod-conversars-cdn-dev.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
 company-profiles-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.66.0.0/17
@@ -130,7 +131,7 @@ gh-secure.restricted-mobile.nike.staging.cloud.seek.com.au AS16509 AS16509 - AMA
 gimme-houston.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 goldcoast2018.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.64.128.0/17
 graph.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
-graphql.incubator.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+graphql.incubator.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
 help.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.210.0.0/15
 home.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 http-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
@@ -313,6 +314,7 @@ team6.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, IN
 team7.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 team8.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 team9.gantryclassroom.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+test.api.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 143.204.140.0/22
 testcrunch-runner-js-api.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 testsubdomain.staging.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 theseeker.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15

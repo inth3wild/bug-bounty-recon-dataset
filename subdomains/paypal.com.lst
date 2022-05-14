@@ -338,6 +338,7 @@ api.gopaychina.stage.paypal.com
 api.gopaychrome.stage.paypal.com
 api.gopaye2e.stage.paypal.com
 api.gopaye2e3.stage.paypal.com
+api.headspin.stage.paypal.com
 api.heroku.stage.paypal.com
 api.honey-paypal.stage.paypal.com
 api.honey.stage.paypal.com
@@ -1461,6 +1462,7 @@ d.stats.paypal.com
 d77kx44yvdn14253.stats.paypal.com
 dalmserv-devcos.qa.paypal.com
 dalmserv-gcpdevcos.qa.paypal.com
+dalmserv-ms-geo.qa.paypal.com
 dalmserv-qa.qa.paypal.com
 dalmserv-stateless-qa.qa.paypal.com
 dashboard-k8s.genesis.qa.paypal.com
@@ -1549,6 +1551,8 @@ developer.glb.paypal.com
 developer.paypal.com
 developer.sandbox.pilot.paypal.com
 devopspartnertest1.stage.paypal.com
+devtest-deco.qa.paypal.com
+devtest-ppaas.qa.paypal.com
 dialin.paypal.com
 disputes.paypal.com
 disputes.sandbox.paypal.com
@@ -5540,6 +5544,7 @@ ukkkmgg.paypal.com
 umv1a9f565zzm4x0.stats.paypal.com
 uomgg.paypal.com
 update.paypal.com
+uptycsbrt.paypal.com
 uptycshap.paypal.com
 uptycshon.paypal.com
 uptycsize.paypal.com
@@ -5710,6 +5715,7 @@ www.creditauciti-m.stage.paypal.com
 www.creditauciti-mpp.stage.paypal.com
 www.creditauciti.stage.paypal.com
 www.cxd.stage.paypal.com
+www.dalmserv-ms-geo.qa.paypal.com
 www.devopspartnertest1.stage.paypal.com
 www.dialogflow.stage.paypal.com
 www.digitalgoods1.qa.paypal.com
@@ -5739,6 +5745,7 @@ www.gopaychrome.stage.paypal.com
 www.gopaye2e.stage.paypal.com
 www.gopaye2e3.stage.paypal.com
 www.gops-weblogic-admin.qa.paypal.com
+www.headspin.stage.paypal.com
 www.heroku.stage.paypal.com
 www.honey-paypal.stage.paypal.com
 www.honey.stage.paypal.com

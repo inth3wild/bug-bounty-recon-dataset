@@ -71,6 +71,7 @@ bbs.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.
 bbs.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 beta.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 beta.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+bishop.dev.lifeomic.com AS54113 AS54113 - FASTLY US 185.199.108.0/24
 blog.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 blog.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 blogs.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
@@ -187,6 +188,7 @@ exchange.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13
 exchange.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 exp.apps.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 fhir.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+flowbot.dev.lifeomic.com AS14618 AS14618 - AMAZON.COM, INC. US 50.16.0.0/16
 forum.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 forum.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 forums.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
@@ -523,7 +525,7 @@ view.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160
 voice.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 voice.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 vpn.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-vpn.dev.lifeomic.com AS14618 AS14618 - AMAZON.COM, INC. US 54.166.0.0/15
+vpn.dev.lifeomic.com AS14618 AS14618 - AMAZON.COM, INC. US 54.167.0.0/17
 vpn.infra.lifeomic.com AS14618 AS14618 - AMAZON.COM, INC. US 52.44.0.0/15
 vpn.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 wap.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

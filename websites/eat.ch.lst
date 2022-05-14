@@ -45,6 +45,10 @@ http://restaurants.eat.ch
 http://shop.eat.ch
 http://static.eat.ch
 http://staticaws.eat.ch
+http://subfolder-proxy-awards.eat.ch
+http://subfolder-proxy-awards.eat.ch:2082
+http://subfolder-proxy-awards.eat.ch:2086
+http://subfolder-proxy-awards.eat.ch:8880
 http://subfolder-proxy-deals.eat.ch
 http://subfolder-proxy-foodwiki.eat.ch
 http://subfolder-proxy-foodwiki.eat.ch:2082
@@ -105,6 +109,10 @@ https://restaurant.eat.ch
 https://restaurants.eat.ch
 https://shop.eat.ch
 https://static.eat.ch
+https://subfolder-proxy-awards.eat.ch
+https://subfolder-proxy-awards.eat.ch:2083
+https://subfolder-proxy-awards.eat.ch:2087
+https://subfolder-proxy-awards.eat.ch:8443
 https://subfolder-proxy-deals.eat.ch
 https://subfolder-proxy-foodwiki.eat.ch
 https://subfolder-proxy-foodwiki.eat.ch:2083

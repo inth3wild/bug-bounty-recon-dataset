@@ -99,6 +99,8 @@ caldera-service-prod.ecosec.on.epicgames.com
 calendar.epicgames.com
 capman-service-ci.adda.dev.use1a.on.epicgames.com
 capman.ci.adda.dev.use1a.on.epicgames.com
+capman.livefn.adad.live.use1a.on.epicgames.com
+capman.prod.adad.live.use1a.on.epicgames.com
 capman.stage.adda.dev.use1a.on.epicgames.com
 careers.epicgames.com
 catalog-public-service-prod-m.ol.epicgames.com
@@ -107,6 +109,9 @@ catalog-public-service-prod06.ol.epicgames.com
 cbfa.live.apn1a.on.epicgames.com
 cbfa.live.euw1a.on.epicgames.com
 cbfa.live.use1a.on.epicgames.com
+ccad.dev.apn1a.on.epicgames.com
+ccad.dev.euw1a.on.epicgames.com
+ccad.dev.use1a.on.epicgames.com
 cccp-latest-gamedev.ol.epicgames.com
 cccp-main-prod.ol.epicgames.com
 ccec.live.use1a.on.epicgames.com
@@ -164,6 +169,7 @@ create-epic-kitt-react-ci.fnsocial.on.epicgames.com
 create-epic-kitt-react.fnsocial.on.epicgames.com
 crmacc.epicgames.com
 cubicmotion-jenkins.cubicmotion-dev.it.epicgames.com
+dabf.dev.use1a.on.epicgames.com
 data-asset-directory-public-service-prod.ol.epicgames.com
 data-asset-directory-public-service-stage.ol.epicgames.com
 datarouter-mobile.ol.epicgames.com
@@ -2211,8 +2217,10 @@ eulatracking-public-service-prod06.ol.epicgames.com
 eurovpn.epicgames.com
 euw1.dev.rtcp.on.epicgames.com
 events-public-service-live.ol.epicgames.com
+facc.dev.use1a.on.epicgames.com
 fastly-download.epicgames.com
 fbbc.dev.use1a.on.epicgames.com
+fcac.live.use1a.on.epicgames.com
 fcdc.live.use1a.on.epicgames.com
 fdbe.dev.use1a.on.epicgames.com
 feec.dev.use1a.on.epicgames.com
@@ -2243,6 +2251,7 @@ fn-service-discovery-stage-public.ogs.dev.on.epicgames.com
 fn-service-sessiontracker-prod-public.ogs.dev.on.epicgames.com
 fn-svc-discovery-live-w01-pub.ogs.live.on.epicgames.com
 fn-svc-discovery-live-w02-pub.ogs.live.on.epicgames.com
+fn-svc-discovery-loadtest-pub.ogs.dev.on.epicgames.com
 fn-svc-discovery-lt-w01-pub.ogs.dev.on.epicgames.com
 fn-svc-discovery-lt-w02-pub.ogs.dev.on.epicgames.com
 fn-svc-discovery-prod-pub.ogs.dev.on.epicgames.com
@@ -2280,8 +2289,12 @@ fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com
 fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com
 fortnite-public-service-brawler-prod.ol.epicgames.com
 fortnite-public-service-bubbles-prod.ol.epicgames.com
+fortnite-public-service-burnout-prod.ol.epicgames.com
+fortnite-public-service-carbon-prod.ol.epicgames.com
 fortnite-public-service-certstageb-stage.ol.epicgames.com
 fortnite-public-service-certstagec-stage.ol.epicgames.com
+fortnite-public-service-checker-prod.ol.epicgames.com
+fortnite-public-service-cipher-prod.ol.epicgames.com
 fortnite-public-service-dailymain-prod.ol.epicgames.com
 fortnite-public-service-dailyreleasea-prod.ol.epicgames.com
 fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com
@@ -2369,6 +2382,8 @@ geofeed.coreinfra.it.epicgames.com
 geofeed.it.epicgames.com
 gg.installer.ega.ol.epicgames.com
 glhf.installer.ega.ol.epicgames.com
+go.on.epicgames.com
+golinks.ceee.dev.use1a.on.epicgames.com
 grafana.tools.dev-usw2-locust.dev.qstv.on.epicgames.com
 graphql.epicgames-prod.ol.epicgames.com
 graphql.epicgames.com
@@ -2409,6 +2424,7 @@ hcaptcha-js.ecosec.on.epicgames.com
 hcaptcha-reportapi.ecosec.on.epicgames.com
 hcaptcha-test.ecosec.on.epicgames.com
 heavyforwarder.splunk.epicgames.com
+heavyforwarder.splunk.it.epicgames.com
 heavyforwarder.splunk.operations.it.epicgames.com
 help.epicgames.com
 helpdesk-stage.epicgames.com
@@ -2543,6 +2559,7 @@ mars-apigw.stage.it.epicgames.com
 media-cdn.epicgames.com
 mediaserver-dev-use1-0.dev.rtcp.on.epicgames.com
 meet.epicgames.com
+megastation.it-entapps-dev.epicgames.com
 merch-eu.epicgames.com
 merch.epicgames.com
 merchantpool1.epicgames.com
@@ -2819,6 +2836,8 @@ stork.it.epicgames.com
 stressium-use1.dev.rtcp.on.epicgames.com
 stun-1-nat.ol.epicgames.com
 stun-2-nat.ol.epicgames.com
+substrate-vault-dev-us-east-1.dead.dev.use1a.on.epicgames.com
+substrate-vault-dev.dead.dev.use1a.on.epicgames.com
 substrate.on.epicgames.com
 substrate.store.epicgames.com
 sumoassist.ceee.dev.use1a.on.epicgames.com
@@ -2866,11 +2885,15 @@ testrail.it-entapps-dev.epicgames.com
 testrail.it.epicgames.com
 testrail.stage.it.epicgames.com
 testtrack.epicgames.com
+tools.ci-use1a.ci.qstv.on.epicgames.com
 tools.ci-use1b.ci.qstv.on.epicgames.com
 tools.dev-usw2-locust.dev.qstv.on.epicgames.com
+tools.dev-usw2a.dev.qstv.on.epicgames.com
 tools.dev-usw2b.dev.qstv.on.epicgames.com
 tools.dev-usw2d.dev.qstv.on.epicgames.com
 tools.dev-usw2s.dev.qstv.on.epicgames.com
+tools.edge-euc1a.edge.qstv.on.epicgames.com
+tools.lt-use1a.lt.qstv.on.epicgames.com
 tools.lt-use1b.lt.qstv.on.epicgames.com
 tools.stage-usw2b.stage.qstv.on.epicgames.com
 tp.epicgames.com

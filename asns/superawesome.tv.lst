@@ -1,7 +1,14 @@
+ksf.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 ksiq.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16
+kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+parents.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+parentsapi.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+parentsapp.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
 preview-v2.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
 preview-v2.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 sa-mobile-sdk-advertiser-android.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
 sa-mobile-sdk-advertiser-ios.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.108.0/24
 sa-mobile-sdk-ios.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
 sa-unity-sdk.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.111.0/24
+sso.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+worker.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13

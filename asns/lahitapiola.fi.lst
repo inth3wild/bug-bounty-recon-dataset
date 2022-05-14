@@ -3,6 +3,7 @@ ajanvaraus.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 api.lemmikkihelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
 api.terveyshelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 13.64.0.0/11
 app.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+asiointi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 asunnot.lahitapiola.fi AS14061 AS14061 - DIGITALOCEAN, LLC US 64.225.80.0/22
 atlassian.lahitapiola.fi AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.216.0.0/16
 authcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
@@ -43,8 +44,7 @@ kumppani.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 kumppanihallinta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 kumppanitunnistus.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 kurre.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
-lahiliikunta.lahitapiola.fi AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-lahiliikunta.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 184.72.0.0/18
+lahiliikunta.lahitapiola.fi AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
 ltcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
 ltcrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17

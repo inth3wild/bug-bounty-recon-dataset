@@ -35,6 +35,7 @@ http://preflight.taxes.cash.app:8080
 http://sandbox.api.cash.app
 http://sandbox.global-network-api.cash.app
 http://sandbox.kit.cash.app
+http://shop.cash.app
 http://status.cash.app
 http://taxes.cash.app
 http://taxes.cash.app:8080
@@ -76,6 +77,7 @@ https://preflight.taxes.cash.app
 https://sandbox.api.cash.app
 https://sandbox.global-network-api.cash.app
 https://sandbox.kit.cash.app
+https://shop.cash.app
 https://status.cash.app
 https://taxes.cash.app
 https://taxeshelp.cash.app

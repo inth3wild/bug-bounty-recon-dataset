@@ -13,6 +13,7 @@ companyadmin.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 connect.lieferando.de AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 creatives.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 dining.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+email.prco.lieferando.de AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 emails.restaurants.lieferando.de AS24940 AS24940 - HETZNER ONLINE GMBH DE 49.12.0.0/16
 fastly.lieferando.de AS54113 AS54113 - FASTLY US 151.101.208.0/22
 join.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

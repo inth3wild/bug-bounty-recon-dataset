@@ -1,5 +1,3 @@
-http://rc.scatec.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-http://scatec.io:8080 [404] [GET] [text/html] [404 Not Found] [] [2e9281cb1598565605593d28a5efa3bb]
-https://rc.scatec.io [308] [GET] [text/html] [308 Permanent Redirect] [] [vhost] [Google Cloud,Google Cloud CDN] [f23c4815ecaef1588f16ac735c0e15d6]
-https://scatec.io [545] [GET] [text/html] [Just a moment] [] [Google Cloud,Google Cloud CDN] [176634af2def5336e04196eaf2e44e40]
-https://scatec.io [545] [GET] [text/html] [Just a moment] [] [Google Cloud,Google Cloud CDN] [b31c7c1cc494ae51bf26284bba9db1b7]
+https://rc.scatec.io [308] [GET] [text/html] [308 Permanent Redirect] [] [vhost] [google] [Google Cloud,Google Cloud CDN] [f23c4815ecaef1588f16ac735c0e15d6]
+https://scatec.io [545] [GET] [text/html] [Just a moment] [] [google] [Google Cloud,Google Cloud CDN] [257887011b9ad2958170e0cb938da248]
+https://scatec.io [545] [GET] [text/html] [Just a moment] [] [google] [Google Cloud,Google Cloud CDN] [ab088e08050222e51ce8bbac3bd6974b]
