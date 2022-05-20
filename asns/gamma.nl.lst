@@ -29,8 +29,7 @@ mijn2.acceptatie.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 mijn2.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 65.8.56.0/23
 origin.checkout.acc.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 origin.checkout.prd.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
-origin.myaccount.acc.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
-origin.myaccount.acc.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.76.0.0/15
+origin.myaccount.acc.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.154.0.0/16
 origin.myaccount.prd.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 origin.shopfront.acc.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.216.0.0/15
 origin.shopfront.prd.gamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16

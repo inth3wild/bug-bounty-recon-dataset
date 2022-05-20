@@ -5408,6 +5408,7 @@ admin.prd.digitalsecurity.telenet.be
 adsl-cess.telenet.be
 adsl266.blss.telenet.be
 adt.prd.connect.telenet.be
+aem-modules-dev.awscloud.external.telenet.be
 agent-gateway.int.digitalsecurity.telenet.be
 agent-gateway.lab.digitalsecurity.telenet.be
 agent-gateway.prd.digitalsecurity.telenet.be
@@ -5434,6 +5435,7 @@ antiek.telenet.be
 antiroddelactie.telenet.be
 apache37.cloud.telenet.be
 apache38.cloud.telenet.be
+apache41.cloud.telenet.be
 apache51.cloud.telenet.be
 apache52.cloud.telenet.be
 apache53.cloud.telenet.be
@@ -5488,11 +5490,14 @@ api-paynnect.telenet.be
 api.centrex.int.inet.telenet.be
 api.centrex.prd.inet.telenet.be
 api.cloud.telenet.be
+api.dev-ocp4.corp.telenet.be
 api.dvp.telenet.be
 api.edp.telenet.be
 api.elvis.telenet.be
 api.int.telenet.be
 api.mytelenet.telenet.be
+api.nprd-ocp4.corp.telenet.be
+api.prd-ocp4.corp.telenet.be
 api.prd.telenet.be
 api.sup.telenet.be
 api.trg.telenet.be
@@ -11641,6 +11646,7 @@ mysettings.cloud.telenet.be
 mysql06.cloud.telenet.be
 mysql07.cloud.telenet.be
 mysql08.cloud.telenet.be
+mysql09.cloud.telenet.be
 mywifibusiness.prd.telenet.be
 mywifibusiness.telenet.be
 mywifibusiness.uat.telenet.be

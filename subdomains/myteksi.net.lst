@@ -28,6 +28,7 @@ apm.ece-v2-10.myteksi.net
 apt.myteksi.net
 archivist.myteksi.net
 argus.myteksi.net
+arion-001.data-engineering.myteksi.net
 arion-001.staging.data-engineering.myteksi.net
 atlantis.geo.myteksi.net
 auctionhouse.myteksi.net
@@ -57,9 +58,11 @@ candidates.myteksi.net
 cark-prd-1.gts.myteksi.net
 cark-prd-2.gts.myteksi.net
 cark-prd-3.gts.myteksi.net
+cark-prd-lb.gts.myteksi.net
 cark-stg-1.gts.myteksi.net
 cark-stg-2.gts.myteksi.net
 cark-stg-3.gts.myteksi.net
+cark-stg-lb.gts.myteksi.net
 catcher.myteksi.net
 ce.presto-monitor.data-engineering.myteksi.net
 centerstage.myteksi.net

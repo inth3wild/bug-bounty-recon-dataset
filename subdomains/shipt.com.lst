@@ -210,6 +210,7 @@ boomin5eocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 bootstrap.app.kafka.us-central1.staging.shipt.com
 bootstrap.app.kafka.us-east4.staging.shipt.com
 bootstrap.dw.kafka.us-central1.staging.shipt.com
+bootstrap.platform.kafka.us-central1.staging.shipt.com
 bouncing7-neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 box16neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 bransactive-c.beta-neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
@@ -217,12 +218,15 @@ broadcastnewsneocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.com
 broker-0.app.kafka.us-central1.staging.shipt.com
 broker-0.app.kafka.us-east4.staging.shipt.com
 broker-0.dw.kafka.us-central1.staging.shipt.com
+broker-0.platform.kafka.us-central1.staging.shipt.com
 broker-1.app.kafka.us-central1.staging.shipt.com
 broker-1.app.kafka.us-east4.staging.shipt.com
 broker-1.dw.kafka.us-central1.staging.shipt.com
+broker-1.platform.kafka.us-central1.staging.shipt.com
 broker-2.app.kafka.us-central1.staging.shipt.com
 broker-2.app.kafka.us-east4.staging.shipt.com
 broker-2.dw.kafka.us-central1.staging.shipt.com
+broker-2.platform.kafka.us-central1.staging.shipt.com
 broker-3.app.kafka.us-central1.staging.shipt.com
 broker-3.app.kafka.us-east4.staging.shipt.com
 broker-3.dw.kafka.us-central1.staging.shipt.com

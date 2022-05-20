@@ -36,6 +36,7 @@ shop.lieferando.de AS19551 AS19551 - INCAPSULA INC US 45.60.11.0/24
 stage-colin.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stage.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 static.lieferando.de AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+tags.lieferando.de AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 tealium.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test-shop.lieferando.de AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
 test.shop.lieferando.de AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19

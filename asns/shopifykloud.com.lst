@@ -5,10 +5,14 @@ affiliate-signal-trickle-staging.flink.shopifykloud.com AS396982 AS396982 - GOOG
 affiliate-signal-trickle-staging2.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 amp-developer-docs.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-grid-next.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+amp-help-center.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-inbox.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-metafields.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-pos-next.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-pos-now.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+amp-privacy-banner.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+amp-retail-hardware.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+amp-shop-app-starscream.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-shop.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 amp-support.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 api.general.dev.druid.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
@@ -21,9 +25,9 @@ bfcm-globe-cricket-central.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC U
 bfcm-globe-cricket-east.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 bfcm-globe-cricket-prod-backup.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 bfcm-globe-cricket-relay-central.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-bfcm-globe-cricket-relay-east.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+bfcm-globe-cricket-relay-east.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
 bfcm-globe-cricket-stg-sim.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
-bfcm-globe-monorail-central.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+bfcm-globe-monorail-central.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 bfcm-globe-monorail-east.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
 bfcm-globe-products-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
 bfcm-globe-sim-central.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -44,6 +48,7 @@ conductor-staging.k8s-exp.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.
 conductor-staging.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 conductor.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 core-engage-forms-central-stg.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+courier-audit-events-feeder-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 customer-email-events-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 customer-event-sessions-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 customer-events-backfill-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -77,6 +82,7 @@ hue.starscream.starscream-canada.yarn.shopifykloud.com AS396982 AS396982 - GOOGL
 hue.yarn-adhoc.starscream-adhoc.yarn.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 35.220.0.0/14
 hue.yarn-production.starscream.yarn.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.0.0/15
 identity-graph-matrix-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+identity-graph-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 inbox-analytics-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 inventory-analytics-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 jason-test-tmp.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
@@ -84,10 +90,10 @@ marketing-event-sales-production.flink.shopifykloud.com AS396982 AS396982 - GOOG
 marketing-event-sales-staging-red.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 marketing-event-sales-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 megan-test-tmp.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
-metadata-a.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
-metadata-b.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
+metadata-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
+metadata-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 metadata-play-tmp.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
-metadata-staging.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
+metadata-staging.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 metadata-transformer-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 monorail-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 monorail-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
@@ -111,8 +117,8 @@ presto-adhoc.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-exp-load-a.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 presto-exp-load-b.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 presto-exp-load.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
-presto-exper-a.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
-presto-exper-b.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
+presto-exper-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
+presto-exper-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-for-datachi.presto.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-gateway-testing.k8s-exp.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 presto-gateway.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
@@ -123,8 +129,8 @@ presto-kb.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE L
 presto-logging.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 presto-production-adhoc-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-production-adhoc-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
-presto-production-exper-a.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
-presto-production-exper-b.shopify-data-presto-global.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
+presto-production-exper-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
+presto-production-exper-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-production-monorail-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-production-monorail-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 presto-production-scheduled-a.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
@@ -155,6 +161,7 @@ presto.shopify-data-starscream-qa.shopifykloud.com AS15169 AS15169 - GOOGLE LLC 
 production.notebooks.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.64.0.0/14
 refinery-presto-shared.data-acq.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 russ-sp-reconciliation-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 scripts-pipeline-failure-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 scripts-pipeline-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 scrubbed-customer-info-staging.flink.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
@@ -207,8 +214,9 @@ vpnify.shopify-data-cloud-infra.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US
 vpnify.shopify-data-yap-experiment.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 104.154.32.0/19
 vpnify.shopify-data-yap-experiment.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.135.0.0/16
 vpnify.starscream-adhoc-canada.yarn.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.96.0/20
+vpnify.starscream-adhoc.yarn.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 35.192.0.0/14
 vpnify.starscream-canada.yarn.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.64.0/20
-vpnify.starscream-qa.yarn.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 35.192.0.0/14
+vpnify.starscream-qa.yarn.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.0.0/15
 vpnify.starscream.yarn.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.132.0.0/16
 vpnify.streamify-216112.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 web.canada.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.48.0/20

@@ -2289,6 +2289,7 @@ fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com
 fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com
 fortnite-public-service-brawler-prod.ol.epicgames.com
 fortnite-public-service-bubbles-prod.ol.epicgames.com
+fortnite-public-service-buckler-prod.ol.epicgames.com
 fortnite-public-service-burnout-prod.ol.epicgames.com
 fortnite-public-service-carbon-prod.ol.epicgames.com
 fortnite-public-service-certstageb-stage.ol.epicgames.com
@@ -2895,6 +2896,8 @@ tools.dev-usw2s.dev.qstv.on.epicgames.com
 tools.edge-euc1a.edge.qstv.on.epicgames.com
 tools.lt-use1a.lt.qstv.on.epicgames.com
 tools.lt-use1b.lt.qstv.on.epicgames.com
+tools.prod-euc1a.qstv.on.epicgames.com
+tools.prod-usw2a.qstv.on.epicgames.com
 tools.stage-usw2b.stage.qstv.on.epicgames.com
 tp.epicgames.com
 tracking.epicgames-stage.ol.epicgames.com

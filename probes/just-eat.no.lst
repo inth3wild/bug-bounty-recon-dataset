@@ -13,6 +13,7 @@ https://subfolder-proxy-deals.just-eat.no [404] [GET] [text/html] [] [cloudflare
 https://subfolder-proxy-drivers.just-eat.no [302] [GET] [text/html] [Redirecting to /admin] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [76e0c4efc705567cde94cc04db4fc0d4]
 https://subfolder-proxy-foodwiki.just-eat.no [404] [GET] [text/html] [404 Not Found] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [370e16c3b7dba286cff055f93b9a94d8]
 https://subfolder-proxy-foodwiki.just-eat.no [404] [GET] [text/html] [404 Not Found] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8eec510e57f5f732fd2cce73df7b73ef]
+https://tags.just-eat.no [404] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9e076f5885f5cc16a4b5aeb8de4adff5]
 https://test-shop.just-eat.no [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://www.just-eat.no [503] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [80755c8753ed14c8e9f3650547b8489e]
 https://www.just-eat.no [503] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [9b5eb63068bb4aaf849e7b32d17ad5ef]

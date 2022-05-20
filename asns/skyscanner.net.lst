@@ -19,7 +19,7 @@ carhirehelp.skyscanner.net AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 clicks.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
 clicks.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 cn.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 76.223.16.0/20
-conditions.travel.skyscanner.net AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+conditions.travel.skyscanner.net AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.145.0/24
 dk.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.248.144.0/20
 e.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
 enterpriseenrollment.skyscanner.net AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
@@ -74,6 +74,7 @@ ro.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.248.144.0/20
 schedule-change.travel.skyscanner.net AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.208.0/20
 se.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 76.223.16.0/20
 secure-pay.travel.skyscanner.net AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.208.0/20
+secure.skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.248.144.0/20
 securepay.skyscanner.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.199.192.0/20
 sip.skyscanner.net AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
 skyscanner.net AS16509 AS16509 - AMAZON.COM, INC. US 13.248.155.0/24

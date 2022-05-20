@@ -1,5 +1,8 @@
 http://cf-registry-production.nr-ops.net
 http://cloudflare-test2.nr-ops.net
+http://cloudflare-test2.nr-ops.net:2083
+http://cloudflare-test2.nr-ops.net:2087
+http://cloudflare-test2.nr-ops.net:8443
 http://ingest-route-test.nr-ops.net
 http://service.awsdev.nr-ops.net
 http://staging-service.awsdev.nr-ops.net

@@ -6,7 +6,7 @@ https://Sin-hdx.paypalcorp.com [302] [GET] [text/html] [] [] [c623cadfa4ef39072c
 https://awseg.paypalcorp.com [200] [GET] [text/html] [IIS Windows Server] [] [2df5f028ed53b80feed29a1bb7699320]
 https://awsegdev.paypalcorp.com:8443 [404] [GET] [text/html] [HTTP Status 404 – Not Found] [] [875927332f52c86065894ba05cabb6c4]
 https://azure-eu-hdx.paypalcorp.com [302] [GET] [text/html] [] [] [azure] [c623cadfa4ef39072c9cdae568133022]
-https://azure-eu-ogr.paypalcorp.com [302] [GET] [text/html] [] [] [azure] [c623cadfa4ef39072c9cdae568133022]
+https://azure-eu-ogr.paypalcorp.com [302] [GET] [text/html] [] [] [c623cadfa4ef39072c9cdae568133022]
 https://bom.paypalcorp.com [200] [GET] [text/html] [Support Portal] [Apache] [Apache] [adf7fd5a0c72e31e906ace99cdeeecc6]
 https://bridge.paypalcorp.com [302] [GET] [text/plain] [] [] [vhost] [0b7f2a5c390c3e89565b9eae391ad462]
 https://bridgeazure.paypalcorp.com [200] [GET] [text/html] [Your Azure Function App is up and running.] [] [vhost] [azure] [e1454fa4ae7e129a0cdba70191b71fe2]

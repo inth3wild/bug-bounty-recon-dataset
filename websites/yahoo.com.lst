@@ -114,6 +114,8 @@ http://barcelona.research.yahoo.com
 http://beacon.fantasysports.yahoo.com
 http://beacon.staging.yahoo.com
 http://beap-bc.yahoo.com
+http://beap.adss.yahoo.com
+http://beap.gemini.yahoo.com
 http://beauty.yahoo.com
 http://beta-about.yahoo.com
 http://beta-accessibility.yahoo.com
@@ -843,6 +845,8 @@ http://io.gemini.yahoo.com
 http://iostage.help.yahoo.com
 http://ipr.yahoo.com
 http://iris.yahoo.com
+http://isotope-ingest.search.yahoo.com
+http://isotope.search.yahoo.com
 http://isp.yahoo.com
 http://it.cars.yahoo.com
 http://jill.fc.yahoo.com
@@ -1384,6 +1388,7 @@ https://ads.martech.yahoo.com
 https://ads.yahoo.com
 https://ads.yap.yahoo.com
 https://adspecs.yahoo.com
+https://adss.yahoo.com
 https://adtester.yahoo.com
 https://aem.ec.yahoo.com
 https://ajax.maps.yahoo.com
@@ -1493,6 +1498,8 @@ https://bcn.fp.yahoo.com
 https://beacon.fantasysports.yahoo.com
 https://beacon.staging.yahoo.com
 https://beap-bc.yahoo.com
+https://beap.adss.yahoo.com
+https://beap.gemini.yahoo.com
 https://beauty.yahoo.com
 https://beta-about.yahoo.com
 https://beta-accessibility.yahoo.com
@@ -1607,6 +1614,7 @@ https://deals.yahoo.com
 https://delivery.o2.yahoo.com
 https://delivery.stage.o2.yahoo.com
 https://demo.insight.yahoo.com
+https://demo.payments.yahoo.com
 https://demoapp.omp.yahoo.com
 https://demoapp.omp.yahoo.com:8443
 https://dev-ads.amp.commerce.yahoo.com
@@ -2303,6 +2311,8 @@ https://io.gemini.yahoo.com
 https://iostage.help.yahoo.com
 https://ipr.yahoo.com
 https://iris.yahoo.com
+https://isotope-ingest.search.yahoo.com
+https://isotope.search.yahoo.com
 https://isp.yahoo.com
 https://it.cars.yahoo.com
 https://jill.fc.yahoo.com

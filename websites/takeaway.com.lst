@@ -12,8 +12,10 @@ http://api-lieferando-de-stage.takeaway.com
 http://assets.takeaway.com
 http://avt.out.takeaway.com
 http://befr-shop.takeaway.com
+http://befr-shop.takeaway.com:8880
 http://befr-shop.takeaway.com:8888
 http://benl-shop.takeaway.com
+http://benl-shop.takeaway.com:8880
 http://benl-shop.takeaway.com:8888
 http://beta-befr-shop.takeaway.com
 http://beta-befr-shop.takeaway.com:8888
@@ -93,6 +95,7 @@ http://login.takeaway.com
 http://loyaltyshop.takeaway.com
 http://lp-api.takeaway.com
 http://lu-shop.takeaway.com
+http://lu-shop.takeaway.com:8880
 http://lu-shop.takeaway.com:8888
 http://m.takeaway.com
 http://minisites.takeaway.com
@@ -112,6 +115,7 @@ http://posapi.takeaway.com
 http://prdibyv.out.takeaway.com
 http://prod-auth.takeaway.com
 http://pt-shop.takeaway.com
+http://pt-shop.takeaway.com:8880
 http://pt-shop.takeaway.com:8888
 http://pull-posapi-je-fr.takeaway.com
 http://restaurant-portal-api.takeaway.com
@@ -133,6 +137,7 @@ http://static-staging.takeaway.com
 http://static.takeaway.com
 http://subfolder-proxy-partnerblog.takeaway.com
 http://support.takeaway.com
+http://tags.takeaway.com
 http://takeaway.com
 http://takeaway.out.takeaway.com
 http://tcapp.takeaway.com
@@ -171,6 +176,7 @@ https://acc-paynotif.api.takeaway.com
 https://acc-shop.takeaway.com
 https://acc-tms.api.takeaway.com
 https://acc-vendor.api.takeaway.com
+https://acc-web2lead.api.takeaway.com
 https://apache-redirects.takeaway.com
 https://api-lieferando-de-stage.takeaway.com
 https://assets.takeaway.com
@@ -263,6 +269,7 @@ https://prod-ordering.api.takeaway.com
 https://prod-paynotif.api.takeaway.com
 https://prod-tms.api.takeaway.com
 https://prod-vendor.api.takeaway.com
+https://prod-web2lead.api.takeaway.com
 https://pt-shop.takeaway.com
 https://pt-shop.takeaway.com:8443
 https://pull-posapi-je-fr.takeaway.com
@@ -286,6 +293,7 @@ https://static-staging.takeaway.com
 https://static.takeaway.com
 https://subfolder-proxy-partnerblog.takeaway.com
 https://support.takeaway.com
+https://tags.takeaway.com
 https://takeaway.com
 https://tcapp.takeaway.com
 https://tealium.takeaway.com

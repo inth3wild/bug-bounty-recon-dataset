@@ -120,6 +120,7 @@ agents-godaddy-cloud.acronis.com
 agents-gr01-cloud.acronis.com
 agents-il01-cloud-cloud.acronis.com
 agents-il01-cloud.acronis.com
+agents-in01-cloud.acronis.com
 agents-io99-cloud.acronis.com
 agents-jp-cloud.acronis.com
 agents-jp03-cloud.acronis.com
@@ -132,6 +133,7 @@ agents-mc-heg-baas.acronis.com
 agents-mc-io99-cloud.acronis.com
 agents-mc-kaseya-cloud.acronis.com
 agents-mc-summit02-cloud.acronis.com
+agents-ng01-cloud.acronis.com
 agents-nz01-cloud.acronis.com
 agents-pl01-cloud.acronis.com
 agents-pt01-cloud.acronis.com
@@ -266,10 +268,13 @@ beta-baas.acronis.com
 beta-cloud.acronis.com
 beta-forum.acronis.com
 beta-report.acronis.com
+beta-s3gw.acronis.com
 beta-web-api.acronis.com
 beta1-baas.acronis.com
 beta1-cloud.acronis.com
 beta2-cloud.acronis.com
+bg-ex-1.corp.acronis.com
+bg-ex-2.corp.acronis.com
 bg-qa-officeonline.acronis.com
 bg-vpn.acronis.com
 bg-vpn2.acronis.com
@@ -279,6 +284,8 @@ bjs1-repo.acronis.com
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blog.acronis.com
+bom1-repo.acronis.com
+bom1-s3gw.acronis.com
 boston.acronis.com
 box.jp-pp.acronis.com
 br.acronis.com
@@ -419,6 +426,7 @@ cloud-wr-eu8.acronis.com
 cloud-wr-gr01.acronis.com
 cloud-wr-il01-cloud.acronis.com
 cloud-wr-il01.acronis.com
+cloud-wr-in01.acronis.com
 cloud-wr-io99.acronis.com
 cloud-wr-jp03.acronis.com
 cloud-wr-jp1.acronis.com
@@ -426,6 +434,7 @@ cloud-wr-jp2.acronis.com
 cloud-wr-kr01.acronis.com
 cloud-wr-li01.acronis.com
 cloud-wr-lv01.acronis.com
+cloud-wr-ng01.acronis.com
 cloud-wr-nz01.acronis.com
 cloud-wr-pl01.acronis.com
 cloud-wr-pt01.acronis.com
@@ -791,6 +800,7 @@ legacy.ru.corp.acronis.com
 legacy.us.corp.acronis.com
 legal.jp-pp.acronis.com
 lh10.acronis.com
+lhr3-s3gw.acronis.com
 li01-cloud.acronis.com
 lis1-repo.acronis.com
 lis1-s3gw.acronis.com
@@ -1340,6 +1350,7 @@ us1.download.acronis.com
 us12-cloud.acronis.com
 us2-baas.acronis.com
 us2-bc-baas.acronis.com
+us2-s3gw.acronis.com
 us2-wr-baas.acronis.com
 us2.download.acronis.com
 us4-baas.acronis.com
@@ -1450,6 +1461,7 @@ www.at01-cloud.acronis.com
 www.au-vpn.acronis.com
 www.auth.acronis.com
 www.axtest.acronis.com
+www.beta-s3gw.acronis.com
 www.bg-vpn.acronis.com
 www.bg-vpn2.acronis.com
 www.bg01-cloud.acronis.com
@@ -1534,6 +1546,7 @@ www.kaseya-tap-asd3.acronis.com
 www.kb.acronis.com
 www.kr01-cloud.acronis.com
 www.lazytools.corp.acronis.com
+www.lhr3-s3gw.acronis.com
 www.li01-cloud.acronis.com
 www.lms.acronis.com
 www.login.acronis.com
@@ -1610,6 +1623,7 @@ www.us-ma-vpn2.acronis.com
 www.us-rnd-grafana.corp.acronis.com
 www.us-ts.acronis.com
 www.us12-cloud.acronis.com
+www.us2-s3gw.acronis.com
 www.vcda.acronis.com
 www.webteam-grafana.corp.acronis.com
 www.webteam-zbx.corp.acronis.com

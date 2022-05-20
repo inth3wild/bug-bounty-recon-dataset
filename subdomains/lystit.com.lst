@@ -38,6 +38,7 @@ cloudflare.eks-1-22-test.srv.lystit.com
 cloudflare.eks-1-22.srv.lystit.com
 cloudflare.eks-ci.srv.lystit.com
 cloudflare.eks-gha.srv.lystit.com
+cloudflare.eks-keda.srv.lystit.com
 cloudflare.eks-tktest.srv.lystit.com
 cloudflare.eks-tools-1-19.srv.lystit.com
 cms.lystit.com
@@ -54,6 +55,7 @@ data-dictionary.lystit.com
 dbt-docs.lystit.com
 designer-moderation.lystit.com
 dex-test.srv.lystit.com
+dex.lystit.com
 docs.lystit.com
 dogs.lystit.com
 drome.lystit.com
@@ -73,6 +75,7 @@ eks-20200522.srv.lystit.com
 eks-ci.srv.lystit.com
 eks-circle-1-18.srv.lystit.com
 eks-gha.srv.lystit.com
+eks-keda.srv.lystit.com
 eks-tktest.srv.lystit.com
 eks-tools-1-18.srv.lystit.com
 eks-tools-1-19.srv.lystit.com
@@ -94,6 +97,7 @@ intalb.eks-1-22-test.srv.lystit.com
 intalb.eks-1-22.srv.lystit.com
 intalb.eks-ci.srv.lystit.com
 intalb.eks-gha.srv.lystit.com
+intalb.eks-keda.srv.lystit.com
 intalb.eks-tktest.srv.lystit.com
 intalb.eks-tools-1-19.srv.lystit.com
 intelb.eks-1-19.srv.lystit.com
@@ -104,6 +108,7 @@ intelb.eks-1-22-test.srv.lystit.com
 intelb.eks-1-22.srv.lystit.com
 intelb.eks-ci.srv.lystit.com
 intelb.eks-gha.srv.lystit.com
+intelb.eks-keda.srv.lystit.com
 intelb.eks-tktest.srv.lystit.com
 intelb.eks-tools-1-19.srv.lystit.com
 internal.eks-1-18.srv.lystit.com
@@ -116,6 +121,7 @@ internal.eks-1-22.srv.lystit.com
 internal.eks-ci.srv.lystit.com
 internal.eks-circle-1-18.srv.lystit.com
 internal.eks-gha.srv.lystit.com
+internal.eks-keda.srv.lystit.com
 internal.eks-tktest.srv.lystit.com
 internal.eks-tools-1-18.srv.lystit.com
 internal.eks-tools-1-19.srv.lystit.com
@@ -127,6 +133,7 @@ intnlb.eks-1-22-test.srv.lystit.com
 intnlb.eks-1-22.srv.lystit.com
 intnlb.eks-ci.srv.lystit.com
 intnlb.eks-gha.srv.lystit.com
+intnlb.eks-keda.srv.lystit.com
 intnlb.eks-tktest.srv.lystit.com
 intnlb.eks-tools-1-19.srv.lystit.com
 istio-eks.srv.lystit.com
@@ -172,6 +179,7 @@ public.eks-1-22.srv.lystit.com
 public.eks-ci.srv.lystit.com
 public.eks-circle-1-18.srv.lystit.com
 public.eks-gha.srv.lystit.com
+public.eks-keda.srv.lystit.com
 public.eks-tktest.srv.lystit.com
 public.eks-tools-1-18.srv.lystit.com
 public.eks-tools-1-19.srv.lystit.com
@@ -189,6 +197,7 @@ restricted-public.eks-1-22.srv.lystit.com
 restricted-public.eks-ci.srv.lystit.com
 restricted-public.eks-circle-1-18.srv.lystit.com
 restricted-public.eks-gha.srv.lystit.com
+restricted-public.eks-keda.srv.lystit.com
 restricted-public.eks-tktest.srv.lystit.com
 restricted-public.eks-tools-1-18.srv.lystit.com
 restricted-public.eks-tools-1-19.srv.lystit.com
@@ -202,6 +211,7 @@ rpubelb.eks-1-22-test.srv.lystit.com
 rpubelb.eks-1-22.srv.lystit.com
 rpubelb.eks-ci.srv.lystit.com
 rpubelb.eks-gha.srv.lystit.com
+rpubelb.eks-keda.srv.lystit.com
 rpubelb.eks-tktest.srv.lystit.com
 rpubelb.eks-tools-1-19.srv.lystit.com
 saka.lystit.com

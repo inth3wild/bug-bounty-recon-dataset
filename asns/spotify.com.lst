@@ -3,7 +3,7 @@ canary-certificate-for-noop.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0
 canvas.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 community-stage.spotify.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
 developer.spotify.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
-download.spotify.com AS54113 AS54113 - FASTLY US 151.101.40.0/22
+download.spotify.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
 dynamicworkplace4wtc.spotify.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 feedback.spotify.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.108.0.0/15
 hrblog.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24

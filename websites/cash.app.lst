@@ -20,6 +20,10 @@ http://code.cash.app
 http://collector.usc1.taxes.cash.app
 http://collector.usc1.taxes.cash.app:8080
 http://developers.cash.app
+http://developers.cash.app:2082
+http://developers.cash.app:2086
+http://developers.cash.app:8080
+http://developers.cash.app:8880
 http://email.taxes-notifications.cash.app
 http://email.taxes1-notifications.cash.app
 http://email.taxes2-notifications.cash.app
@@ -64,6 +68,9 @@ https://cash.app
 https://click.cash.app
 https://code.cash.app
 https://developers.cash.app
+https://developers.cash.app:2083
+https://developers.cash.app:2087
+https://developers.cash.app:8443
 https://email.taxes-notifications.cash.app
 https://email.taxes1-notifications.cash.app
 https://email.taxes2-notifications.cash.app

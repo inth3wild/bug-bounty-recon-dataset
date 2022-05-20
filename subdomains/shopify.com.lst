@@ -7156,6 +7156,8 @@ genome.shopify.com
 geo.shopify.com
 geography.shopify.com
 geoip.shopify.com
+geolocation-proxy-staging.shopify.com
+geolocation-recommendations-staging.shopify.com
 geology.shopify.com
 geonetwork.shopify.com
 geoportal.shopify.com
@@ -16695,6 +16697,7 @@ skywalker.shopify.com
 sl.shopify.com
 sl1.shopify.com
 sl2.shopify.com
+sl3.shopify.com
 sla.shopify.com
 slapshot.shopify.com
 slash.shopify.com

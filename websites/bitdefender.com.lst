@@ -105,6 +105,12 @@ http://msp.bitdefender.com
 http://my.bitdefender.com
 http://myaccount.bitdefender.com
 http://new.bitdefender.com
+http://new.bitdefender.com:2052
+http://new.bitdefender.com:2082
+http://new.bitdefender.com:2086
+http://new.bitdefender.com:2095
+http://new.bitdefender.com:8080
+http://new.bitdefender.com:8880
 http://nmr.bitdefender.com
 http://nmr.bitdefender.com:2053
 http://nmr.bitdefender.com:2083
@@ -391,6 +397,10 @@ https://msp.bitdefender.com
 https://my.bitdefender.com
 https://myaccount.bitdefender.com
 https://new.bitdefender.com
+https://new.bitdefender.com:2053
+https://new.bitdefender.com:2083
+https://new.bitdefender.com:2087
+https://new.bitdefender.com:8443
 https://nmr.bitdefender.com
 https://notification.bitdefender.com
 https://oem-login.bitdefender.com

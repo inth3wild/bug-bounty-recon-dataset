@@ -1,5 +1,3 @@
-http://info.techcrunch.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
-http://mailing.techcrunch.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
 https://api.login.techcrunch.com [404] [GET] [text/html] [Error 404 Not Found] [ATS] [vhost] [Apache Traffic Server] [2aa038a12be9906209b9750494ef3ea2]
 https://api.login.techcrunch.com [404] [GET] [text/html] [Error 404 Not Found] [ATS] [vhost] [Apache Traffic Server] [932be627ce8266c18f19e3e1a13d3b7c]
 https://apply.techcrunch.com [301] [GET] [text/html] [Document Has Moved] [ATS] [vhost] [Apache Traffic Server] [de7a80861dd961c3ebc3ad8f321b160f]

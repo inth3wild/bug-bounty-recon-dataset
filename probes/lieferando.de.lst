@@ -47,6 +47,7 @@ https://restaurants.lieferando.de [200] [GET] [text/html] [] [cloudflare] [vhost
 https://shop.lieferando.de [303] [GET] [] [] [nginx/1.21.2] [vhost] [incapsula] [Amazon ALB,Amazon Web Services,Imperva,Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://static.lieferando.de [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [c20e9cecf288e75e0e451ad94d3cb0fb]
 https://static.lieferando.de [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [f82b7cfbcd9e4203ca777f91326b9e16]
+https://tags.lieferando.de [404] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9e076f5885f5cc16a4b5aeb8de4adff5]
 https://test-shop.lieferando.de [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://test.shop.lieferando.de [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4b074b0b59693fa9f94fb71b175fb187]
 https://test.shop.lieferando.de [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [9fe3cb2b7313dc79bb477bc8fde184a7]

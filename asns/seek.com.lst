@@ -76,10 +76,10 @@ manage.developer.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 manage.developer.staging.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 nov-staff.service.dev.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 origin.ap-southeast-1.development.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.214.0.0/15
-origin.ap-southeast-1.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.251.192.0/18
+origin.ap-southeast-1.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.255.0.0/17
 origin.ap-southeast-1.test.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 18.142.0.0/15
 origin.ap-southeast-2.development.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.253.0.0/17
-origin.ap-southeast-2.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
+origin.ap-southeast-2.production.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 3.24.0.0/14
 origin.ap-southeast-2.sandbox.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
 origin.ap-southeast-2.test.external.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.79.128.0/17
 origin.sg-dev.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.169.0.0/17

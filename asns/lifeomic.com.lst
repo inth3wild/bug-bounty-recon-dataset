@@ -188,6 +188,8 @@ exchange.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13
 exchange.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 exp.apps.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 fhir.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+flowbot-docs.dev.lifeomic.com AS54113 AS54113 - FASTLY US 185.199.108.0/24
+flowbot-live-editor.dev.lifeomic.com AS54113 AS54113 - FASTLY US 185.199.110.0/24
 flowbot.dev.lifeomic.com AS14618 AS14618 - AMAZON.COM, INC. US 50.16.0.0/16
 forum.apps.wellness.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 forum.lifeology.dev.lifeomic.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22

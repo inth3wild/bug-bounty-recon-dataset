@@ -53,6 +53,7 @@
 -1132923558	ok-status	https://org-admin-web-staging.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web.shopifycloud.com/
 0	zero byte favicon	http://app-activity-integration.shopifycloud.com/
+0	zero byte favicon	http://app-m2m-test-prod.shopifycloud.com/
 0	zero byte favicon	http://apple-business-chat-commerce-staging.shopifycloud.com/
 0	zero byte favicon	http://apple-business-chat-commerce.shopifycloud.com/
 0	zero byte favicon	http://arrive-server.shopifycloud.com/
@@ -74,6 +75,7 @@
 0	zero byte favicon	http://business-platform.shopifycloud.com/
 0	zero byte favicon	http://buy-button-staging.shopifycloud.com/
 0	zero byte favicon	http://buy-button.shopifycloud.com/
+0	zero byte favicon	http://channel-m2m-test-prod.shopifycloud.com/
 0	zero byte favicon	http://cla.shopifycloud.com/
 0	zero byte favicon	http://cluster-registry.shopifycloud.com/
 0	zero byte favicon	http://clusters-staging.shopifycloud.com/
@@ -212,6 +214,7 @@
 0	zero byte favicon	http://wholesale-staging.shopifycloud.com/
 0	zero byte favicon	http://wholesale.shopifycloud.com/
 0	zero byte favicon	https://app-activity-integration.shopifycloud.com/
+0	zero byte favicon	https://app-m2m-test-prod.shopifycloud.com/
 0	zero byte favicon	https://apple-business-chat-commerce-staging.shopifycloud.com/
 0	zero byte favicon	https://apple-business-chat-commerce.shopifycloud.com/
 0	zero byte favicon	https://arrive-server.shopifycloud.com/
@@ -233,6 +236,7 @@
 0	zero byte favicon	https://business-platform.shopifycloud.com/
 0	zero byte favicon	https://buy-button-staging.shopifycloud.com/
 0	zero byte favicon	https://buy-button.shopifycloud.com/
+0	zero byte favicon	https://channel-m2m-test-prod.shopifycloud.com/
 0	zero byte favicon	https://cla.shopifycloud.com/
 0	zero byte favicon	https://cluster-registry.shopifycloud.com/
 0	zero byte favicon	https://clusters-staging.shopifycloud.com/
@@ -430,6 +434,7 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app-activity-integration.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app-m2m-test-prod.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apple-business-chat-commerce-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apple-business-chat-commerce.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://arrive-server.shopifycloud.com/
@@ -451,6 +456,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://brochure2.shopifycloud
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://business-platform.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://buy-button-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://buy-button.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://channel-m2m-test-prod.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://cla.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://cluster-registry.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://clusters-staging.shopifycloud.com/
@@ -589,6 +595,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wholesale-staging-ingr
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wholesale-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wholesale.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app-activity-integration.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app-m2m-test-prod.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://apple-business-chat-commerce-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://apple-business-chat-commerce.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://arrive-server.shopifycloud.com/
@@ -610,6 +617,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://brochure2.shopifyclou
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://business-platform.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://buy-button-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://buy-button.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://channel-m2m-test-prod.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cla.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cluster-registry.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://clusters-staging.shopifycloud.com/

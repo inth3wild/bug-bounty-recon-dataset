@@ -18,6 +18,7 @@ akamai.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 analytics.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 api.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 api.fs.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+api.new.livestream.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
 app.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 assets.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 auth.donations.livestream.com AS54113 AS54113 - FASTLY US 151.101.208.0/22

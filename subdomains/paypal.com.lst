@@ -1158,7 +1158,11 @@ appseclvs06.qa.paypal.com
 appworx-vip.slc.paypal.com
 aqefs1va81vg6jrk.stats.paypal.com
 aqi11pm5s33nxkky.stats.paypal.com
+argo-app.dev.invest.paypal.com
+argo-artifacts.dev.invest.paypal.com
+argo-proxy.dev.invest.paypal.com
 argo-ti.qa.paypal.com
+argo-workflows.dev.invest.paypal.com
 arkose.paypal.com
 asdfgh.paypal.com
 assets.staging.givealittle.co.nz080.stage.paypal.com
@@ -1698,6 +1702,7 @@ etleng04.qa.paypal.com
 etlsh8h5hk4sq5qu.stats.paypal.com
 evelynn.stage2d0067.c.containerstage.paypal.com
 eventapi.paypal.com
+evergreen-test.qa.paypal.com
 evergreen.qa.paypal.com
 f0c6nnej7uoqpa7s.stats.paypal.com
 f1w9zolug8pts419.stats.paypal.com
@@ -5394,6 +5399,10 @@ te-alm-44525712104522943068089.qa.paypal.com
 te-billpaydash.qa.paypal.com
 te-dsrintakeui.paypal.com
 te-dsrinternalui.paypal.com
+te-evergreenepm.qa.paypal.com
+te-evergreenexecutor.qa.paypal.com
+te-evergreengreenbox.qa.paypal.com
+te-evergreenupm.qa.paypal.com
 te-federated-xoom.qa.paypal.com
 te-federated.qa.paypal.com
 te-firefly-uat.qa.paypal.com

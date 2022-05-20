@@ -2,7 +2,6 @@ https://enterpriseenrollment.klubcinema.fr [302] [GET] [] [] [Microsoft-IIS/10.0
 https://klubcinema.fr [200] [GET] [text/html] [Tous les films | Klub Cinema] [] [vhost] [Drupal,Google Tag Manager,OWL Carousel,PHP,jQuery] [35d194c908aaad1171f33a6a9607df1d]
 https://klubcinema.fr [200] [GET] [text/html] [Tous les films | Klub Cinema] [] [vhost] [Drupal,Google Tag Manager,OWL Carousel,PHP,jQuery] [e974894c969b6725d57a6f04fd6688ad]
 https://sip.klubcinema.fr [404] [GET] [text/plain] [] [RTC/7.0] [27eb7ea575c44e6e5b8ab26650575c21]
-https://tickets.klubcinema.fr [403] [GET] [text/html] [Access Denied] [] [vhost] [06480494f95bcaba0760e5926c277c18]
-https://tickets.klubcinema.fr [403] [GET] [text/html] [Access Denied] [] [vhost] [1eaedb3b4218a9f1820f25df1ed8fbfe]
+https://tickets.klubcinema.fr [403] [GET] [text/html] [Access Denied] [] [vhost] [df82232288b620e716ad6449cbc1bc5c]
 https://www.klubcinema.fr [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [471e7d2d67480e0689b431e7b6d5d63a]
 https://www.klubcinema.fr [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [5c58033e5cc5f29960397a1614c03aac]

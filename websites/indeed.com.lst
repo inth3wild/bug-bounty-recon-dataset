@@ -91,6 +91,14 @@ http://cz.indeed.com
 http://de.conv.indeed.com
 http://de.indeed.com
 http://demo.indeed.com
+http://dev-null.indeed.com
+http://dev-null.indeed.com:2082
+http://dev-null.indeed.com:2083
+http://dev-null.indeed.com:2086
+http://dev-null.indeed.com:2087
+http://dev-null.indeed.com:8080
+http://dev-null.indeed.com:8443
+http://dev-null.indeed.com:8880
 http://directapply.indeed.com
 http://dk.conv.indeed.com
 http://dk.indeed.com
@@ -118,6 +126,7 @@ http://employers-rezsearch.indeed.com
 http://employers.dyn.indeed.com
 http://encserv.indeed.com
 http://endorse.indeed.com
+http://engage.indeed.com
 http://engineering.indeed.com
 http://es.conv.indeed.com
 http://es.indeed.com
@@ -482,6 +491,7 @@ https://cz.indeed.com
 https://de.conv.indeed.com
 https://de.indeed.com
 https://demo.indeed.com
+https://dev-null.indeed.com
 https://directapply.indeed.com
 https://dk.conv.indeed.com
 https://dk.indeed.com
@@ -510,6 +520,7 @@ https://employers-rezsearch.indeed.com
 https://employers.dyn.indeed.com
 https://encserv.indeed.com
 https://endorse.indeed.com
+https://engage.indeed.com
 https://engineering.indeed.com
 https://es.conv.indeed.com
 https://es.indeed.com
@@ -693,6 +704,7 @@ https://ru.indeed.com
 https://sa.conv.indeed.com
 https://sa.indeed.com
 https://saiyo.indeed.com
+https://salesjobs.indeed.com
 https://sam.dyn.indeed.com
 https://screener-questions.dyn.indeed.com
 https://screener-questions.indeed.com

@@ -4,6 +4,7 @@ api-global.iad1.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 api-global.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 api.iad1.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 api.sjc1.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+api.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 app.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
 blog.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 broadway.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.186.0/24
@@ -36,6 +37,7 @@ nat.st.sjc1.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
 non-disclosure.corp.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 ocr-connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
 origin-careers.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+pci-connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 privacy.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
 profile.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
 regulator.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24

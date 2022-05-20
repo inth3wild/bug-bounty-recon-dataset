@@ -46,6 +46,8 @@ billing-events.subscription.grammarlyaws.com
 billing-ui.subscription.grammarlyaws.com
 billing.subscription.grammarlyaws.com
 billingdbv4-aurora.subscription.grammarlyaws.com
+bixby-internal.qa-data-ingestion.grammarlyaws.com
+bixby.qa-data-ingestion.grammarlyaws.com
 canary.prod-funnel.acquisition.grammarlyaws.com
 capi-msdk.core-prod.grammarlyaws.com
 capi.core-prod.grammarlyaws.com
@@ -116,10 +118,13 @@ experiment.preprod-experimentation.grammarlyaws.com
 experiment.prod-experimentation.grammarlyaws.com
 experiment.qa-experimentation.grammarlyaws.com
 f-assets.preprod-design-system.grammarlyaws.com
+f-bzl-wrp.preprod-design-system.grammarlyaws.com
+f-chroma.preprod-design-system.grammarlyaws.com
 f-display-counter.preprod-design-system.grammarlyaws.com
 f-dns-really-long-long-lo.preprod-design-system.grammarlyaws.com
 f-java-poc.preprod-design-system.grammarlyaws.com
 f-publish-rt.preprod-design-system.grammarlyaws.com
+f-swift-tokens.preprod-design-system.grammarlyaws.com
 f-tools-sdui.preprod-design-system.grammarlyaws.com
 f5591295eb.preprod-design-system.grammarlyaws.com
 facade.db.acquisition.grammarlyaws.com
@@ -452,7 +457,9 @@ qa-red-zone-proxy.grammarlyaws.com
 qa-redirect-admin.acquisition.grammarlyaws.com
 qa-redirect-internal.acquisition.grammarlyaws.com
 qa-redirect.acquisition.grammarlyaws.com
+qa-scaffolder.sandbox.grammarlyaws.com
 qa-sensei.grammarlyaws.com
+qa-sentinel-es.qa-auth.grammarlyaws.com
 qa-snippets.acquisition.grammarlyaws.com
 qa-snippets.grammarlyaws.com
 qa-speakerly-shared.vpce-prod-nlp-sprawl.core-prod.grammarlyaws.com

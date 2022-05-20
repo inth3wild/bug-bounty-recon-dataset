@@ -128,6 +128,7 @@ asis.sanitycheck.staging.search.usa.gov
 asis.seagull.staging.infr.search.usa.gov
 asis.seagull.staging.search.usa.gov
 asis.search.usa.gov
+asis.snowball.staging.search.usa.gov
 asis.snowflake.staging.infr.search.usa.gov
 asis.snowflake.staging.search.usa.gov
 asis.sparrow1786.staging.search.usa.gov
@@ -301,6 +302,7 @@ i14y.sanitycheck.staging.search.usa.gov
 i14y.seagull.staging.infr.search.usa.gov
 i14y.seagull.staging.search.usa.gov
 i14y.search.usa.gov
+i14y.snowball.staging.search.usa.gov
 i14y.snowflake.staging.infr.search.usa.gov
 i14y.snowflake.staging.search.usa.gov
 i14y.sparrow1786.staging.search.usa.gov
@@ -386,6 +388,7 @@ kibana.sandpiper.staging.search.usa.gov
 kibana.sanitycheck.staging.search.usa.gov
 kibana.seagull.staging.search.usa.gov
 kibana.search.usa.gov
+kibana.snowball.staging.search.usa.gov
 kibana.snowflake.staging.search.usa.gov
 kibana.sparrow1786.staging.search.usa.gov
 kibana.sparrow1844.staging.search.usa.gov
@@ -557,6 +560,7 @@ search.usa.gov
 searchstats.infr.search.usa.gov
 secsearch.sites.infr.search.usa.gov
 sites.infr.search.usa.gov
+snowball.staging.search.usa.gov
 snowflake.staging.infr.search.usa.gov
 snowflake.staging.search.usa.gov
 sparrow1786.staging.search.usa.gov

@@ -15,10 +15,14 @@ http://airflow-airflow-webserver-ingress-airflow-na-ne1-1.canada.airflow.shopify
 http://airflow-airflow-webserver-ingress-airflow-staging-us-central1-1.staging.airflow.shopifykloud.com
 http://amp-developer-docs.flink.shopifykloud.com
 http://amp-grid-next.flink.shopifykloud.com
+http://amp-help-center.flink.shopifykloud.com
 http://amp-inbox.flink.shopifykloud.com
 http://amp-metafields.flink.shopifykloud.com
 http://amp-pos-next.flink.shopifykloud.com
 http://amp-pos-now.flink.shopifykloud.com
+http://amp-privacy-banner.flink.shopifykloud.com
+http://amp-retail-hardware.flink.shopifykloud.com
+http://amp-shop-app-starscream.flink.shopifykloud.com
 http://amp-shop.flink.shopifykloud.com
 http://amp-support.flink.shopifykloud.com
 http://api-druid.k8s-exp.shopifykloud.com
@@ -52,6 +56,7 @@ http://conductor-staging.k8s-exp.shopifykloud.com
 http://conductor-staging.shopify-data-presto-global.shopifykloud.com
 http://conductor.shopify-data-presto-global.shopifykloud.com
 http://core-engage-forms-central-stg.flink.shopifykloud.com
+http://courier-audit-events-feeder-staging.flink.shopifykloud.com
 http://customer-email-events-staging.flink.shopifykloud.com
 http://customer-event-sessions-staging.flink.shopifykloud.com
 http://customer-events-backfill-staging.flink.shopifykloud.com
@@ -94,6 +99,7 @@ http://hue-starscream-qa-hue-starscream-qa-us-central1-2.shopify-data-starscream
 http://hue.shopify-data-starscream-qa.shopifykloud.com
 http://hue.starscream-qa.starscream-qa.yarn.shopifykloud.com
 http://identity-graph-matrix-staging.flink.shopifykloud.com
+http://identity-graph-staging.flink.shopifykloud.com
 http://inbox-analytics-staging.flink.shopifykloud.com
 http://inventory-analytics-staging.flink.shopifykloud.com
 http://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -209,6 +215,7 @@ http://production.notebooks-canada.shopifykloud.com
 http://production.notebooks.shopifykloud.com
 http://refinery-presto-shared.data-acq.shopifykloud.com
 http://russ-sp-reconciliation-staging.flink.shopifykloud.com
+http://sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com
 http://scripts-pipeline-staging.flink.shopifykloud.com
 http://scrubbed-customer-info-staging.flink.shopifykloud.com
 http://seamster-b.shopify-data-presto-global.shopifykloud.com
@@ -305,10 +312,14 @@ https://airflow-airflow-webserver-ingress-airflow-na-ne1-1.canada.airflow.shopif
 https://airflow-airflow-webserver-ingress-airflow-staging-us-central1-1.staging.airflow.shopifykloud.com
 https://amp-developer-docs.flink.shopifykloud.com
 https://amp-grid-next.flink.shopifykloud.com
+https://amp-help-center.flink.shopifykloud.com
 https://amp-inbox.flink.shopifykloud.com
 https://amp-metafields.flink.shopifykloud.com
 https://amp-pos-next.flink.shopifykloud.com
 https://amp-pos-now.flink.shopifykloud.com
+https://amp-privacy-banner.flink.shopifykloud.com
+https://amp-retail-hardware.flink.shopifykloud.com
+https://amp-shop-app-starscream.flink.shopifykloud.com
 https://amp-shop.flink.shopifykloud.com
 https://amp-support.flink.shopifykloud.com
 https://api-druid.k8s-exp.shopifykloud.com
@@ -343,6 +354,7 @@ https://conductor-staging.k8s-exp.shopifykloud.com
 https://conductor-staging.shopify-data-presto-global.shopifykloud.com
 https://conductor.shopify-data-presto-global.shopifykloud.com
 https://core-engage-forms-central-stg.flink.shopifykloud.com
+https://courier-audit-events-feeder-staging.flink.shopifykloud.com
 https://customer-email-events-staging.flink.shopifykloud.com
 https://customer-event-sessions-staging.flink.shopifykloud.com
 https://customer-events-backfill-staging.flink.shopifykloud.com
@@ -399,6 +411,7 @@ https://hue.yarn-adhoc.starscream-adhoc.yarn.shopifykloud.com:8000
 https://hue.yarn-production.starscream.yarn.shopifykloud.com
 https://hue.yarn-production.starscream.yarn.shopifykloud.com:8000
 https://identity-graph-matrix-staging.flink.shopifykloud.com
+https://identity-graph-staging.flink.shopifykloud.com
 https://inbox-analytics-staging.flink.shopifykloud.com
 https://inventory-analytics-staging.flink.shopifykloud.com
 https://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -513,6 +526,7 @@ https://production.notebooks-canada.shopifykloud.com
 https://production.notebooks.shopifykloud.com
 https://refinery-presto-shared.data-acq.shopifykloud.com
 https://russ-sp-reconciliation-staging.flink.shopifykloud.com
+https://sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com
 https://scripts-pipeline-staging.flink.shopifykloud.com
 https://scrubbed-customer-info-staging.flink.shopifykloud.com
 https://seamster-b.shopify-data-presto-global.shopifykloud.com

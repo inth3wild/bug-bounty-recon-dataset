@@ -55,8 +55,10 @@ copps.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 cosentinos-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 cosentinosmarket.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 costco-canada.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+costco-onecart.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 costcobusinesscenter-onecart.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 costcobusinesscenter-onecart.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+costcoca-onecart.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 county-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 cvs.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 dagnyc.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
@@ -150,6 +152,7 @@ harps-food-store.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104
 harrison-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 healthy-planet.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 healthyplanet.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+heinens-onecart.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 hen-house.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 henhouse.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 hmart.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -233,12 +236,16 @@ pcc-community-markets.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. U
 pick-n-save-delivery-now.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 picknsaveconvenience.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 piggly-wiggly.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+plummarket-onecart.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 post.assets.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 prd.cca.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 prd.cus.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 prd.fbz.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 prd.fdl.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 prd.har.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+prd.pch.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+prd.rbr.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+prd.tfm.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 prd.top.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 prd.weg.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 pricechopper.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
@@ -304,6 +311,7 @@ staterbros.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.
 stew-leonards-wine.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stew-leonards-wine.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stew-leonards.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+stewleonards-onecart.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 stop-shop-express.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stop-shop.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stopandshop.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
@@ -367,7 +375,7 @@ warehouse-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104
 wegmans.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 western-beef.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 westernbeef.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
-widgets.instacart.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.0.0/20
+widgets.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 wild-by-nature.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 wildbynature.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 windsor-farms.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

@@ -35,6 +35,10 @@ http://beta.bitmex.com
 http://beta.bitmex.com:8080
 http://bitmex.com
 http://devhk-static.bitmex.com
+http://devhk.bitmex.com
+http://devhk.bitmex.com:2052
+http://devhk.bitmex.com:2086
+http://devhk.bitmex.com:8080
 http://devsf3.bitmex.com
 http://documents.bitmex.com
 http://documents.bitmex.com:8080
@@ -105,6 +109,10 @@ https://beta.bitmex.com:8443
 https://bitmex.com
 https://compliance-fbnotify.prod.services.bitmex.com
 https://devhk-static.bitmex.com
+https://devhk.bitmex.com
+https://devhk.bitmex.com:2083
+https://devhk.bitmex.com:2087
+https://devhk.bitmex.com:8443
 https://devsf3.bitmex.com
 https://documents.bitmex.com
 https://documents.bitmex.com:8443

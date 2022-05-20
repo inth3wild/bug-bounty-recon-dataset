@@ -1,4 +1,8 @@
 -1132923558	ok-status	http://admin.shopify.com/
+-1132923558	ok-status	http://admin.shopify.com:2082/
+-1132923558	ok-status	http://admin.shopify.com:2086/
+-1132923558	ok-status	http://admin.shopify.com:8080/
+-1132923558	ok-status	http://admin.shopify.com:8880/
 -1132923558	ok-status	https://admin.shopify.com/
 0	zero byte favicon	http://acceleration.shopify.com/
 0	zero byte favicon	http://acceleration.shopify.com:2086/
@@ -36,6 +40,15 @@
 0	zero byte favicon	http://fr.shopify.com:2082/
 0	zero byte favicon	http://fr.shopify.com:8080/
 0	zero byte favicon	http://fr.shopify.com:8880/
+0	zero byte favicon	http://geolocation-proxy-staging.shopify.com/
+0	zero byte favicon	http://geolocation-proxy-staging.shopify.com:2086/
+0	zero byte favicon	http://geolocation-proxy-staging.shopify.com:8080/
+0	zero byte favicon	http://geolocation-proxy-staging.shopify.com:8880/
+0	zero byte favicon	http://geolocation-recommendations-staging.shopify.com/
+0	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:2082/
+0	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:2086/
+0	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:8080/
+0	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:8880/
 0	zero byte favicon	http://hatchful.shopify.com/
 0	zero byte favicon	http://hatchful.shopify.com:2082/
 0	zero byte favicon	http://hatchful.shopify.com:8080/
@@ -107,6 +120,8 @@
 0	zero byte favicon	https://es.shopify.com/
 0	zero byte favicon	https://forums.shopify.com/
 0	zero byte favicon	https://fr.shopify.com/
+0	zero byte favicon	https://geolocation-proxy-staging.shopify.com/
+0	zero byte favicon	https://geolocation-recommendations-staging.shopify.com/
 0	zero byte favicon	https://hatchful.shopify.com/
 0	zero byte favicon	https://hi.shopify.com/
 0	zero byte favicon	https://in.shopify.com/
@@ -122,6 +137,7 @@
 0	zero byte favicon	https://shopify.com/
 0	zero byte favicon	https://sl.shopify.com/
 0	zero byte favicon	https://sl2.shopify.com/
+0	zero byte favicon	https://sl3.shopify.com/
 0	zero byte favicon	https://smiley.shopify.com/
 0	zero byte favicon	https://unite2021.shopify.com/
 0	zero byte favicon	https://ww.shopify.com/
@@ -130,6 +146,10 @@
 0	zero byte favicon	https://www.shopify.com/
 0	zero byte favicon	https://zh.shopify.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin.shopify.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin.shopify.com:2082/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin.shopify.com:2086/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin.shopify.com:8080/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin.shopify.com:8880/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://acceleration.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://acceleration.shopify.com:2086/
@@ -167,6 +187,15 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fr.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fr.shopify.com:2082/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fr.shopify.com:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fr.shopify.com:8880/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-proxy-staging.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-proxy-staging.shopify.com:2086/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-proxy-staging.shopify.com:8080/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-proxy-staging.shopify.com:8880/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommendations-staging.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:2082/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:2086/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:8080/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://geolocation-recommendations-staging.shopify.com:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hatchful.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hatchful.shopify.com:2082/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hatchful.shopify.com:8080/
@@ -238,6 +267,8 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://engineering.shopify.c
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://es.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://forums.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fr.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://geolocation-proxy-staging.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://geolocation-recommendations-staging.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hatchful.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hi.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://in.shopify.com/
@@ -253,6 +284,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sessions.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sl.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sl2.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sl3.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://smiley.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://unite2021.shopify.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ww.shopify.com/

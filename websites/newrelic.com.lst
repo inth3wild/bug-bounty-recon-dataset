@@ -274,6 +274,9 @@ http://kayoyon.service.newrelic.com
 http://learn.newrelic.com
 http://legacy-service-2.newrelic.com
 http://legacy-service.newrelic.com
+http://log-api.eu.newrelic.com
+http://log-api.eu.newrelic.com:2086
+http://log-api.eu.newrelic.com:8080
 http://log-api.newrelic.com
 http://log-api.newrelic.com:8080
 http://login-origin.newrelic.com
@@ -743,6 +746,9 @@ https://learn.newrelic.com
 https://legacy-service-2.newrelic.com
 https://legacy-service.newrelic.com
 https://log-api.eu.newrelic.com
+https://log-api.eu.newrelic.com:2083
+https://log-api.eu.newrelic.com:2087
+https://log-api.eu.newrelic.com:8443
 https://log-api.newrelic.com
 https://log-api.newrelic.com:8443
 https://login-origin.newrelic.com

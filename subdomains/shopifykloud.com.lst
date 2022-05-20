@@ -34,6 +34,7 @@ amp-app-store-stg.flink.shopifykloud.com
 amp-developer-docs.flink.shopifykloud.com
 amp-gcsjoin-backfilltest.flink.shopifykloud.com
 amp-grid-next.flink.shopifykloud.com
+amp-help-center.flink.shopifykloud.com
 amp-inbox-stg.flink.shopifykloud.com
 amp-inbox.flink.shopifykloud.com
 amp-metafields-stg.flink.shopifykloud.com
@@ -43,6 +44,9 @@ amp-pos-next.flink.shopifykloud.com
 amp-pos-now-stg.flink.shopifykloud.com
 amp-pos-now.flink.shopifykloud.com
 amp-pos-stg.flink.shopifykloud.com
+amp-privacy-banner.flink.shopifykloud.com
+amp-retail-hardware.flink.shopifykloud.com
+amp-shop-app-starscream.flink.shopifykloud.com
 amp-shop-stg.flink.shopifykloud.com
 amp-shop.flink.shopifykloud.com
 amp-staging-oleg.flink.shopifykloud.com
@@ -186,6 +190,7 @@ console.magnesia-adhoc.shopifykloud.com
 console.magnesia-staging.shopifykloud.com
 console.magnesia.shopifykloud.com
 core-engage-forms-central-stg.flink.shopifykloud.com
+courier-audit-events-feeder-staging.flink.shopifykloud.com
 customer-email-events-staging.flink.shopifykloud.com
 customer-event-sessions-staging.flink.shopifykloud.com
 customer-events-backfill-staging.flink.shopifykloud.com
@@ -637,6 +642,7 @@ rm2.yarn-adhoc.yarn.shopifykloud.com
 rm2.yarn-redirect.yarn.shopifykloud.com
 russ-sp-reconciliation-staging.flink.shopifykloud.com
 sam-hue-test.yarn-test.playground.yarn.shopifykloud.com
+sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com
 saml-oauth.playground.shopifykloud.com
 saml-oauth.shopifykloud.com
 sample-wc.flink.shopifykloud.com

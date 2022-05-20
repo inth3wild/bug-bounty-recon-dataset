@@ -761,6 +761,8 @@ http://cdn.ad.xiaomi.com:9090
 http://cdn.ad.xiaomi.com:9101
 http://cdn.ad.xiaomi.com:9200
 http://cdn.ad.xiaomi.com:9998
+http://cdn.exp.xiaomi.com
+http://cdn.exp.xiaomi.com:8080
 http://cdn.fds-ssl.api.xiaomi.com
 http://cdn.fds-ssl.api.xiaomi.com:10001
 http://cdn.fds-ssl.api.xiaomi.com:10002
@@ -2268,6 +2270,7 @@ http://test.mipay.xiaomi.com
 http://test.music.xiaomi.com
 http://test.track.ad.xiaomi.com
 http://test.zeus.ad.xiaomi.com
+http://theme-intl.cdn.zhuti.xiaomi.com
 http://theme.xiaomi.com
 http://themes.xiaomi.com
 http://thm.market.intl.xiaomi.com
@@ -2723,6 +2726,7 @@ https://cdn-thumb.fds.api.xiaomi.com
 https://cdn-thumb.fds.api.xiaomi.com:8443
 https://cdn.ad.xiaomi.com
 https://cdn.ad.xiaomi.com:8443
+https://cdn.exp.xiaomi.com
 https://cdn.fds-ssl.api.xiaomi.com
 https://cdn.fds-ssl.api.xiaomi.com:10004
 https://cdn.fds-ssl.api.xiaomi.com:1443
@@ -3381,6 +3385,7 @@ https://test.ad.intl.xiaomi.com
 https://test.ad.xiaomi.com
 https://test.api.xmpush.xiaomi.com
 https://test.zeus.ad.xiaomi.com
+https://theme-intl.cdn.zhuti.xiaomi.com
 https://theme.pandora.xiaomi.com
 https://theme.xiaomi.com
 https://themes.xiaomi.com

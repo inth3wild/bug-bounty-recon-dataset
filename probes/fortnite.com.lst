@@ -42,6 +42,7 @@ https://bestfriendzy-staging.fortnite.com:2087 [521] [GET] [] [] [cloudflare] [v
 https://bestfriendzy.fortnite.com [200] [GET] [text/html] [Fortnite Best Friendzy | Play With Friends & Earn Rewards - Fortnite] [cloudflare] [vhost] [cloudflare] [Cloudflare,Varnish] [c971b89a4ba55d073f9395a883d08423]
 https://bestfriendzy.fortnite.com:2083 [521] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://bestfriendzy.fortnite.com:2087 [521] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
+https://create.fortnite.com [301] [GET] [text/html] [301 Moved Permanently] [] [cd2e0e43980a00fb6a2742d3afd803b8]
 https://creativemayhem-staging.fortnite.com [401] [GET] [text/html] [401 Unauthorized] [cloudflare] [vhost] [cloudflare] [Basic,Cloudflare,Varnish] [7af7e61e6c89b8a3510ee601df741464]
 https://creativemayhem-staging.fortnite.com:2083 [521] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://creativemayhem-staging.fortnite.com:2087 [521] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]

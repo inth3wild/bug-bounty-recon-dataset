@@ -48,6 +48,7 @@ subfolder-proxy-drivers.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 10
 subfolder-proxy-lb.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 subfolder-proxy-partnerblog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 tacomundo.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+tags.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 tealium.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test-vendors-shop.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 test.shop.thuisbezorgd.nl AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19

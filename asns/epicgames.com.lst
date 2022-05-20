@@ -2,6 +2,10 @@ accounts.epicgames-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 
 accounts.launcher-ci.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 174.129.0.0/16
 accounts.launcher-website-prod07.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 accts.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
+approval-bot.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+approval-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 75.101.128.0/17
+auth-api-prod.artpipeline-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+auth-api.artpipeline-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 13.33.46.0/24
 capman.livefn.adad.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 capman.prod.adad.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
 capman.stage.adda.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
@@ -25,6 +29,7 @@ fortnite-public-service-bluedailymaintesting-prod.ol.epicgames.com AS14618 AS146
 fortnite-public-service-blueextqadevtesting-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 fortnite-public-service-brawler-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 fortnite-public-service-bubbles-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+fortnite-public-service-buckler-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 fortnite-public-service-burnout-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
 fortnite-public-service-carbon-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
 fortnite-public-service-certstageb-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
@@ -69,6 +74,7 @@ fortnite-public-service-predeployb-prod.ol.epicgames.com AS14618 AS14618 - AMAZO
 fortnite-public-service-reddailymaintesting-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 fortnite-public-service-redextqadevtesting-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.172.0.0/15
 fortnite-public-service-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
+fortnitewaitingroom-public-service-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
 go.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 50.17.0.0/16
 golinks.ceee.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 invite-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
@@ -78,6 +84,7 @@ jira.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
 jupiter.devtools.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 licensee-mgmt-portal-okta.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
 licensee-mgmt-portal-okta.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+link.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 links-public-service-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 mail.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
 mars-apigw.stage.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
@@ -95,6 +102,7 @@ playtest-bot.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
 playtest-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 recap.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 remotework.epicgames.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+resource-api-prod.artpipeline-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 sda-admin-okta.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.0.0/17
 secsvr-scim.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 service-bot.eut.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12

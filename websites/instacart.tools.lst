@@ -49,6 +49,11 @@ http://display.dev.instacart.tools
 http://experiments.instacart.tools
 http://foodbazar.dev.instacart.tools
 http://foodlion.dev.instacart.tools
+http://foodlion.pbis-cf-dev.instacart.tools
+http://foodlion.pbis-cf-dev.instacart.tools:2082
+http://foodlion.pbis-cf-dev.instacart.tools:2086
+http://foodlion.pbis-cf-dev.instacart.tools:8080
+http://foodlion.pbis-cf-dev.instacart.tools:8880
 http://gardenpbi.dev.instacart.tools
 http://go.instacart.tools
 http://heinens-onecart.dev.instacart.tools
@@ -118,6 +123,10 @@ https://display.dev.instacart.tools
 https://experiments.instacart.tools
 https://foodbazar.dev.instacart.tools
 https://foodlion.dev.instacart.tools
+https://foodlion.pbis-cf-dev.instacart.tools
+https://foodlion.pbis-cf-dev.instacart.tools:2053
+https://foodlion.pbis-cf-dev.instacart.tools:2083
+https://foodlion.pbis-cf-dev.instacart.tools:2087
 https://gardenpbi.dev.instacart.tools
 https://go.instacart.tools
 https://heinens-onecart.dev.instacart.tools

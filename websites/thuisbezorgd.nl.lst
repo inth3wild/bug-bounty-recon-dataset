@@ -22,6 +22,7 @@ http://foodtracker.thuisbezorgd.nl
 http://image.update.thuisbezorgd.nl
 http://join.thuisbezorgd.nl
 http://legacy-shop.thuisbezorgd.nl
+http://legacy-shop.thuisbezorgd.nl:8880
 http://legacy-shop.thuisbezorgd.nl:8888
 http://live-orders.thuisbezorgd.nl
 http://loyaltyshop.thuisbezorgd.nl
@@ -42,6 +43,7 @@ http://static.thuisbezorgd.nl
 http://subfolder-proxy-drivers.thuisbezorgd.nl
 http://subfolder-proxy-partnerblog.thuisbezorgd.nl
 http://tacomundo.thuisbezorgd.nl
+http://tags.thuisbezorgd.nl
 http://tealium.thuisbezorgd.nl
 http://test-shop.thuisbezorgd.nl
 http://test-vendors-shop.thuisbezorgd.nl
@@ -83,6 +85,7 @@ https://shop.thuisbezorgd.nl
 https://static.thuisbezorgd.nl
 https://subfolder-proxy-drivers.thuisbezorgd.nl
 https://subfolder-proxy-partnerblog.thuisbezorgd.nl
+https://tags.thuisbezorgd.nl
 https://test-shop.thuisbezorgd.nl
 https://test-vendors-shop.thuisbezorgd.nl
 https://test.shop.thuisbezorgd.nl

@@ -7,6 +7,7 @@ abuse.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 accessibility.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 accmgr.secure.webhosting.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
 accmgr.webhosting.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
+add.my.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 adfeedback.beap.adx.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 adm.tns.nevec.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 admanagerplus.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.160.0/24
@@ -46,13 +47,14 @@ ads.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 ads.yap.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.100.0/24
 adserver.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.220.0/24
 adspecs.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
+adss.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 adtester.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 adw-partner-api.adw.vip.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.3.0/24
 aem.ec.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 aethergq-flink.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 af.beap.bc.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.220.0/24
 affiliate-search-beta.ec.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
-alpha.dek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
+alpha.kek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
 amt.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 analytics.query.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.87.0/24
 analytics.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
@@ -66,14 +68,15 @@ api-trunk.memberprofile.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195
 api-trunk.profile.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 api-west.push.yahoo.com AS16509 AS16509 - AMAZON.COM INC. US 44.224.0.0/11
 api-west.push.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+api-yts.cricket.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 api.admanager.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 api.amp.commerce.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 api.bid.yahoo.com AS10229 AS10229 - YAHOO-INC TW 124.108.115.0/24
-api.credstore.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
+api.cricket.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 api.device.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.204.0/24
 api.digitalhomeservices.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 api.g11n.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
-api.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
+api.global.sports.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 api.libra.ops.aue.yahoo.com AS17457 AS17457 - INTERNET CONTENT PROVIDER AU 115.178.9.0/24
 api.libra.ops.bf2.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.96.0/24
 api.libra.ops.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.246.0/24
@@ -91,7 +94,6 @@ api.udb.corp.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.200.0/21
 api.view.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 apis.falcon.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 apple-finance.query.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.204.0/24
-apple-finance.query.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.228.0/24
 apple-smarttv.manhattan.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 apps.corp.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.0.0/17
 ar.adserver2.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.220.0/24
@@ -125,6 +127,7 @@ bastet.nevec.yahoo.com AS10229 AS10229 - YAHOO-INC TW 124.108.72.0/24
 bcn.fp.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
 beacon.staging.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.87.0/24
 beap-bc.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
+beap.adss.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 beap.adx.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.220.0/24
 beauty.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 beta-advertising.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
@@ -135,19 +138,18 @@ beta-policies.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 beta-security.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 beta.api.login.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 beta.bt.edit.client.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
-beta.dek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
 beta.fb.member.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
-beta.kek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
 beta.login.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 beta.na.edit.client.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 beta.reg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
-blink-dpa.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
+bhc1.ops.hkx.yahoo.com AS10310 AS10310 - OATH HOLDINGS INC. US 203.84.213.0/24
 br.financas.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 br.seguranca.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 brandtoolkit.yahoo.com AS15133 AS15133 - MCI COMMUNICATIONS SERVICES, INC. D/B/A VERIZON BUSINESS US 152.199.24.0/24
 business.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
 c2shb.pubgw.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
 c2shb.ssp.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
+ca.my.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 ca.rogers.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 calendar.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 calypso.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
@@ -195,12 +197,12 @@ cookiex.ngd.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 corp-alerts.poe.vip.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 corpconfgen.ops.corp.yahoo.com AS36646 AS36646 - OATH HOLDINGS INC. US 98.138.0.0/16
 corpdek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
-corpkek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 covid19.knowledge.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 credstore.login.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 credstore.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 cricket.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.11.0/24
 d.cp.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
+dam.help.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 data.voice.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 data.yahoo.com AS6130 AS6130 - AMERICAN INTERNET SERVICES, LLC. US 0.0.0.0/0
 datahub-api.urs.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 63.250.207.0/24
@@ -216,12 +218,14 @@ ddl.fp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 de.jahresrueckblick.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 de.toolbar.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 deals.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
+dek.ckms.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
 delivery.o2.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 54.172.0.0/15
 delivery.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 delivery.stage.o2.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 35.153.0.0/16
 delivery.stage.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
 delphi.ops.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.200.0/21
 demo.insight.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
+demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
 demoapp.omp.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 dev-ads.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 dev-api.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
@@ -233,8 +237,6 @@ dev-ndl-nifi.ygridvm.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 
 dev-ndl-wl01.ygridvm.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.144.0/21
 dev-xmp.xobni.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.113.0/24
 dev.cdn.payments.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
-dev.demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 52.2.0.0/15
-dev.demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 dev.demoui.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.144.0.0/14
 dev.ews.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 dev.fzdata.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
@@ -348,6 +350,7 @@ es.seguro.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 esportes.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 esports.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 eu-central.jill.fc.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 52.28.0.0/16
+eurosport.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 everything.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 ews.hl.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.87.0/24
 experiences.media.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 63.250.207.0/24
@@ -364,8 +367,6 @@ fr-ca.rogers.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 fsbcn.fp.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 fugq100.vcg.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 fugq101.vcg.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
-funcprod.dek.ckms.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.0.0/17
-funcprod.kek.ckms.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.0.0/17
 galinegq-flink.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 gallery.tv.widgets.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 games.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
@@ -384,6 +385,11 @@ geoinfo.location.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.160.0/24
 gerrit.comms.corp.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 69.147.96.0/20
 git.corp.yahoo.com AS16509 AS16509 - AMAZON.COM INC. US 13.56.0.0/16
 godoc.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
+gq1-gridnpdb-001-v.blue.ygrid.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.224.0/19
+gq1-gridnpdb-001.blue.ygrid.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.224.0/19
+gq1-gridnpdb-002-v.blue.ygrid.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.224.0/19
+gq1-gridnpdb-002.blue.ygrid.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.224.0/19
+gq1-gridnpdb-c1.blue.ygrid.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.224.0/19
 gridshopprod102.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 gridshopprod103.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 gridshopprod104.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.200.0/21
@@ -402,7 +408,7 @@ gridshopstg114.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142
 gridshopstg210.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 gridshopstg211.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 gridshopstg214.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
-grocery.fp.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+grocery.fp.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
 groups.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 gsdapps.corp.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 guce.login.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
@@ -439,19 +445,17 @@ inertongq-fk.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.
 inertongq-flink.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 info.ec.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 76.13.32.0/24
 insights.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
-internal.api.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.86.0/24
 intheknow.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 intl-fp-td-app-yahoo.fp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.142.0/24
 intlmedia-graviton-gateway.media.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
-io.gemini.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 ipr-real.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.3.0/24
 ipr.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.11.0/24
 iris.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
+isotope-ingest.search.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 13.33.46.0/24
+isotope.search.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 35.153.0.0/16
 isp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 it.cars.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 iws.admanager.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.3.0/24
-iws.dpa.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.3.0/24
-iws.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.3.0/24
 jill.fc.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 jira.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 jss1-gq1.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
@@ -496,7 +500,6 @@ maps.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.144.0/24
 marketplace.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 mas.martech.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 me.advertising.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
-merchant.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 merchant.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 merchantsolutions.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
 messenger.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
@@ -532,6 +535,7 @@ my.featured.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 my.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.11.0/24
 mysterio.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 mysubscriptions.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
+n.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 nanitegq-fk.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 nanitegq-flink.gq.vcg.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 nap.api.ops.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.60.0/23
@@ -561,8 +565,8 @@ notepad.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 nothistory.nevec.yahoo.com AS10229 AS10229 - YAHOO-INC TW 124.108.115.0/24
 npi-nifi-pxy03.ygridvm.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.144.0/21
 npi-nifi-pxy04.ygridvm.corp.gq1.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.144.0/21
-ns.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
-o2-dp-oozie.prod.int.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
+o2-dp-oozie.prod.int.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+o2-dp-oozie.stage.int.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.86.0.0/15
 oao-js-tag.onemobile.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
 oath-ldap-proxy-qa-c.corpid.corp.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 oath-ldap.corp.yahoo.com AS10310 AS10310 - OATH HOLDINGS INC. US 172.128.0.0/10
@@ -617,9 +621,11 @@ point.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 points.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 politicaladsapi.adx.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 polls.stage.o2.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
-pop.att.yahoo.com AS36646 AS36646 - OATH HOLDINGS INC. US 66.163.168.0/21
 postmaster.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 pp.dist.ops.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.137.0/24
+pr-api.imp.ops.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
+pr.dcim.ops.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
+pr.dcometrics.ops.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 pr1.profile.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 pr11.profile.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
 pr12.profile.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.32.0/19
@@ -689,10 +695,9 @@ qa.api-public.opsdb.ops.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.1
 qa.partners.pse.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 qa.subscriptions.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 read-tap.push.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 3.20.0.0/14
-real.api.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.86.0/24
+real.acache.us.global.sports.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 real.webscope.sandbox.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 63.250.207.0/24
 real.webscope.sandbox.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.146.0/24
-realmtls.api.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.86.0/24
 rhelbeta.login.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 rivals.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 ru.docs.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
@@ -701,16 +706,13 @@ s2shb.ssp.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
 safeframes.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 safely.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 safety.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.11.0/24
-sandbox-api.admanager.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
-sandbox-api.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 sandbox.datax.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 sandbox.dataxonline.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 sandbox.ews.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 100.24.0.0/13
 sandbox.ui-vault.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 18.208.0.0/13
 sandbox.ui-vault.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 52.4.0.0/14
 sandbox.ui-vault.payment.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
-sandbox.ui.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 23.22.0.0/15
-sandbox.ui.payment.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.87.0.0/16
+sandbox.ui.payment.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 sandbox.userloc.location.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 sandbox.vertexlite.payments.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 100.24.0.0/13
 sandbox.ydsops.mysql.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.216.0/21
@@ -743,7 +745,6 @@ shops.fp.yahoo.com AS16509 AS16509 - AMAZON.COM INC. US 52.36.0.0/14
 shops.fp.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 sign.ops.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.170.0/23
 slas-emea01-ir2.corp.ir2.yahoo.com AS34010 AS34010 - YAHOO EUROPE GB 46.228.32.0/21
-smallbusiness.att.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
 smallbusiness.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 98.139.24.0/21
 smarttv-screen.manhattan.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 smarttv-smartinfo.manhattan.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
@@ -769,7 +770,6 @@ src5.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 src6.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 src7.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 srv.cp.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
-ss.demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 ss.ui-vault.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 54.164.0.0/15
 ss.ui-vault.payment.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
 ss.ui.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 52.20.0.0/14
@@ -778,7 +778,6 @@ ss.ui.payments.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 54.84.0.0/15
 ss.ui.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 sshra.ops.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.137.3.0/24
 ssp-dev-ats-test.ssp.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 18.208.0.0/13
-ssp.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.138.0/24
 stage-carta.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 stage-ccpa-service-internal.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 stage-oathsites-real.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 72.30.32.0/19
@@ -787,8 +786,6 @@ stage.api.pes.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.0.0/17
 stage.api.proxy.pes.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.0.0/17
 stage.cdn.payments.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.116.0/22
 stage.consent.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-stage.demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 34.192.0.0/12
-stage.demo.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 stage.fzdata.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 stage.gdpr.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 stage.guce.login.yahoo.com AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14
@@ -801,7 +798,7 @@ stage.partners.pse.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
 stage.recovery.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stage.searchads.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 stage.subscriptions.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
-stage.ui.payments.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 34.224.0.0/12
+stage.ui.payments.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
 stage.userloc.location.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 stage.ws.progrss.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stagemarvel-k8s.xobni.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 63.250.207.0/24
@@ -812,6 +809,7 @@ staging.vapi.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 stars.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 stg-ads.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 stg-api.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
+stg-api.imp.ops.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 stg-content.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 stg-marketplace.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 stg-partner.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
@@ -819,12 +817,13 @@ stg-pub.msd.athenz.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0
 stg-sdk.amp.commerce.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 stg-vipui-01.ops.corp.yahoo.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 stg-vipui-01.ops.corp.yahoo.com AS7233 AS7233 - YAHOO US 216.145.48.0/20
+stg.dcim.ops.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
+stg.dcometrics.ops.corp.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 stg.doppler.vip.corp.bf1.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 68.142.236.0/22
 stg.edge.artifactory.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.146.0/24
 stg.rubygems.ops.yahoo.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.146.0/24
 stg.token-service.payment.yahoo.com AS14618 AS14618 - AMAZON.COM INC. US 34.224.0.0/12
 stg.token-service.payment.yahoo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-stgmerchant.gemini.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 66.218.84.0/24
 style.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 subs.communications.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 subscriptions-qa5.fp.yahoo.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
@@ -1062,6 +1061,7 @@ www.uk.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 www.vn.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
 www.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 www.za.yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
+xml-nar-dm.ysm.yahoo.com AS14779 AS14779 - OATH HOLDINGS INC. US 69.147.82.0/24
 yahoo-client.tap.yahoo.com AS36088 AS36088 - OATH HOLDINGS INC. US 69.147.88.0/24
 yahoo.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.143.0/24
 yahoo.com AS36646 AS36646 - OATH HOLDINGS INC. US 74.6.231.0/24

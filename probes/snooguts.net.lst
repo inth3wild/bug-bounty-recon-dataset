@@ -21,5 +21,6 @@ https://vault.dev.ue1.snooguts.net [303] [GET] [text/html] [303 See Other] [ngin
 https://vault.reddit.ue1.snooguts.net [303] [GET] [text/html] [303 See Other] [nginx] [Nginx] [0d168a9f3acc87bdc19720e491d1bca6]
 https://vault.relevance.ue1.snooguts.net [303] [GET] [text/html] [303 See Other] [nginx] [Nginx] [0d168a9f3acc87bdc19720e491d1bca6]
 https://vault.search.ue1.snooguts.net [303] [GET] [text/html] [303 See Other] [nginx] [Nginx] [0d168a9f3acc87bdc19720e491d1bca6]
+https://vault.specproj.ue1.snooguts.net [303] [GET] [text/html] [303 See Other] [nginx] [Nginx] [0d168a9f3acc87bdc19720e491d1bca6]
 https://vault.test.ue1.snooguts.net [302] [GET] [text/html] [302 Found] [openresty] [Nginx,OpenResty] [82c98e8e012b79c922655461171cc2fa]
 https://vpn.snooguts.net [302] [GET] [text/html] [Redirecting...] [] [4be46641e1b732403ecfbeb07f296cc7]

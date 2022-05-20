@@ -14,6 +14,9 @@ http://carhirehelp.skyscanner.net
 http://clicks.skyscanner.net
 http://cn.skyscanner.net
 http://conditions.travel.skyscanner.net
+http://conditions.travel.skyscanner.net:2083
+http://conditions.travel.skyscanner.net:2087
+http://conditions.travel.skyscanner.net:8443
 http://dk.skyscanner.net
 http://e.skyscanner.net
 http://email.travelpro.skyscanner.net
@@ -63,6 +66,9 @@ http://schedule-change.travel.skyscanner.net:2087
 http://schedule-change.travel.skyscanner.net:8443
 http://se.skyscanner.net
 http://secure-pay.travel.skyscanner.net
+http://secure-pay.travel.skyscanner.net:2083
+http://secure-pay.travel.skyscanner.net:2087
+http://secure-pay.travel.skyscanner.net:8443
 http://secure.skyscanner.net
 http://securepay.skyscanner.net
 http://skyscanner.net

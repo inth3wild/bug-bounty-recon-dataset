@@ -96,6 +96,7 @@ https://assets-ssl.gotinder.com [403] [GET] [application/xml] [] [AmazonS3] [vho
 https://assets-ssl.gotinder.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d4a28a4ce0177383f9a3502fa4f92a56]
 https://blog.gotinder.com [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
 https://confluence.gotinder.com [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
+https://console.gotinder.com [502] [GET] [text/html] [502 Bad Gateway] [awselb/2.0] [7418cbee906b4db0f20614d0eeebceff]
 https://data.gotinder.com [200] [GET] [] [] [nginx/1.15.6] [vhost] [Nginx] [468d66407842d125584da3848d956f87]
 https://datarequests.gotinder.com [200] [GET] [text/html] [Tinder Portal] [] [vhost] [c4a18770ff937f66f64a327693ada6cf]
 https://email.gotinder.com [404] [GET] [] [] [] [google] [Google Cloud,Google Cloud CDN] [d41d8cd98f00b204e9800998ecf8427e]

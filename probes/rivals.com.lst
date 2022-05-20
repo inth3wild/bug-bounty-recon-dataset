@@ -1,3 +1,4 @@
+https://acceptance.rivals.com [301] [GET] [text/html] [] [nginx] [vhost] [Nginx,Phusion Passenger] [f26f8d81496bfdfacd7f3c7cc203fe89]
 https://cdn.rivals.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [831c70662d5c7aeae588320232e9592d]
 https://cdn.rivals.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d9ba422c3b185f69d5b500c7f25e9941]
 https://forums.rivals.com [301] [GET] [text/html] [] [ATS] [vhost] [Apache Traffic Server,Azure,Azure CDN] [d41d8cd98f00b204e9800998ecf8427e]

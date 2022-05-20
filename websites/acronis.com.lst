@@ -4,12 +4,16 @@ http://acronis.com
 http://acronis.com:8080
 http://activation.acronis.com
 http://affiliate.acronis.com
+http://agents-at01-cloud.acronis.com
+http://agents-in01-cloud.acronis.com
 http://agents-jp03-cloud.acronis.com
+http://agents-ng01-cloud.acronis.com
 http://akl1-repo.acronis.com
 http://ams7795-jp-cloud.acronis.com
 http://appdirect-eu2-cloud.acronis.com
 http://appsmart-cloud.acronis.com
 http://asign.acronis.com
+http://at01-cloud.acronis.com
 http://au-repo.acronis.com
 http://au1-baas.acronis.com
 http://au1-cloud.acronis.com
@@ -25,6 +29,7 @@ http://bc-us4-baas.acronis.com
 http://beta-cloud.acronis.com
 http://bg01-cloud.acronis.com
 http://blog.acronis.com
+http://bom1-repo.acronis.com
 http://br01-cloud.acronis.com
 http://brand.acronis.com
 http://bt01-cloud.acronis.com
@@ -41,6 +46,7 @@ http://casestudies.acronis.com
 http://cftp.acronis.com
 http://cleverbridge.acronis.com
 http://cloud-rs-jp1.acronis.com
+http://cloud-wr-at01.acronis.com
 http://cloud-wr-au1.acronis.com
 http://cloud-wr-bg01.acronis.com
 http://cloud-wr-br01.acronis.com
@@ -52,10 +58,12 @@ http://cloud-wr-eu1.acronis.com
 http://cloud-wr-eu2.acronis.com
 http://cloud-wr-eu5.acronis.com
 http://cloud-wr-gr01.acronis.com
+http://cloud-wr-in01.acronis.com
 http://cloud-wr-io99.acronis.com
 http://cloud-wr-jp03.acronis.com
 http://cloud-wr-jp1.acronis.com
 http://cloud-wr-jp2.acronis.com
+http://cloud-wr-ng01.acronis.com
 http://cloud-wr-pl01.acronis.com
 http://cloud-wr-ru2.acronis.com
 http://cloud-wr-sg1.acronis.com
@@ -80,6 +88,7 @@ http://digitalriver.webdev.acronis.com
 http://dl.acronis.com
 http://dl3.acronis.com
 http://dl5.acronis.com
+http://dl6.acronis.com
 http://docs.acronis.com
 http://dr.acronis.com
 http://ee99-cloud.acronis.com
@@ -155,6 +164,10 @@ http://pbi.acronis.com
 http://pl01-cloud.acronis.com
 http://pmc.acronis.com
 http://promo.acronis.com
+http://promo.acronis.com:2053
+http://promo.acronis.com:2083
+http://promo.acronis.com:2087
+http://promo.acronis.com:2096
 http://promo.acronis.com:8443
 http://promosandbox.acronis.com
 http://registration.acronis.com
@@ -224,6 +237,7 @@ https://acep.acronis.com
 https://acronis.com
 https://activation.acronis.com
 https://affiliate.acronis.com
+https://agents-at01-cloud.acronis.com
 https://agents-bg01-cloud.acronis.com
 https://agents-br01-cloud.acronis.com
 https://agents-bt01-cloud.acronis.com
@@ -232,9 +246,11 @@ https://agents-ee99-cloud.acronis.com
 https://agents-es01-cloud.acronis.com
 https://agents-eu5-cloud.acronis.com
 https://agents-gr01-cloud.acronis.com
+https://agents-in01-cloud.acronis.com
 https://agents-io99-cloud.acronis.com
 https://agents-jp03-cloud.acronis.com
 https://agents-mc-io99-cloud.acronis.com
+https://agents-ng01-cloud.acronis.com
 https://agents-nz01-cloud.acronis.com
 https://agents-pl01-cloud.acronis.com
 https://agents-sg-cloud.acronis.com
@@ -248,6 +264,8 @@ https://appdirect-eu2-cloud.acronis.com:8443
 https://appsmart-cloud.acronis.com
 https://appsmart-cloud.acronis.com:8443
 https://asign.acronis.com
+https://at01-cloud.acronis.com
+https://at01-cloud.acronis.com:8443
 https://au-repo.acronis.com
 https://au1-baas.acronis.com
 https://au1-baas.acronis.com:8080
@@ -277,6 +295,8 @@ https://bg-vpn.acronis.com
 https://bg01-cloud.acronis.com
 https://bg01-cloud.acronis.com:8443
 https://blog.acronis.com
+https://bom1-repo.acronis.com
+https://bom1-s3gw.acronis.com
 https://br01-cloud.acronis.com
 https://br01-cloud.acronis.com:8443
 https://brand.acronis.com
@@ -323,6 +343,8 @@ https://casestudies.acronis.com
 https://cb-eu2.acronis.com:8443
 https://cftp.acronis.com
 https://cleverbridge.acronis.com
+https://cloud-wr-at01.acronis.com
+https://cloud-wr-at01.acronis.com:8443
 https://cloud-wr-au1.acronis.com
 https://cloud-wr-au1.acronis.com:8080
 https://cloud-wr-au1.acronis.com:8443
@@ -344,6 +366,8 @@ https://cloud-wr-eu5.acronis.com
 https://cloud-wr-eu5.acronis.com:8443
 https://cloud-wr-gr01.acronis.com
 https://cloud-wr-gr01.acronis.com:8443
+https://cloud-wr-in01.acronis.com
+https://cloud-wr-in01.acronis.com:8443
 https://cloud-wr-io99.acronis.com
 https://cloud-wr-jp03.acronis.com
 https://cloud-wr-jp03.acronis.com:8443
@@ -351,6 +375,8 @@ https://cloud-wr-jp1.acronis.com
 https://cloud-wr-jp1.acronis.com:8443
 https://cloud-wr-jp2.acronis.com
 https://cloud-wr-jp2.acronis.com:8443
+https://cloud-wr-ng01.acronis.com
+https://cloud-wr-ng01.acronis.com:8443
 https://cloud-wr-pl01.acronis.com
 https://cloud-wr-pl01.acronis.com:8443
 https://cloud-wr-ru2.acronis.com
@@ -386,6 +412,7 @@ https://digitalriver.webdev.acronis.com
 https://dl.acronis.com
 https://dl3.acronis.com
 https://dl5.acronis.com
+https://dl6.acronis.com
 https://docs.acronis.com
 https://dr.acronis.com
 https://ee99-cloud.acronis.com

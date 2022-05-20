@@ -9,7 +9,7 @@ http://info.quora.com:8443 [400] [GET] [text/html] [400 The plain HTTP request w
 http://mail.contractor.quora.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [5857be0bd7ab67b00da5ccd9c11325b9]
 http://mail.net.quora.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [de7fd5a06d1c41694d633e09892f6e92]
 https://aws-east-www.edge.quora.com [403] [GET] [text/html] [Error 403 (Forbidden)] [nginx] [Nginx] [2dead881f1f8e006a7e351ae1dfaa688]
-https://go.ad.quora.com [403] [GET] [text/html] [Error 403 (Forbidden)] [nginx] [fastly] [Nginx] [2dead881f1f8e006a7e351ae1dfaa688]
+https://go.ad.quora.com [302] [GET] [text/html] [] [nginx] [fastly] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://help.quora.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Envoy] [fb8c1ade9c8cbdf60f273c7aa279aa8d]
 https://help.quora.com:2083 [403] [GET] [text/html] [Access denied] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [910893553a329b2a8e8be9ce141a78e8]
 https://info.quora.com [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8bc4374c7fe9ae7a1abb6518f3bf9af1]

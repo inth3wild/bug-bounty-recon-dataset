@@ -89,6 +89,7 @@ http://aurora-ordering-ext.tesla.com
 http://auth-global-stage.tesla.com
 http://auth-global.tesla.com
 http://auth.tesla.com
+http://autobidder.powerhub.energy.tesla.com
 http://autodiscover.contractors.contractors.tesla.com
 http://autodiscover.tesla.com
 http://billing.tesla.com
@@ -127,6 +128,7 @@ http://forums.tesla.com
 http://forums.tesla.com:8080
 http://gf-modeling-mpp.tesla.com
 http://grid.tesla.com
+http://gridlogic.energy.tesla.com
 http://image-emails.tesla.com
 http://image.email.tesla.com
 http://image.emails.tesla.com

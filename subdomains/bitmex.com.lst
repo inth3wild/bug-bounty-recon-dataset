@@ -10,11 +10,13 @@ auth.devsf.bitmex.com
 auth.devsf2.bitmex.com
 auth.devsf3.bitmex.com
 auth.testnet.bitmex.com
+aws.ws.devhk.services.bitmex.com
 aws.ws.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
 beta.bitmex.com
 bitmex.com
 blog-do.bitmex.com
+cf.ws.devhk.services.bitmex.com
 cf.ws.services.bitmex.com
 cf.ws.testnet.services.bitmex.com
 compliance-fbnotify.prod.services.bitmex.com

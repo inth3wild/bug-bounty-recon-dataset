@@ -801,9 +801,11 @@ be.sp-int.communication.playstation.net
 be.sp-int.community.playstation.net
 beast.playstation.net
 beauty.playstation.net
+bee-dev-origin.epo.playstation.net
 bee-dev.epo.playstation.net
 bee-i-dev.epo.playstation.net
 bee-i.epo.playstation.net
+bee-origin.epo.playstation.net
 bee.epo.playstation.net
 benri.kcloud.playstation.net
 bes.playstation.net
@@ -3153,6 +3155,7 @@ kc4f1201e7.e1np.psndev.us-west-2.dev.kcloud.playstation.net
 kc7a00a1fc.us-west-2.ml21.kcloud.playstation.net
 kc8b8be086.e1np.psndev.us-west-2.dev.kcloud.playstation.net
 kcaf9a20f1.e1mgmt.psndev.us-west-2.dev.kcloud.playstation.net
+kcalphaeks1.raptor-alpha-usw2-01.h.km.playstation.net
 kcbb898319.spint.psnpls.us-west-2.prod.kcloud.playstation.net
 kcbjohnson0.raptor-alpha-usw2-01.h.km.playstation.net
 kcbjohnson1.raptor-alpha-usw2-01.h.km.playstation.net
@@ -3182,6 +3185,7 @@ kids.playstation.net
 kiev.playstation.net
 kiki-dev.biz.playstation.net
 kiki-qa.biz.playstation.net
+kiki-sandbox.biz.playstation.net
 kiki-stage.biz.playstation.net
 kiki.biz.playstation.net
 killzone.dl.playstation.net
@@ -4639,6 +4643,7 @@ prod.dataocean.playstation.net
 prod.dl.playstation.net
 prod.playstation.net
 prod21.kcloud.playstation.net
+prodlines21.kcloud.playstation.net
 production.playstation.net
 products.playstation.net
 prof.np.community.playstation.net
@@ -6080,6 +6085,10 @@ ucltickets.playstation.net
 uesgh2x.playstation.net
 ufa.playstation.net
 uk.playstation.net
+uks-3929-e1np-usw2-e1z9.dev21.kcloud.playstation.net
+uks-3929-sandbox-usw2-64f1.dev21.kcloud.playstation.net
+uks-4391-p1pl-usw2-d89c.prodlines21.kcloud.playstation.net
+uks-4724-p1np-usw2-6c8a.prod21.kcloud.playstation.net
 um.playstation.net
 uniadmin.sonynei.net.ac.playstation.net
 uniadmin.sonynei.net.signup.playstation.net

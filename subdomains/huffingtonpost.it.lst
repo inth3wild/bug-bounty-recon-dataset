@@ -39,6 +39,7 @@ qa.preview.m.huffingtonpost.it
 qa.preview.www.huffingtonpost.it
 qa.search.huffingtonpost.it
 qa.www.huffingtonpost.it
+rcm.huffingtonpost.it
 reg.sandbox.huffingtonpost.it
 sandbox.huffingtonpost.it
 search.huffingtonpost.it
@@ -54,6 +55,7 @@ staging.preview.www.huffingtonpost.it
 staging.search.huffingtonpost.it
 staging.www.huffingtonpost.it
 store.sandbox.huffingtonpost.it
+test-rcm.huffingtonpost.it
 test-servizi.huffingtonpost.it
 test-shop.huffingtonpost.it
 test.huffingtonpost.it

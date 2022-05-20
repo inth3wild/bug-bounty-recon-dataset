@@ -175,7 +175,9 @@ https://broker.miwifi.com
 https://d.miwifi.com
 https://eu.api.miwifi.com
 https://eu.bigota.miwifi.com
+https://eu.bigota.miwifi.com:8051
 https://eu.bigota.miwifi.com:8069
+https://eu.bigota.miwifi.com:8443
 https://eu.broker.miwifi.com
 https://eu.broker.miwifi.com:10002
 https://eu.broker.miwifi.com:2222

@@ -51,6 +51,7 @@ expy.instacart.tools
 foo-bar.instacart.tools
 foodbazar.dev.instacart.tools
 foodlion.dev.instacart.tools
+foodlion.pbis-cf-dev.instacart.tools
 gardenpbi.dev.instacart.tools
 go.instacart.tools
 gradle-cache.instacart.tools
