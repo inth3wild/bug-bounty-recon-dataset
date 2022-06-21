@@ -1,7 +1,7 @@
 0	zero byte favicon	http://experiments.instacart.tools/
-0	zero byte favicon	http://tux.instacart.tools/
 0	zero byte favicon	https://experiments.instacart.tools/
 0	zero byte favicon	https://tux.instacart.tools/
+0	zero byte favicon	http://tux.instacart.tools/
 1126835021	instacart	http://ads.instacart.tools/
 1126835021	instacart	http://customers.dev.instacart.tools/
 1126835021	instacart	http://pbis.dev.instacart.tools/
@@ -18,9 +18,9 @@
 396533629	openvpn	https://vpn-beta.instacart.tools/
 396533629	openvpn	https://vpn.instacart.tools/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://experiments.instacart.tools/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tux.instacart.tools/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://experiments.instacart.tools/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://tux.instacart.tools/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tux.instacart.tools/
 e26dc08b670ce0b8068ef7d469264f19	instacart	http://ads.instacart.tools/
 e26dc08b670ce0b8068ef7d469264f19	instacart	http://customers.dev.instacart.tools/
 e26dc08b670ce0b8068ef7d469264f19	instacart	http://pbis.dev.instacart.tools/

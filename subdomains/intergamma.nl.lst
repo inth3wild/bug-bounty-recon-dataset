@@ -1,8 +1,8 @@
-acc-service-cp.intergamma.nl
-acc.intergamma.nl
 acceptance-environment.intergamma.nl
 acceptatie.rest.intergamma.nl
 acceptatie.topdesk.intergamma.nl
+acc.intergamma.nl
+acc-service-cp.intergamma.nl
 amc.intergamma.nl
 autodiscover.intergamma.nl
 bamboo.intergamma.nl
@@ -11,6 +11,7 @@ cms.intergamma.nl
 confluence.intergamma.nl
 dam.intergamma.nl
 damtest.intergamma.nl
+dev-api.intergamma.nl
 enterpriseenrollment.intergamma.nl
 enterpriseregistration.intergamma.nl
 feedback.intergamma.nl
@@ -42,8 +43,8 @@ telemetry.intergamma.nl
 topdesk.intergamma.nl
 tracking.intergamma.nl
 upsource.intergamma.nl
-vpn.intergamma.nl
 vpnbackup.intergamma.nl
+vpn.intergamma.nl
 webmail.intergamma.nl
 www.dam.intergamma.nl
 www.damtest.intergamma.nl
@@ -52,7 +53,7 @@ www.intergamma.nl
 www.levportal.intergamma.nl
 www.telefonie.intergamma.nl
 www.telemetry.intergamma.nl
-www.vpn.intergamma.nl
 www.vpnbackup.intergamma.nl
+www.vpn.intergamma.nl
 www.zabbix.intergamma.nl
 zabbix.intergamma.nl

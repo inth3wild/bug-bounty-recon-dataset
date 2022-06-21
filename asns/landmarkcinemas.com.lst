@@ -1,9 +1,9 @@
 as.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 autodiscover.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 207.148.128.0/18
 birthdays.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
-booking.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 bookingapi.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 bookingapistage.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
+booking.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 branding.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
 cms.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 contest.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
@@ -18,10 +18,10 @@ infomail.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.112.0/
 innovation.landmarkcinemas.com AS26496 AS26496 - GODADDY.COM, LLC US 97.74.232.0/21
 landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
 loyaltycard-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-m.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 mail.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 207.148.128.0/18
 mailout-m.landmarkcinemas.com AS200484 AS200484 - SENDINBLUE SAS FR 213.32.132.0/23
 mailout-t.landmarkcinemas.com AS200484 AS200484 - SENDINBLUE SAS FR 213.32.132.0/23
+m.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 movieapi.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 moviecard-connection.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
 moviecard.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23

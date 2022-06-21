@@ -15,8 +15,8 @@ grafana.feedzai.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
 incident-status.spotify.net AS396982 AS396982 - GOOGLE LLC US 35.245.48.0/20
 infographictool.spotify.net AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
 jamfpro.spotify.net AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
-jira-uat.spotify.net AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
 jira.spotify.net AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+jira-uat.spotify.net AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
 jp-lbs-test.spotify.net AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
 live.spotify.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 old-personas.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24

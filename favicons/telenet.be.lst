@@ -1,7 +1,3 @@
--297069493	apache tomcat	http://adt.prd.connect.telenet.be/
--297069493	apache tomcat	https://adt.prd.connect.telenet.be/
--476231906	phpmyadmin	http://dbadmin.cloud.telenet.be/
--476231906	phpmyadmin	https://dbadmin.cloud.telenet.be/
 0	zero byte favicon	http://community.telenet.be/
 0	zero byte favicon	http://rspwd.connect.telenet.be/
 0	zero byte favicon	http://rspwd.prd.connect.telenet.be/
@@ -16,6 +12,10 @@
 1274734426	blankwhite	https://uag.connect.telenet.be/
 1274734426	blankwhite	https://uag.prd.connect.telenet.be/
 1274734426	blankwhite	https://wso.prd.connect.telenet.be/
+-297069493	apache tomcat	http://adt.prd.connect.telenet.be/
+-297069493	apache tomcat	https://adt.prd.connect.telenet.be/
+-476231906	phpmyadmin	http://dbadmin.cloud.telenet.be/
+-476231906	phpmyadmin	https://dbadmin.cloud.telenet.be/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	https://ft.telenet.be/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	https://horizonapps.connect.telenet.be/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	https://horizonapps.uat.connect.telenet.be/

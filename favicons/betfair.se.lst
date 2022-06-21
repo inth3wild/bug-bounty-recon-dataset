@@ -6,12 +6,12 @@
 0	zero byte favicon	http://exchangegaming.betfair.se:8080/
 0	zero byte favicon	http://launcher.betfair.se/
 0	zero byte favicon	http://launcher.betfair.se:8080/
-0	zero byte favicon	http://sportsgaming.betfair.se/
-0	zero byte favicon	http://sportsgaming.betfair.se:8080/
 0	zero byte favicon	https://arcade.betfair.se/
 0	zero byte favicon	https://casino.betfair.se/
 0	zero byte favicon	https://exchangegaming.betfair.se/
 0	zero byte favicon	https://launcher.betfair.se/
+0	zero byte favicon	http://sportsgaming.betfair.se/
+0	zero byte favicon	http://sportsgaming.betfair.se:8080/
 0	zero byte favicon	https://sportsgaming.betfair.se/
 1099596916	betfair	http://betfair.se/
 1099596916	betfair	http://betfair.se:2082/
@@ -27,11 +27,6 @@
 1099596916	betfair	http://play.betfair.se:8080/
 1099596916	betfair	http://promotions.betfair.se/
 1099596916	betfair	http://promotions.betfair.se:8080/
-1099596916	betfair	http://splash.betfair.se/
-1099596916	betfair	http://ssc.betfair.se/
-1099596916	betfair	http://ssc.betfair.se:8080/
-1099596916	betfair	http://www.betfair.se/
-1099596916	betfair	http://www.betfair.se:8080/
 1099596916	betfair	https://betfair.se/
 1099596916	betfair	https://betfair.se:2087/
 1099596916	betfair	https://betfair.se:8443/
@@ -39,11 +34,16 @@
 1099596916	betfair	https://identitysso.betfair.se/
 1099596916	betfair	https://maintenance.betfair.se/
 1099596916	betfair	https://myfunds.betfair.se/
+1099596916	betfair	http://splash.betfair.se/
 1099596916	betfair	https://play.betfair.se/
 1099596916	betfair	https://promotions.betfair.se/
+1099596916	betfair	http://ssc.betfair.se/
+1099596916	betfair	http://ssc.betfair.se:8080/
 1099596916	betfair	https://splash.betfair.se/
 1099596916	betfair	https://ssc.betfair.se/
 1099596916	betfair	https://www.betfair.se/
+1099596916	betfair	http://www.betfair.se/
+1099596916	betfair	http://www.betfair.se:8080/
 116323821	springboot	http://mypromos.betfair.se/
 116323821	springboot	http://mypromos.betfair.se:8080/
 116323821	springboot	https://mypromos.betfair.se/
@@ -59,12 +59,12 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://exchangegaming.betfair
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://exchangegaming.betfair.se:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launcher.betfair.se/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launcher.betfair.se:8080/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sportsgaming.betfair.se/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sportsgaming.betfair.se:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://arcade.betfair.se/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://casino.betfair.se/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://exchangegaming.betfair.se/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://launcher.betfair.se/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sportsgaming.betfair.se/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sportsgaming.betfair.se:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sportsgaming.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.se:2082/
@@ -80,11 +80,6 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://play.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://play.betfair.se:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://promotions.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://promotions.betfair.se:8080/
-e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://splash.betfair.se/
-e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.se/
-e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.se:8080/
-e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se/
-e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.se:2087/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.se:8443/
@@ -92,11 +87,16 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://fcq.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://identitysso.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://maintenance.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://myfunds.betfair.se/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://splash.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://play.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://promotions.betfair.se/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.se/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.se:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://splash.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://ssc.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://www.betfair.se/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se:8080/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.se/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.se:8080/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://mypromos.betfair.se/

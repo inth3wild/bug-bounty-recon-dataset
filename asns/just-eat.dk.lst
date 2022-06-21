@@ -13,8 +13,8 @@ o1804.abmail.orders.just-eat.dk AS11377 AS11377 - SENDGRID, INC. US 149.72.160.0
 old.just-eat.dk AS54113 AS54113 - FASTLY US 151.101.64.0/22
 order.just-eat.dk AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 restaurant.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-restaurants.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 restaurantsignup.just-eat.dk AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+restaurants.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 shop.just-eat.dk AS19551 AS19551 - INCAPSULA INC US 45.60.11.0/24
 subfolder-proxy-deals.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 subfolder-proxy-drivers.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

@@ -72,10 +72,10 @@ public-sip2.sydney.twilio.com AS16509 AS16509 - AMAZON.COM, INC. US 54.252.128.0
 public-sip2.tokyo-ix.twilio.com AS394434 AS394434 - TWILIO INC US 103.144.142.0/24
 public-sip2.tokyo.twilio.com AS16509 AS16509 - AMAZON.COM, INC. US 54.64.0.0/15
 public-sip2.umatilla.twilio.com AS16509 AS16509 - AMAZON.COM, INC. US 54.244.0.0/18
+sip.ashburn.dev.twilio.com AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
 sip.ashburn-ix.dev.twilio.com AS36086 AS36086 - TELX US 198.24.44.0/22
 sip.ashburn-ix.stage.twilio.com AS36086 AS36086 - TELX US 198.24.44.0/22
 sip.ashburn-ix.twilio.com AS394434 AS394434 - TWILIO INC US 208.78.112.0/23
-sip.ashburn.dev.twilio.com AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
 sip.ashburn.stage.twilio.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.0.0/17
 sip.covid19-us1.twilio.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 sip.dublin.twilio.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16

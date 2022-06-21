@@ -12,11 +12,6 @@ http://mixmax.coda.io
 http://origin.coda.io
 http://origin.head.coda.io
 http://origin.staging.coda.io
-http://staging.coda.io
-http://status.coda.io
-http://www.coda.io
-http://www.head.coda.io
-http://www.staging.coda.io
 https://1password-scim.infra.coda.io
 https://adhoc.coda.io
 https://admin.coda.io
@@ -50,6 +45,11 @@ https://packs-auth.head.coda.io
 https://packs-auth.staging.coda.io
 https://staging.coda.io
 https://status.coda.io
+http://staging.coda.io
+http://status.coda.io
 https://www.coda.io
 https://www.head.coda.io
 https://www.staging.coda.io
+http://www.coda.io
+http://www.head.coda.io
+http://www.staging.coda.io

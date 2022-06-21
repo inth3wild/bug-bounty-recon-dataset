@@ -10,6 +10,10 @@ http://cdn.yadifa.eu:8880
 http://mailinglists.yadifa.eu
 http://mailinglists.yadifa.eu:8080
 http://mailinglists.yadifa.eu:8443
+https://cdn.yadifa.eu
+https://mailinglists.yadifa.eu
+https://webstats.yadifa.eu
+https://www.yadifa.eu
 http://webstats.yadifa.eu
 http://www.yadifa.eu
 http://www.yadifa.eu:2082
@@ -20,7 +24,3 @@ http://www.yadifa.eu:2096
 http://www.yadifa.eu:8080
 http://www.yadifa.eu:8443
 http://www.yadifa.eu:8880
-https://cdn.yadifa.eu
-https://mailinglists.yadifa.eu
-https://webstats.yadifa.eu
-https://www.yadifa.eu

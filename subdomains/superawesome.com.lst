@@ -8,6 +8,7 @@ api.channels.staging.superawesome.com
 api.channels.superawesome.com
 api.competitions.staging.superawesome.com
 api.competitions.superawesome.com
+api.ksv.staging.superawesome.com
 api.kws.staging.superawesome.com
 api.kws.superawesome.com
 api.youtube.staging.superawesome.com
@@ -30,11 +31,11 @@ content.superawesome.com
 cr.superawesome.com
 dashboard.superawesome.com
 david.test.superawesome.com
-dev.staging.superawesome.com
-dev.superawesome.com
 developers.superawesome.com
 devportal.kws.staging.superawesome.com
 devportal.kws.superawesome.com
+dev.staging.superawesome.com
+dev.superawesome.com
 docs.superawesome.com
 duo.superawesome.com
 fonts.superawesome.com
@@ -44,10 +45,10 @@ hub.superawesome.com
 kic.superawesome.com
 ksf.superawesome.com
 ksv.staging.superawesome.com
-kws-support.superawesome.com
+kwsguides.superawesome.com
 kws.staging.superawesome.com
 kws.superawesome.com
-kwsguides.superawesome.com
+kws-support.superawesome.com
 legal-docs.superawesome.com
 marketing.superawesome.com
 moderation.staging.superawesome.com
@@ -55,8 +56,8 @@ moderation.superawesome.com
 monocular.test.superawesome.com
 novatracking.superawesome.com
 parents.superawesome.com
-permissions-nestjs.docs.superawesome.com
 permissions.docs.superawesome.com
+permissions-nestjs.docs.superawesome.com
 pj-echoheaders.superawesome.com
 safead.superawesome.com
 staging.superawesome.com
@@ -66,9 +67,9 @@ ui.superawesome.com
 url.superawesome.com
 verification.kws.staging.superawesome.com
 verification.kws.superawesome.com
-www-old.superawesome.com
 www.blog.superawesome.com
 www.duo.superawesome.com
+www-old.superawesome.com
 www.superawesome.com
 youtube.staging.superawesome.com
 youtube.superawesome.com

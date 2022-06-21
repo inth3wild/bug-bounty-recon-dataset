@@ -35,8 +35,8 @@ origin.trello.services AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
 package-tracker.staging.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 package-tracker.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 plugin.staging.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-plugin.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 plugins.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+plugin.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 readme.staging.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 readme.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 recurring-cards.staging.trello.services AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22

@@ -1,3 +1,13 @@
+0	zero byte favicon	http://post.tw.marcus.com/
+0	zero byte favicon	https://post.tw.marcus.com/
+0	zero byte favicon	https://s.tw.marcus.com/
+0	zero byte favicon	http://s.tw.marcus.com/
+0	zero byte favicon	https://tw.marcus.com/
+0	zero byte favicon	https://view.e.marcus.com/
+0	zero byte favicon	https://v.marcus.com/
+0	zero byte favicon	http://tw.marcus.com/
+0	zero byte favicon	http://view.e.marcus.com/
+0	zero byte favicon	http://v.marcus.com/
 -1897520417	goldman-sachs	http://beta.invest.api.marcus.com/
 -1897520417	goldman-sachs	http://invest.api.marcus.com/
 -1897520417	goldman-sachs	http://invest.marcus.com/
@@ -10,16 +20,6 @@
 -1897520417	goldman-sachs	https://kpmg.invest.api.marcus.com/
 -1897520417	goldman-sachs	https://kpmg.invest.marcus.com/
 -1897520417	goldman-sachs	https://pilot.invest.api.marcus.com/
-0	zero byte favicon	http://post.tw.marcus.com/
-0	zero byte favicon	http://s.tw.marcus.com/
-0	zero byte favicon	http://tw.marcus.com/
-0	zero byte favicon	http://v.marcus.com/
-0	zero byte favicon	http://view.e.marcus.com/
-0	zero byte favicon	https://post.tw.marcus.com/
-0	zero byte favicon	https://s.tw.marcus.com/
-0	zero byte favicon	https://tw.marcus.com/
-0	zero byte favicon	https://v.marcus.com/
-0	zero byte favicon	https://view.e.marcus.com/
 76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	http://beta.invest.api.marcus.com/
 76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	http://invest.api.marcus.com/
 76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	http://invest.marcus.com/
@@ -34,12 +34,12 @@
 76e778ae5fbbb18ba7c575dbc924dfc5	goldman-sachs	https://pilot.invest.api.marcus.com/
 7b763f677d8fb39cf1092ca2f502b668	goldman-sachs	https://login.marcus.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://post.tw.marcus.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.tw.marcus.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tw.marcus.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://v.marcus.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://view.e.marcus.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://post.tw.marcus.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://s.tw.marcus.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.tw.marcus.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://tw.marcus.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v.marcus.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://view.e.marcus.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v.marcus.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tw.marcus.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://view.e.marcus.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://v.marcus.com/

@@ -9,12 +9,8 @@ http://modulous.huffpost.net
 http://nagios.huffpost.net
 http://origin-identifiers.huffpost.net
 http://production-securedrop.huffpost.net
-http://secrets.huffpost.net
-http://staging-edit.widget.tools.huffpost.net
-http://staging-widget.tools.huffpost.net
-http://widget.tools.huffpost.net
-http://www.huffpost.net
 https://athena.huffpost.net
+http://secrets.huffpost.net
 https://edit.widget.tools.huffpost.net
 https://grafana.huffpost.net
 https://graphite.huffpost.net
@@ -30,5 +26,9 @@ https://staging-edit.widget.tools.huffpost.net
 https://staging-elections.huffpost.net
 https://staging-securedrop.huffpost.net
 https://staging-widget.tools.huffpost.net
+http://staging-edit.widget.tools.huffpost.net
+http://staging-widget.tools.huffpost.net
 https://widget.tools.huffpost.net
 https://www.huffpost.net
+http://widget.tools.huffpost.net
+http://www.huffpost.net

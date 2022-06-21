@@ -16,11 +16,6 @@ http://maps.myteksi.net
 http://oncall.myteksi.net
 http://partner-profile-pic.myteksi.net
 http://pkcs7.myteksi.net
-http://scim-bridge.foundation.azure.myteksi.net
-http://stratus.myteksi.net
-http://tawish.myteksi.net
-http://tis-content.myteksi.net
-http://ucm-gk.myteksi.net
 https://api.grabview.myteksi.net
 https://api.internal.waypoint.myteksi.net
 https://api.us-east-2.internal.waypoint.myteksi.net
@@ -29,6 +24,7 @@ https://autocall.myteksi.net
 https://aws.myteksi.net
 https://baru.myteksi.net
 https://camera-management.grabview.myteksi.net
+http://scim-bridge.foundation.azure.myteksi.net
 https://config-portal.myteksi.net
 https://enterprise-api.myteksi.net
 https://enterprise-gfb-portal-api.myteksi.net
@@ -42,10 +38,14 @@ https://map.myteksi.net
 https://maps.myteksi.net
 https://oncall.myteksi.net
 https://partner-profile-pic.myteksi.net
-https://scim-bridge.foundation.azure.myteksi.net
 https://scim-bridge2.foundation.azure.myteksi.net
+https://scim-bridge.foundation.azure.myteksi.net
 https://slam.myteksi.net
 https://stratus.myteksi.net
 https://tawish.myteksi.net
 https://tis-content.myteksi.net
+http://stratus.myteksi.net
 https://ucm-gk.myteksi.net
+http://tawish.myteksi.net
+http://tis-content.myteksi.net
+http://ucm-gk.myteksi.net

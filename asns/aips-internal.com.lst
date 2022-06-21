@@ -16,7 +16,7 @@ thanos-frontend.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.
 thanos-frontend.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
 thanos.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 thanos.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
-vault.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
 vault1.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
 vault2.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
 vault3.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
+vault.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18

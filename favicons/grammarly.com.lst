@@ -1,4 +1,3 @@
--1249852061	microsoft outlook	http://autodiscover.ool.grammarly.com/
 0	zero byte favicon	http://account.grammarly.com/
 0	zero byte favicon	http://answers.grammarly.com/
 0	zero byte favicon	http://autoreport.grammarly.com/
@@ -9,10 +8,6 @@
 0	zero byte favicon	http://m.grammarly.com/
 0	zero byte favicon	http://nspl.grammarly.com/
 0	zero byte favicon	http://rwsgfy.grammarly.com/
-0	zero byte favicon	http://www.autoreport.grammarly.com/
-0	zero byte favicon	http://www.blog.grammarly.com/
-0	zero byte favicon	http://www.grammarly.com/
-0	zero byte favicon	http://www.nspl.grammarly.com/
 0	zero byte favicon	https://account.grammarly.com/
 0	zero byte favicon	https://autoreport.grammarly.com/
 0	zero byte favicon	https://go.grammarly.com/
@@ -25,6 +20,12 @@
 0	zero byte favicon	https://www.blog.grammarly.com/
 0	zero byte favicon	https://www.grammarly.com/
 0	zero byte favicon	https://www.nspl.grammarly.com/
+0	zero byte favicon	http://www.autoreport.grammarly.com/
+0	zero byte favicon	http://www.blog.grammarly.com/
+0	zero byte favicon	http://www.grammarly.com/
+0	zero byte favicon	http://www.nspl.grammarly.com/
+-1249852061	microsoft outlook	http://autodiscover.ool.grammarly.com/
+3bdfaec33d4ce535ce728a5a32e6004b	microsoft-outlook	http://autodiscover.ool.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://account.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://answers.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://autoreport.grammarly.com/
@@ -35,10 +36,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://handbook.grammarly.com
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://nspl.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://rwsgfy.grammarly.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.autoreport.grammarly.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.blog.grammarly.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.grammarly.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.nspl.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://account.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://autoreport.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://go.grammarly.com/
@@ -51,3 +48,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.autoreport.gramma
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.blog.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.grammarly.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.nspl.grammarly.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.autoreport.grammarly.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.blog.grammarly.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.grammarly.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.nspl.grammarly.com/

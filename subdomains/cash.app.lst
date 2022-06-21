@@ -1,11 +1,11 @@
 admin.taxes.cash.app
 admin.usc1.taxes.cash.app
-api-validation.cash.app
 api.cash.app
 api.preflight.taxes.cash.app
 api.preflight.usc1.taxes.cash.app
 api.taxes.cash.app
 api.usc1.taxes.cash.app
+api-validation.cash.app
 apparel-supporter.cash.app
 assets.tax.cash.app
 assets.taxes.cash.app
@@ -14,12 +14,12 @@ click.cash.app
 code.cash.app
 collector.usc1.taxes.cash.app
 developers.cash.app
-email.taxes-notifications.cash.app
 email.taxes1-notifications.cash.app
 email.taxes2-notifications.cash.app
 email.taxes3-notifications.cash.app
 email.taxes4-notifications.cash.app
 email.taxes5-notifications.cash.app
+email.taxes-notifications.cash.app
 help.cash.app
 internal.cash.app
 kit.cash.app

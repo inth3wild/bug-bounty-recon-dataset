@@ -1,3 +1,4 @@
+argus.rbx.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
 artifactory-edge01.rbx.com AS16509 AS16509 - AMAZON.COM, INC. US 52.8.0.0/16
 aws-ap-east-1a-lms.rbx.com AS16509 AS16509 - AMAZON.COM, INC. US 16.162.0.0/15
 aws-ap-east-1b-lms.rbx.com AS16509 AS16509 - AMAZON.COM, INC. US 18.163.0.0/16
@@ -21,9 +22,9 @@ hkg-full-gw.bpo-vpn.rbx.com AS136766 AS136766 - ROBLOX (SHENZHEN) DIGITAL SCIENC
 hkg-gw.bpo-vpn.rbx.com AS136766 AS136766 - ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD CN 103.142.220.0/24
 iad-full-gw.bpo-vpn.rbx.com AS11281 AS11281 - ROBLOX US 204.13.170.0/24
 iad-gw.bpo-vpn.rbx.com AS11281 AS11281 - ROBLOX US 204.13.170.0/24
+jira.rbx.com AS16509 AS16509 - AMAZON.COM, INC. US 13.57.0.0/16
 jira-ros.rbx.com AS16509 AS16509 - AMAZON.COM INC. US 52.9.0.0/16
 jira-stage.rbx.com AS16509 AS16509 - AMAZON.COM INC. US 54.183.0.0/17
-jira.rbx.com AS16509 AS16509 - AMAZON.COM, INC. US 13.57.0.0/16
 ml-platform-dev-internal.prod.ml.rbx.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 ml-platform-dev.prod.ml.rbx.com AS14618 AS14618 - AMAZON.COM INC. US 52.200.0.0/13
 ml-platform-infra-internal.prod.ml.rbx.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0

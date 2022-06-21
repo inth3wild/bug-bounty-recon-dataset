@@ -12,8 +12,8 @@ collector.tax.cashstaging.app
 collector.taxes.cashstaging.app
 collector.usc1.taxes.cashstaging.app
 dev.kit.cashstaging.app
-internal-platform-staging.cashstaging.app
 internal.cashstaging.app
+internal-platform-staging.cashstaging.app
 kit.cashstaging.app
 pay-kit-storybook.development.kit.cashstaging.app
 pay-kit-storybook.kit.cashstaging.app

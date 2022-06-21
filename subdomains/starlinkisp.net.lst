@@ -11,11 +11,11 @@ customer.iad1.mc.starlinkisp.net
 customer.iad2.mc.starlinkisp.net
 customer.iad3.mc.starlinkisp.net
 customer.iad4.mc.starlinkisp.net
-customer.lax.mc.starlinkisp.net
 customer.lax1.mc.starlinkisp.net
 customer.lax2.mc.starlinkisp.net
 customer.lax3.mc.starlinkisp.net
 customer.lax4.mc.starlinkisp.net
+customer.lax.mc.starlinkisp.net
 customer.lga1.mc.starlinkisp.net
 customer.lga2.mc.starlinkisp.net
 customer.lga3.mc.starlinkisp.net
@@ -61,9 +61,9 @@ ntop.starlinkisp.net
 observium.starlinkisp.net
 per-agg-0-oobmgmt.starlinkisp.net
 per-agg-1-oobmgmt.starlinkisp.net
-perftest.starlinkisp.net
 perftest2.starlinkisp.net
 perftest3.starlinkisp.net
+perftest.starlinkisp.net
 prometheus.starlinkisp.net
 sea-broadcast.starlinkisp.net
 sea-cgnat-128.starlinkisp.net

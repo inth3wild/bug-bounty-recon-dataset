@@ -1,5 +1,5 @@
-api-map.lel.asia
 api.lel.asia
+api-map.lel.asia
 cert-tls.showroom.internal.lel.asia
 docker-registry.lel.asia
 email.lel.asia
@@ -16,12 +16,12 @@ lms-mm.lel.asia
 lms-np.lel.asia
 lms-pk.lel.asia
 map-id.lel.asia
+map.lel.asia
 map-my.lel.asia
 map-ph.lel.asia
 map-sg.lel.asia
 map-th.lel.asia
 map-vn.lel.asia
-map.lel.asia
 my.sofp.lel.asia
 pickmee-bd.lel.asia
 pickmee-mm.lel.asia
@@ -50,13 +50,13 @@ shipnet-api.lel.asia
 shipnet.lel.asia
 sinopia.internal.lel.asia
 sofp-id.lel.asia
+sofp.lel.asia
 sofp-my.lel.asia
 sofp-ph.lel.asia
 sofp-sg.lel.asia
 sofp-th.lel.asia
 sofp-vn.lel.asia
-sofp.lel.asia
 teamcity.internal.lel.asia
 tracker.lel.asia
-www.lel.asia
 www11.lel.asia
+www.lel.asia

@@ -7,8 +7,8 @@ guce.techcrunch.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 info.techcrunch.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.64.0/20
 jp.techcrunch.com AS26101 AS26101 - OATH HOLDINGS INC. US 76.13.32.0/24
 link.techcrunch.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-m.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 mailing.techcrunch.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.64.0/20
+m.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 networking.techcrunch.com AS16509 AS16509 - AMAZON.COM, INC. US 18.200.0.0/16
 oidc.techcrunch.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.204.0/24
 on.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
@@ -17,14 +17,14 @@ social.techcrunch.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 stage.api.login.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stage.guce.login.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
 stage.guce.login.techcrunch.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
-stage.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14
 stage.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+stage.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14
 stage.login.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stage.oidc.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 techcrunch.com AS26101 AS26101 - OATH HOLDINGS INC. US 76.13.32.0/24
-trunk.guce.login.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.88.0.0/15
 trunk.guce.login.techcrunch.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-trunk.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.88.0.0/15
+trunk.guce.login.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.88.0.0/15
 trunk.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+trunk.guce.techcrunch.com AS16509 AS16509 - AMAZON.COM INC. US 52.88.0.0/15
 video.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
 www.techcrunch.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24

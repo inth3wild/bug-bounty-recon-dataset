@@ -5,8 +5,8 @@ http://cidevtools.braintree.tools:50000
 http://jenkinsqa.braintree.tools
 http://jenkinsqa.braintree.tools:50000
 http://jira.braintree.tools
-http://knowledge-test.braintree.tools
 http://knowledge.braintree.tools
+http://knowledge-test.braintree.tools
 https://application-inventory.braintree.tools
 https://brisk.braintree.tools
 https://briskqa.braintree.tools
@@ -29,8 +29,8 @@ https://graphite.stc.braintree.tools
 https://graphite.stq.braintree.tools
 https://jenkinsqa.braintree.tools
 https://jira.braintree.tools
-https://knowledge-test.braintree.tools
 https://knowledge.braintree.tools
+https://knowledge-test.braintree.tools
 https://luigi.braintree.tools
 https://osquery-manager.braintree.tools
 https://prodconf.braintree.tools

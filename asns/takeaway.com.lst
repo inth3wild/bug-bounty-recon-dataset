@@ -21,9 +21,9 @@ benl-shop.takeaway.com AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
 beta.shop.takeaway.com AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
 beta.takeaway.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
 bg-shop.takeaway.com AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
-blog-uk.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-blog.fr.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 blogbeta.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+blog.fr.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+blog-uk.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 bonus.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 bor-restaurant-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 brand.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
@@ -41,10 +41,10 @@ cloud.update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/1
 connect.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 consul.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
 consul.tkwy.services.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
-corporate.takeaway.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 corporate2.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-courier.prod.clops.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+corporate.takeaway.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 courierapp.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+courier.prod.clops.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 cw-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 cw-logs.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 delivery-situation-proxy.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -63,7 +63,6 @@ enterpriseregistration.takeaway.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.
 epoupd.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.216.0.0/15
 ext-restaurant-menu-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 feedbackgroup.takeaway.com AS14061 AS14061 - DIGITALOCEAN, LLC US 157.245.64.0/20
-fr.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 fr2.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 fra-consul.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
 fra-consul.tkwy.services.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
@@ -73,6 +72,7 @@ fra-pull-posapi.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185
 fra-pull-posapi.tkwy.services.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
 fra-restaurant-portal-api.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
 fra-restaurant-portal.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
+fr.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 geomaps.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.218.116.0/24
 gnmk.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 grafana.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
@@ -82,8 +82,8 @@ ibyv.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 ibyvu.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 iezz.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 image.connect.takeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.14.86.0/24
-image.update.takeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
 images.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.218.49.0/24
+image.update.takeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
 jamf-adcs.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.246.0.0/17
 jnyu.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 jobs.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -102,14 +102,14 @@ login.takeaway.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 loyaltyshop.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 lp-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 lu-shop.takeaway.com AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
-m.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 mattermost.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 79.125.0.0/18
 minisites.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
 mt2.takeaway.com AS33915 AS33915 - VODAFONE LIBERTEL B.V. NL 213.34.64.0/20
 mt3.takeaway.com AS33915 AS33915 - VODAFONE LIBERTEL B.V. NL 213.34.64.0/20
-mta.connect.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
-mta.update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 mta2.connect.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta.connect.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+m.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+mta.update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 mx-aw60.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 mx.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 nam-consul.tkwy.services.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.42.0/23
@@ -125,10 +125,10 @@ ns3.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 o475.ptr7918.jobalerts.takeaway.com AS11377 AS11377 - SENDGRID, INC. US 149.72.128.0/19
 o476.ptr7587.careeralerts.takeaway.com AS11377 AS11377 - SENDGRID, INC. US 149.72.128.0/19
 ocsp.takeaway.com AS200758 AS200758 - JUST EAT TAKEAWAY.COM NV NL 185.97.40.0/23
-opgs-support.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 opgs.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-order-now-toolkit.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+opgs-support.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 orderarchive-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+order-now-toolkit.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 orders.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 pages.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
@@ -155,8 +155,8 @@ pull-posapi.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
 pull-posapi.tkwy.services.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
 restaurant-portal-api.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 restaurant-portal.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-restaurant.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 restaurants.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+restaurant.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 ro-shop.takeaway.com AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
 sandbox-pull-posapi.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 scooberwebshop.takeaway.com AS20847 AS20847 - PREVIDER B.V. NL 31.7.0.0/22
@@ -177,41 +177,41 @@ tags.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 takeaway.com AS54113 AS54113 - FASTLY US 151.101.64.0/22
 takeaway.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 tcapp.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-tconnect-gateway.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
-tconnect.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
 tconnect2.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
+tconnect-gateway.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+tconnectqt2.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 tconnectqt-gateway.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
 tconnectqt.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.229.0.0/17
-tconnectqt2.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+tconnect.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
 tealium.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 telephony-service.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+testing-ibyv.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test-logistics.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
 test-onboarding.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
 test-onboarding.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 test-ordering.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
 test-ordering.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
 test-paynotif.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
+testpebbles.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test-shop.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.184.0.0/15
 test-vendor.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.93.128.0/17
-testing-ibyv.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-testpebbles.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 thuisbezorgd.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 tkwymx.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 tv.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 uk.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 unitedkingdom.www.vietnam.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 updates.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 version2.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 vietnam.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 view.connect.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 view.update.takeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
-vpn.takeaway.com AS3265 AS3265 - XS4ALL INTERNET BV NL 82.92.0.0/14
 vpn1.takeaway.com AS33915 AS33915 - VODAFONE LIBERTEL B.V. NL 213.34.64.0/20
 vpn2.takeaway.com AS39686 AS39686 - EUROFIBER NEDERLAND BV NL 144.178.192.0/19
 vpn3.takeaway.com AS33915 AS33915 - VODAFONE LIBERTEL B.V. NL 80.113.0.0/17
+vpn.takeaway.com AS3265 AS3265 - XS4ALL INTERNET BV NL 82.92.0.0/14
 webmail.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-widgets.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+widgets.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.146.0/24
 workday.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 www.corporate.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 www.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

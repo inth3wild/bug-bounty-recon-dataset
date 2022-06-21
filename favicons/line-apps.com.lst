@@ -9,19 +9,16 @@
 0	zero byte favicon	http://lg-scdn.line-apps.com/
 0	zero byte favicon	http://looks-api.line-apps.com/
 0	zero byte favicon	http://play.line-apps.com/
-0	zero byte favicon	http://scdn.line-apps.com/
-0	zero byte favicon	http://sdbx-help3rd.line-apps.com/
-0	zero byte favicon	http://sdbx-terms3rd.line-apps.com/
-0	zero byte favicon	http://shopcard.line-apps.com/
-0	zero byte favicon	http://sstatic-cbox.line-apps.com/
-0	zero byte favicon	http://tv-rmcnmv.line-apps.com/
-0	zero byte favicon	http://web-th-pay.line-apps.com/
 0	zero byte favicon	https://cdn-lg.line-apps.com/
+0	zero byte favicon	http://scdn.line-apps.com/
 0	zero byte favicon	https://cdn.line-apps.com/
 0	zero byte favicon	https://channel-schedule.line-apps.com/
 0	zero byte favicon	https://cnts-pay.line-apps.com/
+0	zero byte favicon	http://sdbx-help3rd.line-apps.com/
+0	zero byte favicon	http://sdbx-terms3rd.line-apps.com/
 0	zero byte favicon	https://foodie-api.line-apps.com/
 0	zero byte favicon	https://foodie-org.line-apps.com/
+0	zero byte favicon	http://shopcard.line-apps.com/
 0	zero byte favicon	https://img-pay.line-apps.com/
 0	zero byte favicon	https://lanimg-beta.line-apps.com/
 0	zero byte favicon	https://lanimg.line-apps.com/
@@ -39,17 +36,20 @@
 0	zero byte favicon	https://sdbx-terms3rd.line-apps.com/
 0	zero byte favicon	https://shopcard.line-apps.com/
 0	zero byte favicon	https://sstatic-cbox.line-apps.com/
+0	zero byte favicon	http://sstatic-cbox.line-apps.com/
 0	zero byte favicon	https://web-th-pay.line-apps.com/
 0	zero byte favicon	https://yuki-cdn.line-apps.com/
+0	zero byte favicon	http://tv-rmcnmv.line-apps.com/
+0	zero byte favicon	http://web-th-pay.line-apps.com/
 116323821	springboot	http://censor.line-apps.com/
 116323821	springboot	http://growthy-sandbox-growthywebcollector-80.line-apps.com/
 116323821	springboot	http://growthy-staging-growthywebcollector-80.line-apps.com/
-116323821	springboot	http://lg-growthy-sdbx.line-apps.com/
 116323821	springboot	http://lg-growthy.line-apps.com/
+116323821	springboot	http://lg-growthy-sdbx.line-apps.com/
 116323821	springboot	http://lg-internal-growthy-sdbx.line-apps.com/
 116323821	springboot	http://pty-web.line-apps.com/
-116323821	springboot	http://sc-oms-api.line-apps.com/
 116323821	springboot	https://categoryweb.line-apps.com/
+116323821	springboot	http://sc-oms-api.line-apps.com/
 116323821	springboot	https://fido-rp-pay.line-apps.com/
 116323821	springboot	https://growthy-sandbox-growthywebcollector-80.line-apps.com/
 116323821	springboot	https://growthy-staging-growthywebcollector-80.line-apps.com/
@@ -90,19 +90,16 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://lg-scdn.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://looks-api.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://org-scdn.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://play.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://scdn.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sdbx-help3rd.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sdbx-terms3rd.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopcard.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sstatic-cbox.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tv-rmcnmv.line-apps.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web-th-pay.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cdn-lg.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://scdn.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cdn.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://channel-schedule.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cnts-pay.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sdbx-help3rd.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sdbx-terms3rd.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://foodie-api.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://foodie-org.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://shopcard.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://img-pay.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://lanimg-beta.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://lanimg.line-apps.com/
@@ -120,17 +117,20 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sdbx-help3rd.line-app
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sdbx-terms3rd.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://shopcard.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sstatic-cbox.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sstatic-cbox.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web-th-pay.line-apps.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://yuki-cdn.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tv-rmcnmv.line-apps.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web-th-pay.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://censor.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://growthy-sandbox-growthywebcollector-80.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://growthy-staging-growthywebcollector-80.line-apps.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://lg-growthy-sdbx.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://lg-growthy.line-apps.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://lg-growthy-sdbx.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://lg-internal-growthy-sdbx.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://pty-web.line-apps.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://sc-oms-api.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://categoryweb.line-apps.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://sc-oms-api.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://fido-rp-pay.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://growthy-sandbox-growthywebcollector-80.line-apps.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://growthy-staging-growthywebcollector-80.line-apps.com/

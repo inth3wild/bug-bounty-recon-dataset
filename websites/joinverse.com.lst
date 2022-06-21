@@ -12,12 +12,6 @@ http://multiverse.joinverse.com
 http://multiverse.joinverse.com:8080
 http://pics.joinverse.com
 http://pics.joinverse.com:8080
-http://webhooks.api.joinverse.com
-http://webhooks.api.joinverse.com:8080
-http://www.ambassadors.joinverse.com
-http://www.ambassadors.joinverse.com:8080
-http://www.joinverse.com
-http://www.joinverse.com:8080
 https://ambassadors.joinverse.com
 https://app.joinverse.com
 https://bitpanda.api.joinverse.com
@@ -28,3 +22,9 @@ https://pics.joinverse.com
 https://webhooks.api.joinverse.com
 https://www.ambassadors.joinverse.com
 https://www.joinverse.com
+http://webhooks.api.joinverse.com
+http://webhooks.api.joinverse.com:8080
+http://www.ambassadors.joinverse.com
+http://www.ambassadors.joinverse.com:8080
+http://www.joinverse.com
+http://www.joinverse.com:8080

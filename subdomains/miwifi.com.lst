@@ -9,8 +9,8 @@ app.miwifi.com
 bigota.miwifi.com
 broker-global.miwifi.com
 broker.miwifi.com
-d.miwifi.com
 device.miwifi.com
+d.miwifi.com
 eu.api.miwifi.com
 eu.bigota.miwifi.com
 eu.broker.miwifi.com
@@ -35,11 +35,11 @@ proxy.miwifi.com
 router.miwifi.com
 ru.api.miwifi.com
 ru.broker.miwifi.com
-s.miwifi.com
 safe.miwifi.com
 sg.api.miwifi.com
 sg.broker.miwifi.com
 smart.miwifi.com
+s.miwifi.com
 stun.miwifi.com
 test.miwifi.com
 tw.api.miwifi.com
@@ -48,6 +48,7 @@ tw.log.miwifi.com
 us.api.miwifi.com
 us.log.miwifi.com
 weixin.miwifi.com
+www1.miwifi.com
 www.api.miwifi.com
 www.d.miwifi.com
 www.log.miwifi.com
@@ -58,4 +59,3 @@ www.s.miwifi.com
 www.staging.miwifi.com
 www.us.api.miwifi.com
 www.us.log.miwifi.com
-www1.miwifi.com

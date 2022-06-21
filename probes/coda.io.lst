@@ -1,4 +1,3 @@
-http://status.coda.io [403] [GET] [text/html] [] [] [ccb76ddae5c1131e1b9a68e5764d0f1e]
 https://1password-scim.infra.coda.io [200] [GET] [text/html] [1Password SCIM Bridge Login] [] [1458e5f1376d8b5333adce09ed932ca3]
 https://adhoc.coda.io [200] [GET] [text/html] [] [openresty/1.19.9.1] [Nginx,OpenResty] [36cd5f2e55497378b2e298c5d80a63f1]
 https://admin.coda.io [302] [GET] [text/plain] [] [] [vhost] [0b7f2a5c390c3e89565b9eae391ad462]
@@ -36,6 +35,7 @@ https://staging.coda.io [200] [GET] [text/html] [Coda | The doc that brings it a
 https://staging.coda.io [200] [GET] [text/html] [Coda | The doc that brings it all together.] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [435b303215e88d1230260da859ce3a2c]
 https://status.coda.io [200] [GET] [text/html] [Coda Status] [] [vhost] [Atlassian Statuspage] [4a15b39c7ec6a323eb26655dbb51a7cd]
 https://status.coda.io [200] [GET] [text/html] [Coda Status] [] [vhost] [Atlassian Statuspage] [564e3939ed152de255a241fe665f0d65]
+http://status.coda.io [403] [GET] [text/html] [] [] [ccb76ddae5c1131e1b9a68e5764d0f1e]
 https://www.coda.io [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [4aa7a432bb447f094408f1bd6229c605]
 https://www.head.coda.io [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [4aa7a432bb447f094408f1bd6229c605]
 https://www.staging.coda.io [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [4aa7a432bb447f094408f1bd6229c605]

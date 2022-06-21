@@ -1,127 +1,3 @@
--1298108480	yii php framework (default favicon)	http://wps.be.xiaomi.com/
--1298108480	yii php framework (default favicon)	https://wps.be.xiaomi.com/
--927895498	xiaomi	http://ad.pandora.xiaomi.com/
--927895498	xiaomi	http://api-translator.pandora.xiaomi.com/
--927895498	xiaomi	http://backend.xiaomi.com/
--927895498	xiaomi	http://bgp.pandora.xiaomi.com/
--927895498	xiaomi	http://bgp.tv.pandora.xiaomi.com/
--927895498	xiaomi	http://bss.pandora.xiaomi.com/
--927895498	xiaomi	http://c1.pandora.xiaomi.com/
--927895498	xiaomi	http://c3-cnc.pandora.xiaomi.com/
--927895498	xiaomi	http://c3.pandora.xiaomi.com/
--927895498	xiaomi	http://c4.pandora.xiaomi.com/
--927895498	xiaomi	http://cnc.pandora.xiaomi.com/
--927895498	xiaomi	http://comc3l7.pandora.xiaomi.com/
--927895498	xiaomi	http://comc5l7.pandora.xiaomi.com/
--927895498	xiaomi	http://ctc.tv.pandora.xiaomi.com/
--927895498	xiaomi	http://dms.xiaomi.com/
--927895498	xiaomi	http://dvb.pandora.xiaomi.com/
--927895498	xiaomi	http://gstat.pandora.xiaomi.com/
--927895498	xiaomi	http://huodong.xiaomi.com/
--927895498	xiaomi	http://i.huodong.xiaomi.com/
--927895498	xiaomi	http://ipv4.account.xiaomi.com/
--927895498	xiaomi	http://jellyfish.pandora.xiaomi.com/
--927895498	xiaomi	http://lg-bgp-misc.pandora.xiaomi.com/
--927895498	xiaomi	http://lg-cnc.pandora.xiaomi.com/
--927895498	xiaomi	http://log.pandora.xiaomi.com/
--927895498	xiaomi	http://m.bss.pandora.xiaomi.com/
--927895498	xiaomi	http://medial7.pandora.xiaomi.com/
--927895498	xiaomi	http://milink.pandora.xiaomi.com/
--927895498	xiaomi	http://milink.pds.pandora.xiaomi.com/
--927895498	xiaomi	http://mob.pandora.xiaomi.com/
--927895498	xiaomi	http://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
--927895498	xiaomi	http://mon.be.xiaomi.com/
--927895498	xiaomi	http://monitor.pandora.xiaomi.com/
--927895498	xiaomi	http://music.pandora.xiaomi.com/
--927895498	xiaomi	http://my.xiaomi.com/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8001/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8080/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8081/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8088/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8089/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8090/
--927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8099/
--927895498	xiaomi	http://ottl7.pandora.xiaomi.com/
--927895498	xiaomi	http://profile.pandora.xiaomi.com/
--927895498	xiaomi	http://ptmi.gitv.pandora.xiaomi.com/
--927895498	xiaomi	http://redirect.pandora.xiaomi.com/
--927895498	xiaomi	http://scraper.pandora.xiaomi.com/
--927895498	xiaomi	http://service.order.xiaomi.com/
--927895498	xiaomi	http://serviceapi.pay.xiaomi.com/
--927895498	xiaomi	http://sjs.ptmi.gitv.pandora.xiaomi.com/
--927895498	xiaomi	http://soundbar.pandora.xiaomi.com/
--927895498	xiaomi	http://tvepg.pandora.xiaomi.com/
--927895498	xiaomi	http://upgrade.pandora.xiaomi.com/
--927895498	xiaomi	http://user.pandora.xiaomi.com/
--927895498	xiaomi	http://v2.t001.ottcn.pandora.xiaomi.com/
--927895498	xiaomi	http://zhuti.designer.intl.xiaomi.com/
--927895498	xiaomi	https://3rd.mishop.pandora.xiaomi.com/
--927895498	xiaomi	https://ad.pandora.xiaomi.com/
--927895498	xiaomi	https://api-translator.pandora.xiaomi.com/
--927895498	xiaomi	https://api.scraper.pandora.xiaomi.com/
--927895498	xiaomi	https://b2capi.pay.xiaomi.com/
--927895498	xiaomi	https://backend.xiaomi.com/
--927895498	xiaomi	https://bgp.pandora.xiaomi.com/
--927895498	xiaomi	https://bgp.tv.pandora.xiaomi.com/
--927895498	xiaomi	https://box.pandora.xiaomi.com/
--927895498	xiaomi	https://bsp.misc.pandora.xiaomi.com/
--927895498	xiaomi	https://bsp.sasdc.pandora.xiaomi.com/
--927895498	xiaomi	https://bss.pandora.xiaomi.com/
--927895498	xiaomi	https://c1.pandora.xiaomi.com/
--927895498	xiaomi	https://c3-cnc.pandora.xiaomi.com/
--927895498	xiaomi	https://c3.pandora.xiaomi.com/
--927895498	xiaomi	https://c4.pandora.xiaomi.com/
--927895498	xiaomi	https://cnc.pandora.xiaomi.com/
--927895498	xiaomi	https://comc3l7.pandora.xiaomi.com/
--927895498	xiaomi	https://comc5l7.pandora.xiaomi.com/
--927895498	xiaomi	https://ctc.tv.pandora.xiaomi.com/
--927895498	xiaomi	https://de.pandora.xiaomi.com/
--927895498	xiaomi	https://dms.xiaomi.com/
--927895498	xiaomi	https://dvb.pandora.xiaomi.com/
--927895498	xiaomi	https://gallery.cp.pandora.xiaomi.com/
--927895498	xiaomi	https://gallery.pandora.xiaomi.com/
--927895498	xiaomi	https://gstat.pandora.xiaomi.com/
--927895498	xiaomi	https://gw.pay.xiaomi.com/
--927895498	xiaomi	https://gw8.pay.xiaomi.com/
--927895498	xiaomi	https://huodong.xiaomi.com/
--927895498	xiaomi	https://in.zhuti.designer.intl.xiaomi.com/
--927895498	xiaomi	https://ipv4.account.xiaomi.com/
--927895498	xiaomi	https://jellyfish.pandora.xiaomi.com/
--927895498	xiaomi	https://lg-bgp-misc.pandora.xiaomi.com/
--927895498	xiaomi	https://lg-cnc.pandora.xiaomi.com/
--927895498	xiaomi	https://log.pandora.xiaomi.com/
--927895498	xiaomi	https://m.bss.pandora.xiaomi.com/
--927895498	xiaomi	https://mantual.pandora.xiaomi.com/
--927895498	xiaomi	https://milink.pandora.xiaomi.com/
--927895498	xiaomi	https://milink.pds.pandora.xiaomi.com/
--927895498	xiaomi	https://miuiapi.pay.xiaomi.com/
--927895498	xiaomi	https://mob.pandora.xiaomi.com/
--927895498	xiaomi	https://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
--927895498	xiaomi	https://mon.be.xiaomi.com/
--927895498	xiaomi	https://monitor.pandora.xiaomi.com/
--927895498	xiaomi	https://music.pandora.xiaomi.com/
--927895498	xiaomi	https://my.xiaomi.com/
--927895498	xiaomi	https://ota.cdn.pandora.xiaomi.com/
--927895498	xiaomi	https://ottl7.pandora.xiaomi.com/
--927895498	xiaomi	https://ptmi.gitv.pandora.xiaomi.com/
--927895498	xiaomi	https://redirect.pandora.xiaomi.com/
--927895498	xiaomi	https://scraper.pandora.xiaomi.com/
--927895498	xiaomi	https://sharemserver.pandora.xiaomi.com/
--927895498	xiaomi	https://sjs.ptmi.gitv.pandora.xiaomi.com/
--927895498	xiaomi	https://soundbar.pandora.xiaomi.com/
--927895498	xiaomi	https://theme.pandora.xiaomi.com/
--927895498	xiaomi	https://tv.weixin.pandora.xiaomi.com/
--927895498	xiaomi	https://tvmanager.pandora.xiaomi.com/
--927895498	xiaomi	https://tvmgr.pandora.xiaomi.com/
--927895498	xiaomi	https://tvstat.pandora.xiaomi.com/
--927895498	xiaomi	https://upgrade.mishop.pandora.xiaomi.com/
--927895498	xiaomi	https://upgrade.pandora.xiaomi.com/
--927895498	xiaomi	https://user.pandora.xiaomi.com/
--927895498	xiaomi	https://v2.t001.ottcn.pandora.xiaomi.com/
--927895498	xiaomi	https://weather.pandora.xiaomi.com/
--927895498	xiaomi	https://weixin.pandora.xiaomi.com/
--927895498	xiaomi	https://zhuti.designer.intl.xiaomi.com/
 0	zero byte favicon	http://a0.app.xiaomi.com/
 0	zero byte favicon	http://api.ad.intl.xiaomi.com/
 0	zero byte favicon	http://api.ad.xiaomi.com/
@@ -132,6 +8,7 @@
 0	zero byte favicon	http://api.zhuti.intl.xiaomi.com/
 0	zero byte favicon	http://api.zhuti.xiaomi.com/
 0	zero byte favicon	http://app.market.xiaomi.com/
+0	zero byte favicon	http://apps.xiaomi.com/
 0	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com/
 0	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8001/
 0	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8080/
@@ -141,8 +18,6 @@
 0	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8090/
 0	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8099/
 0	zero byte favicon	http://app.xiaomi.com/
-0	zero byte favicon	http://apps.xiaomi.com/
-0	zero byte favicon	http://b.pay.xiaomi.com/
 0	zero byte favicon	http://b0.market.xiaomi.com/
 0	zero byte favicon	http://b1.market.xiaomi.com/
 0	zero byte favicon	http://b2.market.xiaomi.com/
@@ -155,13 +30,14 @@
 0	zero byte favicon	http://b9.market.xiaomi.com/
 0	zero byte favicon	http://bg0.market.xiaomi.com/
 0	zero byte favicon	http://bg1.market.xiaomi.com/
+0	zero byte favicon	http://b.pay.xiaomi.com/
 0	zero byte favicon	http://ccc.sys.intl.xiaomi.com/
 0	zero byte favicon	http://contract.shopapi.xiaomi.com/
 0	zero byte favicon	http://cs.pt.xiaomi.com/
 0	zero byte favicon	http://custom.zhuti.xiaomi.com/
 0	zero byte favicon	http://designer.xiaomi.com/
-0	zero byte favicon	http://dev.xiaomi.com/
 0	zero byte favicon	http://developer.xiaomi.com/
+0	zero byte favicon	http://dev.xiaomi.com/
 0	zero byte favicon	http://drm.market.intl.xiaomi.com/
 0	zero byte favicon	http://drm.market.xiaomi.com/
 0	zero byte favicon	http://en.designer.xiaomi.com/
@@ -181,7 +57,6 @@
 0	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.a3puvfl1ik.elb.xiaomi.com/
 0	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.dwddxgqyqv.elb.xiaomi.com/
 0	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.kekfw3jui8.elb.xiaomi.com/
-0	zero byte favicon	http://f1.market.xiaomi.com/
 0	zero byte favicon	http://f10.market.xiaomi.com/
 0	zero byte favicon	http://f11.market.xiaomi.com/
 0	zero byte favicon	http://f12.market.xiaomi.com/
@@ -190,6 +65,7 @@
 0	zero byte favicon	http://f16.market.xiaomi.com/
 0	zero byte favicon	http://f17.market.xiaomi.com/
 0	zero byte favicon	http://f19.market.xiaomi.com/
+0	zero byte favicon	http://f1.market.xiaomi.com/
 0	zero byte favicon	http://f2.market.xiaomi.com/
 0	zero byte favicon	http://f3.market.xiaomi.com/
 0	zero byte favicon	http://f4.market.xiaomi.com/
@@ -210,9 +86,9 @@
 0	zero byte favicon	http://file.market.xiaomi.com/
 0	zero byte favicon	http://fn.market.xiaomi.com/
 0	zero byte favicon	http://g0.market.xiaomi.com/
+0	zero byte favicon	http://globalapi.ad.xiaomi.com/
 0	zero byte favicon	http://global.developer.xiaomi.com/
 0	zero byte favicon	http://global.market.xiaomi.com/
-0	zero byte favicon	http://globalapi.ad.xiaomi.com/
 0	zero byte favicon	http://globalnileapi.market.xiaomi.com/
 0	zero byte favicon	http://h0.market.xiaomi.com/
 0	zero byte favicon	http://h1.market.xiaomi.com/
@@ -225,23 +101,23 @@
 0	zero byte favicon	http://h9.market.xiaomi.com/
 0	zero byte favicon	http://hk.mibi.api.xiaomi.com/
 0	zero byte favicon	http://hy.game.xiaomi.com/
-0	zero byte favicon	http://images.cdn.pt.xiaomi.com/
 0	zero byte favicon	http://images0.cdn.pt.xiaomi.com/
 0	zero byte favicon	http://images2.cdn.pt.xiaomi.com/
 0	zero byte favicon	http://images3.cdn.pt.xiaomi.com/
 0	zero byte favicon	http://images6.cdn.pt.xiaomi.com/
+0	zero byte favicon	http://images.cdn.pt.xiaomi.com/
 0	zero byte favicon	http://land.cname.xiaomi.com/
 0	zero byte favicon	http://log.ad.xiaomi.com/
 0	zero byte favicon	http://m.app.xiaomi.com/
-0	zero byte favicon	http://m.hk.mibi.xiaomi.com/
-0	zero byte favicon	http://m.mibi.xiaomi.com/
-0	zero byte favicon	http://m.pay.xiaomi.com/
-0	zero byte favicon	http://m.zhuti.xiaomi.com/
 0	zero byte favicon	http://market.xiaomi.com/
+0	zero byte favicon	http://m.hk.mibi.xiaomi.com/
 0	zero byte favicon	http://mias.market.xiaomi.com/
 0	zero byte favicon	http://mibi.api.xiaomi.com/
 0	zero byte favicon	http://mibi.xiaomi.com/
 0	zero byte favicon	http://mitunes.market.xiaomi.com/
+0	zero byte favicon	http://m.mibi.xiaomi.com/
+0	zero byte favicon	http://m.pay.xiaomi.com/
+0	zero byte favicon	http://m.zhuti.xiaomi.com/
 0	zero byte favicon	http://nileapi.market.xiaomi.com/
 0	zero byte favicon	http://ofile.market.xiaomi.com/
 0	zero byte favicon	http://ofile.market.xiaomi.com:8001/
@@ -258,17 +134,166 @@
 0	zero byte favicon	http://recharge.pay.xiaomi.com/
 0	zero byte favicon	http://redpack.pay.xiaomi.com/
 0	zero byte favicon	http://repos.xiaomi.com/
-0	zero byte favicon	http://s.pay.xiaomi.com/
-0	zero byte favicon	http://sf.pay.xiaomi.com/
+0	zero byte favicon	https://a0.app.xiaomi.com/
+0	zero byte favicon	https://api.ad.intl.xiaomi.com/
+0	zero byte favicon	https://api.ad.xiaomi.com/
+0	zero byte favicon	https://api.designer.xiaomi.com/
+0	zero byte favicon	https://api.developer.xiaomi.com/
+0	zero byte favicon	https://api.miui.security.xiaomi.com/
+0	zero byte favicon	https://api.pay.xiaomi.com/
+0	zero byte favicon	https://api.zhuti.intl.xiaomi.com/
+0	zero byte favicon	https://api.zhuti.xiaomi.com/
+0	zero byte favicon	https://app.market.xiaomi.com/
+0	zero byte favicon	https://app.wallpaper.cdn.pandora.xiaomi.com/
+0	zero byte favicon	https://app.xiaomi.com/
+0	zero byte favicon	https://b0.market.xiaomi.com/
+0	zero byte favicon	https://b1.market.xiaomi.com/
+0	zero byte favicon	https://b2.market.xiaomi.com/
+0	zero byte favicon	https://b3.market.xiaomi.com/
+0	zero byte favicon	https://b4.market.xiaomi.com/
+0	zero byte favicon	https://b5.market.xiaomi.com/
+0	zero byte favicon	https://b6.market.xiaomi.com/
+0	zero byte favicon	https://b7.market.xiaomi.com/
+0	zero byte favicon	https://b8.market.xiaomi.com/
+0	zero byte favicon	https://b9.market.xiaomi.com/
+0	zero byte favicon	https://bbs.xiaomi.com/
+0	zero byte favicon	https://bg0.market.xiaomi.com/
+0	zero byte favicon	https://bg1.market.xiaomi.com/
+0	zero byte favicon	https://b.pay.xiaomi.com/
+0	zero byte favicon	https://cash.pay.xiaomi.com/
+0	zero byte favicon	https://ccc.sys.intl.xiaomi.com/
+0	zero byte favicon	https://contract.shopapi.xiaomi.com/
+0	zero byte favicon	https://controller.india.xiaomi.com/
+0	zero byte favicon	https://controller.intl.xiaomi.com/
+0	zero byte favicon	https://cs.pt.xiaomi.com/
+0	zero byte favicon	https://custom.zhuti.xiaomi.com/
+0	zero byte favicon	https://dev.xiaomi.com/
+0	zero byte favicon	https://drm.market.intl.xiaomi.com/
+0	zero byte favicon	https://drm.market.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-south-1.miui-l7-middle.vab1p8mnqy.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-mgp.bvhawmvgcp.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.c3.miui-l7-assistant-pt.ghjxaejktw.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.c3.miui-l7-vip.4iurt3sqql.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.ic5znxsxzb.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.qcuw1esech.elb.xiaomi.com/
+0	zero byte favicon	https://extranet.c4.miui-l7-vip.2tvizjzldf.elb.xiaomi.com/
 0	zero byte favicon	http://sf0.market.xiaomi.com/
+0	zero byte favicon	https://f10.market.xiaomi.com/
+0	zero byte favicon	https://f11.market.xiaomi.com/
+0	zero byte favicon	https://f12.market.xiaomi.com/
+0	zero byte favicon	https://f13.market.xiaomi.com/
+0	zero byte favicon	https://f14.market.xiaomi.com/
+0	zero byte favicon	https://f16.market.xiaomi.com/
+0	zero byte favicon	https://f17.market.xiaomi.com/
+0	zero byte favicon	https://f19.market.xiaomi.com/
+0	zero byte favicon	https://f1.market.xiaomi.com/
+0	zero byte favicon	https://f2.market.xiaomi.com/
+0	zero byte favicon	https://f3.market.xiaomi.com/
+0	zero byte favicon	https://f4.market.xiaomi.com/
+0	zero byte favicon	https://f5.market.xiaomi.com/
+0	zero byte favicon	https://f6.market.xiaomi.com/
+0	zero byte favicon	https://f7.market.xiaomi.com/
+0	zero byte favicon	https://f8.market.xiaomi.com/
+0	zero byte favicon	https://f9.market.xiaomi.com/
+0	zero byte favicon	https://fcw.pay.xiaomi.com/
+0	zero byte favicon	https://ff0.market.xiaomi.com/
+0	zero byte favicon	https://fga1.market.xiaomi.com/
+0	zero byte favicon	https://fgb0.market.xiaomi.com/
+0	zero byte favicon	https://fgc0.market.xiaomi.com/
+0	zero byte favicon	https://fgc1.market.xiaomi.com/
+0	zero byte favicon	https://fgc2.market.xiaomi.com/
+0	zero byte favicon	https://file.market.xiaomi.com/
+0	zero byte favicon	https://fn.market.xiaomi.com/
+0	zero byte favicon	http://sf.pay.xiaomi.com/
+0	zero byte favicon	https://g0.market.xiaomi.com/
+0	zero byte favicon	https://globalapi.ad.xiaomi.com/
+0	zero byte favicon	https://global.developer.xiaomi.com/
+0	zero byte favicon	https://global.market.xiaomi.com/
+0	zero byte favicon	https://globalnileapi.market.xiaomi.com/
 0	zero byte favicon	http://sgpapi.ad.intl.xiaomi.com/
+0	zero byte favicon	https://h0.market.xiaomi.com/
+0	zero byte favicon	https://h1.market.xiaomi.com/
+0	zero byte favicon	https://h2.market.xiaomi.com/
+0	zero byte favicon	https://h4.market.xiaomi.com/
+0	zero byte favicon	https://h5.market.xiaomi.com/
+0	zero byte favicon	https://h7.market.xiaomi.com/
+0	zero byte favicon	https://h8.market.xiaomi.com/
+0	zero byte favicon	https://h9.market.xiaomi.com/
+0	zero byte favicon	https://hk.mibi.api.xiaomi.com/
+0	zero byte favicon	https://hy.game.xiaomi.com/
+0	zero byte favicon	https://images0.cdn.pt.xiaomi.com/
+0	zero byte favicon	https://images2.cdn.pt.xiaomi.com/
+0	zero byte favicon	https://images3.cdn.pt.xiaomi.com/
+0	zero byte favicon	https://images6.cdn.pt.xiaomi.com/
+0	zero byte favicon	https://images.cdn.pt.xiaomi.com/
+0	zero byte favicon	https://log.ad.xiaomi.com/
+0	zero byte favicon	https://m.app.xiaomi.com/
+0	zero byte favicon	https://m.hk.mibi.xiaomi.com/
+0	zero byte favicon	https://mias.market.xiaomi.com/
+0	zero byte favicon	https://mibi.api.xiaomi.com/
+0	zero byte favicon	https://mibi.xiaomi.com/
+0	zero byte favicon	https://m.mibi.xiaomi.com/
+0	zero byte favicon	https://m.pay.xiaomi.com/
+0	zero byte favicon	https://nileapi.market.xiaomi.com/
+0	zero byte favicon	https://ofile.market.xiaomi.com/
+0	zero byte favicon	https://open.content.pt.xiaomi.com/
+0	zero byte favicon	http://s.pay.xiaomi.com/
+0	zero byte favicon	https://pay.xiaomi.com/
+0	zero byte favicon	https://proxy.recharge.pay.xiaomi.com/
+0	zero byte favicon	https://r.app.xiaomi.com/
+0	zero byte favicon	https://recharge.pay.xiaomi.com/
+0	zero byte favicon	https://redpack.pay.xiaomi.com/
+0	zero byte favicon	https://repos.xiaomi.com/
+0	zero byte favicon	https://sentry.pay.xiaomi.com/
+0	zero byte favicon	https://sf0.market.xiaomi.com/
+0	zero byte favicon	https://sf.pay.xiaomi.com/
+0	zero byte favicon	https://sgpapi.ad.intl.xiaomi.com/
+0	zero byte favicon	https://s.pay.xiaomi.com/
+0	zero byte favicon	https://static.pay.xiaomi.com/
+0	zero byte favicon	https://stat.pay.xiaomi.com/
+0	zero byte favicon	https://t10.market.xiaomi.com/
+0	zero byte favicon	https://t12.market.xiaomi.com/
+0	zero byte favicon	https://t13.market.xiaomi.com/
+0	zero byte favicon	https://t14.market.xiaomi.com/
+0	zero byte favicon	https://t15.market.xiaomi.com/
+0	zero byte favicon	https://t18.market.xiaomi.com/
+0	zero byte favicon	https://t19.market.xiaomi.com/
+0	zero byte favicon	https://t1.a.market.xiaomi.com/
+0	zero byte favicon	https://t1.market.xiaomi.com/
+0	zero byte favicon	https://t2.a.market.xiaomi.com/
+0	zero byte favicon	https://t2.market.xiaomi.com/
+0	zero byte favicon	https://t3.a.market.xiaomi.com/
+0	zero byte favicon	https://t3.market.xiaomi.com/
+0	zero byte favicon	https://t4.a.market.xiaomi.com/
+0	zero byte favicon	https://t4.market.xiaomi.com/
+0	zero byte favicon	https://t5.a.market.xiaomi.com/
+0	zero byte favicon	https://t5.market.xiaomi.com/
+0	zero byte favicon	https://t6.market.xiaomi.com/
+0	zero byte favicon	https://t7.market.xiaomi.com/
+0	zero byte favicon	https://t8.market.xiaomi.com/
+0	zero byte favicon	https://t9.market.xiaomi.com/
 0	zero byte favicon	http://staging.mifi.pt.xiaomi.com/
-0	zero byte favicon	http://stat.pay.xiaomi.com/
 0	zero byte favicon	http://static.pay.xiaomi.com/
 0	zero byte favicon	http://static.pay.xiaomi.com:8080/
-0	zero byte favicon	http://t1.a.market.xiaomi.com/
-0	zero byte favicon	http://t1.a.market.xiaomi.com:8080/
-0	zero byte favicon	http://t1.market.xiaomi.com/
+0	zero byte favicon	http://stat.pay.xiaomi.com/
+0	zero byte favicon	https://thm.market.intl.xiaomi.com/
+0	zero byte favicon	https://tsmapi.pay.xiaomi.com/
+0	zero byte favicon	https://utility.recharge.pay.xiaomi.com/
+0	zero byte favicon	https://v1.market.xiaomi.com/
+0	zero byte favicon	https://v2.market.xiaomi.com/
+0	zero byte favicon	https://vd0.market.xiaomi.com/
+0	zero byte favicon	https://video.market.xiaomi.com/
+0	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
+0	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
+0	zero byte favicon	https://web.music.xiaomi.com/
+0	zero byte favicon	https://web.recharge.pay.xiaomi.com/
+0	zero byte favicon	https://www.account.xiaomi.com/
+0	zero byte favicon	https://zhuti.intl.xiaomi.com/
 0	zero byte favicon	http://t10.market.xiaomi.com/
 0	zero byte favicon	http://t12.market.xiaomi.com/
 0	zero byte favicon	http://t13.market.xiaomi.com/
@@ -276,6 +301,9 @@
 0	zero byte favicon	http://t15.market.xiaomi.com/
 0	zero byte favicon	http://t18.market.xiaomi.com/
 0	zero byte favicon	http://t19.market.xiaomi.com/
+0	zero byte favicon	http://t1.a.market.xiaomi.com/
+0	zero byte favicon	http://t1.a.market.xiaomi.com:8080/
+0	zero byte favicon	http://t1.market.xiaomi.com/
 0	zero byte favicon	http://t2.a.market.xiaomi.com/
 0	zero byte favicon	http://t2.market.xiaomi.com/
 0	zero byte favicon	http://t3.a.market.xiaomi.com/
@@ -305,158 +333,6 @@
 0	zero byte favicon	http://www.account.xiaomi.com/
 0	zero byte favicon	http://yingyong.xiaomi.com/
 0	zero byte favicon	http://zhuti.intl.xiaomi.com/
-0	zero byte favicon	https://a0.app.xiaomi.com/
-0	zero byte favicon	https://api.ad.intl.xiaomi.com/
-0	zero byte favicon	https://api.ad.xiaomi.com/
-0	zero byte favicon	https://api.designer.xiaomi.com/
-0	zero byte favicon	https://api.developer.xiaomi.com/
-0	zero byte favicon	https://api.miui.security.xiaomi.com/
-0	zero byte favicon	https://api.pay.xiaomi.com/
-0	zero byte favicon	https://api.zhuti.intl.xiaomi.com/
-0	zero byte favicon	https://api.zhuti.xiaomi.com/
-0	zero byte favicon	https://app.market.xiaomi.com/
-0	zero byte favicon	https://app.wallpaper.cdn.pandora.xiaomi.com/
-0	zero byte favicon	https://app.xiaomi.com/
-0	zero byte favicon	https://b.pay.xiaomi.com/
-0	zero byte favicon	https://b0.market.xiaomi.com/
-0	zero byte favicon	https://b1.market.xiaomi.com/
-0	zero byte favicon	https://b2.market.xiaomi.com/
-0	zero byte favicon	https://b3.market.xiaomi.com/
-0	zero byte favicon	https://b4.market.xiaomi.com/
-0	zero byte favicon	https://b5.market.xiaomi.com/
-0	zero byte favicon	https://b6.market.xiaomi.com/
-0	zero byte favicon	https://b7.market.xiaomi.com/
-0	zero byte favicon	https://b8.market.xiaomi.com/
-0	zero byte favicon	https://b9.market.xiaomi.com/
-0	zero byte favicon	https://bbs.xiaomi.com/
-0	zero byte favicon	https://bg0.market.xiaomi.com/
-0	zero byte favicon	https://bg1.market.xiaomi.com/
-0	zero byte favicon	https://cash.pay.xiaomi.com/
-0	zero byte favicon	https://ccc.sys.intl.xiaomi.com/
-0	zero byte favicon	https://contract.shopapi.xiaomi.com/
-0	zero byte favicon	https://controller.india.xiaomi.com/
-0	zero byte favicon	https://controller.intl.xiaomi.com/
-0	zero byte favicon	https://cs.pt.xiaomi.com/
-0	zero byte favicon	https://custom.zhuti.xiaomi.com/
-0	zero byte favicon	https://dev.xiaomi.com/
-0	zero byte favicon	https://drm.market.intl.xiaomi.com/
-0	zero byte favicon	https://drm.market.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-south-1.miui-l7-middle.vab1p8mnqy.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-mgp.bvhawmvgcp.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.c3.miui-l7-assistant-pt.ghjxaejktw.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.ic5znxsxzb.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.qcuw1esech.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.c3.miui-l7-vip.4iurt3sqql.elb.xiaomi.com/
-0	zero byte favicon	https://extranet.c4.miui-l7-vip.2tvizjzldf.elb.xiaomi.com/
-0	zero byte favicon	https://f1.market.xiaomi.com/
-0	zero byte favicon	https://f10.market.xiaomi.com/
-0	zero byte favicon	https://f11.market.xiaomi.com/
-0	zero byte favicon	https://f12.market.xiaomi.com/
-0	zero byte favicon	https://f13.market.xiaomi.com/
-0	zero byte favicon	https://f14.market.xiaomi.com/
-0	zero byte favicon	https://f16.market.xiaomi.com/
-0	zero byte favicon	https://f17.market.xiaomi.com/
-0	zero byte favicon	https://f19.market.xiaomi.com/
-0	zero byte favicon	https://f2.market.xiaomi.com/
-0	zero byte favicon	https://f3.market.xiaomi.com/
-0	zero byte favicon	https://f4.market.xiaomi.com/
-0	zero byte favicon	https://f5.market.xiaomi.com/
-0	zero byte favicon	https://f6.market.xiaomi.com/
-0	zero byte favicon	https://f7.market.xiaomi.com/
-0	zero byte favicon	https://f8.market.xiaomi.com/
-0	zero byte favicon	https://f9.market.xiaomi.com/
-0	zero byte favicon	https://fcw.pay.xiaomi.com/
-0	zero byte favicon	https://ff0.market.xiaomi.com/
-0	zero byte favicon	https://fga1.market.xiaomi.com/
-0	zero byte favicon	https://fgb0.market.xiaomi.com/
-0	zero byte favicon	https://fgc0.market.xiaomi.com/
-0	zero byte favicon	https://fgc1.market.xiaomi.com/
-0	zero byte favicon	https://fgc2.market.xiaomi.com/
-0	zero byte favicon	https://file.market.xiaomi.com/
-0	zero byte favicon	https://fn.market.xiaomi.com/
-0	zero byte favicon	https://g0.market.xiaomi.com/
-0	zero byte favicon	https://global.developer.xiaomi.com/
-0	zero byte favicon	https://global.market.xiaomi.com/
-0	zero byte favicon	https://globalapi.ad.xiaomi.com/
-0	zero byte favicon	https://globalnileapi.market.xiaomi.com/
-0	zero byte favicon	https://h0.market.xiaomi.com/
-0	zero byte favicon	https://h1.market.xiaomi.com/
-0	zero byte favicon	https://h2.market.xiaomi.com/
-0	zero byte favicon	https://h4.market.xiaomi.com/
-0	zero byte favicon	https://h5.market.xiaomi.com/
-0	zero byte favicon	https://h7.market.xiaomi.com/
-0	zero byte favicon	https://h8.market.xiaomi.com/
-0	zero byte favicon	https://h9.market.xiaomi.com/
-0	zero byte favicon	https://hk.mibi.api.xiaomi.com/
-0	zero byte favicon	https://hy.game.xiaomi.com/
-0	zero byte favicon	https://images.cdn.pt.xiaomi.com/
-0	zero byte favicon	https://images0.cdn.pt.xiaomi.com/
-0	zero byte favicon	https://images2.cdn.pt.xiaomi.com/
-0	zero byte favicon	https://images3.cdn.pt.xiaomi.com/
-0	zero byte favicon	https://images6.cdn.pt.xiaomi.com/
-0	zero byte favicon	https://log.ad.xiaomi.com/
-0	zero byte favicon	https://m.app.xiaomi.com/
-0	zero byte favicon	https://m.hk.mibi.xiaomi.com/
-0	zero byte favicon	https://m.mibi.xiaomi.com/
-0	zero byte favicon	https://m.pay.xiaomi.com/
-0	zero byte favicon	https://mias.market.xiaomi.com/
-0	zero byte favicon	https://mibi.api.xiaomi.com/
-0	zero byte favicon	https://mibi.xiaomi.com/
-0	zero byte favicon	https://nileapi.market.xiaomi.com/
-0	zero byte favicon	https://ofile.market.xiaomi.com/
-0	zero byte favicon	https://open.content.pt.xiaomi.com/
-0	zero byte favicon	https://pay.xiaomi.com/
-0	zero byte favicon	https://proxy.recharge.pay.xiaomi.com/
-0	zero byte favicon	https://r.app.xiaomi.com/
-0	zero byte favicon	https://recharge.pay.xiaomi.com/
-0	zero byte favicon	https://redpack.pay.xiaomi.com/
-0	zero byte favicon	https://repos.xiaomi.com/
-0	zero byte favicon	https://s.pay.xiaomi.com/
-0	zero byte favicon	https://sentry.pay.xiaomi.com/
-0	zero byte favicon	https://sf.pay.xiaomi.com/
-0	zero byte favicon	https://sf0.market.xiaomi.com/
-0	zero byte favicon	https://sgpapi.ad.intl.xiaomi.com/
-0	zero byte favicon	https://stat.pay.xiaomi.com/
-0	zero byte favicon	https://static.pay.xiaomi.com/
-0	zero byte favicon	https://t1.a.market.xiaomi.com/
-0	zero byte favicon	https://t1.market.xiaomi.com/
-0	zero byte favicon	https://t10.market.xiaomi.com/
-0	zero byte favicon	https://t12.market.xiaomi.com/
-0	zero byte favicon	https://t13.market.xiaomi.com/
-0	zero byte favicon	https://t14.market.xiaomi.com/
-0	zero byte favicon	https://t15.market.xiaomi.com/
-0	zero byte favicon	https://t18.market.xiaomi.com/
-0	zero byte favicon	https://t19.market.xiaomi.com/
-0	zero byte favicon	https://t2.a.market.xiaomi.com/
-0	zero byte favicon	https://t2.market.xiaomi.com/
-0	zero byte favicon	https://t3.a.market.xiaomi.com/
-0	zero byte favicon	https://t3.market.xiaomi.com/
-0	zero byte favicon	https://t4.a.market.xiaomi.com/
-0	zero byte favicon	https://t4.market.xiaomi.com/
-0	zero byte favicon	https://t5.a.market.xiaomi.com/
-0	zero byte favicon	https://t5.market.xiaomi.com/
-0	zero byte favicon	https://t6.market.xiaomi.com/
-0	zero byte favicon	https://t7.market.xiaomi.com/
-0	zero byte favicon	https://t8.market.xiaomi.com/
-0	zero byte favicon	https://t9.market.xiaomi.com/
-0	zero byte favicon	https://thm.market.intl.xiaomi.com/
-0	zero byte favicon	https://tsmapi.pay.xiaomi.com/
-0	zero byte favicon	https://utility.recharge.pay.xiaomi.com/
-0	zero byte favicon	https://v1.market.xiaomi.com/
-0	zero byte favicon	https://v2.market.xiaomi.com/
-0	zero byte favicon	https://vd0.market.xiaomi.com/
-0	zero byte favicon	https://video.market.xiaomi.com/
-0	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
-0	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
-0	zero byte favicon	https://web.music.xiaomi.com/
-0	zero byte favicon	https://web.recharge.pay.xiaomi.com/
-0	zero byte favicon	https://www.account.xiaomi.com/
-0	zero byte favicon	https://zhuti.intl.xiaomi.com/
 116323821	springboot	http://account-dcm.ai.xiaomi.com/
 116323821	springboot	http://browserapi.market.xiaomi.com/
 116323821	springboot	http://control.preload.xiaomi.com/
@@ -468,10 +344,6 @@
 116323821	springboot	http://maf.be.xiaomi.com/
 116323821	springboot	http://mal.be.xiaomi.com/
 116323821	springboot	http://ru.video.intl.xiaomi.com/
-116323821	springboot	http://ssp.xiaomi.com/
-116323821	springboot	http://t.app.xiaomi.com/
-116323821	springboot	http://thm.market.xiaomi.com/
-116323821	springboot	http://translator.pandora.xiaomi.com/
 116323821	springboot	https://account-dcm.ai.xiaomi.com/
 116323821	springboot	https://browserapi.market.xiaomi.com/
 116323821	springboot	https://control.preload.xiaomi.com/
@@ -485,11 +357,17 @@
 116323821	springboot	https://maf.be.xiaomi.com/
 116323821	springboot	https://mal.be.xiaomi.com/
 116323821	springboot	https://ru.video.intl.xiaomi.com/
+116323821	springboot	http://ssp.xiaomi.com/
 116323821	springboot	https://t.app.xiaomi.com/
 116323821	springboot	https://thm.market.xiaomi.com/
 116323821	springboot	https://translator.pandora.xiaomi.com/
 116323821	springboot	https://tz.sec.xiaomi.com/
 116323821	springboot	https://verify.sec.xiaomi.com/
+116323821	springboot	http://t.app.xiaomi.com/
+116323821	springboot	http://thm.market.xiaomi.com/
+116323821	springboot	http://translator.pandora.xiaomi.com/
+-1298108480	yii php framework (default favicon)	https://wps.be.xiaomi.com/
+-1298108480	yii php framework (default favicon)	http://wps.be.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ad.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://api-translator.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://backend.xiaomi.com/
@@ -519,8 +397,8 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://medial7.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://milink.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://milink.pds.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://mob.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://mob.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://mon.be.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://monitor.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://music.pandora.xiaomi.com/
@@ -537,20 +415,10 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://profile.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ptmi.gitv.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://redirect.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://scraper.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://service.order.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://serviceapi.pay.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sjs.ptmi.gitv.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://soundbar.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://tvepg.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://upgrade.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://user.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://v2.t001.ottcn.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://zhuti.designer.intl.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://3rd.mishop.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ad.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://api-translator.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://api.scraper.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://api-translator.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://b2capi.pay.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://backend.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://bgp.pandora.xiaomi.com/
@@ -566,35 +434,40 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://cnc.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://comc3l7.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://comc5l7.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://scraper.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ctc.tv.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://de.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://dms.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://dvb.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://serviceapi.pay.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://service.order.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gallery.cp.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gallery.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gstat.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gw.pay.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gw8.pay.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gw.pay.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://huodong.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://in.zhuti.designer.intl.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ipv4.account.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://jellyfish.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sjs.ptmi.gitv.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://lg-bgp-misc.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://lg-cnc.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://log.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://m.bss.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mantual.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://m.bss.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://milink.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://milink.pds.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://miuiapi.pay.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mob.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mob.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mon.be.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://monitor.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://music.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://my.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ota.cdn.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ottl7.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://soundbar.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ptmi.gitv.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://redirect.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://scraper.pandora.xiaomi.com/
@@ -602,10 +475,10 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://sjs.ptmi.gitv.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://soundbar.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://theme.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://tv.weixin.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://tvmanager.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://tvmgr.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://tvstat.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://tv.weixin.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://upgrade.mishop.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://upgrade.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://user.pandora.xiaomi.com/
@@ -613,6 +486,133 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://weather.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://weixin.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://zhuti.designer.intl.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://tvepg.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://upgrade.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://user.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://v2.t001.ottcn.pandora.xiaomi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://zhuti.designer.intl.xiaomi.com/
+-927895498	xiaomi	http://ad.pandora.xiaomi.com/
+-927895498	xiaomi	http://api-translator.pandora.xiaomi.com/
+-927895498	xiaomi	http://backend.xiaomi.com/
+-927895498	xiaomi	http://bgp.pandora.xiaomi.com/
+-927895498	xiaomi	http://bgp.tv.pandora.xiaomi.com/
+-927895498	xiaomi	http://bss.pandora.xiaomi.com/
+-927895498	xiaomi	http://c1.pandora.xiaomi.com/
+-927895498	xiaomi	http://c3-cnc.pandora.xiaomi.com/
+-927895498	xiaomi	http://c3.pandora.xiaomi.com/
+-927895498	xiaomi	http://c4.pandora.xiaomi.com/
+-927895498	xiaomi	http://cnc.pandora.xiaomi.com/
+-927895498	xiaomi	http://comc3l7.pandora.xiaomi.com/
+-927895498	xiaomi	http://comc5l7.pandora.xiaomi.com/
+-927895498	xiaomi	http://ctc.tv.pandora.xiaomi.com/
+-927895498	xiaomi	http://dms.xiaomi.com/
+-927895498	xiaomi	http://dvb.pandora.xiaomi.com/
+-927895498	xiaomi	http://gstat.pandora.xiaomi.com/
+-927895498	xiaomi	http://huodong.xiaomi.com/
+-927895498	xiaomi	http://i.huodong.xiaomi.com/
+-927895498	xiaomi	http://ipv4.account.xiaomi.com/
+-927895498	xiaomi	http://jellyfish.pandora.xiaomi.com/
+-927895498	xiaomi	http://lg-bgp-misc.pandora.xiaomi.com/
+-927895498	xiaomi	http://lg-cnc.pandora.xiaomi.com/
+-927895498	xiaomi	http://log.pandora.xiaomi.com/
+-927895498	xiaomi	http://m.bss.pandora.xiaomi.com/
+-927895498	xiaomi	http://medial7.pandora.xiaomi.com/
+-927895498	xiaomi	http://milink.pandora.xiaomi.com/
+-927895498	xiaomi	http://milink.pds.pandora.xiaomi.com/
+-927895498	xiaomi	http://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
+-927895498	xiaomi	http://mob.pandora.xiaomi.com/
+-927895498	xiaomi	http://mon.be.xiaomi.com/
+-927895498	xiaomi	http://monitor.pandora.xiaomi.com/
+-927895498	xiaomi	http://music.pandora.xiaomi.com/
+-927895498	xiaomi	http://my.xiaomi.com/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8001/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8080/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8081/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8088/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8089/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8090/
+-927895498	xiaomi	http://ota.cdn.pandora.xiaomi.com:8099/
+-927895498	xiaomi	http://ottl7.pandora.xiaomi.com/
+-927895498	xiaomi	http://profile.pandora.xiaomi.com/
+-927895498	xiaomi	http://ptmi.gitv.pandora.xiaomi.com/
+-927895498	xiaomi	http://redirect.pandora.xiaomi.com/
+-927895498	xiaomi	https://3rd.mishop.pandora.xiaomi.com/
+-927895498	xiaomi	https://ad.pandora.xiaomi.com/
+-927895498	xiaomi	https://api.scraper.pandora.xiaomi.com/
+-927895498	xiaomi	https://api-translator.pandora.xiaomi.com/
+-927895498	xiaomi	https://b2capi.pay.xiaomi.com/
+-927895498	xiaomi	https://backend.xiaomi.com/
+-927895498	xiaomi	https://bgp.pandora.xiaomi.com/
+-927895498	xiaomi	https://bgp.tv.pandora.xiaomi.com/
+-927895498	xiaomi	https://box.pandora.xiaomi.com/
+-927895498	xiaomi	https://bsp.misc.pandora.xiaomi.com/
+-927895498	xiaomi	https://bsp.sasdc.pandora.xiaomi.com/
+-927895498	xiaomi	https://bss.pandora.xiaomi.com/
+-927895498	xiaomi	https://c1.pandora.xiaomi.com/
+-927895498	xiaomi	https://c3-cnc.pandora.xiaomi.com/
+-927895498	xiaomi	https://c3.pandora.xiaomi.com/
+-927895498	xiaomi	https://c4.pandora.xiaomi.com/
+-927895498	xiaomi	https://cnc.pandora.xiaomi.com/
+-927895498	xiaomi	https://comc3l7.pandora.xiaomi.com/
+-927895498	xiaomi	https://comc5l7.pandora.xiaomi.com/
+-927895498	xiaomi	http://scraper.pandora.xiaomi.com/
+-927895498	xiaomi	https://ctc.tv.pandora.xiaomi.com/
+-927895498	xiaomi	https://de.pandora.xiaomi.com/
+-927895498	xiaomi	https://dms.xiaomi.com/
+-927895498	xiaomi	https://dvb.pandora.xiaomi.com/
+-927895498	xiaomi	http://serviceapi.pay.xiaomi.com/
+-927895498	xiaomi	http://service.order.xiaomi.com/
+-927895498	xiaomi	https://gallery.cp.pandora.xiaomi.com/
+-927895498	xiaomi	https://gallery.pandora.xiaomi.com/
+-927895498	xiaomi	https://gstat.pandora.xiaomi.com/
+-927895498	xiaomi	https://gw8.pay.xiaomi.com/
+-927895498	xiaomi	https://gw.pay.xiaomi.com/
+-927895498	xiaomi	https://huodong.xiaomi.com/
+-927895498	xiaomi	https://in.zhuti.designer.intl.xiaomi.com/
+-927895498	xiaomi	https://ipv4.account.xiaomi.com/
+-927895498	xiaomi	https://jellyfish.pandora.xiaomi.com/
+-927895498	xiaomi	http://sjs.ptmi.gitv.pandora.xiaomi.com/
+-927895498	xiaomi	https://lg-bgp-misc.pandora.xiaomi.com/
+-927895498	xiaomi	https://lg-cnc.pandora.xiaomi.com/
+-927895498	xiaomi	https://log.pandora.xiaomi.com/
+-927895498	xiaomi	https://mantual.pandora.xiaomi.com/
+-927895498	xiaomi	https://m.bss.pandora.xiaomi.com/
+-927895498	xiaomi	https://milink.pandora.xiaomi.com/
+-927895498	xiaomi	https://milink.pds.pandora.xiaomi.com/
+-927895498	xiaomi	https://miuiapi.pay.xiaomi.com/
+-927895498	xiaomi	https://mobilevideo.kuai.dataserv.pandora.xiaomi.com/
+-927895498	xiaomi	https://mob.pandora.xiaomi.com/
+-927895498	xiaomi	https://mon.be.xiaomi.com/
+-927895498	xiaomi	https://monitor.pandora.xiaomi.com/
+-927895498	xiaomi	https://music.pandora.xiaomi.com/
+-927895498	xiaomi	https://my.xiaomi.com/
+-927895498	xiaomi	https://ota.cdn.pandora.xiaomi.com/
+-927895498	xiaomi	https://ottl7.pandora.xiaomi.com/
+-927895498	xiaomi	http://soundbar.pandora.xiaomi.com/
+-927895498	xiaomi	https://ptmi.gitv.pandora.xiaomi.com/
+-927895498	xiaomi	https://redirect.pandora.xiaomi.com/
+-927895498	xiaomi	https://scraper.pandora.xiaomi.com/
+-927895498	xiaomi	https://sharemserver.pandora.xiaomi.com/
+-927895498	xiaomi	https://sjs.ptmi.gitv.pandora.xiaomi.com/
+-927895498	xiaomi	https://soundbar.pandora.xiaomi.com/
+-927895498	xiaomi	https://theme.pandora.xiaomi.com/
+-927895498	xiaomi	https://tvmanager.pandora.xiaomi.com/
+-927895498	xiaomi	https://tvmgr.pandora.xiaomi.com/
+-927895498	xiaomi	https://tvstat.pandora.xiaomi.com/
+-927895498	xiaomi	https://tv.weixin.pandora.xiaomi.com/
+-927895498	xiaomi	https://upgrade.mishop.pandora.xiaomi.com/
+-927895498	xiaomi	https://upgrade.pandora.xiaomi.com/
+-927895498	xiaomi	https://user.pandora.xiaomi.com/
+-927895498	xiaomi	https://v2.t001.ottcn.pandora.xiaomi.com/
+-927895498	xiaomi	https://weather.pandora.xiaomi.com/
+-927895498	xiaomi	https://weixin.pandora.xiaomi.com/
+-927895498	xiaomi	https://zhuti.designer.intl.xiaomi.com/
+-927895498	xiaomi	http://tvepg.pandora.xiaomi.com/
+-927895498	xiaomi	http://upgrade.pandora.xiaomi.com/
+-927895498	xiaomi	http://user.pandora.xiaomi.com/
+-927895498	xiaomi	http://v2.t001.ottcn.pandora.xiaomi.com/
+-927895498	xiaomi	http://zhuti.designer.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://a0.app.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.ad.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.ad.xiaomi.com/
@@ -623,6 +623,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.zhuti.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://api.zhuti.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apps.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8001/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8080/
@@ -632,8 +633,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pand
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8090/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.wallpaper.cdn.pandora.xiaomi.com:8099/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://apps.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b0.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b1.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b2.market.xiaomi.com/
@@ -646,13 +645,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b8.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b9.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://bg0.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://bg1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://b.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ccc.sys.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://contract.shopapi.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://cs.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://custom.zhuti.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://designer.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://dev.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://developer.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://dev.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://drm.market.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://drm.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://en.designer.xiaomi.com/
@@ -672,7 +672,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://extranet.eu-east-1.miu
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.a3puvfl1ik.elb.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.dwddxgqyqv.elb.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://extranet.eu-east-1.miui-l7-middle.kekfw3jui8.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f1.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f10.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f11.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f12.market.xiaomi.com/
@@ -681,6 +680,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f14.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f16.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f17.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f19.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f1.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f2.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f3.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://f4.market.xiaomi.com/
@@ -701,9 +701,9 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fgc2.market.xiaomi.com
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://file.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://fn.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://g0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://globalapi.ad.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://global.developer.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://global.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://globalapi.ad.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://globalnileapi.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://h0.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://h1.market.xiaomi.com/
@@ -716,23 +716,23 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://h8.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://h9.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hk.mibi.api.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://hy.game.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images.cdn.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images0.cdn.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images2.cdn.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images3.cdn.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images6.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://images.cdn.pt.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://land.cname.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://log.ad.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.hk.mibi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.mibi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.zhuti.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.hk.mibi.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://mias.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://mibi.api.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://mibi.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://mitunes.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.mibi.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://m.zhuti.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://nileapi.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ofile.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ofile.market.xiaomi.com:8001/
@@ -749,16 +749,166 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://r.app.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://recharge.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://redpack.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://repos.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sf.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://a0.app.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.ad.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.ad.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.designer.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.developer.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.miui.security.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.zhuti.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.zhuti.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.wallpaper.cdn.pandora.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b3.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b4.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b5.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b6.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b7.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b8.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b9.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bbs.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bg0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bg1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cash.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ccc.sys.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://contract.shopapi.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://controller.india.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://controller.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cs.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://custom.zhuti.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://dev.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://drm.market.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://drm.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-south-1.miui-l7-middle.vab1p8mnqy.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-mgp.bvhawmvgcp.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-assistant-pt.ghjxaejktw.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip.4iurt3sqql.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.ic5znxsxzb.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.qcuw1esech.elb.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c4.miui-l7-vip.2tvizjzldf.elb.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sf0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f10.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f11.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f12.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f13.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f14.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f16.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f17.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f19.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f3.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f4.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f5.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f6.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f7.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f8.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f9.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fcw.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ff0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fga1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgb0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://file.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fn.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sf.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://g0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://globalapi.ad.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://global.developer.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://global.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://globalnileapi.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://sgpapi.ad.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h4.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h5.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h7.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h8.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h9.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hk.mibi.api.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hy.game.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images0.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images2.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images3.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images6.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images.cdn.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://log.ad.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.app.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.hk.mibi.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mias.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mibi.api.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mibi.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.mibi.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://nileapi.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ofile.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://open.content.pt.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://proxy.recharge.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://r.app.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://recharge.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://redpack.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://repos.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sentry.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sf0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sf.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sgpapi.ad.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://s.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://static.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://stat.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t10.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t12.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t13.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t14.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t15.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t18.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t19.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t1.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t2.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t3.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t3.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t4.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t4.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t5.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t5.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t6.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t7.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t8.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t9.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging.mifi.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://stat.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://static.pay.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://static.pay.xiaomi.com:8080/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t1.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://stat.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://thm.market.intl.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://tsmapi.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://utility.recharge.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v1.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v2.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://vd0.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://video.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web.music.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web.recharge.pay.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.account.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://zhuti.intl.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t10.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t12.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t13.market.xiaomi.com/
@@ -766,6 +916,8 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t14.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t15.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t18.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t19.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t1.a.market.xiaomi.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t1.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t2.a.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t2.market.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://t3.a.market.xiaomi.com/
@@ -795,158 +947,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web.recharge.pay.xiaom
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://www.account.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://yingyong.xiaomi.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://zhuti.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://a0.app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.ad.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.ad.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.designer.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.developer.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.miui.security.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.zhuti.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://api.zhuti.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.wallpaper.cdn.pandora.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b3.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b4.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b5.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b6.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b7.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b8.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://b9.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bbs.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bg0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bg1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cash.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ccc.sys.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://contract.shopapi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://controller.india.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://controller.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cs.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://custom.zhuti.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://dev.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://drm.market.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://drm.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-south-1.miui-l7-middle.vab1p8mnqy.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.ap-southeast-1.miui-l7-mgp.bvhawmvgcp.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-assistant-pt.ghjxaejktw.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.ic5znxsxzb.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip-xiaomi-cn.qcuw1esech.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c3.miui-l7-vip.4iurt3sqql.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://extranet.c4.miui-l7-vip.2tvizjzldf.elb.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f10.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f11.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f12.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f13.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f14.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f16.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f17.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f19.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f3.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f4.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f5.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f6.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f7.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f8.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://f9.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fcw.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ff0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fga1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgb0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fgc2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://file.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://fn.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://g0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://global.developer.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://global.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://globalapi.ad.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://globalnileapi.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h4.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h5.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h7.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h8.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://h9.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hk.mibi.api.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://hy.game.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images.cdn.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images0.cdn.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images2.cdn.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images3.cdn.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://images6.cdn.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://log.ad.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.hk.mibi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.mibi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://m.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mias.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mibi.api.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mibi.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://nileapi.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ofile.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://open.content.pt.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://proxy.recharge.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://r.app.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://recharge.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://redpack.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://repos.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://s.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sentry.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sf.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sf0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://sgpapi.ad.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://stat.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://static.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t1.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t10.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t12.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t13.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t14.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t15.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t18.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t19.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t2.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t3.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t3.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t4.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t4.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t5.a.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t5.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t6.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t7.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t8.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://t9.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://thm.market.intl.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://tsmapi.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://utility.recharge.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v1.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://v2.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://vd0.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://video.market.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wallpaper.cdn.pandora.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wap.phonerecharge.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web.music.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web.recharge.pay.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://www.account.xiaomi.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://zhuti.intl.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://account-dcm.ai.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://browserapi.market.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://control.preload.xiaomi.com/
@@ -958,10 +958,6 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	http://id.video.intl.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://maf.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mal.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://ru.video.intl.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://ssp.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://t.app.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://thm.market.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://translator.pandora.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://account-dcm.ai.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://browserapi.market.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://control.preload.xiaomi.com/
@@ -975,8 +971,12 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	https://id.video.intl.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://maf.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://mal.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://ru.video.intl.xiaomi.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://ssp.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://t.app.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://thm.market.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://translator.pandora.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://tz.sec.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://verify.sec.xiaomi.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://t.app.xiaomi.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://thm.market.xiaomi.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://translator.pandora.xiaomi.com/

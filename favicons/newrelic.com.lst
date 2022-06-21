@@ -3,8 +3,6 @@
 0	zero byte favicon	http://partner-admin-console.newrelic.com/
 0	zero byte favicon	http://rpm-admin.eu.newrelic.com/
 0	zero byte favicon	http://rpm-admin.newrelic.com/
-0	zero byte favicon	http://staging-discuss.newrelic.com/
-0	zero byte favicon	http://staging-rpm-admin.newrelic.com/
 0	zero byte favicon	https://discuss.newrelic.com/
 0	zero byte favicon	https://got.newrelic.com/
 0	zero byte favicon	https://ingest-test.newrelic.com/
@@ -16,16 +14,16 @@
 0	zero byte favicon	https://staging-discuss.newrelic.com/
 0	zero byte favicon	https://staging-login.newrelic.com/
 0	zero byte favicon	https://staging-rpm-admin.newrelic.com/
-1433417005	salesforce	http://support.newrelic.com/
+0	zero byte favicon	http://staging-discuss.newrelic.com/
+0	zero byte favicon	http://staging-rpm-admin.newrelic.com/
 1433417005	salesforce	https://support.newrelic.com/
+1433417005	salesforce	http://support.newrelic.com/
 628535358	atlassian	https://issues.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://discuss.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://got.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://partner-admin-console.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://rpm-admin.eu.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://rpm-admin.newrelic.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging-discuss.newrelic.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging-rpm-admin.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://discuss.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://got.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ingest-test.newrelic.com/
@@ -37,3 +35,5 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://rpm-admin.newrelic.co
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://staging-discuss.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://staging-login.newrelic.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://staging-rpm-admin.newrelic.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging-discuss.newrelic.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://staging-rpm-admin.newrelic.com/

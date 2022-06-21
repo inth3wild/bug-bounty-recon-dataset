@@ -24,14 +24,6 @@ http://help.exodus.com:8080
 http://link-t.exodus.com
 http://metadata.exodus.com
 http://metadata.exodus.com:8080
-http://support-lt.exodus.com
-http://support-lt.exodus.com:8080
-http://support-lt.exodus.com:8443
-http://updates.exodus.com
-http://updates.exodus.com:8080
-http://www.exodus.com
-http://www.exodus.com:8080
-http://www.exodus.com:8443
 https://blog.exodus.com
 https://blog.exodus.com:8443
 https://dev.exodus.com
@@ -56,4 +48,12 @@ https://metadata.exodus.com:8443
 https://support-lt.exodus.com
 https://updates.exodus.com
 https://updates.exodus.com:8443
+http://support-lt.exodus.com
+http://support-lt.exodus.com:8080
+http://support-lt.exodus.com:8443
 https://www.exodus.com
+http://updates.exodus.com
+http://updates.exodus.com:8080
+http://www.exodus.com
+http://www.exodus.com:8080
+http://www.exodus.com:8443

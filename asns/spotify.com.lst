@@ -11,6 +11,7 @@ lexikon-slack-app.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 mydata.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
 noteable.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 promo.spotify.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+sparta-api-testing.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 tableau-slack-app.spotify.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
 tags.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24

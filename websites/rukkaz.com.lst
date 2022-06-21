@@ -17,11 +17,10 @@ http://forgot-password.rukkaz.com
 http://origin-auth.rukkaz.com
 http://publishing-api.rukkaz.com
 http://rukkaz.com
-http://sa-rukkaz-gamewithme-integrations.rukkaz.com
-http://sa-rukkaz-gamewithme-integrations.staging.rukkaz.com
-http://www.rukkaz.com
 https://api.rukkaz.com
 https://api.staging.rukkaz.com
+http://sa-rukkaz-gamewithme-integrations.rukkaz.com
+http://sa-rukkaz-gamewithme-integrations.staging.rukkaz.com
 https://cms.rukkaz.com
 https://communications.rukkaz.com
 https://communications.rukkaz.com:2053
@@ -42,3 +41,4 @@ https://publishing-api.rukkaz.com
 https://sa-rukkaz-gamewithme-integrations.rukkaz.com
 https://sa-rukkaz-gamewithme-integrations.staging.rukkaz.com
 https://www.rukkaz.com
+http://www.rukkaz.com

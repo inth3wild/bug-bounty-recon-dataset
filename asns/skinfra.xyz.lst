@@ -10,7 +10,7 @@ html-conversion.ga.prod.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 13.225
 iplist.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 mailgate.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 prtg.datainfra-apac.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 52.77.0.0/16
-prtg.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+prtg.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15
 reports.datainfra-apac.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 52.77.0.0/16
 rfc.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 servers.skinfra.xyz AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

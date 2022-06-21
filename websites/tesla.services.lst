@@ -6,18 +6,15 @@ http://connman.vn.tesla.services
 http://daws-kr.go.tesla.services
 http://daws.tesla.services
 http://deejay-eng.ui.tesla.services
-http://deejay-prd.ui.tesla.services
 http://deejay.prd.mp.tesla.services
+http://deejay-prd.ui.tesla.services
 http://images.me.tesla.services
 http://images.mp.tesla.services
 http://label-docs.ap.tesla.services
 http://qr-server-staging.mp.tesla.services
-http://staging.mp.tesla.services
-http://tesla.services
-http://tesla.services:8443
 https://api-eng.vn.tesla.services
-https://api-prd.vn.tesla.services
 https://api.mp.tesla.services
+https://api-prd.vn.tesla.services
 https://apmv3.go.tesla.services
 https://audio.me.tesla.services
 https://autobidder-prd.sn.tesla.services
@@ -28,8 +25,8 @@ https://connman.vn.tesla.services
 https://daws-kr.go.tesla.services
 https://daws.tesla.services
 https://deejay-eng.ui.tesla.services
-https://deejay-prd.ui.tesla.services
 https://deejay.prd.mp.tesla.services
+https://deejay-prd.ui.tesla.services
 https://ercot-gambit-eng.sn.tesla.services
 https://ercot-gambit-prd.sn.tesla.services
 https://fleet-api.vn.tesla.services
@@ -102,6 +99,7 @@ https://qr-server-staging.mp.tesla.services
 https://qts-api-eng.vn.tesla.services
 https://qts-api-prd.ap.tesla.services
 https://qts-ingress-eng.vn.tesla.services
+https://sentinel-eng.sn.tesla.services
 https://signaling-dev.vn.tesla.services
 https://signaling-prd.vn.tesla.services
 https://staging.mp.tesla.services
@@ -113,6 +111,7 @@ https://str04-eng.vn.tesla.services
 https://str04-prd.vn.tesla.services
 https://streaming-dev.vn.tesla.services
 https://streaming.vn.tesla.services
+http://staging.mp.tesla.services
 https://telemetry-cn-north-eng.vn.tesla.services
 https://telemetry-cn-north-prd.vn.tesla.services
 https://telemetry-dev.do.tesla.services
@@ -131,3 +130,7 @@ https://telemetry-prd.vn.tesla.services
 https://truck-app-eng.sn.tesla.services
 https://wc-maestro-prd.sn.tesla.services
 https://x1.ap.tesla.services
+http://tesla.services
+http://tesla.services:2083
+http://tesla.services:2087
+http://tesla.services:8443

@@ -9,13 +9,9 @@ http://puppet-assets.huffpo.net
 http://qa-janus.use1.huffpo.net
 http://qa-userapi-api.use1.huffpo.net
 http://rpms.huffpo.net
-http://staging-janus.use1.huffpo.net
-http://staging-kraken-valencia-preview.use1.huffpo.net
-http://staging-origin-life-ats.huffpo.net
-http://staging-userapi-api.use1.huffpo.net
 https://beta-origin-hanami.huffpo.net
-https://beta-origin-life-preview.huffpo.net
 https://beta-origin-life.huffpo.net
+https://beta-origin-life-preview.huffpo.net
 https://origin-life.huffpo.net
 https://origin-pollster.huffpo.net
 https://origin-staging-pollster.huffpo.net
@@ -37,3 +33,7 @@ https://staging-kraken-valencia-preview.use1.huffpo.net
 https://staging-leak.use1.huffpo.net
 https://staging-origin-life-ats.huffpo.net
 https://staging-userapi-api.use1.huffpo.net
+http://staging-janus.use1.huffpo.net
+http://staging-kraken-valencia-preview.use1.huffpo.net
+http://staging-origin-life-ats.huffpo.net
+http://staging-userapi-api.use1.huffpo.net

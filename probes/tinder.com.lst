@@ -1,6 +1,3 @@
-http://www.help.tinder.com:2083 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
-http://www.help.tinder.com:2087 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
-http://www.help.tinder.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
 https://emoji.tinder.com [200] [GET] [text/html] [Tinder | Interracial Couple Emoji Project] [Netlify] [vhost] [google] [Gatsby,Netlify,React,webpack] [bd82bbfe6d1801f122fec237fdb5322b]
 https://go.tinder.com [307] [GET] [] [] [openresty] [vhost] [Express,Nginx,Node.js,OpenResty] [d41d8cd98f00b204e9800998ecf8427e]
 https://invite.tinder.com [404] [GET] [text/plain] [] [openresty/1.19.9.1] [Nginx,OpenResty] [a9b24901fc28dc8d21a1bba23679731c]

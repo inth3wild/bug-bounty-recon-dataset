@@ -1,16 +1,17 @@
 3.tesla.cn
-api-stg.shop.tesla.cn
 api.shop.tesla.cn
+api-stg.shop.tesla.cn
 api.tesla.cn
 apm.tesla.cn
 app.tesla.cn
-arf.tesla.cn
 arfpvg16s1.tesla.cn
+arf.tesla.cn
 artifactory-public.it.cloud.tesla.cn
 auth-stage.tesla.cn
 auth.tesla.cn
 autodiscover.tesla.cn
 cas-grafana-prod.cas.tesla.cn
+cninfra.tesla.cn
 community.tesla.cn
 crossdock.tesla.cn
 digitalassets-shop.tesla.cn
@@ -22,8 +23,8 @@ events.tesla.cn
 githubmirror.tesla.cn
 inside.tesla.cn
 insurance.tesla.cn
-livestream.tesla.cn
 livestreamapi.tesla.cn
+livestream.tesla.cn
 location-services-prd.tesla.cn
 location.tesla.cn
 lyncdiscover.tesla.cn
@@ -44,8 +45,8 @@ partners.tesla.cn
 profile.tesla.cn
 qa.tesla.cn
 sales-prd.tesla.cn
-service.tesla.cn
 servicegateway.tesla.cn
+service.tesla.cn
 shop.tesla.cn
 sip.tesla.cn
 sso.tesla.cn
@@ -54,6 +55,7 @@ static-assets-pay.tesla.cn
 static-assets.tesla.cn
 stg-crossdock.tesla.cn
 tesla.cn
+testcert4.tesla.cn
 tutorial.vn.cloud.tesla.cn
 vehicle-files.eng.cnn1.vn.cloud.tesla.cn
 vehicle-files.eng.vn.cloud.tesla.cn
@@ -62,3 +64,4 @@ vehicle-files.prd.vn.cloud.tesla.cn
 wechat-stg.tesla.cn
 wechat.tesla.cn
 www.tesla.cn
+www.testcert4.tesla.cn

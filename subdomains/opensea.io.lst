@@ -1,6 +1,6 @@
+api2.opensea.io
 api.k8s.opensea.io
 api.opensea.io
-api2.opensea.io
 argo.k8s.opensea.io
 atlantis.k8s.opensea.io
 blog.opensea.io
@@ -11,8 +11,8 @@ cryptofighters.opensea.io
 cryptokitties.opensea.io
 cryptosaga.opensea.io
 csp.opensea.io
-dev-storage.opensea.io
 developers.opensea.io
+dev-storage.opensea.io
 docs.opensea.io
 dworld.opensea.io
 email.opensea.io
@@ -25,8 +25,8 @@ mythereum.opensea.io
 opensea.io
 previews.k8s.opensea.io
 rinkeby-api.opensea.io
-rinkeby-storage.opensea.io
 rinkeby.opensea.io
+rinkeby-storage.opensea.io
 static.opensea.io
 status.opensea.io
 storage.opensea.io

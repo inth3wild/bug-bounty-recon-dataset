@@ -28,7 +28,6 @@ origin.staging.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
 packs-auth.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 packs-auth.head.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 packs-auth.staging.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-sdm-gateway-us-east-1.head.coda.io AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 sdm-gateway.adhoc.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 sdm-gateway.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
 sdm-gateway.data.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
@@ -36,6 +35,7 @@ sdm-gateway.dev-infra.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/1
 sdm-gateway.head.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 sdm-gateway.infra.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
 sdm-gateway.staging.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+sdm-gateway-us-east-1.head.coda.io AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 staging.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 status.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 18.246.0.0/16
 www.coda.io AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22

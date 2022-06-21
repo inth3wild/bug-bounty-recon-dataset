@@ -1,6 +1,6 @@
 https://adlog.flurry.com [404] [GET] [text/html] [Yahoo] [ATS] [vhost] [Apache Traffic Server] [d453a710bec1df43b6dbe96ba72c70b3]
-https://api-metrics.flurry.com [403] [GET] [text/html] [Yahoo! - Error report] [ATS] [vhost] [Apache Traffic Server] [fe5065887d67ea58e99617e947c6a22f]
 https://api.ads.flurry.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traffic Server] [48276191b7a7c1862a50c86afc0b80f8]
+https://api-metrics.flurry.com [403] [GET] [text/html] [Yahoo! - Error report] [ATS] [vhost] [Apache Traffic Server] [fe5065887d67ea58e99617e947c6a22f]
 https://canary2.flurry.com [200] [GET] [text/html] [Flurry Analytics] [ATS] [vhost] [Apache Traffic Server,Envoy] [b9a7ea57af346805a840968250385c36]
 https://cdn.flurry.com [403] [GET] [application/xml] [] [ATS] [vhost] [Apache Traffic Server] [ac5d9c5c556a167c8cd60c43909757eb]
 https://data.real.flurry.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traffic Server] [5b689e69b5ba1daf851dada3fe82ec07]

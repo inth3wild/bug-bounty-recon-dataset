@@ -76,10 +76,10 @@ public-sip2.sydney.twilio.com
 public-sip2.tokyo-ix.twilio.com
 public-sip2.tokyo.twilio.com
 public-sip2.umatilla.twilio.com
+sip.ashburn.dev.twilio.com
 sip.ashburn-ix.dev.twilio.com
 sip.ashburn-ix.stage.twilio.com
 sip.ashburn-ix.twilio.com
-sip.ashburn.dev.twilio.com
 sip.ashburn.stage.twilio.com
 sip.au1-ix.twilio.com
 sip.au1.twilio.com
@@ -87,11 +87,11 @@ sip.br1.twilio.com
 sip.covid19-us1.twilio.com
 sip.de1-ix.twilio.com
 sip.de1.twilio.com
+sip.dev.twilio.com
 sip.dev-us1-ix.twilio.com
 sip.dev-us1.twilio.com
 sip.dev-us2-ix.twilio.com
 sip.dev-us2.twilio.com
-sip.dev.twilio.com
 sip.dublin.twilio.com
 sip.frankfurt-ix.twilio.com
 sip.frankfurt.twilio.com

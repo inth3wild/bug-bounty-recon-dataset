@@ -1,14 +1,8 @@
--1249852061	microsoft outlook	http://autodiscover.dailymotion.com/
--1249852061	microsoft outlook	http://autodiscover.service.dailymotion.com/
--1279294674	zendesk-support	http://faq.dailymotion.com/
--1279294674	zendesk-support	https://faq.dailymotion.com/
 0	zero byte favicon	http://am-01.dc3.dailymotion.com/
 0	zero byte favicon	http://am-01.ix7.dailymotion.com/
 0	zero byte favicon	http://am-02.dc3.dailymotion.com/
 0	zero byte favicon	http://am-02.ix7.dailymotion.com/
 0	zero byte favicon	http://post.update.dailymotion.com/
-0	zero byte favicon	http://s.update.dailymotion.com/
-0	zero byte favicon	http://update.dailymotion.com/
 0	zero byte favicon	https://am-01.dc3.dailymotion.com/
 0	zero byte favicon	https://am-01.dc3.dailymotion.com:4443/
 0	zero byte favicon	https://am-01.ix7.dailymotion.com/
@@ -21,17 +15,23 @@
 0	zero byte favicon	https://geoip.dc3.dailymotion.com/
 0	zero byte favicon	https://post.update.dailymotion.com/
 0	zero byte favicon	https://s.update.dailymotion.com/
+0	zero byte favicon	http://s.update.dailymotion.com/
 0	zero byte favicon	https://update.dailymotion.com/
+0	zero byte favicon	http://update.dailymotion.com/
+-1249852061	microsoft outlook	http://autodiscover.dailymotion.com/
+-1249852061	microsoft outlook	http://autodiscover.service.dailymotion.com/
+-1279294674	zendesk-support	http://faq.dailymotion.com/
+-1279294674	zendesk-support	https://faq.dailymotion.com/
 1953726032	metabase	https://partner-stats.data-kub.stage.gcp.dailymotion.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://faq.dailymotion.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	https://faq.dailymotion.com/
+3bdfaec33d4ce535ce728a5a32e6004b	microsoft-outlook	http://autodiscover.dailymotion.com/
+3bdfaec33d4ce535ce728a5a32e6004b	microsoft-outlook	http://autodiscover.service.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://am-01.dc3.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://am-01.ix7.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://am-02.dc3.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://am-02.ix7.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://post.update.dailymotion.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.update.dailymotion.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://update.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://am-01.dc3.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://am-01.dc3.dailymotion.com:4443/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://am-01.ix7.dailymotion.com/
@@ -44,4 +44,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://dmxleo.dailymotion.co
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://geoip.dc3.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://post.update.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://s.update.dailymotion.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://s.update.dailymotion.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://update.dailymotion.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://update.dailymotion.com/

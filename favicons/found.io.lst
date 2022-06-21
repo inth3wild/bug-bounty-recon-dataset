@@ -5,25 +5,6 @@
 -1200737715	kibana	https://7826fafd5f524487bccdf2f3c8e28cac.us-east-1.aws.found.io/
 -1200737715	kibana	https://d9b427fd4904c501bb9e64d53d55ee2e.us-east-1.aws.found.io/
 -1200737715	kibana	https://f9fb00e8531a95b8f9f9462474e2398f.eu-west-1.aws.found.io/
--267431135	kibana	https://124dd0d7eb3444ed82e5c16cf2321156.eu-west-1.aws.found.io/
--267431135	kibana	https://3dfe5c34f58116da2ecf5bcd3b2c4f91.eu-west-1.aws.found.io/
--267431135	kibana	https://6e4ba7a21ef115571ebea0e97ee62e0c.us-east-1.aws.found.io/
--267431135	kibana	https://7e0c5f644ebc477faf9f39e7d07110a1.eu-west-1.aws.found.io/
--267431135	kibana	https://91124bc19eaf4bef8f16154abe6a3636.us-east-1.aws.found.io/
--267431135	kibana	https://b289f66f9c19402e7ce08eb03e56b486.us-east-1.aws.found.io/
--267431135	kibana	https://bd72d0be5c12be7ec56adae6a00ef012.eu-west-1.aws.found.io/
--267431135	kibana	https://ec57b2a0453e46abab1d40d7a7ce2fda.us-east-1.aws.found.io/
--267431135	kibana	https://eeaf110145d4f1abc2663809dc49dec4.us-east-1.aws.found.io/
--759754862	kibana	https://0048af77f3284791af5734076cfdcb29.sa-east-1.aws.found.io/
--759754862	kibana	https://332e4970854341dfad50deb9241db0b4.us-east-1.aws.found.io/
--759754862	kibana	https://542e38e790629b8648305806eddd2289.eu-west-1.aws.found.io/
--759754862	kibana	https://65e465bbc868496f4f229047e4f016a2.us-east-1.aws.found.io/
--759754862	kibana	https://7d67be5868570073365298c1f1d48fbd.eu-west-1.aws.found.io/
--759754862	kibana	https://89bf7ceb1812e7e6bdd53ece1eedc3e4.us-east-1.aws.found.io/
--759754862	kibana	https://9dbd394bfb1c4739a9396569a97f8973.us-east-1.aws.found.io/
--759754862	kibana	https://a1d77b4dd6794899b83246937b143e29.sa-east-1.aws.found.io/
--759754862	kibana	https://a70c1003bc92bd49e3299eeb60222af8.eu-west-1.aws.found.io/
--759754862	kibana	https://e2c951db06dc41a18952895bcbf2c622.us-east-1.aws.found.io/
 1552860581	elastic (database)	https://23f8be5ccd2545fd68a90f048ab02e02.us-east-1.aws.found.io/
 1552860581	elastic (database)	https://27378a470e566caadd54304da0d85849.us-east-1.aws.found.io/
 1552860581	elastic (database)	https://57ee73786e08205571d6e29709308c9c.us-east-1.aws.found.io/
@@ -81,3 +62,22 @@
 1611729805	elastic (database)	https://f46f4ce43c71d4b2f409091bf8d075c4.eu-west-1.aws.found.io/
 1611729805	elastic (database)	https://f6e31b07b1d04963b1103a694e758f0e.us-east-1.aws.found.io/
 1611729805	elastic (database)	https://f919f75766ba199084d97a48224c66c6.us-east-1.aws.found.io/
+-267431135	kibana	https://124dd0d7eb3444ed82e5c16cf2321156.eu-west-1.aws.found.io/
+-267431135	kibana	https://3dfe5c34f58116da2ecf5bcd3b2c4f91.eu-west-1.aws.found.io/
+-267431135	kibana	https://6e4ba7a21ef115571ebea0e97ee62e0c.us-east-1.aws.found.io/
+-267431135	kibana	https://7e0c5f644ebc477faf9f39e7d07110a1.eu-west-1.aws.found.io/
+-267431135	kibana	https://91124bc19eaf4bef8f16154abe6a3636.us-east-1.aws.found.io/
+-267431135	kibana	https://b289f66f9c19402e7ce08eb03e56b486.us-east-1.aws.found.io/
+-267431135	kibana	https://bd72d0be5c12be7ec56adae6a00ef012.eu-west-1.aws.found.io/
+-267431135	kibana	https://ec57b2a0453e46abab1d40d7a7ce2fda.us-east-1.aws.found.io/
+-267431135	kibana	https://eeaf110145d4f1abc2663809dc49dec4.us-east-1.aws.found.io/
+-759754862	kibana	https://0048af77f3284791af5734076cfdcb29.sa-east-1.aws.found.io/
+-759754862	kibana	https://332e4970854341dfad50deb9241db0b4.us-east-1.aws.found.io/
+-759754862	kibana	https://542e38e790629b8648305806eddd2289.eu-west-1.aws.found.io/
+-759754862	kibana	https://65e465bbc868496f4f229047e4f016a2.us-east-1.aws.found.io/
+-759754862	kibana	https://7d67be5868570073365298c1f1d48fbd.eu-west-1.aws.found.io/
+-759754862	kibana	https://89bf7ceb1812e7e6bdd53ece1eedc3e4.us-east-1.aws.found.io/
+-759754862	kibana	https://9dbd394bfb1c4739a9396569a97f8973.us-east-1.aws.found.io/
+-759754862	kibana	https://a1d77b4dd6794899b83246937b143e29.sa-east-1.aws.found.io/
+-759754862	kibana	https://a70c1003bc92bd49e3299eeb60222af8.eu-west-1.aws.found.io/
+-759754862	kibana	https://e2c951db06dc41a18952895bcbf2c622.us-east-1.aws.found.io/

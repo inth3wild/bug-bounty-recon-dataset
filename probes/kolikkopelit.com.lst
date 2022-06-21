@@ -8,7 +8,4 @@ https://m.kolikkopelit.com [301] [GET] [text/html] [301 Moved Permanently] [kind
 https://pay.kolikkopelit.com [302] [GET] [text/html] [302 Found] [Ironman-Loadbalancer] [vhost] [139a9a51ce119814060e5c23aed45fce]
 https://payment.kolikkopelit.com [302] [GET] [text/html] [302 Found] [Ironman-Loadbalancer] [vhost] [139a9a51ce119814060e5c23aed45fce]
 https://welcome.kolikkopelit.com [301] [GET] [text/html] [301 Moved Permanently] [NetDNA-cache/2.2] [vhost] [MaxCDN] [cd2e0e43980a00fb6a2742d3afd803b8]
-https://www-qa1.kolikkopelit.com [403] [GET] [text/html] [403 Forbidden] [kindred-loadbalancer] [4b074b0b59693fa9f94fb71b175fb187]
-https://www-si1.kolikkopelit.com [403] [GET] [text/html] [403 Forbidden] [kindred-loadbalancer] [4b074b0b59693fa9f94fb71b175fb187]
 https://www-si1.kolikkopelit.com [403] [GET] [text/html] [403 Forbidden] [kindred-loadbalancer] [9fe3cb2b7313dc79bb477bc8fde184a7]
-https://www.kolikkopelit.com [200] [GET] [text/html] [] [kindred-loadbalancer] [2be275399d86c15c5dd8f925ba55fb46]

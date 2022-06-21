@@ -10,7 +10,9 @@ openvpn.secengovp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.
 portal.secengovp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 qr-server-staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
 qr-server-staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+sentinel-eng.sn.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM INC. US 35.80.0.0/12
 staging.mp.tesla.services AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 telemetry-eng.vn.tesla.services AS14618 AS14618 - AMAZON.COM INC. US 35.168.0.0/13
 telemetry-prd.vn.tesla.services AS14618 AS14618 - AMAZON.COM INC. US 54.242.0.0/15
+tesla.services AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.128.0/20

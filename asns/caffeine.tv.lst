@@ -7,13 +7,13 @@ fremont-14-0.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.40.0
 fremont-14-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.40.0/24
 fremont-14-3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.40.0/24
 fremont-20-0.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
-fremont-20-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.40.0/24
 fremont-20-10.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-11.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-12.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-13.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-14.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-15.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
+fremont-20-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.40.0/24
 fremont-20-2.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
 fremont-20-4.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.39.0/24
@@ -28,13 +28,13 @@ fremont-25-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.
 fremont-25-2.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-25-3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-0.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
-fremont-27-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-10.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
 fremont-27-11.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
 fremont-27-12.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-13.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
 fremont-27-14.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-15.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
+fremont-27-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-2.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 172.240.255.0/24
 fremont-27-3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
 fremont-27-4.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/24
@@ -47,13 +47,13 @@ fremont-27.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 209.192.189.0/
 fremont-32-0.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.15.0/24
 fremont-32-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.15.0/24
 fremont-34-0.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
-fremont-34-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-10.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-11.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-12.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-13.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-14.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-15.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
+fremont-34-1.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-2.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 fremont-34-4.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
@@ -72,7 +72,7 @@ fremontv3.rtcdn.caffeine.tv AS7979 AS7979 - SERVERS.COM, INC. US 173.237.19.0/24
 images.caffeine.tv AS54113 AS54113 - FASTLY US 151.101.208.0/22
 lakitu.rtcdn.caffeine.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 new-www.caffeine.tv AS54113 AS54113 - FASTLY US 151.101.208.0/22
-payments.caffeine.tv AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+payments.caffeine.tv AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
 preview.caffeine.tv AS54113 AS54113 - FASTLY US 151.101.208.0/22
 realtime.caffeine.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 snappy-images.caffeine.tv AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

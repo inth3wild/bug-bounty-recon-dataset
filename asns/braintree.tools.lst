@@ -11,8 +11,8 @@ grafana-auth.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 grafana.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 graphite.chi.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 graphite.produswest2.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
-graphite.qa.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 graphite.qa2.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 50.19.128.0/17
+graphite.qa.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 graphite.qwt.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
 graphite.sand.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 50.18.128.0/18
 graphite.sav.braintree.tools AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18

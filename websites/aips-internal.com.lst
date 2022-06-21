@@ -6,10 +6,6 @@ http://grafana.prod.aips-internal.com
 http://grafana.staging.aips-internal.com
 http://prometheus.prod.aips-internal.com
 http://prometheus.staging.aips-internal.com
-http://thanos-frontend.prod.aips-internal.com
-http://thanos-frontend.staging.aips-internal.com
-http://thanos.prod.aips-internal.com
-http://thanos.staging.aips-internal.com
 https://alertmanager.prod.aips-internal.com
 https://alertmanager.staging.aips-internal.com
 https://auth.prod.aips-internal.com
@@ -22,7 +18,11 @@ https://thanos-frontend.prod.aips-internal.com
 https://thanos-frontend.staging.aips-internal.com
 https://thanos.prod.aips-internal.com
 https://thanos.staging.aips-internal.com
-https://vault.aips-internal.com:8443
 https://vault1.aips-internal.com:8443
 https://vault2.aips-internal.com:8443
 https://vault3.aips-internal.com:8443
+https://vault.aips-internal.com:8443
+http://thanos-frontend.prod.aips-internal.com
+http://thanos-frontend.staging.aips-internal.com
+http://thanos.prod.aips-internal.com
+http://thanos.staging.aips-internal.com

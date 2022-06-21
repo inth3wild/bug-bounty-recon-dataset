@@ -1,7 +1,5 @@
 http://app.hostadvance.withairbnb.com [301] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 http://multifamily.withairbnb.com [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
-http://www.hostadvance.withairbnb.com [301] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
-http://www.multifamily.withairbnb.com [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
 https://app.hostadvance-reg.withairbnb.com [403] [GET] [text/html] [Access Denied] [] [vhost] [2e6e5e2b279dc6d36de005402e3f0089]
 https://app.hostadvance-reg.withairbnb.com [403] [GET] [text/html] [Access Denied] [] [vhost] [946a01b47599d5563ccd14292bf09dd5]
 https://app.hostadvance.withairbnb.com [200] [GET] [text/html] [Airbnb Host Capital | Powered by K Servicing] [] [vhost] [de84f7178652c0a82d92fd4672bf1c74]
@@ -18,3 +16,5 @@ https://suppliers.withairbnb.com [200] [GET] [text/html] [Supplier Diversity Dev
 https://www.hostadvance-reg.withairbnb.com [301] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.hostadvance.withairbnb.com [301] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.realestate.withairbnb.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [ab3ce1809acef05d3ed7b265ed9ef312]
+http://www.hostadvance.withairbnb.com [301] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
+http://www.multifamily.withairbnb.com [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]

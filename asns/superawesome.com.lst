@@ -7,6 +7,7 @@ competitions.staging.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 99.8
 competitions.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
 content.superawesome.com AS209242 AS209242 - CLOUDFLARE LONDON, LLC US 199.60.103.0/24
 dev.staging.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 108.159.224.0/21
+ksv.staging.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 marketing.superawesome.com AS209242 AS209242 - CLOUDFLARE LONDON, LLC US 199.60.103.0/24
 parents.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.40.0/21
 safead.superawesome.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23

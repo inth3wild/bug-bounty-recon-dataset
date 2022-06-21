@@ -1,40 +1,3 @@
--1252041730	vue.js	http://gamespace.sec.intl.miui.com/
--1252041730	vue.js	https://gamespace.sec.intl.miui.com/
--927895498	xiaomi	http://adv.l7.34.sec.miui.com/
--927895498	xiaomi	http://adv.sec.miui.com/
--927895498	xiaomi	http://flash.sec.intl.miui.com/
--927895498	xiaomi	http://flash.sec.miui.com/
--927895498	xiaomi	http://in-protect-dev.sec.intl.miui.com/
--927895498	xiaomi	http://in-unlock.update.intl.miui.com/
--927895498	xiaomi	http://mcc.india.inf.miui.com/
--927895498	xiaomi	http://mcc.inf.miui.com/
--927895498	xiaomi	http://mcc.intl.inf.miui.com/
--927895498	xiaomi	http://mcc.russia.inf.miui.com/
--927895498	xiaomi	http://misys.api.comm.miui.com/
--927895498	xiaomi	http://orig.static.bbs.miui.com/
--927895498	xiaomi	http://protect.dev.sec.intl.miui.com/
--927895498	xiaomi	http://protect.dev.sec.miui.com/
--927895498	xiaomi	http://ru-unlock.update.intl.miui.com/
--927895498	xiaomi	http://trial.api.comm.miui.com/
--927895498	xiaomi	http://unlock.update.intl.miui.com/
--927895498	xiaomi	http://web.comm.miui.com/
--927895498	xiaomi	http://web.huangye.miui.com/
--927895498	xiaomi	https://adv.l7.34.sec.miui.com/
--927895498	xiaomi	https://adv.sec.miui.com/
--927895498	xiaomi	https://default.mcc.inf.miui.com/
--927895498	xiaomi	https://flash.sec.intl.miui.com/
--927895498	xiaomi	https://flash.sec.miui.com/
--927895498	xiaomi	https://in-protect-dev.sec.intl.miui.com/
--927895498	xiaomi	https://in-unlock.update.intl.miui.com/
--927895498	xiaomi	https://mcc.india.inf.miui.com/
--927895498	xiaomi	https://mcc.intl.inf.miui.com/
--927895498	xiaomi	https://mcc.russia.inf.miui.com/
--927895498	xiaomi	https://protect.dev.sec.intl.miui.com/
--927895498	xiaomi	https://protect.dev.sec.miui.com/
--927895498	xiaomi	https://ru-unlock.update.intl.miui.com/
--927895498	xiaomi	https://unlock.update.intl.miui.com/
--927895498	xiaomi	https://unlock.update.miui.com/
--927895498	xiaomi	https://web.huangye.miui.com/
 0	zero byte favicon	http://account-alpha.vip.miui.com/
 0	zero byte favicon	http://account.vip.miui.com/
 0	zero byte favicon	http://act.browser.intl.miui.com/
@@ -56,10 +19,6 @@
 0	zero byte favicon	http://open.mp.huangye.miui.com/
 0	zero byte favicon	http://providers.sec.miui.com/
 0	zero byte favicon	http://rs.vip.miui.com/
-0	zero byte favicon	http://tongji-alpha.vip.miui.com/
-0	zero byte favicon	http://tongji.vip.miui.com/
-0	zero byte favicon	http://web-alpha.vip.miui.com/
-0	zero byte favicon	http://wnoise.vip.miui.com/
 0	zero byte favicon	https://account-alpha.vip.miui.com/
 0	zero byte favicon	https://act.browser.intl.miui.com/
 0	zero byte favicon	https://activity.browser.intl.miui.com/
@@ -92,6 +51,10 @@
 0	zero byte favicon	https://vip.miui.com/
 0	zero byte favicon	https://web-alpha.vip.miui.com/
 0	zero byte favicon	https://wnoise.vip.miui.com/
+0	zero byte favicon	http://tongji-alpha.vip.miui.com/
+0	zero byte favicon	http://tongji.vip.miui.com/
+0	zero byte favicon	http://web-alpha.vip.miui.com/
+0	zero byte favicon	http://wnoise.vip.miui.com/
 116323821	springboot	http://adv.sec.intl.miui.com/
 116323821	springboot	http://api.browser.miui.com/
 116323821	springboot	http://cp.assistant.miui.com/
@@ -101,13 +64,15 @@
 116323821	springboot	http://r.bd.sec.miui.com/
 116323821	springboot	http://r.browser.miui.com/
 116323821	springboot	http://r.sg.sec.miui.com/
-116323821	springboot	http://trading.assistant.miui.com/
 116323821	springboot	https://adv.sec.intl.miui.com/
 116323821	springboot	https://api.browser.miui.com/
 116323821	springboot	https://data.sec.intl.miui.com/
 116323821	springboot	https://data.sec.miui.com/
 116323821	springboot	https://preview.trading.assistant.miui.com/
 116323821	springboot	https://r.browser.miui.com/
+116323821	springboot	http://trading.assistant.miui.com/
+-1252041730	vue.js	http://gamespace.sec.intl.miui.com/
+-1252041730	vue.js	https://gamespace.sec.intl.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://adv.l7.34.sec.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://adv.sec.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://flash.sec.intl.miui.com/
@@ -123,10 +88,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://protect.dev.sec.intl.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://protect.dev.sec.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ru-unlock.update.intl.miui.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://trial.api.comm.miui.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://unlock.update.intl.miui.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://web.comm.miui.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://web.huangye.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://adv.l7.34.sec.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://adv.sec.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://default.mcc.inf.miui.com/
@@ -143,6 +104,45 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://unlock.update.intl.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://unlock.update.miui.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://web.huangye.miui.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://trial.api.comm.miui.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://unlock.update.intl.miui.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://web.comm.miui.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://web.huangye.miui.com/
+-927895498	xiaomi	http://adv.l7.34.sec.miui.com/
+-927895498	xiaomi	http://adv.sec.miui.com/
+-927895498	xiaomi	http://flash.sec.intl.miui.com/
+-927895498	xiaomi	http://flash.sec.miui.com/
+-927895498	xiaomi	http://in-protect-dev.sec.intl.miui.com/
+-927895498	xiaomi	http://in-unlock.update.intl.miui.com/
+-927895498	xiaomi	http://mcc.india.inf.miui.com/
+-927895498	xiaomi	http://mcc.inf.miui.com/
+-927895498	xiaomi	http://mcc.intl.inf.miui.com/
+-927895498	xiaomi	http://mcc.russia.inf.miui.com/
+-927895498	xiaomi	http://misys.api.comm.miui.com/
+-927895498	xiaomi	http://orig.static.bbs.miui.com/
+-927895498	xiaomi	http://protect.dev.sec.intl.miui.com/
+-927895498	xiaomi	http://protect.dev.sec.miui.com/
+-927895498	xiaomi	http://ru-unlock.update.intl.miui.com/
+-927895498	xiaomi	https://adv.l7.34.sec.miui.com/
+-927895498	xiaomi	https://adv.sec.miui.com/
+-927895498	xiaomi	https://default.mcc.inf.miui.com/
+-927895498	xiaomi	https://flash.sec.intl.miui.com/
+-927895498	xiaomi	https://flash.sec.miui.com/
+-927895498	xiaomi	https://in-protect-dev.sec.intl.miui.com/
+-927895498	xiaomi	https://in-unlock.update.intl.miui.com/
+-927895498	xiaomi	https://mcc.india.inf.miui.com/
+-927895498	xiaomi	https://mcc.intl.inf.miui.com/
+-927895498	xiaomi	https://mcc.russia.inf.miui.com/
+-927895498	xiaomi	https://protect.dev.sec.intl.miui.com/
+-927895498	xiaomi	https://protect.dev.sec.miui.com/
+-927895498	xiaomi	https://ru-unlock.update.intl.miui.com/
+-927895498	xiaomi	https://unlock.update.intl.miui.com/
+-927895498	xiaomi	https://unlock.update.miui.com/
+-927895498	xiaomi	https://web.huangye.miui.com/
+-927895498	xiaomi	http://trial.api.comm.miui.com/
+-927895498	xiaomi	http://unlock.update.intl.miui.com/
+-927895498	xiaomi	http://web.comm.miui.com/
+-927895498	xiaomi	http://web.huangye.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://account-alpha.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://account.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://act.browser.intl.miui.com/
@@ -164,10 +164,6 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://l7.c3.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://open.mp.huangye.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://providers.sec.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://rs.vip.miui.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tongji-alpha.vip.miui.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tongji.vip.miui.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web-alpha.vip.miui.com/
-d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wnoise.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://account-alpha.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://act.browser.intl.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://activity.browser.intl.miui.com/
@@ -200,6 +196,10 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://trading.assistant.miu
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://web-alpha.vip.miui.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://wnoise.vip.miui.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tongji-alpha.vip.miui.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://tongji.vip.miui.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://web-alpha.vip.miui.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://wnoise.vip.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://adv.sec.intl.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://api.browser.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://cp.assistant.miui.com/
@@ -209,10 +209,10 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	http://preview.trading.assistant.miu
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://r.bd.sec.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://r.browser.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://r.sg.sec.miui.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://trading.assistant.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://adv.sec.intl.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://api.browser.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://data.sec.intl.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://data.sec.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://preview.trading.assistant.miui.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://r.browser.miui.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://trading.assistant.miui.com/

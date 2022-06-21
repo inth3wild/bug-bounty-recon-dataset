@@ -7,10 +7,8 @@ http://candidate-ui-staging.certsynonprod.com
 http://certsynonprod.com
 http://cookie-checker.certsynonprod.com
 http://docs.certsynonprod.com
-http://hirer-ui-staging.certsynonprod.com
 http://hirer.certsynonprod.com
-http://www.certsynonprod.com
-http://www.hirer.certsynonprod.com
+http://hirer-ui-staging.certsynonprod.com
 https://admin-ui-staging.certsynonprod.com
 https://app.certsynonprod.com
 https://auth.certsynonprod.com
@@ -19,7 +17,9 @@ https://candidate-ui-staging.certsynonprod.com
 https://certsynonprod.com
 https://cookie-checker.certsynonprod.com
 https://docs.certsynonprod.com
-https://hirer-ui-staging.certsynonprod.com
 https://hirer.certsynonprod.com
+https://hirer-ui-staging.certsynonprod.com
 https://matomo.certsynonprod.com
 https://www.certsynonprod.com
+http://www.certsynonprod.com
+http://www.hirer.certsynonprod.com

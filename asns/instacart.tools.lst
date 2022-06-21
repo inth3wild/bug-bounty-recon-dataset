@@ -1,8 +1,8 @@
-cf.customers.dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 cfalt.customers.dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 cfalternate.customers.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
-costcobusinesscenter-onecart-dev.pbis-cf-dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+cf.customers.dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 costcobusinesscenter-onecart.dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+costcobusinesscenter-onecart-dev.pbis-cf-dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 costcopbi.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 costcous.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 costcous.pbis-cf-dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
@@ -18,8 +18,8 @@ reset.sftp-catalog.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 34.
 reset.sftp-dataeng.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 reset.sftp-infra.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
 reset.sftp-partners.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
-reset.sftp-payments.dev.instacart.tools AS14618 AS14618 - AMAZON.COM INC. US 52.2.0.0/15
 reset.sftp-payments.dev.instacart.tools AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+reset.sftp-payments.dev.instacart.tools AS14618 AS14618 - AMAZON.COM INC. US 52.2.0.0/15
 sproutspbi.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 sproutspbi.pbis-cf-dev.instacart.tools AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 stewleonards.dev.instacart.tools AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23

@@ -10,10 +10,11 @@ cms.preprod-acquisition-web.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BV
 cms.qa-acquisition-web.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 datacat-ext.nlp-processing.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 datacat-ext.qa-nlp-processing.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.86.0.0/15
+datacat-ext.qa-redwall.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 datacat-test.qa-nlp-processing.grammarlyaws.com AS6130 AS6130 - AMERICAN INTERNET SERVICES, LLC. US 0.0.0.0/0
 definitions.qa-reader.grammarlyaws.com AS6130 AS6130 - AMERICAN INTERNET SERVICES, LLC. US 0.0.0.0/0
-denali-bazel-vpce-qa-core.preprod-testing-tools.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 denali-bazel.preprod-testing-tools.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+denali-bazel-vpce-qa-core.preprod-testing-tools.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 etc.qa-text-processing.grammarlyaws.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
 experiment-be.qa-experimentation.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 f-assets.preprod-design-system.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.40.0/21

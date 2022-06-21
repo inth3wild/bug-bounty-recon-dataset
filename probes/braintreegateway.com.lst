@@ -18,6 +18,7 @@ https://id.sandbox.braintreegateway.com [301] [GET] [text/html] [] [nginx] [Ngin
 https://integrations.sandbox.braintreegateway.com [200] [GET] [text/plain] [] [nginx] [vhost] [Nginx] [44727915124979746af266c759410ecf]
 https://js.braintreegateway.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [bc56979a0b381a791dd59713198a87fb]
 https://login.braintreegateway.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
+https://origin-assets.braintreegateway.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4dec45889e09ec3ceb63fd65825d0f11]
 https://origin-checkout.braintreegateway.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://panel.braintreegateway.com [200] [GET] [text/html] [Braintree] [] [vhost] [Express,Node.js] [c019c1382b4d45b5d48842da4bab12cd]
 https://panel.qa.braintreegateway.com [301] [GET] [text/plain] [] [] [Express,Node.js] [08a7f2933a2756493505f528b7d9d4b6]
