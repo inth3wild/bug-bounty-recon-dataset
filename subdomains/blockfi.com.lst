@@ -143,6 +143,7 @@ pen-test.shield-sandbox.aws.blockfi.com
 pikachu.chain-infrastructure-sandbox.aws.blockfi.com
 pm-bounces.blockfi.com
 prime.blockfi.com
+privatelink-v2-e2e.shared-cicd.aws.blockfi.com
 prod.blockfi.com
 prod-corm-api.blockfi-infra.aws.blockfi.com
 prod-graphistry.tempest-prod.aws.blockfi.com

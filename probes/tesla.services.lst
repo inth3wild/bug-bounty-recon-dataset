@@ -17,7 +17,7 @@ https://deejay.prd.mp.tesla.services [404] [GET] [text/plain] [] [] [vhost] [595
 https://ercot-gambit-eng.sn.tesla.services [403] [GET] [application/json] [] [] [vhost] [bc45704aad57d445b6dfa58b101071e3]
 https://ercot-gambit-prd.sn.tesla.services [403] [GET] [application/json] [] [] [vhost] [bc45704aad57d445b6dfa58b101071e3]
 https://gridlogic-api-eng.sn.tesla.services [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [08fee48a957bb5fb09679a318ee48bbc]
-https://gridlogic-api.sn.tesla.services [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [08fee48a957bb5fb09679a318ee48bbc]
+https://gridlogic-api.sn.tesla.services [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [6be05d19e4ca80eb3ef0a7f16f937f13]
 https://gridlogic.sn.tesla.services [404] [GET] [text/html] [404 Not Found] [] [370e16c3b7dba286cff055f93b9a94d8]
 https://hermes-cn-north-eng.vn.tesla.services [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [6be05d19e4ca80eb3ef0a7f16f937f13]
 https://hermes-cn-north-prd.vn.tesla.services [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [08fee48a957bb5fb09679a318ee48bbc]

@@ -102,6 +102,7 @@ bfcm-globe-cricket-prod-backup.flink.shopifykloud.com
 bfcm-globe-cricket-relay-central.flink.shopifykloud.com
 bfcm-globe-cricket-relay-east.flink.shopifykloud.com
 bfcm-globe-cricket-stg-sim.flink.shopifykloud.com
+bfcm-globe-data-staging.flink.shopifykloud.com
 bfcm-globe-monorail-central.flink.shopifykloud.com
 bfcm-globe-monorail-east.flink.shopifykloud.com
 bfcm-globe-products-staging-central.flink.shopifykloud.com
@@ -705,6 +706,7 @@ staging.notebooks.shopifykloud.com
 staging-refinery-azkaban-web.data-acq.shopifykloud.com
 staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 starscream-qa.shopify-data-presto-global.shopifykloud.com
+storefront-theme-state-staging.flink.shopifykloud.com
 streaming-customer-sessions-staging.flink.shopifykloud.com
 streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com
 streaming-personalization-staging.flink.shopifykloud.com

@@ -41,8 +41,10 @@ accessibility-web-c3p-102485.sys.comcast.net
 accessibility-web-c3s-033920.sys.comcast.net
 acecass-as-02-con.sys.comcast.net
 acecass-po-02-con.sys.comcast.net
+acecass-po-25-con.sys.comcast.net
 acecass-wc-08-con.sys.comcast.net
 acedb-cmc-01-con.sys.comcast.net
+acedb-cmc-02-con.sys.comcast.net
 aceesx-as-01-con.sys.comcast.net
 aceesx-as-02-con.sys.comcast.net
 aceesx-as-03-con.sys.comcast.net
@@ -117,8 +119,12 @@ aceokdi-as-02.sys.comcast.net
 aceosc-ch2-02-con.sys.comcast.net
 aceosc-ch2-06-con.sys.comcast.net
 aceosc-ch2-07-con.sys.comcast.net
+aceosc-cmc-01-con.sys.comcast.net
 aceosc-cmc-04-con.sys.comcast.net
+aceosc-cmc-05-con.sys.comcast.net
 aceosc-cmc-06-con.sys.comcast.net
+aceosc-cmc-07-con.sys.comcast.net
+aceosc-cmc-12-con.sys.comcast.net
 aceosc-wc-09-con.sys.comcast.net
 aceosc-wc-11-con.sys.comcast.net
 aceosi-ch2-01-con.sys.comcast.net
@@ -1876,6 +1882,7 @@ emmelk-po-a4p.sys.comcast.net
 emmelk-po-a5p.sys.comcast.net
 emmelk-po-a6p.sys.comcast.net
 emmelk-po-a7p.sys.comcast.net
+emmgo-video.sys.comcast.net
 emmhrtb-as-a6p.sys.comcast.net
 emmhrtb-ch2-a6p.sys.comcast.net
 emmproxy-po-a3p.sys.comcast.net
@@ -2358,6 +2365,7 @@ mesbwq-eg-ap01.sys.comcast.net
 mes.sys.comcast.net
 meszbxdb-dn-a1p.sys.comcast.net
 meszbxdb-prod-dn.sys.comcast.net
+meszbx-dn-ap01.sys.comcast.net
 meszbx-dn-db01.sys.comcast.net
 meszbx-dn-db02.sys.comcast.net
 mkctrl-as-n1v.sys.comcast.net
@@ -2493,6 +2501,12 @@ ngidmweb-ho-a1s.sys.comcast.net
 ngidmweb-ho-a2p.sys.comcast.net
 ngidmweb-ho-a2q.sys.comcast.net
 ngidmweb-ho-a3p.sys.comcast.net
+ngtwtweb-ho-a1s.sys.comcast.net
+ngtwtweb-ho-a2s.sys.comcast.net
+ngtwtweb-ho-a3s.sys.comcast.net
+ngtwtweb-ho-a4s.sys.comcast.net
+ngtwtweb-ho-a5s.sys.comcast.net
+ngtwtweb-ho-a6s.sys.comcast.net
 ngvds-as-a1d.sys.comcast.net
 ngvds-as-a2d.sys.comcast.net
 ngvds-as-a3d.sys.comcast.net
@@ -3674,6 +3688,7 @@ www.cxpesc-ch2-a1s.sys.comcast.net
 www.dcasvc.sys.comcast.net
 www.drtrweb-po-a1p.sys.comcast.net
 www.ebdp-avdc-c008p.sys.comcast.net
+www.emmgo-video.sys.comcast.net
 www.emm-sonar-hsd.sys.comcast.net
 www.emmvsgelk-ch2-prod.sys.comcast.net
 www.fposapp-wc-a1i.sys.comcast.net

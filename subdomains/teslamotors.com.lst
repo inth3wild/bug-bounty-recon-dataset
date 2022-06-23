@@ -473,6 +473,7 @@ teslaplm-external.teslamotors.com
 teslaplm-sjcfcs.teslamotors.com
 testcert1.teslamotors.com
 testcert2.teslamotors.com
+testcert3.teslamotors.com
 testimail.teslamotors.com
 test.owner-api.teslamotors.com
 _tls.teslamotors.com
@@ -587,6 +588,7 @@ www-test03.teslamotors.com
 www-test05.teslamotors.com
 www-test07.teslamotors.com
 www.testcert1.teslamotors.com
+www.testcert3.teslamotors.com
 www-test.teslamotors.com
 www.toolbox-external-stg.teslamotors.com
 www.toolbox.teslamotors.com

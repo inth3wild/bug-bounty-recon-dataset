@@ -2585,6 +2585,7 @@ advapp-wc-a5p.cable.comcast.com
 advapp-wc-b5p-b.cable.comcast.com
 advapp-wc-b5p.cable.comcast.com
 advapp-wc.cable.comcast.com
+adv-avsm-01s.gslb2.comcast.com
 advcamapp.comcast.com
 advcamappqa.comcast.com
 advcamappstg.comcast.com
@@ -7230,6 +7231,10 @@ cdadmjmp-wc-6p.cable.comcast.com
 cdadmjmp-wc-7p.cable.comcast.com
 cdadmjmp-wc-8p.cable.comcast.com
 cdadmjmp-wc-9p.cable.comcast.com
+cdarcgisserver.cable.comcast.com
+cdarcgisserver-dev.cable.comcast.com
+cdarcgisserver-prd.cable.comcast.com
+cdarcgisserver-stg.cable.comcast.com
 cdashap-ch2-11p.cable.comcast.com
 cdashap-po-3p.cable.comcast.com
 cdashap-po-a1p.cable.comcast.com
@@ -15599,6 +15604,7 @@ ecore-ues-po.gslb2.comcast.com
 ecore-ues-wc.gslb2.comcast.com
 ecpnsx-dev.cable.comcast.com
 ecpvcenter-dev.cable.comcast.com
+ecpwcp-as-1p.cable.comcast.com
 ecr04.boot-wstchs.pa.ebone.cable.comcast.com
 ecr.g.comcast.com
 edbindex-as-1p.cable.comcast.com
@@ -16717,6 +16723,7 @@ eu-dev.sat-ng.comcast.com
 euphoria.cable.comcast.com
 europe.ha-search.splunk.comcast.com
 eu.sat-ng.comcast.com
+eu-stage-dm.sat-ng.comcast.com
 eu-stage.sat-ng.comcast.com
 eu-west-1-01.mesh-eu.connected.comcast.com
 eu-west-1-01.mesh-stage-eu.connected.comcast.com
@@ -34848,6 +34855,11 @@ or.ss-help-home-content-int.np.digital.business.comcast.com
 or.ss-help-home-content-pqa.np.digital.business.comcast.com
 or.ss-help-home-content-qa.np.digital.business.comcast.com
 or.ss-help-home-content-stg-or.np.digital.business.comcast.com
+or.ss-help-home-ui-dev.np.digital.business.comcast.com
+or.ss-help-home-ui-pqa.np.digital.business.comcast.com
+or.ss-help-home-ui-prod-va.digital.business.comcast.com
+or.ss-help-home-ui-qa.np.digital.business.comcast.com
+or.ss-help-home-ui-stg-or.np.digital.business.comcast.com
 or.ss-help-shared-content-dev.np.digital.business.comcast.com
 or.ss-help-shared-content-int.np.digital.business.comcast.com
 or.ss-help-shared-content-pqa.np.digital.business.comcast.com
@@ -38865,6 +38877,7 @@ phlai.comcast.com
 phlljdaguili2.cable.comcast.com
 phpipam.ctc31.psp.comcast.com
 phpipam-tpxs.ctc31.psp.comcast.com
+pht-p.gslb4.comcast.com
 phxwinweb-as-1p.cable.comcast.com
 pia.comcast.com
 pickle.cable.comcast.com
@@ -44114,6 +44127,11 @@ ss-help-home-content-int.np.digital.business.comcast.com
 ss-help-home-content-pqa.np.digital.business.comcast.com
 ss-help-home-content-qa.np.digital.business.comcast.com
 ss-help-home-content-stg-or.np.digital.business.comcast.com
+ss-help-home-ui-dev.np.digital.business.comcast.com
+ss-help-home-ui-pqa.np.digital.business.comcast.com
+ss-help-home-ui-prod-va.digital.business.comcast.com
+ss-help-home-ui-qa.np.digital.business.comcast.com
+ss-help-home-ui-stg-or.np.digital.business.comcast.com
 ss-help-shared-content-dev.np.digital.business.comcast.com
 ss-help-shared-content-int.np.digital.business.comcast.com
 ss-help-shared-content-pqa.np.digital.business.comcast.com
@@ -46020,6 +46038,7 @@ testomsflow.cable.comcast.com
 testool-grafana-dev.comcast.com
 testorion-wc-1p.cable.comcast.com
 testorion-wc-4p.cable.comcast.com
+testproddep.comcast.com
 testrail-as-0p.slb.comcast.com
 testrail-as-4d.slb.comcast.com
 testrailprod-as-0p.slb.comcast.com
@@ -48763,6 +48782,11 @@ va.ss-help-home-content-int.np.digital.business.comcast.com
 va.ss-help-home-content-pqa.np.digital.business.comcast.com
 va.ss-help-home-content-qa.np.digital.business.comcast.com
 va.ss-help-home-content-stg-or.np.digital.business.comcast.com
+va.ss-help-home-ui-dev.np.digital.business.comcast.com
+va.ss-help-home-ui-pqa.np.digital.business.comcast.com
+va.ss-help-home-ui-prod-va.digital.business.comcast.com
+va.ss-help-home-ui-qa.np.digital.business.comcast.com
+va.ss-help-home-ui-stg-or.np.digital.business.comcast.com
 va.ss-help-shared-content-dev.np.digital.business.comcast.com
 va.ss-help-shared-content-int.np.digital.business.comcast.com
 va.ss-help-shared-content-pqa.np.digital.business.comcast.com
@@ -51290,6 +51314,8 @@ websectls.gslb2.comcast.com
 webserver.antivirus.vpn.wam.sfdcitv-prd-pp05.cm.cable.comcast.com
 webserver.webmail.ftp.ftp.webserver.prod.vpn.webmail.ftp.webmail.antivirus.anaheim.l-pp05.cm.cable.comcast.com
 websocket.janus.gumby.comcast.com
+webtop-ho-1s.slb.comcast.com
+webtop-sf-ho-1s.slb.comcast.com
 webview.cable.comcast.com
 wehst-cmc-1p.cable.comcast.com
 wehst-cmc-2p.cable.comcast.com

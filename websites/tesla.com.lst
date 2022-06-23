@@ -69,6 +69,7 @@ http://akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
 http://akamai-apigateway-teslarpsapi.tesla.com
 http://akamai-apigateway-translationpipeline.tesla.com
 http://akamai-apigateway-uat-materials.tesla.com
+http://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 http://akamai-apigateway-vendorpartsapi.tesla.com
 http://akamai-apigateway-warp3pl.tesla.com
 http://akamai-apigateway-warpassetapi.tesla.com
@@ -240,6 +241,7 @@ https://akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
 https://akamai-apigateway-teslarpsapi.tesla.com
 https://akamai-apigateway-translationpipeline.tesla.com
 https://akamai-apigateway-uat-materials.tesla.com
+https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 https://akamai-apigateway-vendorpartsapi.tesla.com
 https://akamai-apigateway-warp3pl.tesla.com
 https://akamai-apigateway-warpassetapi.tesla.com

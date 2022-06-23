@@ -31,7 +31,7 @@ mijn.acceptatie.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
 mijn.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
 origin.checkout.acc.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 18.200.0.0/16
 origin.checkout.prd.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
-origin.inspiratie.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
+origin.inspiratie.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 origin.myaccount.acc.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 18.200.0.0/16
 origin.myaccount.prd.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
 origin.shopfront.acc.karwei.nl AS16509 AS16509 - AMAZON.COM, INC. US 18.200.0.0/16

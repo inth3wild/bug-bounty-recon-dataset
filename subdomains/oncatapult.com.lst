@@ -300,6 +300,7 @@ player-gateway-serverci.bagpipes-dev.oncatapult.com
 player-gateway-unstable.bagpipes-dev.oncatapult.com
 prod.cms.oncatapult.com
 qa.accounts-dev.oncatapult.com
+release-app-stgodd.tools.oncatapult.com
 server-browser-ben.bagpipes-proto.oncatapult.com
 server-grpc-testci.catapult-dev.oncatapult.com
 serverstats.tools.oncatapult.com

@@ -1,6 +1,6 @@
 http://devportal.kws.superawesome.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [2d32c1f2d77ac47b0ad58e3970874513]
 http://legal-docs.superawesome.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [6d58f66bce47812a3c782d46aa4e983c]
-https://aaguides.superawesome.com [200] [GET] [text/html] [AwesomeAds Developer Guide – Advertise to kids in the largest digital content marketplace] [nginx] [vhost] [MySQL,Nginx,PHP,WordPress] [9d95c121041f90847303b81338dc21fe]
+https://aaguides.superawesome.com [200] [GET] [text/html] [AwesomeAds Developer Guide – Advertise to kids in the largest digital content marketplace] [nginx] [vhost] [google] [MySQL,Nginx,PHP,WordPress] [33fd49e7ccf49425c06e79926e33946d]
 https://accountspayable.superawesome.com [302] [GET] [text/plain] [] [] [vhost] [Express,Node.js] [5ac85eb490248a12e9dedbc009c16989]
 https://adgallery.superawesome.com [200] [GET] [text/html] [Creative Gallery] [openresty] [Nginx,OpenResty,Webflow] [fce5a9e90300ae01039de6e955d45489]
 https://api.kws.staging.superawesome.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [8c3e2a0df518329134556aa9caf0668e]

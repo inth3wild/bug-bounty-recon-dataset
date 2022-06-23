@@ -141,6 +141,7 @@ http://euw.emailencryption.sophos.com
 http://euw-emg.emailencryption.sophos.com
 http://eu-west-1.protection.sophos.com
 http://evolve.sophos.com
+http://export-compliance.api.sophos.com
 http://export-compliance.sophos.com
 http://express1.ff.staging.labs.sophos.com
 http://express2.ff.staging.labs.sophos.com
@@ -1029,6 +1030,7 @@ https://ev7wo8oe.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://events.optix.sophos.com
 https://evolve.sophos.com
 https://exg4cnet.cloudstation.us-west-2.prod.hydra.sophos.com
+https://export-compliance.api.sophos.com
 https://export-compliance.sophos.com
 https://extended.firewalltelemetry.sophos.com
 https://f5v5rg9u.stn100yul.ctr.sophos.com

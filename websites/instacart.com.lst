@@ -282,6 +282,8 @@ http://cash-saver.pbis-cf.instacart.com:8080
 http://cash-saver.pbis-cf.instacart.com:8880
 http://catalog-api.instacart.com
 http://catalog.instacart.com
+http://chase.payments.instacart.com
+http://chase.payments.instacart.com:8080
 http://chef-store.pbis-cf.instacart.com
 http://chef-store.pbis-cf.instacart.com:2082
 http://chef-store.pbis-cf.instacart.com:2083
@@ -411,6 +413,7 @@ http://costco-onecart.pbis-cf.instacart.com:8443
 http://county-market.pbis-cf.instacart.com
 http://county-market.pbis-cf.instacart.com:2086
 http://county-market.pbis-cf.instacart.com:2087
+http://county-market.pbis-cf.instacart.com:2095
 http://county-market.pbis-cf.instacart.com:8080
 http://county-market.pbis-cf.instacart.com:8443
 http://county-market.pbis-cf.instacart.com:8880
@@ -1895,6 +1898,8 @@ https://cash-saver.pbis-cf.instacart.com:2087
 https://cash-saver.pbis-cf.instacart.com:8443
 https://catalog-api.instacart.com
 https://catalog.instacart.com
+https://chase.payments.instacart.com
+https://chase.payments.instacart.com:8443
 https://chef-store.pbis-cf.instacart.com
 http://schnucks.instacart.com
 http://schnucks.instacart.com:2082
@@ -1948,6 +1953,9 @@ https://costcoca-onecart.pbis-cf.instacart.com
 https://costco.instacart.com
 https://costco-onecart.pbis-cf.instacart.com
 https://county-market.pbis-cf.instacart.com
+https://county-market.pbis-cf.instacart.com:2083
+https://county-market.pbis-cf.instacart.com:2087
+https://county-market.pbis-cf.instacart.com:8443
 https://cub.instacart.com
 https://cvs.pbis-cf.instacart.com
 https://cvs.pbis-cf.instacart.com:2083
@@ -2442,7 +2450,9 @@ http://sports-basement.instacart.com
 http://sports-basement.pbis-cf.instacart.com
 http://sports-basement.pbis-cf.instacart.com:2082
 http://sports-basement.pbis-cf.instacart.com:2083
+http://sports-basement.pbis-cf.instacart.com:2086
 http://sports-basement.pbis-cf.instacart.com:2087
+http://sports-basement.pbis-cf.instacart.com:2095
 http://sports-basement.pbis-cf.instacart.com:8080
 http://sports-basement.pbis-cf.instacart.com:8443
 http://sports-basement.pbis-cf.instacart.com:8880
@@ -2571,6 +2581,9 @@ https://spirit-halloween.instacart.com
 https://spirit-halloween.pbis-cf.instacart.com
 https://sports-basement.instacart.com
 https://sports-basement.pbis-cf.instacart.com
+https://sports-basement.pbis-cf.instacart.com:2083
+https://sports-basement.pbis-cf.instacart.com:2087
+https://sports-basement.pbis-cf.instacart.com:8443
 https://spring-market.pbis-cf.instacart.com
 https://sprouts.pbis-cf.instacart.com
 https://staples-can.pbis-cf.instacart.com
@@ -2878,6 +2891,10 @@ https://www.instacart.com
 https://yig.pbis-cf.instacart.com
 https://your-independent-grocer.instacart.com
 https://zehrs.pbis-cf.instacart.com
+https://zehrs.pbis-cf.instacart.com:2053
+https://zehrs.pbis-cf.instacart.com:2083
+https://zehrs.pbis-cf.instacart.com:2087
+https://zehrs.pbis-cf.instacart.com:8443
 http://t.ads.instacart.com
 http://taprm.pbis-cf.instacart.com
 http://taprm.pbis-cf.instacart.com:2082
@@ -3279,10 +3296,12 @@ http://yig.pbis-cf.instacart.com:8080
 http://yig.pbis-cf.instacart.com:8443
 http://your-independent-grocer.instacart.com
 http://zehrs.pbis-cf.instacart.com
+http://zehrs.pbis-cf.instacart.com:2052
 http://zehrs.pbis-cf.instacart.com:2082
 http://zehrs.pbis-cf.instacart.com:2083
 http://zehrs.pbis-cf.instacart.com:2086
 http://zehrs.pbis-cf.instacart.com:2087
+http://zehrs.pbis-cf.instacart.com:2095
 http://zehrs.pbis-cf.instacart.com:8080
 http://zehrs.pbis-cf.instacart.com:8443
 http://zehrs.pbis-cf.instacart.com:8880

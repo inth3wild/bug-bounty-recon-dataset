@@ -11,6 +11,7 @@ http://agents-jp03-cloud.acronis.com
 http://agents-ng01-cloud.acronis.com
 http://agents-nz01-cloud.acronis.com
 http://agents-pt01-cloud.acronis.com
+http://agents-tw01-cloud.acronis.com
 http://akl1-repo.acronis.com
 http://ams7795-jp-cloud.acronis.com
 http://appdirect-eu2-cloud.acronis.com
@@ -76,6 +77,7 @@ http://cloud-wr-pl01.acronis.com
 http://cloud-wr-pt01.acronis.com
 http://cloud-wr-ru2.acronis.com
 http://cloud-wr-sg1.acronis.com
+http://cloud-wr-tw01.acronis.com
 http://cloud-wr-us1.acronis.com
 http://cloud-wr-us2.acronis.com
 http://cn99-cloud.acronis.com:10001
@@ -204,6 +206,7 @@ http://rs-msptest2.acronis.com
 http://rs-nz01-cloud.acronis.com
 http://rs-pl01-cloud.acronis.com
 http://rs-pt01-cloud.acronis.com
+http://rs-tw01-cloud.acronis.com
 http://rs-us5-cloud.acronis.com
 http://ru2-baas.acronis.com
 http://ru2-bc-baas.acronis.com
@@ -235,6 +238,7 @@ https://agents-nz01-cloud.acronis.com
 https://agents-pl01-cloud.acronis.com
 https://agents-pt01-cloud.acronis.com
 https://agents-sg-cloud.acronis.com
+https://agents-tw01-cloud.acronis.com
 https://agents-us5-cloud.acronis.com
 https://agents-us-cloud.acronis.com
 https://akl1-repo.acronis.com
@@ -378,6 +382,8 @@ https://cloud-wr-ru2.acronis.com:8443
 https://cloud-wr-sg1.acronis.com
 https://cloud-wr-sg1.acronis.com:8080
 https://cloud-wr-sg1.acronis.com:8443
+https://cloud-wr-tw01.acronis.com
+https://cloud-wr-tw01.acronis.com:8443
 https://cloud-wr-us1.acronis.com
 https://cloud-wr-us1.acronis.com:8443
 https://cloud-wr-us2.acronis.com
@@ -557,6 +563,8 @@ https://rs-pl01-cloud.acronis.com
 https://rs-pl01-cloud.acronis.com:8443
 https://rs-pt01-cloud.acronis.com
 https://rs-pt01-cloud.acronis.com:8443
+https://rs-tw01-cloud.acronis.com
+https://rs-tw01-cloud.acronis.com:8443
 https://rs-us5-cloud.acronis.com
 https://rs-us5-cloud.acronis.com:8443
 https://ru2-baas.acronis.com
@@ -610,9 +618,12 @@ http://storage-reports.acronis.com
 http://store.acronis.com
 http://store.acronis.com:8080
 https://tpe1-repo.acronis.com
+https://tpe1-s3gw.acronis.com
 https://trueimage.acronis.com
 https://tryaccess.acronis.com
 https://ts.acronis.com
+https://tw01-cloud.acronis.com
+https://tw01-cloud.acronis.com:8443
 https://uklyncweb.acronis.com
 https://uksip.acronis.com
 https://urlresearch.acronis.com
@@ -655,6 +666,7 @@ http://tlv1-repo.acronis.com
 http://tm.partners.acronis.com
 http://tpe1-repo.acronis.com
 http://trueimage.acronis.com
+http://tw01-cloud.acronis.com
 http://urlresearch.acronis.com
 http://us4-baas.acronis.com
 http://us4-cloud.acronis.com

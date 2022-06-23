@@ -16,6 +16,7 @@ http://loadtest-api-testci.catapult-dev.oncatapult.com
 http://loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 http://mmbetaapi.fallguys-dev.oncatapult.com
 http://prod.cms.oncatapult.com
+http://release-app-stgodd.tools.oncatapult.com
 https://admin-clientdev.fallguys-dev.oncatapult.com
 https://admin-closedbeta.fallguys-dev.oncatapult.com
 https://admin-compatqa.fallguys-dev.oncatapult.com
@@ -110,6 +111,7 @@ https://nats-proxy-testaksupgrades.catapult-dev.oncatapult.com
 https://nats-proxy-testci.catapult-dev.oncatapult.com
 https://nats-proxy-testci.fallguys-dev.oncatapult.com
 https://prod.cms.oncatapult.com
+https://release-app-stgodd.tools.oncatapult.com
 https://serverstats.tools.oncatapult.com
 https://service-analytics-testci.catapult-dev.oncatapult.com
 https://service-gateway-testci.catapult-dev.oncatapult.com

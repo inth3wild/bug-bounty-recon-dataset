@@ -31,7 +31,6 @@ https://mijn.acceptatie.karwei.nl [403] [GET] [text/html] [ERROR: The request co
 https://mijn.karwei.nl [200] [GET] [text/html] [Mijn KARWEI] [AmazonS3] [vhost] [cloudfront] [Algolia,Amazon Cloudfront,Amazon S3,Amazon Web Services] [e7a3532bf793d3bead836b6a2788ab1f]
 https://origin.checkout.acc.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://origin.checkout.prd.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
-https://origin.inspiratie.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://origin.inspiratie.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [bad2e8579dcdb79399aac2064216a37d]
 https://origin.myaccount.acc.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://origin.myaccount.acc.karwei.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [bad2e8579dcdb79399aac2064216a37d]

@@ -37,6 +37,7 @@ http://bfcm-globe-cricket-prod-backup.flink.shopifykloud.com
 http://bfcm-globe-cricket-relay-central.flink.shopifykloud.com
 http://bfcm-globe-cricket-relay-east.flink.shopifykloud.com
 http://bfcm-globe-cricket-stg-sim.flink.shopifykloud.com
+http://bfcm-globe-data-staging.flink.shopifykloud.com
 http://bfcm-globe-monorail-central.flink.shopifykloud.com
 http://bfcm-globe-monorail-east.flink.shopifykloud.com
 http://bfcm-globe-products-staging.flink.shopifykloud.com
@@ -260,6 +261,7 @@ https://bfcm-globe-cricket-prod-backup.flink.shopifykloud.com
 https://bfcm-globe-cricket-relay-central.flink.shopifykloud.com
 https://bfcm-globe-cricket-relay-east.flink.shopifykloud.com
 https://bfcm-globe-cricket-stg-sim.flink.shopifykloud.com
+https://bfcm-globe-data-staging.flink.shopifykloud.com
 https://bfcm-globe-monorail-central.flink.shopifykloud.com
 https://bfcm-globe-monorail-east.flink.shopifykloud.com
 https://bfcm-globe-products-staging.flink.shopifykloud.com
@@ -497,6 +499,7 @@ https://staging-kafka-azkaban-web.data-acq.shopifykloud.com
 https://staging.notebooks.shopifykloud.com
 https://staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 https://starscream-qa.shopify-data-presto-global.shopifykloud.com
+https://storefront-theme-state-staging.flink.shopifykloud.com
 https://streaming-customer-sessions-staging.flink.shopifykloud.com
 https://streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com
 https://streaming-personalization-staging.flink.shopifykloud.com
@@ -537,6 +540,7 @@ https://test-caching.shopify-data-presto-global.shopifykloud.com
 https://test-staging.flink.shopifykloud.com
 https://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 https://third-party-impact-poc-staging.flink.shopifykloud.com
+http://storefront-theme-state-staging.flink.shopifykloud.com
 http://streaming-customer-sessions-staging.flink.shopifykloud.com
 http://streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com
 http://streaming-personalization-staging.flink.shopifykloud.com
