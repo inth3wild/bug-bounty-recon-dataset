@@ -1,0 +1,13 @@
+[http] autodiscover.cynicaltechnology.com:80
+[http] cynicaltechnology.com:80
+[http] enterpriseenrollment.cynicaltechnology.com:80
+[http] enterpriseregistration.cynicaltechnology.com:80
+[http] lyncdiscover.cynicaltechnology.com:80
+[https] cynicaltechnology.com:443
+[https] enterpriseenrollment.cynicaltechnology.com:443
+[https] enterpriseregistration.cynicaltechnology.com:443
+[https] lyncdiscover.cynicaltechnology.com:443
+[https] sip.cynicaltechnology.com:443
+[https] www.cynicaltechnology.com:443
+[http] www.cynicaltechnology.com:80
+[sip-tls] sip.cynicaltechnology.com:5061

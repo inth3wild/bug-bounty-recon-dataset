@@ -9,6 +9,10 @@
 116323821	springboot	https://informatica-adapter-cloudhub-eu-west-1.dev.hydra.sophos.com/
 116323821	springboot	https://informatica-adapter-cloudhub-eu-west-1.qa.hydra.sophos.com/
 -1249852061	microsoft outlook	http://autodiscover.sophos.com/
+-1270699277	blankwhite	http://app.go.sophos.com/
+-1270699277	blankwhite	http://lp.sophos.com/
+-1270699277	blankwhite	https://app.go.sophos.com/
+-1270699277	blankwhite	https://lp.sophos.com/
 1274734426	blankwhite	http://ai.sophos.com/
 1274734426	blankwhite	http://blogs.sophos.com/
 1274734426	blankwhite	http://dev.staysafe.sophos.com/
@@ -51,6 +55,10 @@
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://support.home-sandbox.sophos.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://support.home.sophos.com/
 3bdfaec33d4ce535ce728a5a32e6004b	microsoft-outlook	http://autodiscover.sophos.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	http://app.go.sophos.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	http://lp.sophos.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://app.go.sophos.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://lp.sophos.com/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	http://ai.sophos.com/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	http://blogs.sophos.com/
 8b5a97b687b1fb900d94bc7b1187438f	blankwhite	http://dev.staysafe.sophos.com/

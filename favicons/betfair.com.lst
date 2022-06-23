@@ -207,6 +207,11 @@
 1099596916	betfair	http://zaklady.betfair.com/
 1099596916	betfair	http://zaklady.betfair.com:8080/
 -1249852061	microsoft outlook	http://autodiscover.betfair.com/
+-1270699277	blankwhite	http://mycards.betfair.com/
+-1270699277	blankwhite	https://ie1-pacbf.betfair.com/
+-1270699277	blankwhite	https://ie2-pacbf.betfair.com/
+-1270699277	blankwhite	https://mycards.betfair.com/
+-1270699277	blankwhite	https://pacbf.lb.betfair.com/
 -1279294674	zendesk-support	https://support.developer.betfair.com/
 -1279294674	zendesk-support	http://support.developer.betfair.com/
 1772087922	asp.net favicon	http://simulator.betfair.com/
@@ -214,6 +219,11 @@
 1f2804bd63515db219aeea50f61df277	zendesk-support	https://support.developer.betfair.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://support.developer.betfair.com/
 3bdfaec33d4ce535ce728a5a32e6004b	microsoft-outlook	http://autodiscover.betfair.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	http://mycards.betfair.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://ie1-pacbf.betfair.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://ie2-pacbf.betfair.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://mycards.betfair.com/
+76e36321dc6fe787721c5cd26e4814b6	blankwhite	https://pacbf.lb.betfair.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://simulator.betfair.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.com/
