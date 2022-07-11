@@ -1,6 +1,9 @@
 [cddbp-alt] acc-shop.just-eat.dk:8880
+[cddbp-alt] test-shop.just-eat.dk:8880
 [eli] acc-shop.just-eat.dk:2087
+[eli] test-shop.just-eat.dk:2087
 [gnunet] acc-shop.just-eat.dk:2086
+[gnunet] test-shop.just-eat.dk:2086
 [http] ablink.emails.just-eat.dk:80
 [http] ablink.orders.just-eat.dk:80
 [http] acc-shop.just-eat.dk:80
@@ -10,12 +13,14 @@
 [http] live-orders.just-eat.dk:80
 [http] old.just-eat.dk:80
 [http-proxy] acc-shop.just-eat.dk:8080
+[http-proxy] test-shop.just-eat.dk:8080
 [http] restaurant.just-eat.dk:80
 [http] restaurantsignup.just-eat.dk:80
 [http] restaurants.just-eat.dk:80
 [https] ablink.emails.just-eat.dk:443
 [https] ablink.orders.just-eat.dk:443
 [https] acc-shop.just-eat.dk:443
+[https-alt] test-shop.just-eat.dk:8443
 [https] beta.just-eat.dk:443
 [https] cloud.update.just-eat.dk:443
 [http] shop.just-eat.dk:80
@@ -41,6 +46,9 @@
 [http] test-shop.just-eat.dk:80
 [http] www.just-eat.dk:80
 [infowave] acc-shop.just-eat.dk:2082
+[infowave] test-shop.just-eat.dk:2082
+[knetd] test-shop.just-eat.dk:2053
 [radsec] acc-shop.just-eat.dk:2083
+[radsec] test-shop.just-eat.dk:2083
 [smtp] order.just-eat.dk:25
 [smtp] update.just-eat.dk:25

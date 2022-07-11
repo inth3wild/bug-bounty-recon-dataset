@@ -15,6 +15,7 @@ maqsam.sip.twilio.com
 origination-prod.futel.sip.us1.twilio.com
 origination-stage.futel.sip.us1.twilio.com
 public-sip0.ashburn-ix.twilio.com
+public-sip0.ashburn.twilio.com
 public-sip0.covid19-us1.twilio.com
 public-sip0.dev-us1-ix.twilio.com
 public-sip0.dev-us1.twilio.com
@@ -40,6 +41,7 @@ public-sip0.tokyo.twilio.com
 public-sip0.umatilla.twilio.com
 public-sip0.us2-ix.twilio.com
 public-sip1.ashburn-ix.twilio.com
+public-sip1.ashburn.twilio.com
 public-sip1.dev-us1.twilio.com
 public-sip1.dev-us2.twilio.com
 public-sip1.dublin.twilio.com
@@ -63,6 +65,7 @@ public-sip1.tokyo-ix.twilio.com
 public-sip1.tokyo.twilio.com
 public-sip1.umatilla.twilio.com
 public-sip2.ashburn-ix.twilio.com
+public-sip2.ashburn.twilio.com
 public-sip2.dublin.twilio.com
 public-sip2.frankfurt-ix.twilio.com
 public-sip2.frankfurt.twilio.com
@@ -76,11 +79,13 @@ public-sip2.sydney.twilio.com
 public-sip2.tokyo-ix.twilio.com
 public-sip2.tokyo.twilio.com
 public-sip2.umatilla.twilio.com
+public-sip3.ashburn.twilio.com
 sip.ashburn.dev.twilio.com
 sip.ashburn-ix.dev.twilio.com
 sip.ashburn-ix.stage.twilio.com
 sip.ashburn-ix.twilio.com
 sip.ashburn.stage.twilio.com
+sip.ashburn.twilio.com
 sip.au1-ix.twilio.com
 sip.au1.twilio.com
 sip.br1.twilio.com

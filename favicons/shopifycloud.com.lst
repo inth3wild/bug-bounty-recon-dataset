@@ -97,6 +97,7 @@
 0	zero byte favicon	http://plus-home.shopifycloud.com/
 0	zero byte favicon	http://plus-merchant-onboarding.shopifycloud.com/
 0	zero byte favicon	http://pos-channel.shopifycloud.com/
+0	zero byte favicon	http://pos-channel-staging-app.shopifycloud.com/
 0	zero byte favicon	http://pos-channel-staging.shopifycloud.com/
 0	zero byte favicon	http://pos-compliance-server.shopifycloud.com/
 0	zero byte favicon	http://pos-compliance-server-staging.shopifycloud.com/
@@ -239,6 +240,7 @@
 0	zero byte favicon	https://plus-home.shopifycloud.com/
 0	zero byte favicon	https://plus-merchant-onboarding.shopifycloud.com/
 0	zero byte favicon	https://pos-channel.shopifycloud.com/
+0	zero byte favicon	https://pos-channel-staging-app.shopifycloud.com/
 0	zero byte favicon	https://pos-channel-staging.shopifycloud.com/
 0	zero byte favicon	https://pos-compliance-server.shopifycloud.com/
 0	zero byte favicon	https://pos-compliance-server-staging.shopifycloud.com/
@@ -540,6 +542,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://ping-api-staging.shopi
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://plus-home.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://plus-merchant-onboarding.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://pos-channel.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://pos-channel-staging-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://pos-channel-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://pos-compliance-server.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://pos-compliance-server-staging.shopifycloud.com/
@@ -682,6 +685,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ping-api-staging.shop
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://plus-home.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://plus-merchant-onboarding.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pos-channel.shopifycloud.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pos-channel-staging-app.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pos-channel-staging.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pos-compliance-server.shopifycloud.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://pos-compliance-server-staging.shopifycloud.com/

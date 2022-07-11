@@ -1,3 +1,5 @@
+[] accounts.home-dev.sophos.com:17000
+[] accounts.home-dev.sophos.com:9530
 [] accounts.home-qa.sophos.com:8863
 [] a.home-qa.sophos.com:8863
 [amqp] accounts.home-dev.sophos.com:5672
@@ -76,6 +78,7 @@
 [ftp] ftp-insecure.sophos.com:21
 [ftps] ftp.sophos.com:990
 [ftps] ftp-tst.sophos.com:990
+[globalcatLDAP] accounts.home-dev.sophos.com:3268
 [gnunet] buy.home.sophos.com:2086
 [gnunet] shop.sophos.com:2086
 [gnunet] support.home-sandbox.sophos.com:2086
@@ -518,6 +521,7 @@
 [https] 7gy1g4em.cloudstation.eu-west-1.inf.hydra.sophos.com:443
 [https] 7nwbuh90.cloudstation.us-east-2.prod.hydra.sophos.com:443
 [https] 7qrc556e.cloudstation.eu-west-1.dev.hydra.sophos.com:443
+[https] 7uvd6jtt.stn100bom.ctr.sophos.com:443
 [https] 7vmldu8i-cloudhub-eu-west-1.inf.hydra.sophos.com:443
 [https] 7xub23m5.cloudhub.eu-west-1.dev.hydra.sophos.com:443
 [https] 88taapg4.cloudstation.eu-west-1.inf.hydra.sophos.com:443
@@ -779,12 +783,14 @@
 [https] aws1.ff.labs.sophos.com:443
 [https] aws-auth-downloads.sophos.com:443
 [https] ay72iu8a.cloudstation.eu-west-1.inf.hydra.sophos.com:443
+[https] azure-svc-locator-alt.hub010pdx.ctr.sophos.com:443
 [https] azure-svc-locator-cloudhub-eu-west-1.dev.hydra.sophos.com:443
 [https] azure-svc-locator.cloudhub.eu-west-1.dev.hydra.sophos.com:443
 [https] azure-svc-locator-cloudhub-eu-west-1.prod.hydra.sophos.com:443
 [https] azure-svc-locator.cloudhub.eu-west-1.prod.hydra.sophos.com:443
 [https] azure-svc-locator-cloudhub-eu-west-1.qa.hydra.sophos.com:443
 [https] azure-svc-locator.cloudhub.eu-west-1.qa.hydra.sophos.com:443
+[https] azure-svc-locator.hub010pdx.ctr.sophos.com:443
 [https] b0a4f091-e1b9-37b1-aa79-11fe7de152c8-wdx-e1b9.broker.sophos.com:443
 [https] b2c-adaptor-cloudhub-eu-west-1.dev.hydra.sophos.com:443
 [https] b2c-adaptor.cloudhub.eu-west-1.dev.hydra.sophos.com:443
@@ -1205,6 +1211,7 @@
 [https] fwcm-legacy-ui-alt.stn030gru.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn030hnd.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn030syd.ctr.sophos.com:443
+[https] fwcm-legacy-ui-alt.stn100bom.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn100syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn100yul.ctr.sophos.com:443
 [https] fwcm-legacy-ui-cloudstation-eu-central-1.prod.hydra.sophos.com:443
@@ -1232,6 +1239,7 @@
 [https] fwcm-legacy-ui.stn030gru.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn030hnd.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn030syd.ctr.sophos.com:443
+[https] fwcm-legacy-ui.stn100bom.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn100syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn100yul.ctr.sophos.com:443
 [https] fwcm-ms-demo-cloudstation-eu-west-1.inf.hydra.sophos.com:443
@@ -1595,6 +1603,7 @@
 [https] ntal-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] ntal-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com:443
+[https] nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com:443
 [https] nta-reporting-cloudstation-us-east-2.prod.hydra.sophos.com:443
 [https] nta-reporting.cloudstation.us-east-2.prod.hydra.sophos.com:443
 [https] nv7k4bmr.cloudstation.eu-west-1.dev.hydra.sophos.com:443
@@ -1624,8 +1633,10 @@
 [https] p4ugw64x.cloudstation.eu-west-1.inf.hydra.sophos.com:443
 [https] packages.sophos.com:443
 [http] spamtrap-rest.labs.sophos.com:80
+[https] partner-billing-alt.hub010pdx.ctr.sophos.com:443
 [https] partner-billing-cloudhub-eu-west-1.dev.hydra.sophos.com:443
 [https] partner-billing.cloudhub.eu-west-1.dev.hydra.sophos.com:443
+[https] partner-billing.hub010pdx.ctr.sophos.com:443
 [https] partnernews.sophos.com:443
 [https] partnerportal.sophos.com:443
 [https] partners.esp.sophos.com:443
@@ -1818,6 +1829,7 @@
 [https] rca-upload.stn100gru.ctr.sophos.com:443
 [https] rca-upload.stn100syd.ctr.sophos.com:443
 [https] rdccl6ch.cloudstation.us-west-2.prod.hydra.sophos.com:443
+[https] re4q1kji.hub010pdx.ctr.sophos.com:443
 [https] renewals.sophos.com:443
 [https] report-scheduler-alt.stn010yul.ctr.sophos.com:443
 [https] report-scheduler-alt.stn030bom.ctr.sophos.com:443
@@ -2029,6 +2041,7 @@
 [https] template-store.cloudstation.us-west-2.qa.hydra.sophos.com:443
 [https] tenant-access-alt.stn010yul.ctr.sophos.com:443
 [https] tenant-access.stn010yul.ctr.sophos.com:443
+[https] teqa235q.hub010pdx.ctr.sophos.com:443
 [https] terra-test2.inf.hydra.sophos.com:443
 [https] terra.test2.inf.hydra.sophos.com:443
 [https] terratest.inf.hydra.sophos.com:443
@@ -2230,6 +2243,7 @@
 [https] wifix-monitoring.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] wifix-monitoring.stn010yul.ctr.sophos.com:443
 [https] wifix-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com:443
+[https] wifix-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] wp4fve3y.cloudhub.eu-west-1.dev.hydra.sophos.com:443
 [https] wsa-reg.sophos.com:443
 [https] wsa.sophos.com:443
@@ -2524,6 +2538,7 @@
 [memcache] accounts.home-qa.sophos.com:11211
 [memcache] a.home-qa.sophos.com:11211
 [memcache] a.home.sophos.com:11211
+[micromuse-ncpw] accounts.home-dev.sophos.com:9600
 [mit-ml-dev] accounts.home-dev.sophos.com:83
 [mit-ml-dev] accounts.home-dev.sophos.com:85
 [mit-ml-dev] accounts.home-qa.sophos.com:83
@@ -2552,6 +2567,7 @@
 [ms-wbt-server] s.home-dev.sophos.com:3389
 [ms-wbt-server] s.home-qa.sophos.com:3389
 [ms-wbt-server] s.home.sophos.com:3389
+[mysql] accounts.home-dev.sophos.com:3306
 [mysql] evolve.sophos.com:3306
 [nbx-dir] shop.sophos.com:2096
 [nbx-ser] shop.sophos.com:2095
@@ -2567,6 +2583,7 @@
 [ndmps] s.home-dev.sophos.com:30000
 [ndmps] s.home-qa.sophos.com:30000
 [ndmps] s.home.sophos.com:30000
+[oa-system] accounts.home-dev.sophos.com:8022
 [openvpn] lon3.ff.labs.sophos.com:1194
 [opsmessaging] accounts.home-dev.sophos.com:8090
 [opsmessaging] accounts.home-qa.sophos.com:8090

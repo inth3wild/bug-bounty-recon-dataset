@@ -1,3 +1,4 @@
+[adrep] kato.ttd.psynet.gg:3954
 [amqp] api.analytics.psynet.gg:5672
 [amqp] api.devallyn.psynet.gg:5672
 [amqp] api.dev-sierra.psynet.gg:5672
@@ -81,6 +82,7 @@
 [blackice-icecap] ws.rlps-cert.psynet.gg:8081
 [blackice-icecap] ws.rlps.psynet.gg:8081
 [blackice-icecap] ws.rlpt.psynet.gg:8081
+[couchdb] kato.ttd.psynet.gg:5984
 [ctf] api.analytics.psynet.gg:84
 [ctf] api.devallyn.psynet.gg:84
 [ctf] api.loadtest.psynet.gg:84
@@ -119,6 +121,7 @@
 [ctf] ws.rlps-cert.psynet.gg:84
 [ctf] ws.rlps.psynet.gg:84
 [ctf] ws.rlpt.psynet.gg:84
+[dicom] kato.ttd.psynet.gg:11112
 [dn6-nlm-aud] api.analytics.psynet.gg:195
 [dn6-nlm-aud] api.devallyn.psynet.gg:195
 [dn6-nlm-aud] api.loadtest.psynet.gg:195
@@ -232,6 +235,9 @@
 [d-s-n] ws.rlps-cert.psynet.gg:8086
 [d-s-n] ws.rlps.psynet.gg:8086
 [d-s-n] ws.rlpt.psynet.gg:8086
+[edm-manager] kato.ttd.psynet.gg:3460
+[fs-server] kato.ttd.psynet.gg:8043
+[gnunet] kato.ttd.psynet.gg:2086
 [http] api.analytics.psynet.gg:80
 [http] api.devallyn.psynet.gg:80
 [http] api.dev-sierra.psynet.gg:80
@@ -353,6 +359,7 @@
 [http] ws.rlps-cert.psynet.gg:80
 [http] ws.rlps.psynet.gg:80
 [http] ws.rlpt.psynet.gg:80
+[ifor-protocol] kato.ttd.psynet.gg:1515
 [imap] api.analytics.psynet.gg:143
 [imap] api.devallyn.psynet.gg:143
 [imap] api.loadtest.psynet.gg:143
@@ -470,6 +477,11 @@
 [jetdirect] ws.rlps-cert.psynet.gg:9100
 [jetdirect] ws.rlps.psynet.gg:9100
 [jetdirect] ws.rlpt.psynet.gg:9100
+[] kato.ttd.psynet.gg:8700
+[] kato.ttd.psynet.gg:9530
+[kme-trap-port] kato.ttd.psynet.gg:2081
+[ldap] kato.ttd.psynet.gg:389
+[ldapssl] kato.ttd.psynet.gg:636
 [memcache] api.analytics.psynet.gg:11211
 [memcache] api.devallyn.psynet.gg:11211
 [memcache] api.loadtest.psynet.gg:11211
@@ -630,6 +642,8 @@
 [ms-wbt-server] ws.rlps-cert.psynet.gg:3389
 [ms-wbt-server] ws.rlps.psynet.gg:3389
 [ms-wbt-server] ws.rlpt.psynet.gg:3389
+[opcua-tcp] kato.ttd.psynet.gg:4840
+[opsession-prxy] kato.ttd.psynet.gg:3307
 [opsmessaging] api.analytics.psynet.gg:8090
 [opsmessaging] api.devallyn.psynet.gg:8090
 [opsmessaging] api.rlbt.psynet.gg:8090
@@ -666,6 +680,7 @@
 [opsmessaging] ws.rlps-cert.psynet.gg:8090
 [opsmessaging] ws.rlps.psynet.gg:8090
 [opsmessaging] ws.rlpt.psynet.gg:8090
+[plex] kato.ttd.psynet.gg:32400
 [pop3] api.analytics.psynet.gg:110
 [pop3] api.devallyn.psynet.gg:110
 [pop3] api.loadtest.psynet.gg:110
@@ -802,6 +817,7 @@
 [radan-http] ttd.psynet.gg:8088
 [radan-http] ws.rl-proto-buzz.psynet.gg:8088
 [radan-http] ws.rlps-cert.psynet.gg:8088
+[rcc-host] kato.ttd.psynet.gg:2332
 [redis] api.analytics.psynet.gg:6379
 [redis] api.devallyn.psynet.gg:6379
 [redis] api.dev-sierra.psynet.gg:6379
@@ -1045,8 +1061,11 @@
 [unknown] config.psynet.gg:8085
 [unknown] config.psynet.gg:8089
 [unknown] config.psynet.gg:8099
+[unknown] kato.ttd.psynet.gg:49153
+[unknown] kato.ttd.psynet.gg:51235
 [unknown] kato.ttd.psynet.gg:8089
 [unknown] kato.ttd.psynet.gg:8099
+[unknown] kato.ttd.psynet.gg:8887
 [unknown] proxy.psynet.gg:8085
 [unknown] proxy.psynet.gg:8099
 [unknown] psychart.ttd.psynet.gg:8089
@@ -1256,6 +1275,7 @@
 [] ws.rlms.psynet.gg:8863
 [] ws.rlplt.psynet.gg:8863
 [] ws.rl-proto-buzz.psynet.gg:8863
+[X11] kato.ttd.psynet.gg:6000
 [XmlIpcRegSvc] api.analytics.psynet.gg:9092
 [XmlIpcRegSvc] api.rlpc.psynet.gg:9092
 [XmlIpcRegSvc] api.rl-proto-buzz.psynet.gg:9092

@@ -8,6 +8,7 @@ https://bom.paypalcorp.com [200] [GET] [text/html] [Support Portal] [Apache] [Ap
 https://bridgeazure.paypalcorp.com [200] [GET] [text/html] [Your Azure Function App is up and running.] [] [vhost] [azure] [e1454fa4ae7e129a0cdba70191b71fe2]
 https://bridgedmz.paypalcorp.com [200] [GET] [text/html] [Request Rejected] [] [8e8796542a444de36cfacf08e1fa3cf3]
 https://bridge.paypalcorp.com [302] [GET] [text/plain] [] [] [vhost] [0b7f2a5c390c3e89565b9eae391ad462]
+https://camel.paypalcorp.com [403] [GET] [text/html] [Web App - Unavailable] [] [vhost] [azure] [77e04b398ad3ca9739b75293fd188086]
 https://casper.paypalcorp.com:8443 [302] [GET] [] [] [Jamf Cloud Node] [vhost] [Amazon ALB,Amazon Web Services,Java] [d41d8cd98f00b204e9800998ecf8427e]
 https://cosmos.paypalcorp.com [200] [GET] [text/html] [] [] [f91a416be352a03c76b6ce8f948eda4d]
 https://den-int-gslb.paypalcorp.com [302] [GET] [text/html] [] [] [c623cadfa4ef39072c9cdae568133022]

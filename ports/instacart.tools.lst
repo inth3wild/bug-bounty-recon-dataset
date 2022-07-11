@@ -1,3 +1,5 @@
+[cddbp-alt] atlas.instacart.tools:8880
+[cddbp-alt] bristolfarms-dev.pbis-cf-dev.instacart.tools:8880
 [cddbp-alt] cfalt.customers.dev.instacart.tools:8880
 [cddbp-alt] cf.customers.dev.instacart.tools:8880
 [cddbp-alt] costcobusinesscenter-onecart.dev.instacart.tools:8880
@@ -7,6 +9,8 @@
 [cddbp-alt] test.pbis-cf-dev.instacart.tools:8880
 [cddbp-alt] test.pbis-cf.dev.instacart.tools:8880
 [clearvisn] cfalt.customers.dev.instacart.tools:2052
+[eli] atlas.instacart.tools:2087
+[eli] bristolfarms-dev.pbis-cf-dev.instacart.tools:2087
 [eli] cfalt.customers.dev.instacart.tools:2087
 [eli] cf.customers.dev.instacart.tools:2087
 [eli] costcobusinesscenter-onecart.dev.instacart.tools:2087
@@ -16,6 +20,8 @@
 [eli] sproutspbi.pbis-cf-dev.instacart.tools:2087
 [eli] test.pbis-cf-dev.instacart.tools:2087
 [eli] test.pbis-cf.dev.instacart.tools:2087
+[gnunet] atlas.instacart.tools:2086
+[gnunet] bristolfarms-dev.pbis-cf-dev.instacart.tools:2086
 [gnunet] cfalt.customers.dev.instacart.tools:2086
 [gnunet] cf.customers.dev.instacart.tools:2086
 [gnunet] costcobusinesscenter-onecart.dev.instacart.tools:2086
@@ -33,6 +39,7 @@
 [http] blazer-backend.instacart.tools:80
 [http] blazer-beta.instacart.tools:80
 [http] blazer.instacart.tools:80
+[http] bristolfarms-dev.pbis-cf-dev.instacart.tools:80
 [http] catalog.instacart.tools:80
 [http] cfalt.customers.dev.instacart.tools:80
 [http] cfalternate.customers.dev.instacart.tools:80
@@ -59,6 +66,8 @@
 [http] plum-market.dev.instacart.tools:80
 [http] portal.instacart.tools:80
 [http] preview.ads.dev.instacart.tools:80
+[http-proxy] atlas.instacart.tools:8080
+[http-proxy] bristolfarms-dev.pbis-cf-dev.instacart.tools:8080
 [http-proxy] cfalt.customers.dev.instacart.tools:8080
 [http-proxy] cf.customers.dev.instacart.tools:8080
 [http-proxy] costcobusinesscenter-onecart.dev.instacart.tools:8080
@@ -69,6 +78,7 @@
 [http-proxy] test.pbis-cf-dev.instacart.tools:8080
 [http-proxy] test.pbis-cf.dev.instacart.tools:8080
 [https] ads.instacart.tools:443
+[https-alt] bristolfarms-dev.pbis-cf-dev.instacart.tools:8443
 [https-alt] cfalt.customers.dev.instacart.tools:8443
 [https-alt] cf.customers.dev.instacart.tools:8443
 [https-alt] costcobusinesscenter-onecart.dev.instacart.tools:8443
@@ -83,6 +93,7 @@
 [https] blazer-backend.instacart.tools:443
 [https] blazer-beta.instacart.tools:443
 [https] blazer.instacart.tools:443
+[https] bristolfarms-dev.pbis-cf-dev.instacart.tools:443
 [https] catalog.instacart.tools:443
 [https] cfalt.customers.dev.instacart.tools:443
 [https] cfalternate.customers.dev.instacart.tools:443
@@ -159,12 +170,15 @@
 [infowave] sproutspbi.pbis-cf-dev.instacart.tools:2082
 [infowave] test.pbis-cf-dev.instacart.tools:2082
 [infowave] test.pbis-cf.dev.instacart.tools:2082
+[knetd] bristolfarms-dev.pbis-cf-dev.instacart.tools:2053
 [knetd] costcous.pbis-cf-dev.instacart.tools:2053
 [knetd] foodlion.pbis-cf-dev.instacart.tools:2053
+[nbx-dir] bristolfarms-dev.pbis-cf-dev.instacart.tools:2096
 [nbx-ser] cfalt.customers.dev.instacart.tools:2095
 [nbx-ser] costcobusinesscenter-onecart.dev.instacart.tools:2095
 [nbx-ser] costcobusinesscenter-onecart-dev.pbis-cf-dev.instacart.tools:2095
 [nbx-ser] test.pbis-cf-dev.instacart.tools:2095
+[radsec] atlas.instacart.tools:2083
 [radsec] cfalt.customers.dev.instacart.tools:2083
 [radsec] cf.customers.dev.instacart.tools:2083
 [radsec] costcous.pbis-cf-dev.instacart.tools:2083

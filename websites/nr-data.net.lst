@@ -15,7 +15,10 @@ http://collector-pool.migration.cell.nr-data.net
 http://collector-pool.migration.cell.nr-data.net:8080
 http://collector-pool.migration.cell.nr-data.net:8443
 http://ingest-test-api.eu01.nr-data.net
+http://ingest-test-api.eu01.nr-data.net:2052
+http://ingest-test-api.eu01.nr-data.net:2082
 http://ingest-test-api.eu01.nr-data.net:8080
+http://ingest-test-api.eu01.nr-data.net:8880
 http://log-api.eu01.nr-data.net
 http://log-api.eu01.nr-data.net:8080
 http://log-api-origin.cell.nr-data.net
@@ -52,6 +55,8 @@ https://collector-001.eu01.nr-data.net:8443
 https://gov-bam.nr-data.net
 https://gov-staging-bam.nr-data.net
 https://ingest-test-api.eu01.nr-data.net
+https://ingest-test-api.eu01.nr-data.net:2083
+https://ingest-test-api.eu01.nr-data.net:2087
 https://ingest-test-api.eu01.nr-data.net:8443
 https://log-api.eu01.nr-data.net
 https://log-api.eu01.nr-data.net:8443
@@ -67,6 +72,9 @@ https://staging-bam-cell.nr-data.net:2083
 https://staging-bam-cell.nr-data.net:2087
 https://staging-bam-cell.nr-data.net:8443
 https://staging-bam.nr-data.net
+https://staging-bam.nr-data.net:2083
+https://staging-bam.nr-data.net:2087
+https://staging-bam.nr-data.net:8443
 https://staging-otlp.nr-data.net
 https://staging-service.nr-data.net
 https://staging-synthetics-horde-admin-tmp.nr-data.net
@@ -76,6 +84,11 @@ http://staging-bam-cell.nr-data.net:2082
 http://staging-bam-cell.nr-data.net:2086
 http://staging-bam-cell.nr-data.net:8080
 http://staging-bam.nr-data.net
+http://staging-bam.nr-data.net:2082
+http://staging-bam.nr-data.net:2086
+http://staging-bam.nr-data.net:2095
+http://staging-bam.nr-data.net:8080
+http://staging-bam.nr-data.net:8880
 http://staging-insights-collector-origin.nr-data.net
 http://staging-insights-collector-origin.nr-data.net:8080
 http://staging-insights-collector-origin.nr-data.net:8443

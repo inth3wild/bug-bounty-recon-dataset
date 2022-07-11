@@ -23,6 +23,6 @@ https://subfolder-proxy-foodwiki.just-eat.dk [404] [GET] [text/html] [404 Not Fo
 https://subfolder-proxy-je-sitecore-dk.just-eat.dk [200] [GET] [text/html] [Just Eat - Din smag, dit valg] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Google Font API,Google Tag Manager,Vue.js] [07e1d8c861be85ee0539e1b983a95247]
 https://subfolder-proxy-je-sitecore-dk.just-eat.dk [200] [GET] [text/html] [Just Eat - Din smag, dit valg] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Google Font API,Google Tag Manager,Vue.js] [947596dac2945e8ca4072ddfba7b8e48]
 https://tags.just-eat.dk [404] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9e076f5885f5cc16a4b5aeb8de4adff5]
-https://test-shop.just-eat.dk [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
+https://test-shop.just-eat.dk [302] [GET] [text/html] [302 Found] [cloudflare] [vhost] [cloudflare] [Cloudflare] [f366e0e18b589cb6f243bf43ce75e83c]
 https://www.just-eat.dk [503] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [2db62d944636114b9db418ae8ff8893f]
 https://www.just-eat.dk [503] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7de2387e63958e4dc22fc39bbbe8a386]

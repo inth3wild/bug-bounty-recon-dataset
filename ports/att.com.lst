@@ -155,6 +155,7 @@
 [cddbp-alt] believechicago.att.com:8880
 [cddbp-alt] believeneworleans.att.com:8880
 [cddbp-alt] midatlanticregion.att.com:8880
+[cddbp-alt] pennsylvania.att.com:8880
 [cddbp-alt] southcarolina.att.com:8880
 [cddbp-alt] southdakota.att.com:8880
 [cddbp-alt] southregion.att.com:8880
@@ -182,6 +183,7 @@
 [cisco-sccp] www.raptor-alt.pr.labs.voicetone.att.com:2000
 [cisco-sccp] www.telephones.att.com:2000
 [cisco-sccp] youshare.att.com:2000
+[clearvisn] pennsylvania.att.com:2052
 [clearvisn] southwestregion.att.com:2052
 [commplex-link] ai-plfmdev.digitallife.att.com:5001
 [commplex-link] ai-plfmdev.test.dlife.att.com:5001
@@ -327,6 +329,7 @@
 [eli] believechicago.att.com:2087
 [eli] believeneworleans.att.com:2087
 [eli] midatlanticregion.att.com:2087
+[eli] pennsylvania.att.com:2087
 [eli] southcarolina.att.com:2087
 [eli] southdakota.att.com:2087
 [eli] southregion.att.com:2087
@@ -409,6 +412,7 @@
 [gnunet] believechicago.att.com:2086
 [gnunet] believeneworleans.att.com:2086
 [gnunet] midatlanticregion.att.com:2086
+[gnunet] pennsylvania.att.com:2086
 [gnunet] southcarolina.att.com:2086
 [gnunet] southdakota.att.com:2086
 [gnunet] southregion.att.com:2086
@@ -830,6 +834,7 @@
 [http] c360-api-stg.att.com:80
 [http] c360-api-training.att.com:80
 [http] c3.firstnet.att.com:80
+[http] c3-stage.firstnet.att.com:80
 [http] c3-test2.firstnet.att.com:80
 [http] c3-test.firstnet.att.com:80
 [http] caaid.att.com:80
@@ -1440,6 +1445,7 @@
 [http] midwestregion.att.com:80
 [http] minnesota.att.com:80
 [http] miseleccionmx.att.com:80
+[http] missioncontrol.firstnet.att.com:80
 [http] mississippi.att.com:80
 [http] missouri.att.com:80
 [http] mm-prod.att.com:80
@@ -2496,6 +2502,7 @@
 [https-alt] fpspc3.az.cloud.att.com:8443
 [https-alt] gcsm-ext.att.com:8443
 [https-alt] gcsm-ext.test.att.com:8443
+[https-alt] gen.cloud.att.com:8443
 [https-alt] geolink-az.att.com:8443
 [https-alt] georgia.att.com:8443
 [https-alt] gulfcoastregion.att.com:8443
@@ -3108,6 +3115,7 @@
 [https] c360-api-stg.att.com:443
 [https] c360-api-training.att.com:443
 [https] c3.firstnet.att.com:443
+[https] c3-stage.firstnet.att.com:443
 [https] c3-test2.firstnet.att.com:443
 [https] c3-test.firstnet.att.com:443
 [https] caaid.att.com:443
@@ -4245,6 +4253,7 @@
 [https] mis-att.bus.att.com:443
 [https] mis-att.eia.att.com:443
 [https] miseleccionmx.att.com:443
+[https] missioncontrol.firstnet.att.com:443
 [https] mississippi.att.com:443
 [https] missl11.vpn.att.com:443
 [https] missl12.vpn.att.com:443
@@ -5482,6 +5491,7 @@
 [https] tdmtest.att.com:443
 [https] tdp.att.com:443
 [https] tdpdev.att.com:443
+[https] teams-e911.att.com:443
 [https] teams-e911.cloud.att.com:443
 [https] teams-e911-dev.cloud.att.com:443
 [https] teams-e911-prod.cloud.att.com:443
@@ -6177,7 +6187,11 @@
 [https] websitesmail.att.com:443
 [https] websitesolutions.att.com:443
 [https] websitesportal.att.com:443
+[https] websplashpage-aldc01.att.com:443
+[https] websplashpage-aldc02.att.com:443
 [https] websplashpage.att.com:443
+[https] websplashpage-dadc01.att.com:443
+[https] websplashpage-dadc02.att.com:443
 [https] webtest2.stage.att.com:443
 [https] webtest.stage.att.com:443
 [https] wellsfargomanage.att.com:443
@@ -6386,6 +6400,7 @@
 [http] tdata-offers.att.com:80
 [http] tdp.att.com:80
 [http] tdpdev.att.com:80
+[http] teams-e911.att.com:80
 [http] teams-e911.cloud.att.com:80
 [http] teams-e911-stage.cloud.att.com:80
 [http] tech360.att.com:80
@@ -6970,7 +6985,11 @@
 [http] websitesmail.att.com:80
 [http] websitesolutions.att.com:80
 [http] websitesportal.att.com:80
+[http] websplashpage-aldc01.att.com:80
+[http] websplashpage-aldc02.att.com:80
 [http] websplashpage.att.com:80
+[http] websplashpage-dadc01.att.com:80
+[http] websplashpage-dadc02.att.com:80
 [http] west.dataflow.iot.att.com:80
 [http] westregion.att.com:80
 [http] westus2-api.att.com:80
@@ -7152,6 +7171,7 @@
 [infowave] believechicago.att.com:2082
 [infowave] believeneworleans.att.com:2082
 [infowave] midatlanticregion.att.com:2082
+[infowave] pennsylvania.att.com:2082
 [infowave] southcarolina.att.com:2082
 [infowave] southdakota.att.com:2082
 [infowave] southregion.att.com:2082
@@ -7226,6 +7246,7 @@
 [knetd] believechicago.att.com:2053
 [knetd] believeneworleans.att.com:2053
 [knetd] midatlanticregion.att.com:2053
+[knetd] pennsylvania.att.com:2053
 [knetd] southcarolina.att.com:2053
 [knetd] southdakota.att.com:2053
 [knetd] southregion.att.com:2053
@@ -7358,6 +7379,7 @@
 [mysql] www.pr.labs.voicetone.att.com:3306
 [mysql] www.raptor-alt.pr.labs.voicetone.att.com:3306
 [mysql] youshare.att.com:3306
+[nbx-dir] pennsylvania.att.com:2096
 [nbx-ser] alabama.att.com:2095
 [nbx-ser] alaska.att.com:2095
 [nbx-ser] arizona.att.com:2095
@@ -7366,6 +7388,7 @@
 [nbx-ser] believechicago.att.com:2095
 [nbx-ser] believeneworleans.att.com:2095
 [nbx-ser] midatlanticregion.att.com:2095
+[nbx-ser] pennsylvania.att.com:2095
 [nbx-ser] southcarolina.att.com:2095
 [nbx-ser] southdakota.att.com:2095
 [nbx-ser] southregion.att.com:2095
@@ -7567,6 +7590,7 @@
 [radsec] believechicago.att.com:2083
 [radsec] believeneworleans.att.com:2083
 [radsec] midatlanticregion.att.com:2083
+[radsec] pennsylvania.att.com:2083
 [radsec] southcarolina.att.com:2083
 [radsec] southdakota.att.com:2083
 [radsec] southregion.att.com:2083
@@ -7673,6 +7697,7 @@
 [sip] onlinefax.att.com:5060
 [sip] onsemiconductorvideo.att.com:5060
 [sip-tls] join.uscfpdweb.att.com:5061
+[sip-tls] tmvideo.att.com:5061
 [sip-tls] upd-expe-vid2.uscfpdweb.att.com:5061
 [sip] tmvideo.att.com:5060
 [sip] upd-expe-vid1.uscfpdvideo.att.com:5060

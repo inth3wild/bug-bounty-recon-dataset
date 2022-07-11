@@ -1631,7 +1631,11 @@ pay.m.mi.com
 pay.notify.10046.mi.com
 paytm.live.mi.com
 pc.mi.com
+pc.order.pre.order.mi.com
+pc.order.test.mi.com
 pc.pre.mi.com
+pc.service.pre.order.mi.com
+pc.service.test.mi.com
 pcsuite.mi.com
 pc.sys.tv.mi.com
 p.dun.mi.com
@@ -1871,6 +1875,7 @@ service.10046.mi.com
 service.cloud.mi.com
 service.micard.10046.mi.com
 service.order.mi.com
+service.order.test.mi.com
 service.shop.mi.com
 services.mi.com
 settle.g.mi.com
@@ -2628,6 +2633,7 @@ xmssdn.micloud.mi.com
 xmssmc.micloud.mi.com
 xmt.backend.mi.com
 xmt.www.mi.com
+x.order.test.mi.com
 x.vr.mi.com
 xy.mi.com
 xyzj.mi.com

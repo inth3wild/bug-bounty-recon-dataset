@@ -15,6 +15,7 @@
 [http] keuzehulp.karwei.nl:80
 [http] kioskadmin.acceptatie.karwei.nl:80
 [http] kioskadmin.karwei.nl:80
+[http] maakafspraak.karwei.nl:80
 [http] magazine.karwei.nl:80
 [http] mijn2.acceptatie.karwei.nl:80
 [http] mijn2.karwei.nl:80
@@ -35,6 +36,7 @@
 [https] keuzehulp.karwei.nl:443
 [https] kioskadmin.acceptatie.karwei.nl:443
 [https] kioskadmin.karwei.nl:443
+[https] maakafspraak.karwei.nl:443
 [https] magazine.karwei.nl:443
 [https] mijn2.acceptatie.karwei.nl:443
 [https] mijn2.karwei.nl:443

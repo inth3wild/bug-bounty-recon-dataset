@@ -6,11 +6,13 @@
 [http] dev.reddithelp.com:80
 [http] mods.reddithelp.com:80
 [http-proxy] mods.reddithelp.com:8080
+[http] reddithelp.com:80
 [https] advertising.reddithelp.com:443
 [https-alt] mods.reddithelp.com:8443
 [https] business.reddithelp.com:443
 [https] dev.reddithelp.com:443
 [https] mods.reddithelp.com:443
+[https] reddithelp.com:443
 [https] staging.reddithelp.com:443
 [http] staging.reddithelp.com:80
 [https] www.reddithelp.com:443

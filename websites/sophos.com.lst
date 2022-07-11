@@ -394,6 +394,7 @@ https://7guwnb27.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://7gy1g4em.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://7nwbuh90.cloudstation.us-east-2.prod.hydra.sophos.com
 https://7qrc556e.cloudstation.eu-west-1.dev.hydra.sophos.com
+https://7uvd6jtt.stn100bom.ctr.sophos.com
 https://7vmldu8i-cloudhub-eu-west-1.inf.hydra.sophos.com
 https://7xub23m5.cloudhub.eu-west-1.dev.hydra.sophos.com
 https://88taapg4.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -642,12 +643,14 @@ https://avefstp3.cloudstation.eu-west-1.inf.hydra.sophos.com
 http://savmacfree.register.sophos.com
 https://aws-auth-downloads.sophos.com
 https://ay72iu8a.cloudstation.eu-west-1.inf.hydra.sophos.com
+https://azure-svc-locator-alt.hub010pdx.ctr.sophos.com
 https://azure-svc-locator-cloudhub-eu-west-1.dev.hydra.sophos.com
 https://azure-svc-locator.cloudhub.eu-west-1.dev.hydra.sophos.com
 https://azure-svc-locator-cloudhub-eu-west-1.prod.hydra.sophos.com
 https://azure-svc-locator.cloudhub.eu-west-1.prod.hydra.sophos.com
 https://azure-svc-locator-cloudhub-eu-west-1.qa.hydra.sophos.com
 https://azure-svc-locator.cloudhub.eu-west-1.qa.hydra.sophos.com
+https://azure-svc-locator.hub010pdx.ctr.sophos.com
 https://b0a4f091-e1b9-37b1-aa79-11fe7de152c8-wdx-e1b9.broker.sophos.com
 https://b2c-adaptor-cloudhub-eu-west-1.dev.hydra.sophos.com
 https://b2c-adaptor.cloudhub.eu-west-1.dev.hydra.sophos.com
@@ -1078,6 +1081,7 @@ https://fwcm-legacy-ui-alt.stn030bom.ctr.sophos.com
 https://fwcm-legacy-ui-alt.stn030gru.ctr.sophos.com
 https://fwcm-legacy-ui-alt.stn030hnd.ctr.sophos.com
 https://fwcm-legacy-ui-alt.stn030syd.ctr.sophos.com
+https://fwcm-legacy-ui-alt.stn100bom.ctr.sophos.com
 https://fwcm-legacy-ui-alt.stn100syd.ctr.sophos.com
 https://fwcm-legacy-ui-alt.stn100yul.ctr.sophos.com
 https://fwcm-legacy-ui-cloudstation-eu-central-1.prod.hydra.sophos.com
@@ -1105,6 +1109,7 @@ https://fwcm-legacy-ui.stn030bom.ctr.sophos.com
 https://fwcm-legacy-ui.stn030gru.ctr.sophos.com
 https://fwcm-legacy-ui.stn030hnd.ctr.sophos.com
 https://fwcm-legacy-ui.stn030syd.ctr.sophos.com
+https://fwcm-legacy-ui.stn100bom.ctr.sophos.com
 https://fwcm-legacy-ui.stn100syd.ctr.sophos.com
 https://fwcm-legacy-ui.stn100yul.ctr.sophos.com
 https://fwcm-ms-demo-cloudstation-eu-west-1.inf.hydra.sophos.com
@@ -1471,6 +1476,7 @@ https://nta-config.cloudstation.eu-central-1.qa.hydra.sophos.com
 https://ntal-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://ntal-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com
+https://nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com
 https://nta-reporting-cloudstation-us-east-2.prod.hydra.sophos.com
 https://nta-reporting.cloudstation.us-east-2.prod.hydra.sophos.com
 https://nv7k4bmr.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -1501,10 +1507,12 @@ https://p3xni885.cloudhub.eu-west-1.prod.hydra.sophos.com
 https://p4ugw64x.cloudstation.eu-west-1.inf.hydra.sophos.com
 https://packages.sophos.com
 http://spamtrap-rest.labs.sophos.com
+https://partner-billing-alt.hub010pdx.ctr.sophos.com
 https://partner-billing-cloudhub-eu-west-1.dev.hydra.sophos.com
 https://partner-billing.cloudhub.eu-west-1.dev.hydra.sophos.com
 https://partner-billing-cloudhub-eu-west-1.qa.hydra.sophos.com
 https://partner-billing.cloudhub.eu-west-1.qa.hydra.sophos.com
+https://partner-billing.hub010pdx.ctr.sophos.com
 https://partnernews.sophos.com
 https://partnerportal.sophos.com
 https://partners.esp.sophos.com
@@ -1701,6 +1709,7 @@ https://rca-upload.stn030yul.ctr.sophos.com
 https://rca-upload.stn100gru.ctr.sophos.com
 https://rca-upload.stn100syd.ctr.sophos.com
 https://rdccl6ch.cloudstation.us-west-2.prod.hydra.sophos.com
+https://re4q1kji.hub010pdx.ctr.sophos.com
 https://renewals.sophos.com
 https://report-scheduler-alt.stn010yul.ctr.sophos.com
 https://report-scheduler-alt.stn030bom.ctr.sophos.com
@@ -1913,6 +1922,7 @@ https://template-store-cloudstation-us-west-2.qa.hydra.sophos.com
 https://template-store.cloudstation.us-west-2.qa.hydra.sophos.com
 https://tenant-access-alt.stn010yul.ctr.sophos.com
 https://tenant-access.stn010yul.ctr.sophos.com
+https://teqa235q.hub010pdx.ctr.sophos.com
 https://terra-test2.inf.hydra.sophos.com
 https://terra.test2.inf.hydra.sophos.com
 https://terratest.inf.hydra.sophos.com
@@ -2123,6 +2133,7 @@ https://wifix-monitoring-cloudstation-eu-west-1.dev.hydra.sophos.com
 https://wifix-monitoring.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://wifix-monitoring.stn010yul.ctr.sophos.com
 https://wifix-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com
+https://wifix-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com
 https://wp4fve3y.cloudhub.eu-west-1.dev.hydra.sophos.com
 https://wsa-reg.sophos.com
 https://wsa.sophos.com

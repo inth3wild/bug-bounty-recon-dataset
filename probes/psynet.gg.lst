@@ -16,6 +16,7 @@ https://api.rlpt.psynet.gg [200] [GET] [text/html] [] [nginx/1.20.2] [google] [G
 https://api-staging.analytics.psynet.gg [200] [GET] [application/json] [] [] [google] [Google Cloud,Google Cloud CDN] [a2c82044c6eb0a60b362b548cd94242f]
 https://api-test.analytics.psynet.gg [200] [GET] [application/json] [] [] [google] [Google Cloud,Google Cloud CDN] [a2c82044c6eb0a60b362b548cd94242f]
 https://config.psynet.gg [404] [GET] [text/plain] [] [] [google] [Google Cloud,Google Cloud CDN] [595e88012a6521aae3e12cbebe76eb9e]
+https://kato.ttd.psynet.gg [301] [GET] [text/html] [301 Moved] [] [google] [b8b846a709a9c1100521142d291fe167]
 https://proxy.psynet.gg [403] [GET] [text/html] [403 Forbidden] [nginx/1.10.3 (Ubuntu)] [google] [Google Cloud,Google Cloud CDN,Nginx,Ubuntu] [f5f2d68fa09a433600ed3384db5dc2b3]
 https://psymap.internal.psynet.gg [302] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
 https://temp.rlpp.psynet.gg [200] [GET] [text/html] [] [nginx/1.20.2] [google] [Google Cloud,Google Cloud CDN,Nginx] [a60852f204ed8028c1c58808b746d115]

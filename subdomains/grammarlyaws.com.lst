@@ -80,6 +80,7 @@ datareport.private.subscription.grammarlyaws.com
 datareport.prod-gdpr-export.grammarlyaws.com
 datareport.qa-gdpr-export.grammarlyaws.com
 datareport.subscription.grammarlyaws.com
+datatasks-bohdan.proofit.grammarlyaws.com
 datatasks-kos.proofit.grammarlyaws.com
 datatasks-luke.proofit.grammarlyaws.com
 datatasks-misha.proofit.grammarlyaws.com
@@ -119,6 +120,7 @@ experiment-be.qa-experimentation.grammarlyaws.com
 experiment.preprod-experimentation.grammarlyaws.com
 experiment.prod-experimentation.grammarlyaws.com
 experiment.qa-experimentation.grammarlyaws.com
+f1f55aa.assets.preprod-design-system.grammarlyaws.com
 f5591295eb.preprod-design-system.grammarlyaws.com
 facade.db.acquisition.grammarlyaws.com
 f-assets.preprod-design-system.grammarlyaws.com
@@ -565,6 +567,7 @@ test.preprod-design-system.grammarlyaws.com
 test-san-for-staticwebapp.sandbox.grammarlyaws.com
 tokenism-db.acquisition.grammarlyaws.com
 tokenism-db-read.acquisition.grammarlyaws.com
+trainspotter.qa-platform.grammarlyaws.com
 travisci.common.grammarlyaws.com
 treatment.preprod-experimentation.grammarlyaws.com
 treatment.prod-experimentation.grammarlyaws.com

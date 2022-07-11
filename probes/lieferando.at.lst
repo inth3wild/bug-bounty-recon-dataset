@@ -720,7 +720,7 @@ https://sytthanhhoa.lieferando.at [530] [GET] [text/html] [Origin DNS error | sy
 https://tags.lieferando.at [404] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9e076f5885f5cc16a4b5aeb8de4adff5]
 https://tarim2.lieferando.at [429] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d22b95cac0fe53bb8ea803100a86f051]
 https://tarim2.lieferando.at [530] [GET] [text/html] [Origin DNS error | tarim2.lieferando.at | Cloudflare] [cloudflare] [vhost] [cloudflare] [Cloudflare] [483bb161f1aab954ff1521639f67596f]
-https://test-shop.lieferando.at [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
+https://test-shop.lieferando.at [302] [GET] [text/html] [302 Found] [cloudflare] [vhost] [cloudflare] [Cloudflare] [f366e0e18b589cb6f243bf43ce75e83c]
 https://tkaji2012.lieferando.at [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [4f20b85ce5ebf225720e040314a7966a]
 https://tkaji2012.lieferando.at [530] [GET] [text/html] [Origin DNS error | tkaji2012.lieferando.at | Cloudflare] [cloudflare] [vhost] [cloudflare] [Cloudflare] [f57e3051052b6b6c8655ab5f8a585622]
 https://top100.lieferando.at [429] [GET] [text/html] [Just a moment...] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [8fd0e4f5266e667b8586badca88aaed8]

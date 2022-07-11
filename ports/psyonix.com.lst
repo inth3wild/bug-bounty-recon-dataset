@@ -25,6 +25,8 @@
 [eli] zendesk2.psyonix.com:2087
 [eli] zendesk3.psyonix.com:2087
 [eli] zendesk4.psyonix.com:2087
+[] flat.psyonix.com:17000
+[globalcatLDAPssl] flat.psyonix.com:3269
 [gnunet] cdn.psyonix.com:2086
 [gnunet] rl-cdn.psyonix.com:2086
 [gnunet] rocketleague.psyonix.com:2086
@@ -98,6 +100,7 @@
 [imap] flat.psyonix.com:143
 [imaps] flat.psyonix.com:993
 [infowave] cdn.psyonix.com:2082
+[infowave] flat.psyonix.com:2082
 [infowave] rl-cdn.psyonix.com:2082
 [infowave] rocketleague.psyonix.com:2082
 [infowave] staging.psyonix.com:2082
@@ -117,6 +120,7 @@
 [knetd] zendesk3.psyonix.com:2053
 [knetd] zendesk4.psyonix.com:2053
 [memcache] flat.psyonix.com:11211
+[micromuse-ncpw] flat.psyonix.com:9600
 [mit-ml-dev] flat.psyonix.com:83
 [mit-ml-dev] flat.psyonix.com:85
 [mqtt] flat.psyonix.com:1883
@@ -135,6 +139,7 @@
 [pop3s] flat.psyonix.com:995
 [postgresql] flat.psyonix.com:5432
 [radsec] cdn.psyonix.com:2083
+[radsec] flat.psyonix.com:2083
 [radsec] rl-cdn.psyonix.com:2083
 [radsec] rocketleague.psyonix.com:2083
 [radsec] staging.psyonix.com:2083

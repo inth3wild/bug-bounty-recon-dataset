@@ -1,0 +1,11 @@
+[cddbp-alt] www.registry.eu:8880
+[clearvisn] www.registry.eu:2052
+[eli] www.registry.eu:2087
+[gnunet] www.registry.eu:2086
+[http-proxy] www.registry.eu:8080
+[https-alt] www.registry.eu:8443
+[https] www.registry.eu:443
+[http] www.registry.eu:80
+[infowave] www.registry.eu:2082
+[knetd] www.registry.eu:2053
+[radsec] www.registry.eu:2083

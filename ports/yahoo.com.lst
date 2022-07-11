@@ -3,6 +3,7 @@
 [clearvisn] admktg.yahoo.com:2052
 [clearvisn] mail.publishers.yahoo.com:2052
 [cslistener] commercecentral.yahoo.com:9000
+[d-s-n] prod-m-node-2111.ssp.ads.yahoo.com:8086
 [dynamid] commercecentral.yahoo.com:9002
 [eli] admktg.yahoo.com:2087
 [eli] mail.publishers.yahoo.com:2087
@@ -441,6 +442,7 @@
 [http] partnerinsights.yahoo.com:80
 [http] partners.yahoo.com:80
 [http] payment.ad.yahoo.com:80
+[http] pclick.europe.yahoo.com:80
 [http] pclick.internal.yahoo.com:80
 [http] people.yahoo.com:80
 [http] perf-ads.amp.commerce.yahoo.com:80
@@ -476,6 +478,7 @@
 [http] protect.yahoo.com:80
 [http-proxy] admktg.yahoo.com:8080
 [http-proxy] mail.publishers.yahoo.com:8080
+[http-proxy] prod-m-node-2111.ssp.ads.yahoo.com:8080
 [http] pubgw.ads.yahoo.com:80
 [http] pubgw.yahoo.com:80
 [http] public1.comet.vip.bf1.yahoo.com:80
@@ -662,6 +665,7 @@
 [https] calendar.yahoo.com:443
 [https] ca.my.yahoo.com:443
 [https] canary-grocery.fp.yahoo.com:443
+[https] canary-newsletters.fp.yahoo.com:443
 [https] canary-nextgen.fp.yahoo.com:443
 [https] canary-shops.fp.yahoo.com:443
 [https] canary-subscriptions.fp.yahoo.com:443
@@ -1026,6 +1030,7 @@
 [https] partners.pse.yahoo.com:443
 [https] partners.yahoo.com:443
 [https] payment.ad.yahoo.com:443
+[https] pclick.europe.yahoo.com:443
 [https] pclick.internal.yahoo.com:443
 [https] people.yahoo.com:443
 [https] perf-ads.amp.commerce.yahoo.com:443
@@ -1208,6 +1213,7 @@
 [https] stars.yahoo.com:443
 [https] stg-ads.amp.commerce.yahoo.com:443
 [https] stg-api.amp.commerce.yahoo.com:443
+[https] stg-astra.commerce.yahoo.com:443
 [https] stg-content.commerce.yahoo.com:443
 [https] stg-marketplace.amp.commerce.yahoo.com:443
 [https] stgmerchant.gemini.yahoo.com:443
@@ -1263,6 +1269,7 @@
 [https] test-vpn2-1-gci.corp.bf1.yahoo.com:443
 [http] stg-ads.amp.commerce.yahoo.com:80
 [http] stg-api.amp.commerce.yahoo.com:80
+[http] stg-astra.commerce.yahoo.com:80
 [http] stg-content.commerce.yahoo.com:80
 [http] stg-marketplace.amp.commerce.yahoo.com:80
 [http] stgmerchant.gemini.yahoo.com:80

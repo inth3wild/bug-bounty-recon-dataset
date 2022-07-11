@@ -1,5 +1,6 @@
 http://accountservices.betfair.com
 http://accountservices.betfair.com:8080
+http://acm.betfair.com
 http://acwbf.lb.betfair.com
 http://admin.affiliates.betfair.com
 http://admin.affiliates.betfair.com:2053
@@ -337,6 +338,7 @@ http://mgames.betfair.com:8080
 http://mgw.betfair.com
 http://mgw.betfair.com:8080
 http://mgw.lb.betfair.com
+http://migueltest.betfair.com
 http://m.mail.betfair.com
 http://movableink.betfair.com
 http://mpoker.betfair.com
@@ -435,6 +437,7 @@ http://rus.betfair.com
 http://rus.betfair.com:8080
 https://accountservices.betfair.com
 https://accountservices.betfair.com:8443
+https://acm.betfair.com
 https://admin.affiliates.betfair.com
 http://safecharge-integration.betfair.com
 https://affiliates.betfair.com
@@ -688,6 +691,7 @@ https://mgames.betfair.com
 https://mgames.betfair.com:8443
 https://mgw.betfair.com
 https://mgw.betfair.com:8443
+https://migueltest.betfair.com
 https://m.mail.betfair.com
 https://movableink.betfair.com
 http://smp.betfair.com

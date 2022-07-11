@@ -297,10 +297,14 @@
 [pop3s] mail-in.telenet.be:995
 [pop3s] pop.telenet.be:995
 [radan-http] splhefvip.cmt.connect.telenet.be:8088
+[radan-http] splk-hf-lb.cloud.telenet.be:8088
 [radsec] press.telenet.be:2083
 [radsec] talks.telenet.be:2083
 [radsec] www.maut.telenet.be:2083
 [scp-config] directrouting.int.centrex.telenet.be:10001
+[sip] global1.int.centrex.telenet.be:5060
+[sip-tls] access.int.centrex.telenet.be:5061
+[sip-tls] global1.int.centrex.telenet.be:5061
 [smtp] smtp.staff.telenet.be:25
 [ssh] apache55.cloud.telenet.be:22
 [ssh] kotnet.telenet.be:22

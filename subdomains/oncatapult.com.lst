@@ -65,6 +65,7 @@ docs.catapult-dev.oncatapult.com
 docs-jon.catapult-dev.oncatapult.com
 docs.oncatapult.com
 elasticsearch.catapult-dev.oncatapult.com
+entitlements-grpc-testci.fallguys-dev.oncatapult.com
 es-china.fallguys-china.oncatapult.com
 es-dev.fallguys-dev.oncatapult.com
 es-loadtest.fallguys-dev.oncatapult.com
@@ -160,6 +161,10 @@ kibana-prod.fallguys.oncatapult.com
 level-gateway-loadtest2.fallguys-dev.oncatapult.com
 level-gateway-testci.fallguys-dev.oncatapult.com
 level-gateway-unstable.fallguys-dev.oncatapult.com
+liveops-app-dev.tools.oncatapult.com
+liveops-app-prod.tools.oncatapult.com
+liveops-app-stgeven.tools.oncatapult.com
+liveops-app-stgodd.tools.oncatapult.com
 loadtest-api-testci.catapult-dev.oncatapult.com
 loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 login-admin-clientdev.fallguys-dev.oncatapult.com

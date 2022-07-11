@@ -1867,6 +1867,7 @@
 [http] hk.mibi.api.xiaomi.com:80
 [http] hk-proxy-files.fds.api.xiaomi.com:80
 [http] hm.xiaomi.com:80
+[http] hr.xiaomi.com:80
 [http] httpdns.dushu.xiaomi.com:80
 [http] hub.xiaomi.com:80
 [http] huodong.xiaomi.com:80
@@ -2732,6 +2733,7 @@
 [https] hk.mibi.api.xiaomi.com:443
 [https] hm.xiaomi.com:443
 [http] shop.pandora.xiaomi.com:80
+[https] hr.xiaomi.com:443
 [https] httpdns.dushu.xiaomi.com:443
 [https] hub.xiaomi.com:443
 [https] huodong.xiaomi.com:443

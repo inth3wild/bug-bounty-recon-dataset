@@ -538,6 +538,7 @@ http://c360-api-sit.att.com
 http://c360-api-stg.att.com
 http://c360-api-training.att.com
 http://c3.firstnet.att.com
+http://c3-stage.firstnet.att.com
 http://c3-test2.firstnet.att.com
 http://c3-test.firstnet.att.com
 http://caaid.att.com
@@ -1232,6 +1233,7 @@ http://midwestregion.att.com:8443
 http://minnesota.att.com
 http://minnesota.att.com:8443
 http://miseleccionmx.att.com
+http://missioncontrol.firstnet.att.com
 http://mississippi.att.com
 http://missouri.att.com
 http://missouri.att.com:8443
@@ -1437,6 +1439,10 @@ http://patentawards.att.com
 http://paymentstatus.att.com
 http://pcmt.att.com
 http://pennsylvania.att.com
+http://pennsylvania.att.com:2053
+http://pennsylvania.att.com:2083
+http://pennsylvania.att.com:2087
+http://pennsylvania.att.com:2096
 http://pennsylvania.att.com:8443
 http://pensionchoice.att.com
 http://pentest-icc.att.com:8008
@@ -2207,6 +2213,7 @@ https://c360-api-sit.att.com
 https://c360-api-stg.att.com
 https://c360-api-training.att.com
 https://c3.firstnet.att.com
+https://c3-stage.firstnet.att.com
 https://c3-test2.firstnet.att.com
 https://c3-test.firstnet.att.com
 https://caaid.att.com
@@ -3024,6 +3031,7 @@ https://gcsm-ext.test.att.com
 https://gcsm-ext.test.att.com:8443
 https://gems.att.com
 https://gen.cloud.att.com
+https://gen.cloud.att.com:8443
 https://geo.att.com
 https://geo-da.att.com
 https://geolink-az.att.com
@@ -3463,6 +3471,7 @@ https://mis-att.bus.att.com
 https://mis-att.eia.att.com
 https://miseleccionmx.att.com
 https://miseleccionmx.att.com:10000
+https://missioncontrol.firstnet.att.com
 https://mississippi.att.com
 https://mississippi.att.com:8443
 https://missl11.vpn.att.com
@@ -5140,7 +5149,11 @@ https://websites.att.com
 https://websitesmail.att.com
 https://websitesolutions.att.com
 https://websitesportal.att.com
+https://websplashpage-aldc01.att.com
+https://websplashpage-aldc02.att.com
 https://websplashpage.att.com
+https://websplashpage-dadc01.att.com
+https://websplashpage-dadc02.att.com
 https://webtest.stage.att.com
 https://wellsfargomanage.att.com
 https://wellsfargovideo.att.com
@@ -5317,6 +5330,7 @@ http://tchosted.wireless.att.com
 http://tdata-offers.att.com
 http://tdp.att.com
 http://tdpdev.att.com
+http://teams-e911.att.com
 http://teams-e911.cloud.att.com
 http://teams-e911-stage.cloud.att.com
 http://tech360.att.com
@@ -5920,7 +5934,11 @@ http://websites.att.com
 http://websitesmail.att.com
 http://websitesolutions.att.com
 http://websitesportal.att.com
+http://websplashpage-aldc01.att.com
+http://websplashpage-aldc02.att.com
 http://websplashpage.att.com
+http://websplashpage-dadc01.att.com
+http://websplashpage-dadc02.att.com
 http://west.dataflow.iot.att.com
 http://westregion.att.com
 http://westregion.att.com:2053

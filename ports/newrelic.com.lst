@@ -228,6 +228,7 @@
 [http] frame-staging.newrelic.com:80
 [http] frame-synthetics.eu.newrelic.com:80
 [http] frame-synthetics.newrelic.com:80
+[http] gatsby-theme-demo.newrelic.com:80
 [http] get.newrelic.com:80
 [http] gnax.newrelic.com:80
 [http] got.newrelic.com:80
@@ -624,6 +625,7 @@
 [https] frame-staging.newrelic.com:443
 [https] frame-synthetics.eu.newrelic.com:443
 [https] frame-synthetics.newrelic.com:443
+[https] gatsby-theme-demo.newrelic.com:443
 [https] get.newrelic.com:443
 [https] gnax.newrelic.com:443
 [https] got.newrelic.com:443

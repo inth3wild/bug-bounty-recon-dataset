@@ -1,3 +1,5 @@
+http://actions-webhook.build-test.soundcloud.org
+http://actions-webhook.build-test.soundcloud.org:8080
 http://airflow.soundcloud.org
 http://airflow.soundcloud.org:8080
 http://alertmanager.soundcloud.org
@@ -57,6 +59,7 @@ http://retool-staging.soundcloud.org
 http://retool-staging.soundcloud.org:8080
 http://rocket.soundcloud.org
 http://rocket.soundcloud.org:8080
+https://actions-webhook.build-test.soundcloud.org
 https://airflow.soundcloud.org
 https://alertmanager.soundcloud.org
 https://api.sc-sean.soundcloud.org

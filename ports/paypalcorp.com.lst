@@ -3,6 +3,7 @@
 [http] autodiscover.mailout.paypalcorp.com:80
 [http] autodiscover.paypalcorp.com:80
 [http] bridgeazure.paypalcorp.com:80
+[http] camel.paypalcorp.com:80
 [http] lyncdiscover.devlab.paypalcorp.com:80
 [http] msoid.paypalcorp.com:80
 [http] nova-ams.paypalcorp.com:80
@@ -44,6 +45,7 @@
 [https] bridgedmz.qa.paypalcorp.com:443
 [https] bridge.paypalcorp.com:443
 [https] bridgeqa.paypalcorp.com:443
+[https] camel.paypalcorp.com:443
 [https] concur.paypalcorp.com:443
 [https] corp-integration.paypalcorp.com:443
 [https] corp-integration-qa.paypalcorp.com:443

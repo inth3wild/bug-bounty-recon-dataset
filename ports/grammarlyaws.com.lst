@@ -2,6 +2,7 @@
 [http] admin.qa-proofit.grammarlyaws.com:80
 [http] api.platformer.platform.grammarlyaws.com:80
 [http] api.platformer.qa-platform.grammarlyaws.com:80
+[http] f1f55aa.assets.preprod-design-system.grammarlyaws.com:80
 [http] f-assets.preprod-design-system.grammarlyaws.com:80
 [http] f-chroma.preprod-design-system.grammarlyaws.com:80
 [http] f-display-counter.preprod-design-system.grammarlyaws.com:80
@@ -33,6 +34,7 @@
 [https] datareport.prod-gdpr-export.grammarlyaws.com:443
 [https] datareport.subscription.grammarlyaws.com:443
 [https] dox.core-prod.grammarlyaws.com:443
+[https] f1f55aa.assets.preprod-design-system.grammarlyaws.com:443
 [https] f-assets.preprod-design-system.grammarlyaws.com:443
 [https] f-chroma.preprod-design-system.grammarlyaws.com:443
 [https] f-display-counter.preprod-design-system.grammarlyaws.com:443
@@ -67,12 +69,14 @@
 [https] subscription.subscription.grammarlyaws.com:443
 [https] support-automations.subscription.grammarlyaws.com:443
 [https] tableuqa.sandbox.grammarlyaws.com:443
+[https] trainspotter.qa-platform.grammarlyaws.com:443
 [http] subscription.subscription.grammarlyaws.com:80
 [https] ui.preprod-proofit.grammarlyaws.com:443
 [https] ui.qa-proofit.grammarlyaws.com:443
 [https] update-officeaddin.sandbox.grammarlyaws.com:443
 [https] zoommarly.core-prod.grammarlyaws.com:443
 [http] tableuqa.sandbox.grammarlyaws.com:80
+[http] trainspotter.qa-platform.grammarlyaws.com:80
 [http] ui.preprod-proofit.grammarlyaws.com:80
 [http] ui.qa-proofit.grammarlyaws.com:80
 [http] update-officeaddin.sandbox.grammarlyaws.com:80

@@ -233,6 +233,7 @@ http://frame-staging-infrastructure.newrelic.com
 http://frame-staging.newrelic.com
 http://frame-synthetics.eu.newrelic.com
 http://frame-synthetics.newrelic.com
+http://gatsby-theme-demo.newrelic.com
 http://get.newrelic.com
 http://get.newrelic.com:8443
 http://gnax.newrelic.com
@@ -570,6 +571,7 @@ https://frame-staging-infrastructure.newrelic.com
 https://frame-staging.newrelic.com
 https://frame-synthetics.eu.newrelic.com
 https://frame-synthetics.newrelic.com
+https://gatsby-theme-demo.newrelic.com
 https://get.newrelic.com
 https://gnax.newrelic.com
 https://got.newrelic.com

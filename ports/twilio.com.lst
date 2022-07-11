@@ -18,6 +18,7 @@
 [sip] futelterminationdomain.sip.us1.twilio.com:5060
 [sip] maqsam.sip.twilio.com:5060
 [sip] origination-stage.futel.sip.us1.twilio.com:5060
+[sip] public-sip0.ashburn.twilio.com:5060
 [sip] public-sip0.dublin.twilio.com:5060
 [sip] public-sip0.frankfurt.twilio.com:5060
 [sip] public-sip0.sao-paulo.twilio.com:5060
@@ -28,6 +29,7 @@
 [sip] public-sip0.sydney.twilio.com:5060
 [sip] public-sip0.tokyo.twilio.com:5060
 [sip] public-sip0.umatilla.twilio.com:5060
+[sip] public-sip1.ashburn.twilio.com:5060
 [sip] public-sip1.dublin.twilio.com:5060
 [sip] public-sip1.frankfurt.twilio.com:5060
 [sip] public-sip1.sao-paulo.twilio.com:5060
@@ -37,13 +39,16 @@
 [sip] public-sip1.stage-us2.twilio.com:5060
 [sip] public-sip1.sydney.twilio.com:5060
 [sip] public-sip1.tokyo.twilio.com:5060
+[sip] public-sip2.ashburn.twilio.com:5060
 [sip] public-sip2.frankfurt.twilio.com:5060
 [sip] public-sip2.sao-paulo.twilio.com:5060
 [sip] public-sip2.singapore.twilio.com:5060
 [sip] public-sip2.sydney.twilio.com:5060
 [sip] public-sip2.tokyo.twilio.com:5060
 [sip] public-sip2.umatilla.twilio.com:5060
+[sip] public-sip3.ashburn.twilio.com:5060
 [sip] sip.ashburn.stage.twilio.com:5060
+[sip] sip.ashburn.twilio.com:5060
 [sip] sip.dublin.twilio.com:5060
 [sip] sip.frankfurt.twilio.com:5060
 [sip] sip.sao-paulo.twilio.com:5060
@@ -70,6 +75,7 @@
 [sip-tls] futelterminationdomain.sip.us1.twilio.com:5061
 [sip-tls] maqsam.sip.twilio.com:5061
 [sip-tls] origination-stage.futel.sip.us1.twilio.com:5061
+[sip-tls] public-sip0.ashburn.twilio.com:5061
 [sip-tls] public-sip0.dublin.twilio.com:5061
 [sip-tls] public-sip0.frankfurt.twilio.com:5061
 [sip-tls] public-sip0.sao-paulo.twilio.com:5061
@@ -80,6 +86,7 @@
 [sip-tls] public-sip0.sydney.twilio.com:5061
 [sip-tls] public-sip0.tokyo.twilio.com:5061
 [sip-tls] public-sip0.umatilla.twilio.com:5061
+[sip-tls] public-sip1.ashburn.twilio.com:5061
 [sip-tls] public-sip1.dublin.twilio.com:5061
 [sip-tls] public-sip1.frankfurt.twilio.com:5061
 [sip-tls] public-sip1.sao-paulo.twilio.com:5061
@@ -90,13 +97,16 @@
 [sip-tls] public-sip1.sydney.twilio.com:5061
 [sip-tls] public-sip1.tokyo.twilio.com:5061
 [sip-tls] public-sip1.umatilla.twilio.com:5061
+[sip-tls] public-sip2.ashburn.twilio.com:5061
 [sip-tls] public-sip2.frankfurt.twilio.com:5061
 [sip-tls] public-sip2.sao-paulo.twilio.com:5061
 [sip-tls] public-sip2.singapore.twilio.com:5061
 [sip-tls] public-sip2.sydney.twilio.com:5061
 [sip-tls] public-sip2.tokyo.twilio.com:5061
 [sip-tls] public-sip2.umatilla.twilio.com:5061
+[sip-tls] public-sip3.ashburn.twilio.com:5061
 [sip-tls] sip.ashburn.stage.twilio.com:5061
+[sip-tls] sip.ashburn.twilio.com:5061
 [sip-tls] sip.dublin.twilio.com:5061
 [sip-tls] sip.frankfurt.twilio.com:5061
 [sip-tls] sip.sao-paulo.twilio.com:5061

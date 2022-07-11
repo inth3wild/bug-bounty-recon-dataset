@@ -129,6 +129,7 @@ http://c.email.plus.shopify.com:2083
 http://c.email.plus.shopify.com:2087
 http://c.email.plus.shopify.com:2096
 http://c.email.plus.shopify.com:8443
+http://certifications.shopify.com
 http://changelog.shopify.com
 http://changelog.shopify.com:2086
 http://changelog.shopify.com:8080
@@ -364,7 +365,9 @@ http://incoming.shopify.com:2086
 http://incoming.shopify.com:8080
 http://incoming.shopify.com:8880
 http://in.shopify.com
+http://in.shopify.com:2082
 http://in.shopify.com:2086
+http://in.shopify.com:2095
 http://in.shopify.com:8080
 http://in.shopify.com:8880
 http://inspiringindependents.shopify.com
@@ -425,7 +428,12 @@ http://losangeles.shopify.com
 http://l.ssl.shopify.com
 http://l.ssl.shopify.com:8080
 http://magazine.shopify.com
+http://magazine.shopify.com:2052
+http://magazine.shopify.com:2082
+http://magazine.shopify.com:2086
+http://magazine.shopify.com:2095
 http://magazine.shopify.com:8080
+http://magazine.shopify.com:8880
 http://mail.shopify.com
 http://marketing.preferences.shopify.com
 http://marketing.preferences-staging.shopify.com
@@ -457,6 +465,7 @@ http://meetup.shopify.com:8880
 http://meetups.shopify.com
 http://meetups.shopify.com:2082
 http://meetups.shopify.com:2086
+http://meetups.shopify.com:2095
 http://meetups.shopify.com:8080
 http://meetups.shopify.com:8880
 http://merchandise.shopify.com
@@ -475,6 +484,7 @@ http://mobile.shopify.com:8880
 http://m.shopify.com
 http://m.shopify.com:2082
 http://m.shopify.com:2086
+http://m.shopify.com:2095
 http://m.shopify.com:8080
 http://m.shopify.com:8880
 http://m.ssl.shopify.com
@@ -496,6 +506,7 @@ http://newsroom.shopify.com
 http://newsroom.shopify.com:2052
 http://newsroom.shopify.com:2082
 http://newsroom.shopify.com:2086
+http://newsroom.shopify.com:2095
 http://newsroom.shopify.com:8080
 http://newsroom.shopify.com:8880
 http://news.shopify.com
@@ -546,6 +557,7 @@ http://plusinfo.shopify.com
 http://plus.shopify.com
 http://plus.shopify.com:2082
 http://plus.shopify.com:2086
+http://plus.shopify.com:2095
 http://plus.shopify.com:8080
 http://plus.shopify.com:8880
 http://pm.shopify.com
@@ -567,6 +579,10 @@ http://polaris-icons.shopify.com:2086
 http://polaris-icons.shopify.com:8880
 http://polaris-rails.shopify.com
 http://polaris.shopify.com
+http://polaris.shopify.com:2082
+http://polaris.shopify.com:2086
+http://polaris.shopify.com:2095
+http://polaris.shopify.com:8880
 http://portal.data.shopify.com
 http://portal.shopify.com
 http://portal.shopify.com:8080
@@ -574,6 +590,7 @@ http://portland.shopify.com
 http://press.shopify.com
 http://press.shopify.com:2082
 http://press.shopify.com:2086
+http://press.shopify.com:2095
 http://press.shopify.com:8080
 http://press.shopify.com:8880
 http://presto.data.shopify.com
@@ -734,6 +751,7 @@ https://careers.shopify.com:2087
 https://careers.shopify.com:8443
 https://cdn2.shopify.com
 https://c.email.plus.shopify.com
+https://certifications.shopify.com
 https://changelog.shopify.com
 https://changelog.shopify.com:2053
 https://changelog.shopify.com:2083
@@ -1012,6 +1030,10 @@ http://sl.shopify.com
 https://l.ssl.shopify.com
 https://l.ssl.shopify.com:8443
 https://magazine.shopify.com
+https://magazine.shopify.com:2053
+https://magazine.shopify.com:2083
+https://magazine.shopify.com:2087
+https://magazine.shopify.com:2096
 https://magazine.shopify.com:8443
 https://marketing.preferences.shopify.com
 https://marketing.preferences-staging.shopify.com
@@ -1042,6 +1064,7 @@ https://meetup.shopify.com:8443
 https://meetups.shopify.com
 https://meetups.shopify.com:2083
 https://meetups.shopify.com:2087
+https://meetups.shopify.com:2096
 https://meetups.shopify.com:8443
 https://merchandise.shopify.com
 https://merchandise.shopify.com:2053
@@ -1061,6 +1084,7 @@ https://m.shopify.com
 https://m.shopify.com:2053
 https://m.shopify.com:2083
 https://m.shopify.com:2087
+https://m.shopify.com:2096
 https://m.shopify.com:8443
 https://m.ssl.shopify.com
 https://m.ssl.shopify.com:8443
@@ -1076,6 +1100,7 @@ https://mystore.nikolas.shopify.com:2087
 https://mystore.nikolas.shopify.com:8443
 https://newhelp.shopify.com
 https://newsroom.shopify.com
+https://newsroom.shopify.com:2083
 https://newsroom.shopify.com:2087
 https://newsroom.shopify.com:8443
 https://news.shopify.com
@@ -1131,6 +1156,7 @@ https://plus.shopify.com
 https://plus.shopify.com:2053
 https://plus.shopify.com:2083
 https://plus.shopify.com:2087
+https://plus.shopify.com:2096
 https://plus.shopify.com:8443
 https://pm.shopify.com
 https://pm.shopify.com:2053
@@ -1147,6 +1173,9 @@ https://polaris-icons.shopify.com
 https://polaris-icons.shopify.com:2083
 https://polaris-rails.shopify.com
 https://polaris.shopify.com
+https://polaris.shopify.com:2083
+https://polaris.shopify.com:2087
+https://polaris.shopify.com:8443
 https://portal.data.shopify.com
 https://portal.shopify.com
 https://portal.shopify.com:8443
@@ -1438,6 +1467,11 @@ https://www.shopify.com
 https://www.shopify.com:2083
 https://www.shopify.com:2087
 https://www.shopify.com:8443
+https://yom.shopify.com
+https://yom.shopify.com:2053
+https://yom.shopify.com:2083
+https://yom.shopify.com:2087
+https://yom.shopify.com:8443
 https://zh.shopify.com
 https://zh.shopify.com:2053
 https://zh.shopify.com:2083
@@ -1548,6 +1582,7 @@ http://videomaker.shopify.com:8880
 http://vision.shopify.com
 http://vision.shopify.com:2082
 http://vision.shopify.com:2086
+http://vision.shopify.com:2095
 http://vision.shopify.com:8080
 http://vision.shopify.com:8880
 http://webdisk.github.shopify.com
@@ -1580,6 +1615,12 @@ http://www.shopify.com
 http://www.shopify.com:2082
 http://www.shopify.com:8080
 http://www.shopify.com:8880
+http://yom.shopify.com
+http://yom.shopify.com:2082
+http://yom.shopify.com:2086
+http://yom.shopify.com:2095
+http://yom.shopify.com:8080
+http://yom.shopify.com:8880
 http://zh.shopify.com
 http://zh.shopify.com:2082
 http://zh.shopify.com:2086

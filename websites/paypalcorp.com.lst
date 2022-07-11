@@ -38,6 +38,7 @@ http://azr-pxpcnf-westus2-u01.px.paypalcorp.com
 http://azr-pxpcnf-westus2-u02.px.paypalcorp.com
 http://azr-pxpcnf-westus2-u03.px.paypalcorp.com
 http://bridgeazure.paypalcorp.com
+http://camel.paypalcorp.com
 http://concur.paypalcorp.com
 http://cwt.paypalcorp.com
 http://esign.paypalcorp.com
@@ -118,6 +119,7 @@ https://bridgedmz.paypalcorp.com
 https://bridgedmz.qa.paypalcorp.com
 https://bridge.paypalcorp.com
 https://bridgeqa.paypalcorp.com
+https://camel.paypalcorp.com
 https://casper.paypalcorp.com:8443
 https://cosmos.paypalcorp.com
 https://den-int-gslb.paypalcorp.com

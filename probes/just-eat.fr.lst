@@ -35,7 +35,7 @@ https://subfolder-proxy-foodwiki.just-eat.fr [403] [GET] [text/plain] [] [cloudf
 https://subfolder-proxy-lb.just-eat.fr [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://subfolder-proxy-takeawaypay.just-eat.fr [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://tags.just-eat.fr [404] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9e076f5885f5cc16a4b5aeb8de4adff5]
-https://test-shop.just-eat.fr [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
+https://test-shop.just-eat.fr [302] [GET] [text/html] [302 Found] [cloudflare] [vhost] [cloudflare] [Cloudflare] [f366e0e18b589cb6f243bf43ce75e83c]
 https://tv.just-eat.fr [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://view.email.just-eat.fr [302] [GET] [text/html] [Object moved] [] [0b9ef0192b2022a0b94f012083714795]
 https://view.update.just-eat.fr [302] [GET] [text/html] [Object moved] [] [0b9ef0192b2022a0b94f012083714795]

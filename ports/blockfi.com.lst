@@ -99,7 +99,9 @@
 [https] docs.blockfi.com:443
 [https] enterpriseenrollment.blockfi.com:443
 [https] evs.mkt.blockfi.com:443
+[https] fbcbh.pen-test.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com:443
+[https] fbcbh.ss332.shield-sandbox.aws.blockfi.com:443
 [https] gateway.blockfi.com:443
 [https] gateway-prod.blockfi.com:443
 [https] help.blockfi.com:443
@@ -125,6 +127,7 @@
 [http] ss235.shield-sandbox.aws.blockfi.com:80
 [http] ss299.shield-sandbox.aws.blockfi.com:80
 [http] ss323.shield-sandbox.aws.blockfi.com:80
+[http] ss332.shield-sandbox.aws.blockfi.com:80
 [http] ss70.shield-sandbox.aws.blockfi.com:80
 [https] shield-branch-test.shield-sandbox.aws.blockfi.com:443
 [https] shield-sandbox.aws.blockfi.com:443
@@ -133,6 +136,7 @@
 [https] ss235.shield-sandbox.aws.blockfi.com:443
 [https] ss299.shield-sandbox.aws.blockfi.com:443
 [https] ss323.shield-sandbox.aws.blockfi.com:443
+[https] ss332.shield-sandbox.aws.blockfi.com:443
 [https] ss70.shield-sandbox.aws.blockfi.com:443
 [https] status.blockfi.com:443
 [https] storm.blockfi.com:443

@@ -185,6 +185,7 @@ tconnectqt.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.229.0.0/17
 tconnect.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
 tealium.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 telephony-service.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+test-auth.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 testing-ibyv.out.takeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test-logistics.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
 test-onboarding.api.takeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15

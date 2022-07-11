@@ -144,6 +144,7 @@
 [http] 64eo3.kibana.shopifycloud.com:80
 [http] 6hgpc.kibana.shopifycloud.com:80
 [http] 6oaa4.kibana.shopifycloud.com:80
+[http] 736mc.kibana.shopifycloud.com:80
 [http] 7mjqo.kibana.shopifycloud.com:80
 [http] 7n5ne.kibana.shopifycloud.com:80
 [http] abandoned-checkouts-offloader-pro-4mkxpqtf-apps-a-us-central1-9.shopifycloud.com:80
@@ -247,13 +248,17 @@
 [http] app-store-staging-es6.kibana.i0.staging-unrestricted.shopify-app-store.shopifycloud.com:80
 [http] app-store-staging-es6.secure-elasticsearch.shopify-app-store-staging.shopifycloud.com:80
 [http] app-store-staging-es6.secure-elasticsearch.shopify-app-store-staging-unrestricted-3.shopifycloud.com:80
+[http] app-store-staging-es6.shopify-app-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] app-store-staging-sonic-es6.kibana.i0.staging-sonic-unrestricted-0k2u.shopify-app-store.shopifycloud.com:80
 [http] app-store-staging-sonic-es6.secure-elasticsearch.shopify-app-store-staging-sonic-unrestricted-0k2u.shopifycloud.com:80
+[http] app-store-staging-sonic-es6.shopify-app-store-staging-sonic-unrestricted-0k2u.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] apps-us-central1-2.shopifycloud.com:80
 [http] app-test-3.secure-elasticsearch.kenny.shopifycloud.com:80
 [http] app-test-es7-elasticsearch.shopifycloud.com:80
+[http] app-test-es7.kenny1.es-staging-us-central1-4.elasticsearch.shopifycloud.com:80
 [http] app-test-es7-kibana.shopifycloud.com:80
 [http] app-test-es7.secure-elasticsearch.ben.shopifycloud.com:80
+[http] app-test-es7.secure-elasticsearch.kenny1.shopifycloud.com:80
 [http] app-test-es7.secure-elasticsearch.kenny.shopifycloud.com:80
 [http] app-test-es7.secure-elasticsearch.khosrow.shopifycloud.com:80
 [http] app-test-es7-secure-elasticsearch.shopifycloud.com:80
@@ -448,6 +453,8 @@
 [http] brochure-ingress-production-broch-kde4vv3r-apps-a-us-central1-7.shopifycloud.com:80
 [http] brochure-ingress-production-brochure-bi55edpj-apps-a-us-east1-5.shopifycloud.com:80
 [http] brochure-ingress-production-brochur-uywzf5zh-apps-a-us-east1-10.shopifycloud.com:80
+[http] bugbounty.bugbounty-production-unrestricted-o9ie.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] bugbounty.es-fbvu6.shopifycloud.com:80
 [http] bugbounty.secure-elasticsearch.bugbounty-production-unrestricted-o9ie.shopifycloud.com:80
 [http] bugbounty.secure-elasticsearch.bugbounty-staging-unrestricted-t023.shopifycloud.com:80
@@ -462,6 +469,7 @@
 [http] burrow-deploy-production-unrestricte-nzvug2qw-apps-a-us-east1-6.shopifycloud.com:80
 [http] burrow.shopifycloud.com:80
 [http] burrow-staging.shopifycloud.com:80
+[http] business-platform.business-platform-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:80
 [http] business-platform.es-cwwr4.shopifycloud.com:80
 [http] business-platform.kibana.i0.production-unrestricted.business-platform.shopifycloud.com:80
 [http] business-platform-production-busi-ncr6qina-es-apps-a-us-east1-2.shopifycloud.com:80
@@ -597,6 +605,7 @@
 [http] cloud-portal-core-exp-us-east1-3.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ce1-di61.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ce1-eu17.shopifycloud.com:80
+[http] cloud-portal-core-n1-us-ce1-io98.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ce1-kq61.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ce1-nk30.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ce1-rq03.shopifycloud.com:80
@@ -604,6 +613,7 @@
 [http] cloud-portal-core-n1-us-ea1-dw52.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ea1-hq89.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com:80
+[http] cloud-portal-core-n1-us-ea1-tp88.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ea1-vv43.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ea1-vw48.shopifycloud.com:80
 [http] cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com:80
@@ -819,6 +829,7 @@
 [http] conversational-nlp.shopifycloud.com:80
 [http] conversational-nlp-staging-ingress-apps-b-us-east1-8.shopifycloud.com:80
 [http] conversational-nlp-staging.shopifycloud.com:80
+[http] core-australia-southeast1-es7.es7.es-core-au-se1-xj61.kibana.shopifycloud.com:80
 [http] core-australia-southeast1-es7.es-jhvvr.shopifycloud.com:80
 [http] core-australia-southeast1-es7.kibana.es7.shopifycloud.com:80
 [http] core-australia-southeast1-es7.secure-elasticsearch.es7.shopifycloud.com:80
@@ -826,8 +837,10 @@
 [http] core-europe-west1-es7.es-jhvvr.shopifycloud.com:80
 [http] core-europe-west1-es7.kibana.es7.shopifycloud.com:80
 [http] core-europe-west1-es7.secure-elasticsearch.es7.shopifycloud.com:80
+[http] core-europe-west3-es7.es7.es-core-europe-west3-1.kibana.shopifycloud.com:80
 [http] core-europe-west3-es7.kibana.es7.shopifycloud.com:80
 [http] core-europe-west3-es7.secure-elasticsearch.es7.shopifycloud.com:80
+[http] core-europe-west4-es7.es7.es-core-europe-west4-1.kibana.shopifycloud.com:80
 [http] core-europe-west4-es7.kibana.es7.shopifycloud.com:80
 [http] core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com:80
 [http] core-experiences-prototype-sandbo-aspwk2qs-apps-b-us-central1-8.shopifycloud.com:80
@@ -835,6 +848,7 @@
 [http] core-na-ne1-es7.es-jhvvr.shopifycloud.com:80
 [http] core-na-ne1-es7.kibana.es7.shopifycloud.com:80
 [http] core-na-ne1-es7.secure-elasticsearch.es7.shopifycloud.com:80
+[http] core-us-central1-es7.es7.es-core-us-central1-4.kibana.shopifycloud.com:80
 [http] core-us-central1-es7.es-jhvvr.shopifycloud.com:80
 [http] core-us-central1-es7.kibana.es7.shopifycloud.com:80
 [http] core-us-central1-es7.secure-elasticsearch.es7.shopifycloud.com:80
@@ -868,6 +882,8 @@
 [http] cronograma-production.kibana.i0.production-unrestricted.cronograma.shopifycloud.com:80
 [http] cronograma-production-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com:80
 [http] cronograma.shopifycloud.com:80
+[http] cronograma-staging.cronograma-staging-unrestricted-hec2.es-apps-b-us-central1-2.kibana.shopifycloud.com:80
+[http] cronograma-staging.kibana.i0.staging-unrestricted-hec2.cronograma.shopifycloud.com:80
 [http] cronograma-staging.secure-elasticsearch.cronograma-staging-unrestricted-hec2.shopifycloud.com:80
 [http] cronograma-staging.shopifycloud.com:80
 [http] cross-sell-app-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com:80
@@ -877,6 +893,7 @@
 [http] curated-commerce.shopifycloud.com:80
 [http] curated-commerce-staging.shopifycloud.com:80
 [http] curie.shopifycloud.com:80
+[http] customer-data-platform.customer-data-platform-staging-query-unrestricted.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com:80
 [http] customer-data-platform.es-6pdt7.shopifycloud.com:80
 [http] customer-data-platform.es-7u5ir.shopifycloud.com:80
 [http] customer-data-platform.es-sjbls.shopifycloud.com:80
@@ -999,6 +1016,7 @@
 [http] development-docs.shopifycloud.com:80
 [http] development-docs-staging.shopifycloud.com:80
 [http] development-docs-staging-unrestri-atxorfn3-apps-b-us-central1-9.shopifycloud.com:80
+[http] devicemanager-es6.devicemanager-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] devicemanager-es6.es-sdjiw.shopifycloud.com:80
 [http] devicemanager-es6.kibana.i0.production-unrestricted.devicemanager.shopifycloud.com:80
 [http] devicemanager-es6.secure-elasticsearch.devicemanager-production.shopifycloud.com:80
@@ -1070,6 +1088,18 @@
 [http] eduardo-test-service.shopifycloud.com:80
 [http] egovx.kibana.shopifycloud.com:80
 [http] elasticsearch-2.kibana.i0.production-unrestricted-se51.courier-audit-data-services-prototype.shopifycloud.com:80
+[http] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-ea1-on43.kibana.shopifycloud.com:80
+[http] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
+[http] elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.data-portal-production.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
+[http] elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
+[http] elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
+[http] elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.kibana.shopifycloud.com:80
+[http] elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] elasticsearch.es-5iqal.shopifycloud.com:80
 [http] elasticsearch.es-6z5ql.shopifycloud.com:80
 [http] elasticsearch.es-aubl5.shopifycloud.com:80
@@ -1108,10 +1138,15 @@
 [http] elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted.data-portal.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted.email-parser.shopifycloud.com:80
+[http] elasticsearch.kibana.i0.staging-unrestricted-f4yx.dovetale-api.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted-gu2k.elasticsearch-failover-dev.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted-jw68.conductor.shopifycloud.com:80
+[http] elasticsearch.kibana.i0.staging-unrestricted-ks35.atlas.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted-pt50.data-portal.shopifycloud.com:80
 [http] elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com:80
+[http] elasticsearch.metadata-catalog-production-unrestricted-h3sl.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] elasticsearch.metadata-catalog-production-unrestricted-h3sl.es-apps-b-us-central1-2.kibana.shopifycloud.com:80
+[http] elasticsearch.metadata-catalog-staging-unrestricted-k71s.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.atlas-production-unrestricted-2v48.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.atlas-staging-unrestricted-ks35.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.blog-production-unrestricted.shopifycloud.com:80
@@ -1139,6 +1174,7 @@
 [http] elasticsearch.secure-elasticsearch.ha-test-app-production-unrestricted.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.marketplace-platform-staging-unrestricted-muca.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com:80
+[http] elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-k71s.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.rick-test-app-production-unrestricted-5rtn.shopifycloud.com:80
 [http] elasticsearch.secure-elasticsearch.shopify-payments-tools-production-unrestricted-rnzq.shopifycloud.com:80
@@ -1157,6 +1193,7 @@
 [http] email-campaign-directory.streamlit-service.shopifycloud.com:80
 [http] email-capture-production-unrestricte-7rfk5qke-apps-b-us-east1-7.shopifycloud.com:80
 [http] email-capture.shopifycloud.com:80
+[http] email.email-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] email.es-cks2l.shopifycloud.com:80
 [http] email.es-jet2u.shopifycloud.com:80
 [http] email-insights-by-funnel.streamlit-service.shopifycloud.com:80
@@ -1191,11 +1228,13 @@
 [http] es7-core-us-central1-es7--kibana-es-core-us-central1-4.shopifycloud.com:80
 [http] es7-core-us-east1-es7--elasticsearch-es-core-us-east1-4.shopifycloud.com:80
 [http] es7-core-us-east1-es7--kibana-es-core-us-east1-4.shopifycloud.com:80
+[http] es7.es-core-us-ea1-wk66.shopify-core-elasticsearch.shopifycloud.com:80
 [http] es7-staging-es-staging--elasticsearch-es-staging-us-central1-3.shopifycloud.com:80
 [http] es7-staging-es-staging--kibana-es-staging-us-central1-3.shopifycloud.com:80
 [http] esinstance-leila.secure-elasticsearch.leila.shopifycloud.com:80
 [http] esinstance-test.secure-elasticsearch.leila.shopifycloud.com:80
 [http] es-staging.es-2qmdk.shopifycloud.com:80
+[http] es-staging.es7-staging.es-staging-us-central1-4.elasticsearch.shopifycloud.com:80
 [http] es-staging.kibana.es7-staging.shopifycloud.com:80
 [http] es-staging.secure-elasticsearch.es7-staging.shopifycloud.com:80
 [http] estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifycloud.com:80
@@ -1214,6 +1253,7 @@
 [http] excalidraw.shopifycloud.com:80
 [http] exchange-es6.es-jib2g.shopifycloud.com:80
 [http] exchange-es6.es-tisp5.shopifycloud.com:80
+[http] exchange-es6.exchange-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] exchange-es6.kibana.i0.production-unrestricted.exchange.shopifycloud.com:80
 [http] exchange-es6.secure-elasticsearch.exchange-production.shopifycloud.com:80
 [http] exchange-es6.secure-elasticsearch.exchange-staging.shopifycloud.com:80
@@ -1374,6 +1414,7 @@
 [http] groundcontrol-production-web-apps-a-na-ne1-1.shopifycloud.com:80
 [http] groundcontrol-production-web-apps-us-central1-2.shopifycloud.com:80
 [http] groundcontrol-production-web-tier1-na-ne1-5.shopifycloud.com:80
+[http] growth-book.shopifycloud.com:80
 [http] growth-forecasting-mlflow.shopifycloud.com:80
 [http] growth-intelligence-mlflow.shopifycloud.com:80
 [http] growth-labs-production-unrestricted-2i9v-web-apps-b-us-east1-9.shopifycloud.com:80
@@ -1457,6 +1498,7 @@
 [http] handshake-search.secure-elasticsearch.handshake-search-production-unrestricted.shopifycloud.com:80
 [http] handshake-search.shopifycloud.com:80
 [http] handshake-search-staging.es-bhcdu.shopifycloud.com:80
+[http] handshake-search-staging.handshake-search-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] handshake-search-staging.kibana.i0.staging-unrestricted.handshake-search.shopifycloud.com:80
 [http] handshake-search-staging.secure-elasticsearch.handshake-search-staging-unrestricted.shopifycloud.com:80
 [http] handshake-search-staging-unres-5knzwdck-es-apps-b-us-central1-2.shopifycloud.com:80
@@ -1601,6 +1643,7 @@
 [http] ihub-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com:80
 [http] ihub.shopifycloud.com:80
 [http] ihub-staging.shopifycloud.com:80
+[http] iij2a.kibana.shopifycloud.com:80
 [http] ikaros-next-production-unrestricted--qg4kilek-apps-b-us-east1-8.shopifycloud.com:80
 [http] ikaros-next.shopifycloud.com:80
 [http] ikaros-next-staging.shopifycloud.com:80
@@ -1656,6 +1699,7 @@
 [http] ivm-staging-web-apps-b-us-east1-8.shopifycloud.com:80
 [http] james-es-3.secure-elasticsearch.james.shopifycloud.com:80
 [http] james-es-3-splainer.shopifycloud.com:80
+[http] james-es-6.secure-elasticsearch.james-test.shopifycloud.com:80
 [http] james-es.es-wtgdi.shopifycloud.com:80
 [http] james-esi-4.secure-elasticsearch.james.shopifycloud.com:80
 [http] james-esi.es-wtgdi.shopifycloud.com:80
@@ -1712,6 +1756,7 @@
 [http] katesql-manager-production-unres-cvr3ospc-apps-b-us-central1-10.shopifycloud.com:80
 [http] katesql-manager.shopifycloud.com:80
 [http] katesql-manager-staging.shopifycloud.com:80
+[http] katesql-manager-staging-shoplifter.shopifycloud.com:80
 [http] katesql-manager-staging-vitess.shopifycloud.com:80
 [http] katesql-orchestrator-production-api.shopifycloud.com:80
 [http] katesql-orchestrator-production.shopifycloud.com:80
@@ -1744,6 +1789,7 @@
 [http] krate-webhooks-sox.shopifycloud.com:80
 [http] krate-webhooks-staging-unrestricted-i0.shopifycloud.com:80
 [http] krate-webhooks-staging-unrestricted-web-apps-b-us-east1-8.shopifycloud.com:80
+[http] kszss.kibana.shopifycloud.com:80
 [http] kubeaudit-github-app.shopifycloud.com:80
 [http] kumh4.kibana.shopifycloud.com:80
 [http] l4oam.kibana.shopifycloud.com:80
@@ -1770,6 +1816,7 @@
 [http] linkpop-staging-2.shopifycloud.com:80
 [http] linkpop-staging.shopifycloud.com:80
 [http] linkpop-web.shopifycloud.com:80
+[http] lmlb5.kibana.shopifycloud.com:80
 [http] lm-splunk-us-east4-a-1.shopifycloud.com:80
 [http] localtls.shopifycloud.com:80
 [http] logging-rails-playground.shopifycloud.com:80
@@ -1833,6 +1880,7 @@
 [http] marketing-styleguide.shopifycloud.com:80
 [http] marketing-styleguide-staging3.shopifycloud.com:80
 [http] marketing-styleguide-staging3-unrest-5du5g7fb-apps-b-us-east1-3.shopifycloud.com:80
+[http] marketing-styleguide-staging.shopifycloud.com:80
 [http] marketplace-api-gateway.shopifycloud.com:80
 [http] marketplace-api-gateway-staging.shopifycloud.com:80
 [http] marketplace-heist-extension-backe-ajjv32ka-apps-b-us-central1-9.shopifycloud.com:80
@@ -1944,10 +1992,13 @@
 [http] mobility-staging-test-app.secure-elasticsearch.mobility-staging-test-app-production-unrestricted.shopifycloud.com:80
 [http] mobility-staging-test-app.shopifycloud.com:80
 [http] mobility-test-app.es-ye6tk.shopifycloud.com:80
+[http] mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] mobility-test-app-production-unr-eirmwyw7-apps-b-us-central1-10.shopifycloud.com:80
 [http] mobility-test-app-production-unrest-o5k2bim2-apps-us-central1-2.shopifycloud.com:80
 [http] mobility-test-app-production-u-zpt5khmt-es-apps-b-us-central1-2.shopifycloud.com:80
 [http] mobility-test-app.secure-elasticsearch.mobility-test-app-production-unrestricted.shopifycloud.com:80
+[http] mobility-test-app.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com:80
 [http] mobility-test-app.shopifycloud.com:80
 [http] mobility-test-app-staging.shopifycloud.com:80
 [http] mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com:80
@@ -1958,6 +2009,8 @@
 [http] moi-isaac-repo.shopifycloud.com:80
 [http] moi-prototype.shopifycloud.com:80
 [http] moi-test-service.shopifycloud.com:80
+[http] moi-tommy-lab-10.shopifycloud.com:80
+[http] moi-tommy-lab-gpu.shopifycloud.com:80
 [http] monitor-scylla-sandbox-us-east1-2.shopifycloud.com:80
 [http] monitor-scylla-staging-us-east1-3.shopifycloud.com:80
 [http] monitor-scylla-us-east1-1.shopifycloud.com:80
@@ -1965,6 +2018,7 @@
 [http] monorail-edge-central.shopifycloud.com:80
 [http] monorail-edge.shopifycloud.com:80
 [http] monorail-edge-staging.shopifycloud.com:80
+[http] monorail-next.pepto-connector.shopifycloud.com:80
 [http] monorail.pepto-connector.shopifycloud.com:80
 [http] monorail-production-canada-pii-restricted-web-apps-a-na-ne1-3.shopifycloud.com:80
 [http] monorail-production-web-apps-a-us-central1-7.shopifycloud.com:80
@@ -1985,6 +2039,7 @@
 [http] monpliance.es-yzxyg.shopifycloud.com:80
 [http] monpliance.kibana.i0.production-unrestricted.monpliance.shopifycloud.com:80
 [http] monpliance.kibana.i0.staging-unrestricted.monpliance.shopifycloud.com:80
+[http] monpliance.monpliance-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] monpliance-production-monpliance--kibana-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] monpliance-production-monpliance--ufetifsw-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] monpliance-production-web-apps-b-us-east1-7.shopifycloud.com:80
@@ -1997,6 +2052,8 @@
 [http] mor0190-door-control.shopifycloud.com:80
 [http] morgan-esi-again.kibana.morgan.shopifycloud.com:80
 [http] morgan-esi-again.secure-elasticsearch.morgan.shopifycloud.com:80
+[http] morgan-test-esi.morgan.es-staging-us-central1-4.elasticsearch.shopifycloud.com:80
+[http] morgan-test-esi.secure-elasticsearch.morgan.shopifycloud.com:80
 [http] mozart-pocs.shopifycloud.com:80
 [http] mozart-production-unrestricted-0mnb--kjjokxba-apps-b-us-east1-8.shopifycloud.com:80
 [http] mozart.shopifycloud.com:80
@@ -2061,6 +2118,8 @@
 [http] oberlo-image-proxy.shopifycloud.com:80
 [http] oberlo-merchant.es-tcnng.shopifycloud.com:80
 [http] oberlo-merchant.kibana.i0.production-unrestricted.oberlo-merchant.shopifycloud.com:80
+[http] oberlo-merchant.oberlo-merchant-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:80
+[http] oberlo-merchant.oberlo-merchant-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
 [http] oberlo-merchant-production-unrest-ddty5xvh-es-apps-a-us-east1-2.shopifycloud.com:80
 [http] oberlo-merchant-production-unrestricted-web-apps-a-us-east1-5.shopifycloud.com:80
 [http] oberlo-merchant-production-unrest-zyrm7xyq-es-apps-a-us-east1-2.shopifycloud.com:80
@@ -2166,6 +2225,7 @@
 [http] oxygen-grafana-staging.shopifycloud.com:80
 [http] oxygen-observabilit-marxd5c4-oxygen-observability-us-central1-1.shopifycloud.com:80
 [http] oxygen-observability-service.shopifycloud.com:80
+[http] oxygen-observability-service-staging-platform.shopifycloud.com:80
 [http] oxygen-observability-service-staging.shopifycloud.com:80
 [http] oxygen-vector-poc.shopifycloud.com:80
 [http] pairing-tournament.shopifycloud.com:80
@@ -2188,6 +2248,8 @@
 [http] parsnip-staging-web-apps-b-us-east1-9.shopifycloud.com:80
 [http] partners-es7.es-kpvnz.shopifycloud.com:80
 [http] partners-es7.kibana.i0.production-unrestricted.partners.shopifycloud.com:80
+[http] partners-es7.partners-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:80
+[http] partners-es7.partners-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
 [http] partners-es7.secure-elasticsearch.partners-production.shopifycloud.com:80
 [http] partners-production-partners-es7--7xspikzw-es-apps-a-us-east1-2.shopifycloud.com:80
 [http] partners-production-partners-es7--kibana-es-apps-a-us-east1-2.shopifycloud.com:80
@@ -2300,6 +2362,8 @@
 [http] poozle.es-t5loz.shopifycloud.com:80
 [http] poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com:80
 [http] poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com:80
+[http] poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com:80
+[http] poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com:80
 [http] poozle-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com:80
 [http] poozle-production-unrestricted-yspmzecj-es-apps-b-us-central1-2.shopifycloud.com:80
 [http] poozle.secure-elasticsearch.poozle-production-unrestricted.shopifycloud.com:80
@@ -2315,6 +2379,7 @@
 [http] port-map.shopifycloud.com:80
 [http] pos-channel-production-web-apps-a-us-east1-5.shopifycloud.com:80
 [http] pos-channel.shopifycloud.com:80
+[http] pos-channel-staging-app.shopifycloud.com:80
 [http] pos-channel-staging.shopifycloud.com:80
 [http] pos-channel-staging-unrestricted-web-apps-b-us-central1-9.shopifycloud.com:80
 [http] pos-compliance-server-production--e34alhvx-apps-a-us-central1-3.shopifycloud.com:80
@@ -2432,6 +2497,9 @@
 [http] realtime.shopifycloud.com:80
 [http] realtime-staging.shopifycloud.com:80
 [http] realtime-staging-unrestricted-rai-iybaw7ku-apps-b-us-central1-9.shopifycloud.com:80
+[http] receive-observability-prom-staging-us-ce1-vr63.shopifycloud.com:80
+[http] receiver-query-grpc-prom-staging-us-ce1-vr63.shopifycloud.com:80
+[http] receiver-query-prom-staging-us-ce1-vr63.shopifycloud.com:80
 [http] receiver.sfn-webhooks.shopifycloud.com:80
 [http] receiver.sfn-webhooks-staging.shopifycloud.com:80
 [http] reezbot.shopifycloud.com:80
@@ -2517,6 +2585,7 @@
 [http] russbot-elasticsearch.es-choft.shopifycloud.com:80
 [http] russbot-elasticsearch.kibana.russbot-production.shopifycloud.com:80
 [http] russbot-elasticsearch.kibana.russbot-staging.shopifycloud.com:80
+[http] russbot-elasticsearch.russbot-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] russbot-elasticsearch.secure-elasticsearch.russbot-production.shopifycloud.com:80
 [http] russbot-elasticsearch.secure-elasticsearch.russbot-staging.shopifycloud.com:80
 [http] russbot.shopifycloud.com:80
@@ -2539,6 +2608,7 @@
 [https] 64eo3.kibana.shopifycloud.com:443
 [https] 6hgpc.kibana.shopifycloud.com:443
 [https] 6oaa4.kibana.shopifycloud.com:443
+[https] 736mc.kibana.shopifycloud.com:443
 [https] 7mjqo.kibana.shopifycloud.com:443
 [https] 7n5ne.kibana.shopifycloud.com:443
 [http] s7v4o.kibana.shopifycloud.com:80
@@ -2660,11 +2730,15 @@
 [https] app-store-staging-es6.kibana.i0.staging-unrestricted.shopify-app-store.shopifycloud.com:443
 [https] app-store-staging-es6.secure-elasticsearch.shopify-app-store-staging.shopifycloud.com:443
 [https] app-store-staging-es6.secure-elasticsearch.shopify-app-store-staging-unrestricted-3.shopifycloud.com:443
+[https] app-store-staging-es6.shopify-app-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] app-store-staging-sonic-es6.kibana.i0.staging-sonic-unrestricted-0k2u.shopify-app-store.shopifycloud.com:443
 [https] app-store-staging-sonic-es6.secure-elasticsearch.shopify-app-store-staging-sonic-unrestricted-0k2u.shopifycloud.com:443
+[https] app-store-staging-sonic-es6.shopify-app-store-staging-sonic-unrestricted-0k2u.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] apps-us-central1-2.shopifycloud.com:443
 [https] app-test-3.secure-elasticsearch.kenny.shopifycloud.com:443
+[https] app-test-es7.kenny1.es-staging-us-central1-4.elasticsearch.shopifycloud.com:443
 [https] app-test-es7.secure-elasticsearch.ben.shopifycloud.com:443
+[https] app-test-es7.secure-elasticsearch.kenny1.shopifycloud.com:443
 [https] app-test-es7.secure-elasticsearch.kenny.shopifycloud.com:443
 [https] app-test-es7.secure-elasticsearch.khosrow.shopifycloud.com:443
 [https] app-test-es7.secure-elasticsearch.vivian.shopifycloud.com:443
@@ -2876,6 +2950,8 @@
 [https] brochure-ingress-production-broch-kde4vv3r-apps-a-us-central1-7.shopifycloud.com:443
 [https] brochure-ingress-production-brochure-bi55edpj-apps-a-us-east1-5.shopifycloud.com:443
 [https] brochure-ingress-production-brochur-uywzf5zh-apps-a-us-east1-10.shopifycloud.com:443
+[https] bugbounty.bugbounty-production-unrestricted-o9ie.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] bugbounty.es-fbvu6.shopifycloud.com:443
 [https] bugbounty.secure-elasticsearch.bugbounty-production-unrestricted-o9ie.shopifycloud.com:443
 [https] bugbounty.secure-elasticsearch.bugbounty-staging-unrestricted-t023.shopifycloud.com:443
@@ -2890,6 +2966,7 @@
 [https] burrow-deploy-production-unrestricte-nzvug2qw-apps-a-us-east1-6.shopifycloud.com:443
 [https] burrow.shopifycloud.com:443
 [https] burrow-staging.shopifycloud.com:443
+[https] business-platform.business-platform-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:443
 [https] business-platform.es-cwwr4.shopifycloud.com:443
 [https] business-platform.kibana.i0.production-unrestricted.business-platform.shopifycloud.com:443
 [https] business-platform-production-busi-ncr6qina-es-apps-a-us-east1-2.shopifycloud.com:443
@@ -3036,6 +3113,7 @@
 [https] cloud-portal-core-exp-us-east1-3.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ce1-di61.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ce1-eu17.shopifycloud.com:443
+[https] cloud-portal-core-n1-us-ce1-io98.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ce1-kq61.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ce1-nk30.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ce1-rq03.shopifycloud.com:443
@@ -3043,6 +3121,7 @@
 [https] cloud-portal-core-n1-us-ea1-dw52.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ea1-hq89.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ea1-ie31.shopifycloud.com:443
+[https] cloud-portal-core-n1-us-ea1-tp88.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ea1-vv43.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ea1-vw48.shopifycloud.com:443
 [https] cloud-portal-core-n1-us-ea1-xw77.shopifycloud.com:443
@@ -3261,6 +3340,7 @@
 [https] conversational-nlp.shopifycloud.com:443
 [https] conversational-nlp-staging-ingress-apps-b-us-east1-8.shopifycloud.com:443
 [https] conversational-nlp-staging.shopifycloud.com:443
+[https] core-australia-southeast1-es7.es7.es-core-au-se1-xj61.kibana.shopifycloud.com:443
 [https] core-australia-southeast1-es7.es-jhvvr.shopifycloud.com:443
 [https] core-australia-southeast1-es7.kibana.es7.shopifycloud.com:443
 [https] core-australia-southeast1-es7.secure-elasticsearch.es7.shopifycloud.com:443
@@ -3268,8 +3348,10 @@
 [https] core-europe-west1-es7.es-jhvvr.shopifycloud.com:443
 [https] core-europe-west1-es7.kibana.es7.shopifycloud.com:443
 [https] core-europe-west1-es7.secure-elasticsearch.es7.shopifycloud.com:443
+[https] core-europe-west3-es7.es7.es-core-europe-west3-1.kibana.shopifycloud.com:443
 [https] core-europe-west3-es7.kibana.es7.shopifycloud.com:443
 [https] core-europe-west3-es7.secure-elasticsearch.es7.shopifycloud.com:443
+[https] core-europe-west4-es7.es7.es-core-europe-west4-1.kibana.shopifycloud.com:443
 [https] core-europe-west4-es7.kibana.es7.shopifycloud.com:443
 [https] core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com:443
 [https] core-experiences-prototype-sandbo-aspwk2qs-apps-b-us-central1-8.shopifycloud.com:443
@@ -3277,6 +3359,7 @@
 [https] core-na-ne1-es7.es-jhvvr.shopifycloud.com:443
 [https] core-na-ne1-es7.kibana.es7.shopifycloud.com:443
 [https] core-na-ne1-es7.secure-elasticsearch.es7.shopifycloud.com:443
+[https] core-us-central1-es7.es7.es-core-us-central1-4.kibana.shopifycloud.com:443
 [https] core-us-central1-es7.es-jhvvr.shopifycloud.com:443
 [https] core-us-central1-es7.kibana.es7.shopifycloud.com:443
 [https] core-us-central1-es7.secure-elasticsearch.es7.shopifycloud.com:443
@@ -3327,6 +3410,8 @@
 [https] cronograma-production.kibana.i0.production-unrestricted.cronograma.shopifycloud.com:443
 [https] cronograma-production-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com:443
 [https] cronograma.shopifycloud.com:443
+[https] cronograma-staging.cronograma-staging-unrestricted-hec2.es-apps-b-us-central1-2.kibana.shopifycloud.com:443
+[https] cronograma-staging.kibana.i0.staging-unrestricted-hec2.cronograma.shopifycloud.com:443
 [https] cronograma-staging.secure-elasticsearch.cronograma-staging-unrestricted-hec2.shopifycloud.com:443
 [https] cronograma-staging.shopifycloud.com:443
 [http] scrooge-production-web-apps-a-us-east1-6.shopifycloud.com:80
@@ -3338,6 +3423,7 @@
 [https] curated-commerce.shopifycloud.com:443
 [https] curated-commerce-staging.shopifycloud.com:443
 [https] curie.shopifycloud.com:443
+[https] customer-data-platform.customer-data-platform-staging-query-unrestricted.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com:443
 [https] customer-data-platform.es-6pdt7.shopifycloud.com:443
 [https] customer-data-platform.es-7u5ir.shopifycloud.com:443
 [https] customer-data-platform.es-sjbls.shopifycloud.com:443
@@ -3460,6 +3546,7 @@
 [https] development-docs.shopifycloud.com:443
 [https] development-docs-staging.shopifycloud.com:443
 [https] development-docs-staging-unrestri-atxorfn3-apps-b-us-central1-9.shopifycloud.com:443
+[https] devicemanager-es6.devicemanager-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] devicemanager-es6.es-sdjiw.shopifycloud.com:443
 [https] devicemanager-es6.kibana.i0.production-unrestricted.devicemanager.shopifycloud.com:443
 [https] devicemanager-es6.secure-elasticsearch.devicemanager-production.shopifycloud.com:443
@@ -3535,6 +3622,7 @@
 [http] security-portal.shopifycloud.com:80
 [http] security-portal-staging.shopifycloud.com:80
 [http] security-portal-staging-unrestric-iv5qaw5s-apps-b-us-central1-8.shopifycloud.com:80
+[http] security-reviews-manager-staging.shopifycloud.com:80
 [https] edge-cache-service-production-unrestricted-eyno-i0.shopifycloud.com:443
 [https] edge-cache-service-production-unrestricted-eyno-i1.shopifycloud.com:443
 [https] edge-cache-service.shopifycloud.com:443
@@ -3544,6 +3632,18 @@
 [https] eduardo-test-service.shopifycloud.com:443
 [https] egovx.kibana.shopifycloud.com:443
 [https] elasticsearch-2.kibana.i0.production-unrestricted-se51.courier-audit-data-services-prototype.shopifycloud.com:443
+[https] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-ea1-on43.kibana.shopifycloud.com:443
+[https] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
+[https] elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.data-portal-production.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
+[https] elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
+[https] elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
+[https] elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.kibana.shopifycloud.com:443
+[https] elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] elasticsearch.es-5iqal.shopifycloud.com:443
 [https] elasticsearch.es-6z5ql.shopifycloud.com:443
 [https] elasticsearch.es-aubl5.shopifycloud.com:443
@@ -3582,10 +3682,15 @@
 [https] elasticsearch.kibana.i0.staging-unrestricted-0l56.elasticsearch-failover-dev.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted.data-portal.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted.email-parser.shopifycloud.com:443
+[https] elasticsearch.kibana.i0.staging-unrestricted-f4yx.dovetale-api.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted-gu2k.elasticsearch-failover-dev.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted-jw68.conductor.shopifycloud.com:443
+[https] elasticsearch.kibana.i0.staging-unrestricted-ks35.atlas.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted-pt50.data-portal.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.staging-unrestricted-vats.data-portal.shopifycloud.com:443
+[https] elasticsearch.metadata-catalog-production-unrestricted-h3sl.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] elasticsearch.metadata-catalog-production-unrestricted-h3sl.es-apps-b-us-central1-2.kibana.shopifycloud.com:443
+[https] elasticsearch.metadata-catalog-staging-unrestricted-k71s.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.atlas-production-unrestricted-2v48.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.atlas-staging-unrestricted-ks35.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.blog-production-unrestricted.shopifycloud.com:443
@@ -3613,6 +3718,7 @@
 [https] elasticsearch.secure-elasticsearch.ha-test-app-production-unrestricted.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.marketplace-platform-staging-unrestricted-muca.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.metadata-catalog-production-unrestricted-h3sl.shopifycloud.com:443
+[https] elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-k71s.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.metadata-catalog-staging-unrestricted-se0h.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.rick-test-app-production-unrestricted-5rtn.shopifycloud.com:443
 [https] elasticsearch.secure-elasticsearch.shopify-payments-tools-production-unrestricted-rnzq.shopifycloud.com:443
@@ -3635,6 +3741,7 @@
 [https] email-campaign-directory.streamlit-service.shopifycloud.com:443
 [https] email-capture-production-unrestricte-7rfk5qke-apps-b-us-east1-7.shopifycloud.com:443
 [https] email-capture.shopifycloud.com:443
+[https] email.email-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] email.es-cks2l.shopifycloud.com:443
 [https] email.es-jet2u.shopifycloud.com:443
 [https] email-insights-by-funnel.streamlit-service.shopifycloud.com:443
@@ -3675,11 +3782,13 @@
 [https] es7-core-us-central1-es7--kibana-es-core-us-central1-4.shopifycloud.com:443
 [https] es7-core-us-east1-es7--elasticsearch-es-core-us-east1-4.shopifycloud.com:443
 [https] es7-core-us-east1-es7--kibana-es-core-us-east1-4.shopifycloud.com:443
+[https] es7.es-core-us-ea1-wk66.shopify-core-elasticsearch.shopifycloud.com:443
 [https] es7-staging-es-staging--elasticsearch-es-staging-us-central1-3.shopifycloud.com:443
 [https] es7-staging-es-staging--kibana-es-staging-us-central1-3.shopifycloud.com:443
 [https] esinstance-leila.secure-elasticsearch.leila.shopifycloud.com:443
 [https] esinstance-test.secure-elasticsearch.leila.shopifycloud.com:443
 [https] es-staging.es-2qmdk.shopifycloud.com:443
+[https] es-staging.es7-staging.es-staging-us-central1-4.elasticsearch.shopifycloud.com:443
 [https] es-staging.kibana.es7-staging.shopifycloud.com:443
 [https] es-staging.secure-elasticsearch.es7-staging.shopifycloud.com:443
 [https] estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifycloud.com:443
@@ -3698,6 +3807,7 @@
 [https] excalidraw.shopifycloud.com:443
 [https] exchange-es6.es-jib2g.shopifycloud.com:443
 [https] exchange-es6.es-tisp5.shopifycloud.com:443
+[https] exchange-es6.exchange-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] exchange-es6.kibana.i0.production-unrestricted.exchange.shopifycloud.com:443
 [https] exchange-es6.secure-elasticsearch.exchange-production.shopifycloud.com:443
 [https] exchange-es6.secure-elasticsearch.exchange-staging.shopifycloud.com:443
@@ -3812,6 +3922,7 @@
 [http] sfn-two-day.shopifycloud.com:80
 [http] sfn-webhooks.es-llhol.shopifycloud.com:80
 [http] sfn-webhooks.es-xq72c.shopifycloud.com:80
+[http] sfn-webhooks.kibana.i0.production-unrestricted.sfn-webhooks.shopifycloud.com:80
 [http] sfn-webhooks.kibana.i0.staging-unrestricted.sfn-webhooks.shopifycloud.com:80
 [http] sfn-webhooks-production-unrestric-jxlltqub-es-apps-a-us-east1-2.shopifycloud.com:80
 [http] sfn-webhooks-production-unrestricted-gp5cigvm-apps-a-us-east1-6.shopifycloud.com:80
@@ -3819,6 +3930,10 @@
 [http] sfn-webhooks-production-unrestricted-receiver-apps-a-us-east1-6.shopifycloud.com:80
 [http] sfn-webhooks.secure-elasticsearch.sfn-webhooks-production-unrestricted.shopifycloud.com:80
 [http] sfn-webhooks.secure-elasticsearch.sfn-webhooks-staging-unrestricted.shopifycloud.com:80
+[http] sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:80
+[http] sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
+[http] sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
+[http] sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
 [http] sfn-webhooks.shopifycloud.com:80
 [http] sfn-webhooks-staging.shopifycloud.com:80
 [http] sfn-webhooks-staging-unrestricted-3q3zklke-es-apps-b-us-east1-1.shopifycloud.com:80
@@ -3899,6 +4014,7 @@
 [https] groundcontrol-production-web-apps-a-na-ne1-1.shopifycloud.com:443
 [https] groundcontrol-production-web-apps-us-central1-2.shopifycloud.com:443
 [https] groundcontrol-production-web-tier1-na-ne1-5.shopifycloud.com:443
+[https] growth-book.shopifycloud.com:443
 [https] growth-forecasting-mlflow.shopifycloud.com:443
 [https] growth-intelligence-mlflow.shopifycloud.com:443
 [https] growth-labs-production-unrestricted-2i9v-web-apps-b-us-east1-9.shopifycloud.com:443
@@ -3982,6 +4098,7 @@
 [https] handshake-search.secure-elasticsearch.handshake-search-production-unrestricted.shopifycloud.com:443
 [https] handshake-search.shopifycloud.com:443
 [https] handshake-search-staging.es-bhcdu.shopifycloud.com:443
+[https] handshake-search-staging.handshake-search-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] handshake-search-staging.kibana.i0.staging-unrestricted.handshake-search.shopifycloud.com:443
 [https] handshake-search-staging.secure-elasticsearch.handshake-search-staging-unrestricted.shopifycloud.com:443
 [https] handshake-search-staging-unres-5knzwdck-es-apps-b-us-central1-2.shopifycloud.com:443
@@ -4198,6 +4315,7 @@
 [http] shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-ltpw.shopifycloud.com:80
 [http] shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted.shopifycloud.com:80
 [http] shopify-dev.shopifycloud.com:80
+[http] shopify-dev.shopify-dev-staging-unrestricted-er49.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] shopify-dev-staging10.shopifycloud.com:80
 [http] shopify-dev-staging2.shopifycloud.com:80
 [http] shopify-dev-staging3.shopifycloud.com:80
@@ -4291,6 +4409,7 @@
 [http] shop-search-production-unrestrict-gpjlgi67-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] shop-search.secure-elasticsearch.shop-search-production-unrestricted.shopifycloud.com:80
 [http] shop-search.shopifycloud.com:80
+[http] shop-search.shop-search-production-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] shop-search-staging-elasticsearch.shopifycloud.com:80
 [http] shop-search-staging-kibana.shopifycloud.com:80
 [http] shop-search-staging.shopifycloud.com:80
@@ -4378,6 +4497,7 @@
 [https] ihub-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com:443
 [https] ihub.shopifycloud.com:443
 [https] ihub-staging.shopifycloud.com:443
+[https] iij2a.kibana.shopifycloud.com:443
 [https] ikaros-next-production-unrestricted--qg4kilek-apps-b-us-east1-8.shopifycloud.com:443
 [https] ikaros-next.shopifycloud.com:443
 [https] ikaros-next-staging.shopifycloud.com:443
@@ -4436,6 +4556,7 @@
 [http] sizelink.shopifycloud.com:80
 [https] james-es-3.secure-elasticsearch.james.shopifycloud.com:443
 [https] james-es-3-splainer.shopifycloud.com:443
+[https] james-es-6.secure-elasticsearch.james-test.shopifycloud.com:443
 [https] james-es.es-wtgdi.shopifycloud.com:443
 [https] james-esi-4.secure-elasticsearch.james.shopifycloud.com:443
 [https] james-esi.es-wtgdi.shopifycloud.com:443
@@ -4492,6 +4613,7 @@
 [https] katesql-manager-production-unres-cvr3ospc-apps-b-us-central1-10.shopifycloud.com:443
 [https] katesql-manager.shopifycloud.com:443
 [https] katesql-manager-staging.shopifycloud.com:443
+[https] katesql-manager-staging-shoplifter.shopifycloud.com:443
 [https] katesql-manager-staging-vitess.shopifycloud.com:443
 [https] katesql-orchestrator-production-api.shopifycloud.com:443
 [https] katesql-orchestrator-production.shopifycloud.com:443
@@ -4524,6 +4646,7 @@
 [https] krate-webhooks-sox.shopifycloud.com:443
 [https] krate-webhooks-staging-unrestricted-i0.shopifycloud.com:443
 [https] krate-webhooks-staging-unrestricted-web-apps-b-us-east1-8.shopifycloud.com:443
+[https] kszss.kibana.shopifycloud.com:443
 [https] kubeaudit-github-app.shopifycloud.com:443
 [https] kumh4.kibana.shopifycloud.com:443
 [https] l4oam.kibana.shopifycloud.com:443
@@ -4552,6 +4675,7 @@
 [https] linkpop-web.shopifycloud.com:443
 [http] slinky-server-production-unrestricte-2rosf4mh-apps-b-us-east1-9.shopifycloud.com:80
 [http] slinky-server.shopifycloud.com:80
+[https] lmlb5.kibana.shopifycloud.com:443
 [https] lm-splunk-us-east4-a-1.shopifycloud.com:443
 [https] localtls.shopifycloud.com:443
 [https] logging-rails-playground.shopifycloud.com:443
@@ -4615,6 +4739,7 @@
 [https] marketing-styleguide.shopifycloud.com:443
 [https] marketing-styleguide-staging3.shopifycloud.com:443
 [https] marketing-styleguide-staging3-unrest-5du5g7fb-apps-b-us-east1-3.shopifycloud.com:443
+[https] marketing-styleguide-staging.shopifycloud.com:443
 [https] marketplace-api-gateway.shopifycloud.com:443
 [https] marketplace-api-gateway-staging.shopifycloud.com:443
 [https] marketplace-heist-extension-backe-ajjv32ka-apps-b-us-central1-9.shopifycloud.com:443
@@ -4727,10 +4852,13 @@
 [https] mobility-staging-test-app.secure-elasticsearch.mobility-staging-test-app-production-unrestricted.shopifycloud.com:443
 [https] mobility-staging-test-app.shopifycloud.com:443
 [https] mobility-test-app.es-ye6tk.shopifycloud.com:443
+[https] mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] mobility-test-app-production-unr-eirmwyw7-apps-b-us-central1-10.shopifycloud.com:443
 [https] mobility-test-app-production-unrest-o5k2bim2-apps-us-central1-2.shopifycloud.com:443
 [https] mobility-test-app-production-u-zpt5khmt-es-apps-b-us-central1-2.shopifycloud.com:443
 [https] mobility-test-app.secure-elasticsearch.mobility-test-app-production-unrestricted.shopifycloud.com:443
+[https] mobility-test-app.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com:443
 [https] mobility-test-app.shopifycloud.com:443
 [https] mobility-test-app-staging.shopifycloud.com:443
 [https] mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unrestricted.shopifycloud.com:443
@@ -4741,6 +4869,8 @@
 [https] moi-isaac-repo.shopifycloud.com:443
 [https] moi-prototype.shopifycloud.com:443
 [https] moi-test-service.shopifycloud.com:443
+[https] moi-tommy-lab-10.shopifycloud.com:443
+[https] moi-tommy-lab-gpu.shopifycloud.com:443
 [https] monitor-scylla-sandbox-us-east1-2.shopifycloud.com:443
 [https] monitor-scylla-staging-us-east1-3.shopifycloud.com:443
 [https] monitor-scylla-us-east1-1.shopifycloud.com:443
@@ -4748,6 +4878,7 @@
 [https] monorail-edge-central.shopifycloud.com:443
 [https] monorail-edge.shopifycloud.com:443
 [https] monorail-edge-staging.shopifycloud.com:443
+[https] monorail-next.pepto-connector.shopifycloud.com:443
 [https] monorail.pepto-connector.shopifycloud.com:443
 [https] monorail-production-canada-pii-restricted-web-apps-a-na-ne1-3.shopifycloud.com:443
 [https] monorail-production-web-apps-a-us-central1-7.shopifycloud.com:443
@@ -4768,6 +4899,7 @@
 [https] monpliance.es-yzxyg.shopifycloud.com:443
 [https] monpliance.kibana.i0.production-unrestricted.monpliance.shopifycloud.com:443
 [https] monpliance.kibana.i0.staging-unrestricted.monpliance.shopifycloud.com:443
+[https] monpliance.monpliance-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] monpliance-production-monpliance--kibana-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] monpliance-production-monpliance--ufetifsw-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] monpliance-production-web-apps-b-us-east1-7.shopifycloud.com:443
@@ -4780,6 +4912,8 @@
 [https] mor0190-door-control.shopifycloud.com:443
 [https] morgan-esi-again.kibana.morgan.shopifycloud.com:443
 [https] morgan-esi-again.secure-elasticsearch.morgan.shopifycloud.com:443
+[https] morgan-test-esi.morgan.es-staging-us-central1-4.elasticsearch.shopifycloud.com:443
+[https] morgan-test-esi.secure-elasticsearch.morgan.shopifycloud.com:443
 [https] mozart-pocs.shopifycloud.com:443
 [https] mozart-production-unrestricted-0mnb--kjjokxba-apps-b-us-east1-8.shopifycloud.com:443
 [https] mozart.shopifycloud.com:443
@@ -4850,6 +4984,8 @@
 [https] oberlo-image-proxy.shopifycloud.com:443
 [https] oberlo-merchant.es-tcnng.shopifycloud.com:443
 [https] oberlo-merchant.kibana.i0.production-unrestricted.oberlo-merchant.shopifycloud.com:443
+[https] oberlo-merchant.oberlo-merchant-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:443
+[https] oberlo-merchant.oberlo-merchant-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
 [https] oberlo-merchant-production-unrest-ddty5xvh-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] oberlo-merchant-production-unrestricted-web-apps-a-us-east1-5.shopifycloud.com:443
 [https] oberlo-merchant-production-unrest-zyrm7xyq-es-apps-a-us-east1-2.shopifycloud.com:443
@@ -4962,6 +5098,7 @@
 [https] oxygen-grafana-staging.shopifycloud.com:443
 [https] oxygen-observabilit-marxd5c4-oxygen-observability-us-central1-1.shopifycloud.com:443
 [https] oxygen-observability-service.shopifycloud.com:443
+[https] oxygen-observability-service-staging-platform.shopifycloud.com:443
 [https] oxygen-observability-service-staging.shopifycloud.com:443
 [https] oxygen-vector-poc.shopifycloud.com:443
 [https] pairing-tournament.shopifycloud.com:443
@@ -4985,6 +5122,8 @@
 [https] parsnip-staging-web-apps-b-us-east1-9.shopifycloud.com:443
 [https] partners-es7.es-kpvnz.shopifycloud.com:443
 [https] partners-es7.kibana.i0.production-unrestricted.partners.shopifycloud.com:443
+[https] partners-es7.partners-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:443
+[https] partners-es7.partners-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
 [https] partners-es7.secure-elasticsearch.partners-production.shopifycloud.com:443
 [https] partners-production-partners-es7--7xspikzw-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] partners-production-partners-es7--kibana-es-apps-a-us-east1-2.shopifycloud.com:443
@@ -5154,6 +5293,8 @@
 [https] poozle.es-t5loz.shopifycloud.com:443
 [https] poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com:443
 [https] poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com:443
+[https] poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com:443
+[https] poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com:443
 [https] poozle-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com:443
 [https] poozle-production-unrestricted-yspmzecj-es-apps-b-us-central1-2.shopifycloud.com:443
 [https] poozle.secure-elasticsearch.poozle-production-unrestricted.shopifycloud.com:443
@@ -5171,6 +5312,7 @@
 [https] port-map.shopifycloud.com:443
 [https] pos-channel-production-web-apps-a-us-east1-5.shopifycloud.com:443
 [https] pos-channel.shopifycloud.com:443
+[https] pos-channel-staging-app.shopifycloud.com:443
 [https] pos-channel-staging.shopifycloud.com:443
 [https] pos-channel-staging-unrestricted-web-apps-b-us-central1-9.shopifycloud.com:443
 [https] pos-compliance-server-production--e34alhvx-apps-a-us-central1-3.shopifycloud.com:443
@@ -5276,6 +5418,9 @@
 [https] realtime.shopifycloud.com:443
 [https] realtime-staging.shopifycloud.com:443
 [https] realtime-staging-unrestricted-rai-iybaw7ku-apps-b-us-central1-9.shopifycloud.com:443
+[https] receive-observability-prom-staging-us-ce1-vr63.shopifycloud.com:443
+[https] receiver-query-grpc-prom-staging-us-ce1-vr63.shopifycloud.com:443
+[https] receiver-query-prom-staging-us-ce1-vr63.shopifycloud.com:443
 [https] receiver.sfn-webhooks.shopifycloud.com:443
 [https] receiver.sfn-webhooks-staging.shopifycloud.com:443
 [https] reezbot.shopifycloud.com:443
@@ -5361,6 +5506,7 @@
 [https] russbot-elasticsearch.es-choft.shopifycloud.com:443
 [https] russbot-elasticsearch.kibana.russbot-production.shopifycloud.com:443
 [https] russbot-elasticsearch.kibana.russbot-staging.shopifycloud.com:443
+[https] russbot-elasticsearch.russbot-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] russbot-elasticsearch.secure-elasticsearch.russbot-production.shopifycloud.com:443
 [https] russbot-elasticsearch.secure-elasticsearch.russbot-staging.shopifycloud.com:443
 [https] russbot.shopifycloud.com:443
@@ -5452,6 +5598,7 @@
 [https] security-portal.shopifycloud.com:443
 [https] security-portal-staging.shopifycloud.com:443
 [https] security-portal-staging-unrestric-iv5qaw5s-apps-b-us-central1-8.shopifycloud.com:443
+[https] security-reviews-manager-staging.shopifycloud.com:443
 [https] sell-on-amazon-production-web-apps-a-us-east1-6.shopifycloud.com:443
 [https] sell-on-amazon.shopifycloud.com:443
 [https] sell-on-amazon-staging.shopifycloud.com:443
@@ -5490,6 +5637,7 @@
 [https] sfn-two-day.shopifycloud.com:443
 [https] sfn-webhooks.es-llhol.shopifycloud.com:443
 [https] sfn-webhooks.es-xq72c.shopifycloud.com:443
+[https] sfn-webhooks.kibana.i0.production-unrestricted.sfn-webhooks.shopifycloud.com:443
 [https] sfn-webhooks.kibana.i0.staging-unrestricted.sfn-webhooks.shopifycloud.com:443
 [https] sfn-webhooks-production-unrestric-jxlltqub-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] sfn-webhooks-production-unrestricted-gp5cigvm-apps-a-us-east1-6.shopifycloud.com:443
@@ -5497,6 +5645,10 @@
 [https] sfn-webhooks-production-unrestricted-receiver-apps-a-us-east1-6.shopifycloud.com:443
 [https] sfn-webhooks.secure-elasticsearch.sfn-webhooks-production-unrestricted.shopifycloud.com:443
 [https] sfn-webhooks.secure-elasticsearch.sfn-webhooks-staging-unrestricted.shopifycloud.com:443
+[https] sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:443
+[https] sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
+[https] sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
+[https] sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
 [https] sfn-webhooks.shopifycloud.com:443
 [https] sfn-webhooks-staging.shopifycloud.com:443
 [https] sfn-webhooks-staging-unrestricted-3q3zklke-es-apps-b-us-east1-1.shopifycloud.com:443
@@ -5627,6 +5779,7 @@
 [https] shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-ltpw.shopifycloud.com:443
 [https] shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted.shopifycloud.com:443
 [https] shopify-dev.shopifycloud.com:443
+[https] shopify-dev.shopify-dev-staging-unrestricted-er49.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] shopify-dev-staging10.shopifycloud.com:443
 [https] shopify-dev-staging2.shopifycloud.com:443
 [https] shopify-dev-staging3.shopifycloud.com:443
@@ -5717,6 +5870,7 @@
 [https] shop-search-production-unrestrict-gpjlgi67-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] shop-search.secure-elasticsearch.shop-search-production-unrestricted.shopifycloud.com:443
 [https] shop-search.shopifycloud.com:443
+[https] shop-search.shop-search-production-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] shop-search-staging-elasticsearch.shopifycloud.com:443
 [https] shop-search-staging-kibana.shopifycloud.com:443
 [https] shop-search-staging.shopifycloud.com:443
@@ -5871,6 +6025,8 @@
 [https] stock-photos-es6.secure-elasticsearch.stock-photos-production.shopifycloud.com:443
 [https] stock-photos-es6.secure-elasticsearch.stock-photos-staging-2-unrestricted-xvjb.shopifycloud.com:443
 [https] stock-photos-es6.secure-elasticsearch.stock-photos-staging.shopifycloud.com:443
+[https] stock-photos-es6.stock-photos-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
+[https] stock-photos-es6.stock-photos-staging-2-unrestricted-xvjb.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
 [https] stock-photos-production-stock-pho-vapkh6io-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] stock-photos-production-stock-pho-wlxjufyw-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] stock-photos.shopifycloud.com:443
@@ -5886,6 +6042,7 @@
 [https] stocky-staging.shopifycloud.com:443
 [https] stocky-staging-unrestricted-web-apps-b-us-central1-10.shopifycloud.com:443
 [https] storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com:443
+[https] storefront-search-us-central.storefront-search-production-uscentral-unrestricted-uhm1.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:443
 [https] storefront-search-us-east.kibana.i0.production-useast-unrestricted-pmxy.storefront-search.shopifycloud.com:443
 [https] storefront-search-us-east.secure-elasticsearch.storefront-search-production-useast-unrestricted-pmxy.shopifycloud.com:443
 [https] store-localization.shopifycloud.com:443
@@ -5964,7 +6121,9 @@
 [http] stefan-multi-app.shopifycloud.com:80
 [https] telegraf-telegraf-cortex-us-central1-1.shopifycloud.com:443
 [https] temp-dummy-domain.shopifycloud.com:443
+[https] tempo-europe-west1.shopifycloud.com:443
 [https] tempo-staging-us-east1.shopifycloud.com:443
+[https] tempo-tempo-europe-west1-2.shopifycloud.com:443
 [https] tempo-tempo-tempo-us-east1-1.shopifycloud.com:443
 [https] tempo-tempo-us-central1-2.shopifycloud.com:443
 [https] tempo-tempo-us-east1-2.shopifycloud.com:443
@@ -5987,6 +6146,7 @@
 [https] test-colin-local.web.local.merlin.shopifycloud.com:443
 [https] test-cti-price-checker.shopifycloud.com:443
 [https] testing-rails-mishsmelle.shopifycloud.com:443
+[https] testing-shipit-yml.shopifycloud.com:443
 [https] testing-the-one-click-start-with-katesql.shopifycloud.com:443
 [https] test-instant-model-20210920.production.merlin.shopifycloud.com:443
 [https] test-instant-model-20210920.web.production.merlin.shopifycloud.com:443
@@ -6023,12 +6183,17 @@
 [https] theme-store-es6.es-mvvsk.shopifycloud.com:443
 [https] theme-store-es6.kibana.i0.production-unrestricted.shopify-theme-store.shopifycloud.com:443
 [https] theme-store-es6.secure-elasticsearch.shopify-theme-store-production.shopifycloud.com:443
+[https] theme-store-es6.shopify-theme-store-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:443
+[https] theme-store-es6.shopify-theme-store-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
 [https] theme-store-es6-staging2.es-u7kkz.shopifycloud.com:443
 [https] theme-store-es6-staging2.kibana.i0.staging-unrestricted-2.shopify-theme-store.shopifycloud.com:443
 [https] theme-store-es6-staging2.secure-elasticsearch.shopify-theme-store-staging-unrestricted-2.shopifycloud.com:443
+[https] theme-store-es6-staging2.shopify-theme-store-staging-unrestricted-2.es-apps-b-us-central1-2.kibana.shopifycloud.com:443
 [https] theme-store-es6-staging.es-w2cpu.shopifycloud.com:443
 [https] theme-store-es6-staging.kibana.i0.staging-unrestricted.shopify-theme-store.shopifycloud.com:443
 [https] theme-store-es6-staging.secure-elasticsearch.shopify-theme-store-staging.shopifycloud.com:443
+[https] theme-store-es6-staging.shopify-theme-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
+[https] theme-store-es6-staging.shopify-theme-store-staging.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
 [https] threed-model-service-production-unre-oj3q7uld-apps-a-us-east1-5.shopifycloud.com:443
 [https] threed-model-service.shopifycloud.com:443
 [https] threed-model-service-staging.shopifycloud.com:443
@@ -6057,6 +6222,8 @@
 [http] stock-photos-es6.secure-elasticsearch.stock-photos-production.shopifycloud.com:80
 [http] stock-photos-es6.secure-elasticsearch.stock-photos-staging-2-unrestricted-xvjb.shopifycloud.com:80
 [http] stock-photos-es6.secure-elasticsearch.stock-photos-staging.shopifycloud.com:80
+[http] stock-photos-es6.stock-photos-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
+[http] stock-photos-es6.stock-photos-staging-2-unrestricted-xvjb.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
 [http] stock-photos-production-stock-pho-wlxjufyw-es-apps-a-us-east1-2.shopifycloud.com:80
 [http] stock-photos.shopifycloud.com:80
 [http] stock-photos-staging2-pt.shopifycloud.com:80
@@ -6073,6 +6240,7 @@
 [https] token-rotator-v2.shopifycloud.com:443
 [https] token-scan-consumer.shopifycloud.com:443
 [http] storefront-search-us-central.secure-elasticsearch.storefront-search-production-uscentral-unrestricted-uhm1.shopifycloud.com:80
+[http] storefront-search-us-central.storefront-search-production-uscentral-unrestricted-uhm1.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com:80
 [http] storefront-search-us-east.kibana.i0.production-useast-unrestricted-pmxy.storefront-search.shopifycloud.com:80
 [http] storefront-search-us-east.secure-elasticsearch.storefront-search-production-useast-unrestricted-pmxy.shopifycloud.com:80
 [http] store-localization.shopifycloud.com:80
@@ -6126,6 +6294,8 @@
 [https] u2-production-es7.es-64v34.shopifycloud.com:443
 [https] u2-production-es7.kibana.i0.production-unrestricted.u2.shopifycloud.com:443
 [https] u2-production-es7.secure-elasticsearch.u2-production.shopifycloud.com:443
+[https] u2-production-es7.u2-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:443
+[https] u2-production-es7.u2-production.es-apps-b-us-east1-1.kibana.shopifycloud.com:443
 [https] u2-production-u2-production-es7---5ffiwija-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] u2-production-u2-production-es7--kibana-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] u2.shopifycloud.com:443
@@ -6136,6 +6306,7 @@
 [https] u2-staging-u2-staging-es7--elasticsearch-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] u2-staging-u2-staging-es7--kibana-es-apps-b-us-east1-1.shopifycloud.com:443
 [https] u2-staging-web-api-apps-b-us-east1-10.shopifycloud.com:443
+[https] ubiquitous-rails-hydrogen.shopifycloud.com:443
 [http] subscriptions-production-unrestricted-web-apps-b-us-central1-9.shopifycloud.com:80
 [http] subscriptions.shopifycloud.com:80
 [https] ueux4.kibana.shopifycloud.com:443
@@ -6248,6 +6419,7 @@
 [https] webhook-receiver.shopifycloud.com:443
 [https] webhooks-demo-elastic.shopifycloud.com:443
 [https] webhooks-demo-es.shopifycloud.com:443
+[https] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-23p4.shopifycloud.com:443
 [https] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com:443
 [https] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com:443
 [https] web-production-canada-pii-restricted-web-canary-tier1-na-ne1-6.shopifycloud.com:443
@@ -6296,6 +6468,7 @@
 [https] wholesale-app-es7.kibana.i0.production-unrestricted.wholesale-app.shopifycloud.com:443
 [https] wholesale-app-es7.secure-elasticsearch.wholesale-app-production.shopifycloud.com:443
 [https] wholesale-app-es7.secure-elasticsearch.wholesale-app-staging.shopifycloud.com:443
+[https] wholesale-app-es7.wholesale-app-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:443
 [https] wholesale-app-production-web-ingress-apps-a-us-east1-6.shopifycloud.com:443
 [https] wholesale-app-production-wholesal-3dpy2de7-es-apps-a-us-east1-2.shopifycloud.com:443
 [https] wholesale-app-production-wholesal-syyqzeqh-es-apps-a-us-east1-2.shopifycloud.com:443
@@ -6352,7 +6525,9 @@
 [http] tech-radar-web-tierstaging-us-east1-5.shopifycloud.com:80
 [http] telegraf-telegraf-cortex-us-central1-1.shopifycloud.com:80
 [http] temp-dummy-domain.shopifycloud.com:80
+[http] tempo-europe-west1.shopifycloud.com:80
 [http] tempo-staging-us-east1.shopifycloud.com:80
+[http] tempo-tempo-europe-west1-2.shopifycloud.com:80
 [http] tempo-tempo-tempo-us-east1-1.shopifycloud.com:80
 [http] tempo-tempo-us-central1-2.shopifycloud.com:80
 [http] tempo-tempo-us-east1-2.shopifycloud.com:80
@@ -6373,6 +6548,7 @@
 [http] test-colin-local.web.local.merlin.shopifycloud.com:80
 [http] test-cti-price-checker.shopifycloud.com:80
 [http] testing-rails-mishsmelle.shopifycloud.com:80
+[http] testing-shipit-yml.shopifycloud.com:80
 [http] testing-the-one-click-start-with-katesql.shopifycloud.com:80
 [http] test-instant-model-20210920.production.merlin.shopifycloud.com:80
 [http] test-instant-model-20210920.web.production.merlin.shopifycloud.com:80
@@ -6409,12 +6585,17 @@
 [http] theme-store-es6.es-mvvsk.shopifycloud.com:80
 [http] theme-store-es6.kibana.i0.production-unrestricted.shopify-theme-store.shopifycloud.com:80
 [http] theme-store-es6.secure-elasticsearch.shopify-theme-store-production.shopifycloud.com:80
+[http] theme-store-es6.shopify-theme-store-production.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com:80
+[http] theme-store-es6.shopify-theme-store-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
 [http] theme-store-es6-staging2.es-u7kkz.shopifycloud.com:80
 [http] theme-store-es6-staging2.kibana.i0.staging-unrestricted-2.shopify-theme-store.shopifycloud.com:80
 [http] theme-store-es6-staging2.secure-elasticsearch.shopify-theme-store-staging-unrestricted-2.shopifycloud.com:80
+[http] theme-store-es6-staging2.shopify-theme-store-staging-unrestricted-2.es-apps-b-us-central1-2.kibana.shopifycloud.com:80
 [http] theme-store-es6-staging.es-w2cpu.shopifycloud.com:80
 [http] theme-store-es6-staging.kibana.i0.staging-unrestricted.shopify-theme-store.shopifycloud.com:80
 [http] theme-store-es6-staging.secure-elasticsearch.shopify-theme-store-staging.shopifycloud.com:80
+[http] theme-store-es6-staging.shopify-theme-store-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
+[http] theme-store-es6-staging.shopify-theme-store-staging.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
 [http] threed-model-service-production-unre-oj3q7uld-apps-a-us-east1-5.shopifycloud.com:80
 [http] threed-model-service.shopifycloud.com:80
 [http] threed-model-service-staging.shopifycloud.com:80
@@ -6473,6 +6654,8 @@
 [http] u2-production-es7.es-64v34.shopifycloud.com:80
 [http] u2-production-es7.kibana.i0.production-unrestricted.u2.shopifycloud.com:80
 [http] u2-production-es7.secure-elasticsearch.u2-production.shopifycloud.com:80
+[http] u2-production-es7.u2-production.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com:80
+[http] u2-production-es7.u2-production.es-apps-b-us-east1-1.kibana.shopifycloud.com:80
 [http] u2-production-u2-production-es7---5ffiwija-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] u2-production-u2-production-es7--kibana-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] u2.shopifycloud.com:80
@@ -6483,6 +6666,7 @@
 [http] u2-staging-u2-staging-es7--elasticsearch-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] u2-staging-u2-staging-es7--kibana-es-apps-b-us-east1-1.shopifycloud.com:80
 [http] u2-staging-web-api-apps-b-us-east1-10.shopifycloud.com:80
+[http] ubiquitous-rails-hydrogen.shopifycloud.com:80
 [http] ueux4.kibana.shopifycloud.com:80
 [http] ulysses.shopifycloud.com:80
 [http] ulysses-staging.shopifycloud.com:80
@@ -6572,6 +6756,7 @@
 [http] webhook-receiver.shopifycloud.com:80
 [http] webhooks-demo-elastic.shopifycloud.com:80
 [http] webhooks-demo-es.shopifycloud.com:80
+[http] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-23p4.shopifycloud.com:80
 [http] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-m8oq.shopifycloud.com:80
 [http] webhooks-demo.secure-elasticsearch.webhooks-demo-production-unrestricted-njuw.shopifycloud.com:80
 [http] web-production-canada-pii-restricted-web-canary-tier1-na-ne1-6.shopifycloud.com:80
@@ -6620,6 +6805,7 @@
 [http] wholesale-app-es7.kibana.i0.production-unrestricted.wholesale-app.shopifycloud.com:80
 [http] wholesale-app-es7.secure-elasticsearch.wholesale-app-production.shopifycloud.com:80
 [http] wholesale-app-es7.secure-elasticsearch.wholesale-app-staging.shopifycloud.com:80
+[http] wholesale-app-es7.wholesale-app-production.es-apps-a-us-east1-2.kibana.shopifycloud.com:80
 [http] wholesale-app-production-web-ingress-apps-a-us-east1-6.shopifycloud.com:80
 [http] wholesale-app-production-wholesal-3dpy2de7-es-apps-a-us-east1-2.shopifycloud.com:80
 [http] wholesale-app-production-wholesal-syyqzeqh-es-apps-a-us-east1-2.shopifycloud.com:80

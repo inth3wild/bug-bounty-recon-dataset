@@ -84,6 +84,7 @@
 [https] exchange.coindcx.com:443
 [http] sg.coindcx.com:80
 [https] go.coindcx.com:443
+[http] share.coindcx.com:80
 [https] hft-api.coindcx.com:443
 [https] images.staging-api.coindcx.com:443
 [https] info.coindcx.com:443
@@ -114,6 +115,7 @@
 [https] qa.coindcx.com:443
 [https] quality.coindcx.com:443
 [https] sg.coindcx.com:443
+[https] share.coindcx.com:443
 [https] staging-info.coindcx.com:443
 [https] staging-pay.coindcx.com:443
 [https] status.coindcx.com:443

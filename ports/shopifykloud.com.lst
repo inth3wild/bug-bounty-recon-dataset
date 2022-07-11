@@ -25,6 +25,7 @@
 [http] amp-help-center.flink.shopifykloud.com:80
 [http] amp-inbox.flink.shopifykloud.com:80
 [http] amp-metafields.flink.shopifykloud.com:80
+[http] amp-pos-customer-view.flink.shopifykloud.com:80
 [http] amp-pos-next.flink.shopifykloud.com:80
 [http] amp-pos-now.flink.shopifykloud.com:80
 [http] amp-privacy-banner.flink.shopifykloud.com:80
@@ -52,6 +53,7 @@
 [http] bfcm-products-central-production.flink.shopifykloud.com:80
 [http] bfcm-products-east-production.flink.shopifykloud.com:80
 [http] capital-algo-streaming-production.flink.shopifykloud.com:80
+[http] cdp-locations-staging-1.flink.shopifykloud.com:80
 [http] cdp-orderaggs-experiment-1.flink.shopifykloud.com:80
 [http] cdp-orderaggs-experiment-2.flink.shopifykloud.com:80
 [http] cdp-orderaggs-experiment-3.flink.shopifykloud.com:80
@@ -108,6 +110,7 @@
 [http] identity-graph-matrix-staging.flink.shopifykloud.com:80
 [http] identity-graph-staging.flink.shopifykloud.com:80
 [http] inbox-analytics-backfill-staging.flink.shopifykloud.com:80
+[http] inbox-analytics-msg-facts.flink.shopifykloud.com:80
 [http] inbox-analytics-staging.flink.shopifykloud.com:80
 [http] inventory-analytics-staging.flink.shopifykloud.com:80
 [http] jason-test-tmp.shopify-data-presto-global.shopifykloud.com:80
@@ -242,6 +245,7 @@
 [https] amp-help-center.flink.shopifykloud.com:443
 [https] amp-inbox.flink.shopifykloud.com:443
 [https] amp-metafields.flink.shopifykloud.com:443
+[https] amp-pos-customer-view.flink.shopifykloud.com:443
 [https] amp-pos-next.flink.shopifykloud.com:443
 [https] amp-pos-now.flink.shopifykloud.com:443
 [https] amp-privacy-banner.flink.shopifykloud.com:443
@@ -270,6 +274,7 @@
 [https] bfcm-products-east-production.flink.shopifykloud.com:443
 [https] canada.vpnify.shopifykloud.com:443
 [https] capital-algo-streaming-production.flink.shopifykloud.com:443
+[https] cdp-locations-staging-1.flink.shopifykloud.com:443
 [https] cdp-orderaggs-experiment-1.flink.shopifykloud.com:443
 [https] cdp-orderaggs-experiment-2.flink.shopifykloud.com:443
 [https] cdp-orderaggs-experiment-3.flink.shopifykloud.com:443
@@ -326,6 +331,8 @@
 [https] honeybee-staging.shopify-data-presto-global.shopifykloud.com:443
 [http] shopify-audience-gen-staging.flink.shopifykloud.com:80
 [http] shopify-audience-gen-test.flink.shopifykloud.com:80
+[http] shop-onboarding-milestone-prod.flink.shopifykloud.com:80
+[http] shop-onboarding-milestone-stg.flink.shopifykloud.com:80
 [http] shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com:80
 [http] shs-adhoc.starscream-adhoc.yarn.shopifykloud.com:80
 [http] shs-oauth.shopify-data-starscream-qa.shopifykloud.com:80
@@ -346,6 +353,7 @@
 [https] identity-graph-matrix-staging.flink.shopifykloud.com:443
 [https] identity-graph-staging.flink.shopifykloud.com:443
 [https] inbox-analytics-backfill-staging.flink.shopifykloud.com:443
+[https] inbox-analytics-msg-facts.flink.shopifykloud.com:443
 [https] inbox-analytics-staging.flink.shopifykloud.com:443
 [https] inventory-analytics-staging.flink.shopifykloud.com:443
 [https] jason-test-tmp.shopify-data-presto-global.shopifykloud.com:443
@@ -467,6 +475,8 @@
 [https] session-attribution-staging.flink.shopifykloud.com:443
 [https] shopify-audience-gen-staging.flink.shopifykloud.com:443
 [https] shopify-audience-gen-test.flink.shopifykloud.com:443
+[https] shop-onboarding-milestone-prod.flink.shopifykloud.com:443
+[https] shop-onboarding-milestone-stg.flink.shopifykloud.com:443
 [https] shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com:443
 [https] shs-adhoc.starscream-adhoc.yarn.shopifykloud.com:443
 [https] shs-oauth.shopify-data-starscream-qa.shopifykloud.com:443
@@ -477,6 +487,7 @@
 [https] speedboat-yarn-oauth-proxy.data-acq.shopifykloud.com:443
 [https] staging.notebooks.shopifykloud.com:443
 [https] starscream-qa.shopify-data-presto-global.shopifykloud.com:443
+[https] storefront-theme-state-prod.flink.shopifykloud.com:443
 [https] storefront-theme-state-staging.flink.shopifykloud.com:443
 [https] streaming-customer-sessions-staging.flink.shopifykloud.com:443
 [https] streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com:443
@@ -510,6 +521,7 @@
 [https] test-caching.shopify-data-presto-global.shopifykloud.com:443
 [https] test-staging.flink.shopifykloud.com:443
 [https] third-party-impact-poc-staging.flink.shopifykloud.com:443
+[http] storefront-theme-state-prod.flink.shopifykloud.com:80
 [http] storefront-theme-state-staging.flink.shopifykloud.com:80
 [http] streaming-customer-sessions-staging.flink.shopifykloud.com:80
 [http] streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com:80
@@ -537,6 +549,7 @@
 [http] streaming-sales-model-staging-soak-test.flink.shopifykloud.com:80
 [http] streaming-sales-model-staging-sql.flink.shopifykloud.com:80
 [http] streaming-sales-model-staging-tuning.flink.shopifykloud.com:80
+[https] trickle-v2-examples-invent-staging.flink.shopifykloud.com:443
 [https] trickle-v2-examples-klam.flink.shopifykloud.com:443
 [https] trickle-v2-examples-vendors-staging.flink.shopifykloud.com:443
 [https] trickle-v2-examples-vend-production.flink.shopifykloud.com:443
@@ -574,6 +587,7 @@
 [http] test-caching.shopify-data-presto-global.shopifykloud.com:80
 [http] test-staging.flink.shopifykloud.com:80
 [http] third-party-impact-poc-staging.flink.shopifykloud.com:80
+[http] trickle-v2-examples-invent-staging.flink.shopifykloud.com:80
 [http] trickle-v2-examples-klam.flink.shopifykloud.com:80
 [http] trickle-v2-examples-vendors-staging.flink.shopifykloud.com:80
 [http] trickle-v2-examples-vend-production.flink.shopifykloud.com:80

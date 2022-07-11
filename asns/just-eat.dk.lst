@@ -21,7 +21,7 @@ subfolder-proxy-drivers.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18
 subfolder-proxy-foodwiki.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 subfolder-proxy-je-sitecore-dk.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 tags.just-eat.dk AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-test-shop.just-eat.dk AS16509 AS16509 - AMAZON.COM, INC. US 18.184.0.0/15
+test-shop.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.0.0/20
 update.just-eat.dk AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 www.just-eat.dk AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 www.mail.just-eat.dk AS15960 AS15960 - GLOBAL ACCESS INTERNET SERVICES GMBH DE 195.140.184.0/22

@@ -18,6 +18,7 @@ blue-front-door-us-east-2-proxy.staging.braintreepayments.com AS23250 AS23250 - 
 blue-front-door-us-west-2-proxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 brand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 c3.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+cardinal-passive-b.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 cardinal.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 collins.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 collins.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11

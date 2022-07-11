@@ -67,6 +67,7 @@
 [cddbp-alt] ipad-pos.shopify.com:8880
 [cddbp-alt] ir.shopify.com:8880
 [cddbp-alt] it.shopify.com:8880
+[cddbp-alt] magazine.shopify.com:8880
 [cddbp-alt] marketplace.shopify.com:8880
 [cddbp-alt] marketplaces-staging.shopify.com:8880
 [cddbp-alt] marketplaces-temp.shopify.com:8880
@@ -89,6 +90,7 @@
 [cddbp-alt] pm.shopify.com:8880
 [cddbp-alt] pointofsale.shopify.com:8880
 [cddbp-alt] polaris-icons.shopify.com:8880
+[cddbp-alt] polaris.shopify.com:8880
 [cddbp-alt] press.shopify.com:8880
 [cddbp-alt] projectruru.shopify.com:8880
 [cddbp-alt] qr.shopify.com:8880
@@ -124,6 +126,7 @@
 [cddbp-alt] ww.shopify.com:8880
 [cddbp-alt] www.messybarefoot.shopify.com:8880
 [cddbp-alt] www.shopify.com:8880
+[cddbp-alt] yom.shopify.com:8880
 [cddbp-alt] zh.shopify.com:8880
 [clearvisn] alumni.shopify.com:2052
 [clearvisn] amazon-ads.shopify.com:2052
@@ -145,6 +148,7 @@
 [clearvisn] incoming.shopify.com:2052
 [clearvisn] internships.shopify.com:2052
 [clearvisn] ipad-pos.shopify.com:2052
+[clearvisn] magazine.shopify.com:2052
 [clearvisn] newsroom.shopify.com:2052
 [clearvisn] photos.shopify.com:2052
 [clearvisn] rndsummit.shopify.com:2052
@@ -222,6 +226,7 @@
 [eli] ipad-pos.shopify.com:2087
 [eli] ir.shopify.com:2087
 [eli] it.shopify.com:2087
+[eli] magazine.shopify.com:2087
 [eli] marketplace.shopify.com:2087
 [eli] marketplaces-staging.shopify.com:2087
 [eli] marketplaces-temp.shopify.com:2087
@@ -243,6 +248,7 @@
 [eli] plus.shopify.com:2087
 [eli] pm.shopify.com:2087
 [eli] pointofsale.shopify.com:2087
+[eli] polaris.shopify.com:2087
 [eli] press.shopify.com:2087
 [eli] projectruru.shopify.com:2087
 [eli] qr.shopify.com:2087
@@ -278,6 +284,7 @@
 [eli] ww.shopify.com:2087
 [eli] www.messybarefoot.shopify.com:2087
 [eli] www.shopify.com:2087
+[eli] yom.shopify.com:2087
 [eli] zh.shopify.com:2087
 [epp] egress-ips.shopify.com:700
 [ff-annunc] egress-ips.shopify.com:1089
@@ -340,6 +347,7 @@
 [gnunet] invoices.shopify.com:2086
 [gnunet] ipad-pos.shopify.com:2086
 [gnunet] ir.shopify.com:2086
+[gnunet] magazine.shopify.com:2086
 [gnunet] marketplace.shopify.com:2086
 [gnunet] marketplaces-staging.shopify.com:2086
 [gnunet] marketplaces-temp.shopify.com:2086
@@ -362,6 +370,7 @@
 [gnunet] pm.shopify.com:2086
 [gnunet] pointofsale.shopify.com:2086
 [gnunet] polaris-icons.shopify.com:2086
+[gnunet] polaris.shopify.com:2086
 [gnunet] press.shopify.com:2086
 [gnunet] projectruru.shopify.com:2086
 [gnunet] qr.shopify.com:2086
@@ -393,6 +402,7 @@
 [gnunet] win.shopify.com:2086
 [gnunet] ww.shopify.com:2086
 [gnunet] www.messybarefoot.shopify.com:2086
+[gnunet] yom.shopify.com:2086
 [gnunet] zh.shopify.com:2086
 [http] 180.shopify.com:80
 [http] academy.shopify.com:80
@@ -432,6 +442,7 @@
 [http] careers.shopify.com:80
 [http] cdn2.shopify.com:80
 [http] c.email.plus.shopify.com:80
+[http] certifications.shopify.com:80
 [http] changelog.shopify.com:80
 [http] chat.shopify.com:80
 [http] checkout.shopify.com:80
@@ -729,6 +740,7 @@
 [http-proxy] ww.shopify.com:8080
 [http-proxy] www.messybarefoot.shopify.com:8080
 [http-proxy] www.shopify.com:8080
+[http-proxy] yom.shopify.com:8080
 [http-proxy] zh.shopify.com:8080
 [http] p.ssl.shopify.com:80
 [http] pt.shopify.com:80
@@ -865,6 +877,7 @@
 [https-alt] pm.shopify.com:8443
 [https-alt] pointofsale.shopify.com:8443
 [https-alt] poi.shopify.com:8443
+[https-alt] polaris.shopify.com:8443
 [https-alt] portal.shopify.com:8443
 [https-alt] press.shopify.com:8443
 [https-alt] projectruru.shopify.com:8443
@@ -907,6 +920,7 @@
 [https-alt] ww.shopify.com:8443
 [https-alt] www.messybarefoot.shopify.com:8443
 [https-alt] www.shopify.com:8443
+[https-alt] yom.shopify.com:8443
 [https-alt] zh.shopify.com:8443
 [https] alumni.shopify.com:443
 [https] amazon-ads.shopify.com:443
@@ -936,6 +950,7 @@
 [https] careers.shopify.com:443
 [https] cdn2.shopify.com:443
 [https] c.email.plus.shopify.com:443
+[https] certifications.shopify.com:443
 [https] changelog.shopify.com:443
 [https] chat.shopify.com:443
 [https] checkout.shopify.com:443
@@ -1222,6 +1237,7 @@
 [https] www.exchange.shopify.com:443
 [https] www.messybarefoot.shopify.com:443
 [https] www.shopify.com:443
+[https] yom.shopify.com:443
 [https] zh.shopify.com:443
 [http] talent.shopify.com:80
 [http] talkingshop.shopify.com:80
@@ -1283,6 +1299,7 @@
 [http] www.exchange.shopify.com:80
 [http] www.messybarefoot.shopify.com:80
 [http] www.shopify.com:80
+[http] yom.shopify.com:80
 [http] zh.shopify.com:80
 [ies-lm] egress-ips.shopify.com:1443
 [imap] egress-ips.shopify.com:143
@@ -1336,6 +1353,7 @@
 [infowave] help.shopify.com:2082
 [infowave] hi.shopify.com:2082
 [infowave] incoming.shopify.com:2082
+[infowave] in.shopify.com:2082
 [infowave] intern-launch.shopify.com:2082
 [infowave] internships.shopify.com:2082
 [infowave] investor.shopify.com:2082
@@ -1343,6 +1361,7 @@
 [infowave] ipad-pos.shopify.com:2082
 [infowave] ir.shopify.com:2082
 [infowave] it.shopify.com:2082
+[infowave] magazine.shopify.com:2082
 [infowave] marketplace.shopify.com:2082
 [infowave] marketplaces-staging.shopify.com:2082
 [infowave] market.shopify.com:2082
@@ -1360,6 +1379,7 @@
 [infowave] pm.shopify.com:2082
 [infowave] pointofsale.shopify.com:2082
 [infowave] polaris-icons.shopify.com:2082
+[infowave] polaris.shopify.com:2082
 [infowave] press.shopify.com:2082
 [infowave] projectruru.shopify.com:2082
 [infowave] qr.shopify.com:2082
@@ -1391,6 +1411,7 @@
 [infowave] ww.shopify.com:2082
 [infowave] www.messybarefoot.shopify.com:2082
 [infowave] www.shopify.com:2082
+[infowave] yom.shopify.com:2082
 [infowave] zh.shopify.com:2082
 [jetdirect] egress-ips.shopify.com:9100
 [jetdirect] storybook.polaris.shopify.com:9100
@@ -1430,6 +1451,7 @@
 [knetd] investor.shopify.com:2053
 [knetd] invoices.shopify.com:2053
 [knetd] ir.shopify.com:2053
+[knetd] magazine.shopify.com:2053
 [knetd] marketplace.shopify.com:2053
 [knetd] marketplaces-temp.shopify.com:2053
 [knetd] market.shopify.com:2053
@@ -1467,6 +1489,7 @@
 [knetd] win.shopify.com:2053
 [knetd] ww.shopify.com:2053
 [knetd] www.messybarefoot.shopify.com:2053
+[knetd] yom.shopify.com:2053
 [knetd] zh.shopify.com:2053
 [memcache] egress-ips.shopify.com:11211
 [memcache] storybook.polaris.shopify.com:11211
@@ -1488,7 +1511,11 @@
 [nbx-dir] hardware-returns.shopify.com:2096
 [nbx-dir] hardware.shopify.com:2096
 [nbx-dir] internships.shopify.com:2096
+[nbx-dir] magazine.shopify.com:2096
+[nbx-dir] meetups.shopify.com:2096
+[nbx-dir] m.shopify.com:2096
 [nbx-dir] photos.shopify.com:2096
+[nbx-dir] plus.shopify.com:2096
 [nbx-ser] 180.shopify.com:2095
 [nbx-ser] alumni.shopify.com:2095
 [nbx-ser] apm.shopify.com:2095
@@ -1503,19 +1530,29 @@
 [nbx-ser] gauntlet.shopify.com:2095
 [nbx-ser] hardware-returns.shopify.com:2095
 [nbx-ser] hardware.shopify.com:2095
+[nbx-ser] in.shopify.com:2095
 [nbx-ser] intern-launch.shopify.com:2095
 [nbx-ser] internships.shopify.com:2095
+[nbx-ser] magazine.shopify.com:2095
+[nbx-ser] meetups.shopify.com:2095
 [nbx-ser] merchandise.shopify.com:2095
+[nbx-ser] m.shopify.com:2095
 [nbx-ser] myhumpdydumpdy.shopify.com:2095
 [nbx-ser] mystore.nikolas.shopify.com:2095
+[nbx-ser] newsroom.shopify.com:2095
 [nbx-ser] photos.shopify.com:2095
+[nbx-ser] plus.shopify.com:2095
 [nbx-ser] pm.shopify.com:2095
+[nbx-ser] polaris.shopify.com:2095
+[nbx-ser] press.shopify.com:2095
 [nbx-ser] projectruru.shopify.com:2095
 [nbx-ser] sanfrancisco.shopify.com:2095
 [nbx-ser] supporthiring.shopify.com:2095
 [nbx-ser] tashboard.shopify.com:2095
 [nbx-ser] unitestore.shopify.com:2095
+[nbx-ser] vision.shopify.com:2095
 [nbx-ser] www.messybarefoot.shopify.com:2095
+[nbx-ser] yom.shopify.com:2095
 [ncd-conf] egress-ips.shopify.com:5999
 [ndmps] egress-ips.shopify.com:30000
 [opsmessaging] egress-ips.shopify.com:8090
@@ -1588,6 +1625,7 @@
 [radsec] ipad-pos.shopify.com:2083
 [radsec] ir.shopify.com:2083
 [radsec] it.shopify.com:2083
+[radsec] magazine.shopify.com:2083
 [radsec] marketplace.shopify.com:2083
 [radsec] marketplaces-staging.shopify.com:2083
 [radsec] marketplaces-temp.shopify.com:2083
@@ -1599,6 +1637,7 @@
 [radsec] m.shopify.com:2083
 [radsec] myhumpdydumpdy.shopify.com:2083
 [radsec] mystore.nikolas.shopify.com:2083
+[radsec] newsroom.shopify.com:2083
 [radsec] next.shopify.com:2083
 [radsec] partner.shopify.com:2083
 [radsec] partners.shopify.com:2083
@@ -1609,6 +1648,7 @@
 [radsec] pm.shopify.com:2083
 [radsec] pointofsale.shopify.com:2083
 [radsec] polaris-icons.shopify.com:2083
+[radsec] polaris.shopify.com:2083
 [radsec] press.shopify.com:2083
 [radsec] projectruru.shopify.com:2083
 [radsec] qr.shopify.com:2083
@@ -1643,6 +1683,7 @@
 [radsec] ww.shopify.com:2083
 [radsec] www.messybarefoot.shopify.com:2083
 [radsec] www.shopify.com:2083
+[radsec] yom.shopify.com:2083
 [radsec] zh.shopify.com:2083
 [redis] storybook.polaris.shopify.com:6379
 [rtmp] egress-ips.shopify.com:1935

@@ -217,6 +217,7 @@ eu-west-1-ads.staging.superawesome.tv
 eu-west-1-ads.superawesome.tv
 eu-west-1.awesomeads.staging.superawesome.tv
 eu-west-1-innersloth.api.kws.superawesome.tv
+eu-west-1.internal.awesomeads.superawesome.tv
 eu-west-1-kws.niantic.superawesome.tv
 eu-west-1-parents.niantic.superawesome.tv
 eu-west-1.prog-filter.staging.superawesome.tv
@@ -271,6 +272,7 @@ innersloth.parentsapp.kws.superawesome.tv
 innersloth.parents.kws.superawesome.tv
 innersloth.sso.kws.superawesome.tv
 innersloth.worker.kws.superawesome.tv
+internal.awesomeads.superawesome.tv
 inventory.dashboard.superawesome.tv
 itza-media.parents.kws.superawesome.tv
 jenkins.dev.superawesome.tv
@@ -614,9 +616,11 @@ us-east-1-ads.superawesome.tv
 us-east-1.awesomeads.staging.superawesome.tv
 us-east-1.awesomeads.superawesome.tv
 us-east-1-innersloth.api.kws.superawesome.tv
+us-east-1.internal.awesomeads.superawesome.tv
 us-east-1.prog-filter.staging.superawesome.tv
 us-east-1.prog-filter.superawesome.tv
 us-west-1.api.dreamworks.staging.superawesome.tv
+us-west-2.internal.awesomeads.superawesome.tv
 v3.ml.liamclancy.sandbox.superawesome.tv
 v4.ml.liamclancy.sandbox.superawesome.tv
 vault.superawesome.tv

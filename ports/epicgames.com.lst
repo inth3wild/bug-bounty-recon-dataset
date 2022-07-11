@@ -6,6 +6,7 @@
 [bgp] vpn-sv10.it.epicgames.com:179
 [blackice-icecap] vfxfellowship.epicgames.com:8081
 [cddbp-alt] caldera-service-prod.ecosec.on.epicgames.com:8880
+[cddbp-alt] egs-platform-service.store.epicgames.com:8880
 [cddbp-alt] engineering.epicgames.com:8880
 [cddbp-alt] hcaptcha-api.ecosec.on.epicgames.com:8880
 [cddbp-alt] hcaptcha-assets.ecosec.on.epicgames.com:8880
@@ -24,6 +25,7 @@
 [dnp] vfxfellowship.epicgames.com:20000
 [d-s-n] vfxfellowship.epicgames.com:8086
 [eli] caldera-service-prod.ecosec.on.epicgames.com:2087
+[eli] egs-platform-service.store.epicgames.com:2087
 [eli] engineering.epicgames.com:2087
 [eli] hcaptcha-api.ecosec.on.epicgames.com:2087
 [eli] hcaptcha-assets.ecosec.on.epicgames.com:2087
@@ -40,6 +42,7 @@
 [ftp] qos3.ol.epicgames.com:21
 [ftps] ftp.epicgames.com:990
 [gnunet] caldera-service-prod.ecosec.on.epicgames.com:2086
+[gnunet] egs-platform-service.store.epicgames.com:2086
 [gnunet] hcaptcha-api.ecosec.on.epicgames.com:2086
 [gnunet] hcaptcha-assets.ecosec.on.epicgames.com:2086
 [gnunet] hcaptcha-endpoint.ecosec.on.epicgames.com:2086
@@ -103,6 +106,7 @@
 [http] download4.epicgames.com:80
 [http] download.epicgames.com:80
 [http] eg.epicgames.com:80
+[http] egs-platform-service.store.epicgames.com:80
 [http] engineering.epicgames.com:80
 [http] eos-sdk.on.epicgames.com:80
 [http] epic-achievements-gamedev-assets.epicgames.com:80
@@ -177,6 +181,7 @@
 [http] postparty-cdn-gamedev.gs.epicgames.com:80
 [http] prm-dialogue-public-api-prod.ak.epicgames.com:80
 [http-proxy] caldera-service-prod.ecosec.on.epicgames.com:8080
+[http-proxy] egs-platform-service.store.epicgames.com:8080
 [http-proxy] engineering.epicgames.com:8080
 [http-proxy] fg-matchmaking-public-service-live-a.ol.epicgames.com:8080
 [http-proxy] hcaptcha-api.ecosec.on.epicgames.com:8080
@@ -212,6 +217,7 @@
 [https] accts.epicgames.com:443
 [https] affiliate-public-service-prod.ol.epicgames.com:443
 [https-alt] caldera-service-prod.ecosec.on.epicgames.com:8443
+[https-alt] egs-platform-service.store.epicgames.com:8443
 [https-alt] engineering.epicgames.com:8443
 [https-alt] hcaptcha-api.ecosec.on.epicgames.com:8443
 [https-alt] hcaptcha-assets.ecosec.on.epicgames.com:8443
@@ -290,6 +296,7 @@
 [https] dev.epicgames.com:443
 [https] dev.fcfd.live.use1a.on.epicgames.com:443
 [https] devs.epicgames.com:443
+[https] dev.vault.substrate.on.epicgames.com:443
 [https] dl.substrate.on.epicgames.com:443
 [https] docs.epicgames.com:443
 [https] docs.pipeline.epicgames.com:443
@@ -304,6 +311,7 @@
 [https] ecosec.on.epicgames.com:443
 [https] eg.epicgames.com:443
 [https] egp-idsoc-proxy-prod.ol.epicgames.com:443
+[https] egs-platform-service.store.epicgames.com:443
 [https] engineering.epicgames.com:443
 [https] entitlement-public-service-prod08.ol.epicgames.com:443
 [https] entitlement-public-service-prod.ak.epicgames.com:443
@@ -381,6 +389,7 @@
 [https] fortnite-public-service-dailyreleasea-prod.ol.epicgames.com:443
 [https] fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com:443
 [https] fortnite-public-service-dailyreleasec-prod.ol.epicgames.com:443
+[https] fortnite-public-service-dazzle-prod.ol.epicgames.com:443
 [https] fortnite-public-service-devplaytestb-prod.ol.epicgames.com:443
 [https] fortnite-public-service-devplaytestc-prod.ol.epicgames.com:443
 [https] fortnite-public-service-devplaytestd-prod.ol.epicgames.com:443
@@ -634,6 +643,7 @@
 [https] unrealenginehelp.epicgames.com:443
 [https] unrealstudio.epicgames.com:443
 [https] unrealstudiohelp.epicgames.com:443
+[https] use1-dev.vault.substrate.on.epicgames.com:443
 [https] use1.vault.substrate.on.epicgames.com:443
 [https] use.jupiter.devtools.epicgames.com:443
 [https] user-search-service-prod.ccec.live.use1a.on.epicgames.com:443
@@ -722,6 +732,7 @@
 [imaps] vfxfellowship.epicgames.com:993
 [imap] vfxfellowship.epicgames.com:143
 [infowave] caldera-service-prod.ecosec.on.epicgames.com:2082
+[infowave] egs-platform-service.store.epicgames.com:2082
 [infowave] engineering.epicgames.com:2082
 [infowave] hcaptcha-api.ecosec.on.epicgames.com:2082
 [infowave] hcaptcha-assets.ecosec.on.epicgames.com:2082
@@ -756,6 +767,7 @@
 [pop3] vfxfellowship.epicgames.com:110
 [postgresql] vfxfellowship.epicgames.com:5432
 [radsec] caldera-service-prod.ecosec.on.epicgames.com:2083
+[radsec] egs-platform-service.store.epicgames.com:2083
 [radsec] engineering.epicgames.com:2083
 [radsec] hcaptcha-api.ecosec.on.epicgames.com:2083
 [radsec] hcaptcha-assets.ecosec.on.epicgames.com:2083
@@ -780,6 +792,8 @@
 [ssh] qos4.ol.epicgames.com:22
 [submission] vfxfellowship.epicgames.com:587
 [su-mit-tg] vfxfellowship.epicgames.com:89
+[trivnet1] dev.vault.substrate.on.epicgames.com:8200
+[trivnet1] use1-dev.vault.substrate.on.epicgames.com:8200
 [trivnet1] use1.vault.substrate.on.epicgames.com:8200
 [trivnet1] vault.substrate.on.epicgames.com:8200
 [tungsten-https] unrealbugsubmissions.epicgames.com:9443

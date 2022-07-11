@@ -1206,6 +1206,7 @@
 [http] in.xmssdn.micloud.mi.com:80
 [http] in.xmss.micloud.mi.com:80
 [http] io.mi.com:80
+[http] iot.mi.com:80
 [http] i-preview.ai.mi.com:80
 [http] ir.mi.com:80
 [http] item.mi.com:80

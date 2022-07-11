@@ -1,6 +1,8 @@
 [cddbp-alt] acc-shop.lieferando.at:8880
 [eli] acc-shop.lieferando.at:2087
+[eli] test-shop.lieferando.at:2087
 [gnunet] acc-shop.lieferando.at:2086
+[gnunet] test-shop.lieferando.at:2086
 [http] 0068-b76d0949-local.lieferando.at:80
 [http] 007243.lieferando.at:80
 [http] 02-express-nano.lieferando.at:80
@@ -323,6 +325,7 @@
 [http] productionapporovaccine.lieferando.at:80
 [http] provincia.lieferando.at:80
 [http-proxy] acc-shop.lieferando.at:8080
+[http-proxy] test-shop.lieferando.at:8080
 [http] psql04.fish4brand.lieferando.at:80
 [http] pull-posapiaffordablevaccineseuw-staging-hhsvaccines.lieferando.at:80
 [http] pull-posapi-affordablevaccines.lieferando.at:80
@@ -969,7 +972,9 @@
 [http] zerovirusescovideo.lieferando.at:80
 [http] zerovirusescovideo-vaccine.lieferando.at:80
 [http] zerovirusteast-16s.lieferando.at:80
+[infowave] test-shop.lieferando.at:2082
 [nbx-ser] acc-shop.lieferando.at:2095
 [radsec] acc-shop.lieferando.at:2083
+[radsec] test-shop.lieferando.at:2083
 [smtp] connect.lieferando.at:25
 [smtp] update.lieferando.at:25

@@ -274,6 +274,7 @@ rapidfirehop2-alb.ue1.d4.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 52
 recs-prod-alb.ue1.d2.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 spinnaker.ue1.d1.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 teleport.ue1.d1.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+teleport.ue1.d4.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 teleport.ue1.stg1.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 test-influxext.ue1.cloudhub.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
 tools.ue1.d1.tstaging.tools AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12

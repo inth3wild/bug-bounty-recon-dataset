@@ -14,6 +14,10 @@ http://click.email.eat.ch
 http://click.update.eat.ch
 http://cloud.update.eat.ch
 http://eat.ch
+http://eat.ch:2082
+http://eat.ch:2086
+http://eat.ch:8080
+http://eat.ch:8880
 http://image.email.eat.ch
 http://image.update.eat.ch
 http://live-orders.eat.ch
@@ -54,6 +58,9 @@ https://click.email.eat.ch
 https://click.update.eat.ch
 https://cloud.update.eat.ch
 https://eat.ch
+https://eat.ch:2083
+https://eat.ch:2087
+https://eat.ch:8443
 http://shop.eat.ch
 https://html2pdf.eat.ch
 https://image.email.eat.ch

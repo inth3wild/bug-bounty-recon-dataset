@@ -6,8 +6,10 @@
 [cddbp-alt] grafana.lystit.com:8880
 [cddbp-alt] hamster-tunnel.lystit.com:8880
 [cddbp-alt] jenkins-2019.lystit.com:8880
+[cddbp-alt] mobileapi.lystit.com:8880
 [cddbp-alt] shopping-cart.lystit.com:8880
 [cddbp-alt] shopping-cart-staging.lystit.com:8880
+[clearvisn] mobileapi.lystit.com:2052
 [eli] app.circleci3.lystit.com:2087
 [eli] branch-io-feed-web.lystit.com:2087
 [eli] circleci3.lystit.com:2087
@@ -16,6 +18,7 @@
 [eli] grafana.lystit.com:2087
 [eli] hamster-tunnel.lystit.com:2087
 [eli] jenkins-2019.lystit.com:2087
+[eli] mobileapi.lystit.com:2087
 [eli] shopping-cart.lystit.com:2087
 [eli] shopping-cart-staging.lystit.com:2087
 [git] git.lystit.com:9418
@@ -26,6 +29,7 @@
 [gnunet] docs.lystit.com:2086
 [gnunet] grafana.lystit.com:2086
 [gnunet] jenkins-2019.lystit.com:2086
+[gnunet] mobileapi.lystit.com:2086
 [gnunet] shopping-cart.lystit.com:2086
 [gnunet] shopping-cart-staging.lystit.com:2086
 [http] agif.lystit.com:80
@@ -210,13 +214,16 @@
 [infowave] grafana.lystit.com:2082
 [infowave] hamster-tunnel.lystit.com:2082
 [infowave] jenkins-2019.lystit.com:2082
+[infowave] mobileapi.lystit.com:2082
 [infowave] shopping-cart.lystit.com:2082
 [infowave] shopping-cart-staging.lystit.com:2082
 [knetd] app.circleci3.lystit.com:2053
 [knetd] hamster-tunnel.lystit.com:2053
 [knetd] jenkins-2019.lystit.com:2053
+[nbx-dir] mobileapi.lystit.com:2096
 [nbx-ser] docs.lystit.com:2095
 [nbx-ser] grafana.lystit.com:2095
+[nbx-ser] mobileapi.lystit.com:2095
 [radsec] app.circleci3.lystit.com:2083
 [radsec] branch-io-feed-web.lystit.com:2083
 [radsec] circleci3.lystit.com:2083
@@ -225,6 +232,7 @@
 [radsec] grafana.lystit.com:2083
 [radsec] hamster-tunnel.lystit.com:2083
 [radsec] jenkins-2019.lystit.com:2083
+[radsec] mobileapi.lystit.com:2083
 [radsec] shopping-cart.lystit.com:2083
 [radsec] shopping-cart-staging.lystit.com:2083
 [smtp] git.lystit.com:25

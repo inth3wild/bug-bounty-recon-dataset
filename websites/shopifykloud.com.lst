@@ -18,6 +18,7 @@ http://amp-grid-next.flink.shopifykloud.com
 http://amp-help-center.flink.shopifykloud.com
 http://amp-inbox.flink.shopifykloud.com
 http://amp-metafields.flink.shopifykloud.com
+http://amp-pos-customer-view.flink.shopifykloud.com
 http://amp-pos-next.flink.shopifykloud.com
 http://amp-pos-now.flink.shopifykloud.com
 http://amp-privacy-banner.flink.shopifykloud.com
@@ -46,6 +47,7 @@ http://bfcm-products-central-production.flink.shopifykloud.com
 http://bfcm-products-east-production.flink.shopifykloud.com
 http://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 http://capital-algo-streaming-production.flink.shopifykloud.com
+http://cdp-locations-staging-1.flink.shopifykloud.com
 http://cdp-orderaggs-experiment-1.flink.shopifykloud.com
 http://cdp-orderaggs-experiment-2.flink.shopifykloud.com
 http://cdp-orderaggs-experiment-3.flink.shopifykloud.com
@@ -104,6 +106,7 @@ http://hue.starscream-qa.starscream-qa.yarn.shopifykloud.com
 http://identity-graph-matrix-staging.flink.shopifykloud.com
 http://identity-graph-staging.flink.shopifykloud.com
 http://inbox-analytics-backfill-staging.flink.shopifykloud.com
+http://inbox-analytics-msg-facts.flink.shopifykloud.com
 http://inbox-analytics-staging.flink.shopifykloud.com
 http://inventory-analytics-staging.flink.shopifykloud.com
 http://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -242,6 +245,7 @@ https://amp-grid-next.flink.shopifykloud.com
 https://amp-help-center.flink.shopifykloud.com
 https://amp-inbox.flink.shopifykloud.com
 https://amp-metafields.flink.shopifykloud.com
+https://amp-pos-customer-view.flink.shopifykloud.com
 https://amp-pos-next.flink.shopifykloud.com
 https://amp-pos-now.flink.shopifykloud.com
 https://amp-privacy-banner.flink.shopifykloud.com
@@ -271,6 +275,7 @@ https://bfcm-products-east-production.flink.shopifykloud.com
 https://caching-alt-staging.shopify-data-presto-global.shopifykloud.com
 https://canada.vpnify.shopifykloud.com
 https://capital-algo-streaming-production.flink.shopifykloud.com
+https://cdp-locations-staging-1.flink.shopifykloud.com
 https://cdp-orderaggs-experiment-1.flink.shopifykloud.com
 https://cdp-orderaggs-experiment-2.flink.shopifykloud.com
 https://cdp-orderaggs-experiment-3.flink.shopifykloud.com
@@ -329,6 +334,8 @@ https://honeybee.shopify-data-presto-global.shopifykloud.com
 https://honeybee-staging.shopify-data-presto-global.shopifykloud.com
 http://shopify-audience-gen-staging.flink.shopifykloud.com
 http://shopify-audience-gen-test.flink.shopifykloud.com
+http://shop-onboarding-milestone-prod.flink.shopifykloud.com
+http://shop-onboarding-milestone-stg.flink.shopifykloud.com
 http://shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com
 http://shs-adhoc.starscream-adhoc.yarn.shopifykloud.com
 http://shs-oauth.shopify-data-starscream-qa.shopifykloud.com
@@ -356,6 +363,7 @@ https://hue.yarn-production.starscream.yarn.shopifykloud.com:8000
 https://identity-graph-matrix-staging.flink.shopifykloud.com
 https://identity-graph-staging.flink.shopifykloud.com
 https://inbox-analytics-backfill-staging.flink.shopifykloud.com
+https://inbox-analytics-msg-facts.flink.shopifykloud.com
 https://inbox-analytics-staging.flink.shopifykloud.com
 https://inventory-analytics-staging.flink.shopifykloud.com
 https://jason-test-tmp.shopify-data-presto-global.shopifykloud.com
@@ -483,6 +491,8 @@ https://seamster-b.shopify-data-presto-global.shopifykloud.com
 https://session-attribution-staging.flink.shopifykloud.com
 https://shopify-audience-gen-staging.flink.shopifykloud.com
 https://shopify-audience-gen-test.flink.shopifykloud.com
+https://shop-onboarding-milestone-prod.flink.shopifykloud.com
+https://shop-onboarding-milestone-stg.flink.shopifykloud.com
 https://shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com
 https://shs-adhoc.starscream-adhoc.yarn.shopifykloud.com
 https://shs-oauth.shopify-data-starscream-qa.shopifykloud.com
@@ -499,6 +509,7 @@ https://staging-kafka-azkaban-web.data-acq.shopifykloud.com
 https://staging.notebooks.shopifykloud.com
 https://staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 https://starscream-qa.shopify-data-presto-global.shopifykloud.com
+https://storefront-theme-state-prod.flink.shopifykloud.com
 https://storefront-theme-state-staging.flink.shopifykloud.com
 https://streaming-customer-sessions-staging.flink.shopifykloud.com
 https://streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com
@@ -540,6 +551,7 @@ https://test-caching.shopify-data-presto-global.shopifykloud.com
 https://test-staging.flink.shopifykloud.com
 https://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 https://third-party-impact-poc-staging.flink.shopifykloud.com
+http://storefront-theme-state-prod.flink.shopifykloud.com
 http://storefront-theme-state-staging.flink.shopifykloud.com
 http://streaming-customer-sessions-staging.flink.shopifykloud.com
 http://streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com
@@ -567,6 +579,7 @@ http://streaming-sales-model-staging-rcile.flink.shopifykloud.com
 http://streaming-sales-model-staging-soak-test.flink.shopifykloud.com
 http://streaming-sales-model-staging-sql.flink.shopifykloud.com
 http://streaming-sales-model-staging-tuning.flink.shopifykloud.com
+https://trickle-v2-examples-invent-staging.flink.shopifykloud.com
 https://trickle-v2-examples-klam.flink.shopifykloud.com
 https://trickle-v2-examples-vendors-staging.flink.shopifykloud.com
 https://trickle-v2-examples-vend-production.flink.shopifykloud.com
@@ -610,6 +623,7 @@ http://test-caching.shopify-data-presto-global.shopifykloud.com
 http://test-staging.flink.shopifykloud.com
 http://test-suite-tmp.shopify-data-presto-global.shopifykloud.com
 http://third-party-impact-poc-staging.flink.shopifykloud.com
+http://trickle-v2-examples-invent-staging.flink.shopifykloud.com
 http://trickle-v2-examples-klam.flink.shopifykloud.com
 http://trickle-v2-examples-vendors-staging.flink.shopifykloud.com
 http://trickle-v2-examples-vend-production.flink.shopifykloud.com

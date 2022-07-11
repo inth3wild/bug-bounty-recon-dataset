@@ -33,7 +33,7 @@ subfolder-proxy-drivers.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.18
 subfolder-proxy-foodwiki.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 subfolder-proxy-lb.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 subfolder-proxy-takeawaypay.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
-test-shop.just-eat.fr AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
+test-shop.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.0.0/20
 tv.just-eat.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 update.just-eat.fr AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 view.email.just-eat.fr AS22606 AS22606 - SALESFORCE.COM, INC. US 136.147.128.0/20

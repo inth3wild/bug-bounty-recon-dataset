@@ -207,7 +207,6 @@ mespiresentretiens.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19
 mx-01.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 mx-01.ix7.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 neon-playground.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
-neon-preprod.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 partner.api.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
 partner-stats.data-kub.stage.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 preprod.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23

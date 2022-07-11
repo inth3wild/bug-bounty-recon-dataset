@@ -47,8 +47,8 @@ shiftplanning-api.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 54.154.0.0/1
 ticket.dev.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 ticket.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 tracker-api.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
-tracker.beta.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
-tracker.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+tracker.beta.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.147.0/24
+tracker.scoober.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.147.0/24
 translator.dev.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 translator.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 18.200.0.0/16
 www.scoober.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

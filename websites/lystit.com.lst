@@ -83,7 +83,12 @@ http://logs.lystit.com:8080
 http://lystit.com
 http://mailchimp-gdpr.lystit.com
 http://mobileapi.lystit.com
+http://mobileapi.lystit.com:2052
+http://mobileapi.lystit.com:2082
+http://mobileapi.lystit.com:2086
+http://mobileapi.lystit.com:2095
 http://mobileapi.lystit.com:8080
+http://mobileapi.lystit.com:8880
 http://os.lystit.com
 http://os.lystit.com:8080
 http://packages.lystit.com
@@ -191,6 +196,9 @@ https://logs.lystit.com:8443
 https://lystit.com
 https://mailchimp-gdpr.lystit.com
 https://mobileapi.lystit.com
+https://mobileapi.lystit.com:2083
+https://mobileapi.lystit.com:2087
+https://mobileapi.lystit.com:2096
 https://mobileapi.lystit.com:8443
 https://openvpn-access.lystit.com
 https://os.lystit.com

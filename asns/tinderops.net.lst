@@ -34,7 +34,7 @@ flinkui-c.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.92.128.0/
 flinkui-d.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 flinkui.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 107.23.0.0/17
 gcauldronloader.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
-gcrm.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+gcrm.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 52.86.0.0/15
 gcrossfire-data.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
 gcrossfire-ml.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 gdata-infra-b.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 52.86.0.0/15
@@ -212,7 +212,7 @@ vault.prodv2-b.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0
 vault.prodv2-c.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.89.0.0/16
 vault.uw2.tinderops.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 ycauldronloader.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
-ycrm.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 100.24.0.0/13
+ycrm.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 52.86.0.0/15
 ycrossfire-data.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 ycrossfire-ml.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
 ydata-infra-b.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16

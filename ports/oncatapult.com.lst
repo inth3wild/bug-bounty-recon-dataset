@@ -12,6 +12,10 @@
 [http] kibana-dev.fallguys-dev.oncatapult.com:80
 [http] kibana-loadtest.fallguys-dev.oncatapult.com:80
 [http] kibana-prod.fallguys.oncatapult.com:80
+[http] liveops-app-dev.tools.oncatapult.com:80
+[http] liveops-app-prod.tools.oncatapult.com:80
+[http] liveops-app-stgeven.tools.oncatapult.com:80
+[http] liveops-app-stgodd.tools.oncatapult.com:80
 [http] loadtest-api-testci.catapult-dev.oncatapult.com:80
 [http] loadtest-api-westeurope-0.fallguys-dev.oncatapult.com:80
 [http] mmbetaapi.fallguys-dev.oncatapult.com:80
@@ -73,6 +77,10 @@
 [https] level-gateway-loadtest2.fallguys-dev.oncatapult.com:443
 [https] level-gateway-testci.fallguys-dev.oncatapult.com:443
 [https] level-gateway-unstable.fallguys-dev.oncatapult.com:443
+[https] liveops-app-dev.tools.oncatapult.com:443
+[https] liveops-app-prod.tools.oncatapult.com:443
+[https] liveops-app-stgeven.tools.oncatapult.com:443
+[https] liveops-app-stgodd.tools.oncatapult.com:443
 [https] loadtest-api-testci.catapult-dev.oncatapult.com:443
 [https] loadtest-api-westeurope-0.fallguys-dev.oncatapult.com:443
 [https] login-admin-clientdev.fallguys-dev.oncatapult.com:443

@@ -115,6 +115,7 @@
 [http] hub.grab.com:80
 [http] iam-manage.grab.com:80
 [http] icons.grab.com:80
+[http] image.e.grab.com:80
 [http] image.id.mkt.grab.com:80
 [http] image.kh.mkt.grab.com:80
 [http] image.mkt.grab.com:80
@@ -308,6 +309,7 @@
 [https] iam-manage.grab.com:443
 [https] icons.grab.com:443
 [http] signup.grab.com:80
+[https] image.e.grab.com:443
 [https] image.id.mkt.grab.com:443
 [https] image.kh.mkt.grab.com:443
 [https] image.mkt.grab.com:443

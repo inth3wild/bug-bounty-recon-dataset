@@ -309,6 +309,7 @@
 [https] errlog.tesla.com:443
 [http] serviceapi-stg.tesla.com:80
 [http] serviceapi.tesla.com:80
+[http] serviceapp.tesla.com:80
 [https] events.tesla.com:443
 [https] external-sandbox-automation.tesla.com:443
 [https] financial-gw-stg.tesla.com:443
@@ -372,6 +373,7 @@
 [https] secure-static-assets.tesla.com:443
 [https] serviceapi-stg.tesla.com:443
 [https] serviceapi.tesla.com:443
+[https] serviceapp.tesla.com:443
 [https] shop.tesla.com:443
 [https] simpleorigin.tesla.com:443
 [https] sip.tesla.com:443

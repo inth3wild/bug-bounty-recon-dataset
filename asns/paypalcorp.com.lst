@@ -8,6 +8,7 @@ bridgedmz.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.153.0/24
 bridgedmz.qa.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.153.0/24
 bridge.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.153.0/24
 bridgeqa.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.153.0/24
+camel.paypalcorp.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.40.0.0/13
 cloud1.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.160.0/24
 cloud2.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.161.0/24
 corp-integration.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.134.0/24
@@ -30,6 +31,7 @@ fra-hdx.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 185.97.81.0/24
 fra-ns-int.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 185.97.81.0/24
 fra-ns-mpls.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 185.97.81.0/24
 fra-ogr.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 185.97.81.0/24
+jira-agile-qa.es-ext.paypalcorp.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
 lvs1-avysip-s01.paypalcorp.com AS1449 AS1449 - PAYPAL CORP ARIN ASN US 173.224.160.0/24
 lvs1-avysip-s04.paypalcorp.com AS1449 AS1449 - PAYPAL CORP ARIN ASN US 173.224.160.0/24
 lvs-ctx.paypalcorp.com AS55002 AS55002 - DEFENSE.NET, INC US 107.162.154.0/24
@@ -44,6 +46,10 @@ lvs-ipout-04-data1.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.161.0/
 lvs-ipout-05-data1.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.161.0/24
 lvs-ogr.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.160.0/24
 lvs-ws-int.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.160.0/24
+mx1.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.165.0/24
+mx2.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.161.0/24
+mx3.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.165.0/24
+mx4.paypalcorp.com AS1449 AS1449 - PAYPAL, INC. US 173.224.161.0/24
 na-aads.paypalcorp.com AS55002 AS55002 - DEFENSE.NET INC US 107.162.138.0/24
 na-avysip.paypalcorp.com AS55002 AS55002 - DEFENSE.NET INC US 107.162.133.0/24
 na-avywlm.paypalcorp.com AS55002 AS55002 - DEFENSE.NET INC US 107.162.178.0/24

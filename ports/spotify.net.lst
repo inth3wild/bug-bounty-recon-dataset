@@ -149,6 +149,7 @@
 [blackice-icecap] workday.spotify.net:8081
 [blackice-icecap] writing.spotify.net:8081
 [blackice-icecap] yopass.spotify.net:8081
+[] cases.feedzai.spotify.net:9530
 [ctf] admin.staging.elastic.gew1.spotify.net:84
 [ctf] backstage.spotify.net:84
 [ctf] bandmanager-api.spotify.net:84
@@ -1091,6 +1092,7 @@
 [jetdirect] workday.spotify.net:9100
 [jetdirect] writing.spotify.net:9100
 [jetdirect] yopass.spotify.net:9100
+[ldap] cases.feedzai.spotify.net:389
 [memcache] backstage.spotify.net:11211
 [memcache] cases.feedzai.spotify.net:11211
 [memcache] grafana.feedzai-sandbox.spotify.net:11211
@@ -1105,6 +1107,7 @@
 [memcache] spotify.net:11211
 [memcache] tableau-dashboards.spotify.net:11211
 [memcache] tableau-dev.spotify.net:11211
+[micromuse-ncpw] cases.feedzai.spotify.net:9600
 [mit-ml-dev] admin.staging.elastic.gew1.spotify.net:83
 [mit-ml-dev] admin.staging.elastic.gew1.spotify.net:85
 [mit-ml-dev] backstage.spotify.net:83
@@ -1417,6 +1420,7 @@
 [ndmps] workday.spotify.net:30000
 [ndmps] writing.spotify.net:30000
 [ndmps] yopass.spotify.net:30000
+[nntp] cases.feedzai.spotify.net:119
 [opsmessaging] admin.staging.elastic.gew1.spotify.net:8090
 [opsmessaging] backstage.spotify.net:8090
 [opsmessaging] bandmanager-api.spotify.net:8090
@@ -1785,6 +1789,7 @@
 [radan-http] workday.spotify.net:8088
 [radan-http] writing.spotify.net:8088
 [radan-http] yopass.spotify.net:8088
+[radsec] cases.feedzai.spotify.net:2083
 [redis] backstage.spotify.net:6379
 [redis] cases.feedzai.spotify.net:6379
 [redis] grafana.feedzai-sandbox.spotify.net:6379

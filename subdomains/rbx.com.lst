@@ -21,6 +21,7 @@ artifactory-edge1.rbx.com
 artifactory-edge2.rbx.com
 artifactory-edgemd.rbx.com
 artifactory-edgestage.rbx.com
+artifactory-edgetest.rbx.com
 artifactory-edge-west1.rbx.com
 artifactory-prod1.rbx.com
 artifactory.rbx.com
@@ -135,8 +136,10 @@ mail.rbx.com
 management.backend.noteable.ml.rbx.com
 master.rbx.com
 microsoft.rbx.com
+ml-platform-dev-denis.prod.ml.rbx.com
 ml-platform-dev-internal.prod.ml.rbx.com
 ml-platform-dev.prod.ml.rbx.com
+ml-platform-infra-1-5-1-serving.prod.ml.rbx.com
 ml-platform-infra-internal.prod.ml.rbx.com
 ml-platform-infra.ml.rbx.com
 ml-platform-private-internal.prod.ml.rbx.com

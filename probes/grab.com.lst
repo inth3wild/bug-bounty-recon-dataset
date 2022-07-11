@@ -81,6 +81,7 @@ https://hodor-api.grab.com [404] [GET] [text/plain] [] [] [vhost] [cloudfront] [
 https://hub.grab.com [200] [GET] [text/html] [Grab Hub] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [c964e1ae41c93769f071eb69f86e2ffc]
 https://iam-manage.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [edda16a8894ca030c0350dcbecaaef8d]
 https://icons.grab.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [412822ac6620c5f75094b01360e5c922]
+https://image.e.grab.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [9e0468ada98d6a1ac93ca8429693e64b]
 https://image.id.mkt.grab.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [2cdc40e0303d9826712fcf92d576ab42]
 https://image.kh.mkt.grab.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [98b8db847f47804ee0b3b56e41a652b6]
 https://image.mkt.grab.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [5d6605b220fe53681ec66ff19839518e]

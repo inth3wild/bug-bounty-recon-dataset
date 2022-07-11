@@ -50,6 +50,11 @@ http://download3.epicgames.com
 http://download4.epicgames.com
 http://download.epicgames.com
 http://eg.epicgames.com
+http://egs-platform-service.store.epicgames.com
+http://egs-platform-service.store.epicgames.com:2082
+http://egs-platform-service.store.epicgames.com:2086
+http://egs-platform-service.store.epicgames.com:8080
+http://egs-platform-service.store.epicgames.com:8880
 http://engineering.epicgames.com
 http://engineering.epicgames.com:2052
 http://engineering.epicgames.com:2082
@@ -236,6 +241,8 @@ https://developerprivacy-public-service-prod.ol.epicgames.com
 https://dev.epicgames.com
 https://dev.fcfd.live.use1a.on.epicgames.com
 https://devs.epicgames.com
+https://dev.vault.substrate.on.epicgames.com
+https://dev.vault.substrate.on.epicgames.com:8200
 https://dl.substrate.on.epicgames.com
 https://docs.pipeline.epicgames.com
 https://download2.epicgames.com
@@ -249,6 +256,10 @@ https://ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 https://ecosec.on.epicgames.com
 https://eg.epicgames.com
 https://egp-idsoc-proxy-prod.ol.epicgames.com
+https://egs-platform-service.store.epicgames.com
+https://egs-platform-service.store.epicgames.com:2083
+https://egs-platform-service.store.epicgames.com:2087
+https://egs-platform-service.store.epicgames.com:8443
 https://engineering.epicgames.com
 https://entitlement-public-service-prod08.ol.epicgames.com
 https://entitlement-public-service-prod.ak.epicgames.com
@@ -324,6 +335,7 @@ https://fortnite-public-service-dailymain-prod.ol.epicgames.com
 https://fortnite-public-service-dailyreleasea-prod.ol.epicgames.com
 https://fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com
 https://fortnite-public-service-dailyreleasec-prod.ol.epicgames.com
+https://fortnite-public-service-dazzle-prod.ol.epicgames.com
 https://fortnite-public-service-devplaytestb-prod.ol.epicgames.com
 https://fortnite-public-service-devplaytestc-prod.ol.epicgames.com
 https://fortnite-public-service-devplaytestd-prod.ol.epicgames.com
@@ -620,6 +632,8 @@ https://unrealenginehelp.epicgames.com:8443
 https://unrealenginehelp.epicgames.com:9443
 https://unrealstudio.epicgames.com
 https://unrealstudiohelp.epicgames.com
+https://use1-dev.vault.substrate.on.epicgames.com
+https://use1-dev.vault.substrate.on.epicgames.com:8200
 https://use1.vault.substrate.on.epicgames.com
 https://use1.vault.substrate.on.epicgames.com:8200
 https://use.jupiter.devtools.epicgames.com

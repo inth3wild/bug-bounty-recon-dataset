@@ -8,7 +8,7 @@ https://education.square.com [200] [GET] [text/html] [Login - Square | Education
 https://feature-relay-web-sdk.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://java-docs.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://newcomputer.square.com [200] [GET] [text/html] [Block Laptop Setup Guide - New Computer Setup] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [20c01b1c711e5b22fb71d2e45f53f26b]
-https://orbit.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
+https://orbit.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [Fastly,GitHub Pages,Varnish] [aff950cab4c0265e21d401db15f1026d]
 https://square.com [301] [GET] [text/html] [] [] [f0f4c07d840efe4dc0ba44bd893a7c8c]
 https://squid-docs.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]
 https://tenure-app.square.com [302] [GET] [text/html] [302 Found] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [aff950cab4c0265e21d401db15f1026d]

@@ -320,6 +320,7 @@ h.prd.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 h.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 ihd.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 imap.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
+impersonationapp.edp.connect.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
 impersonation.edp.connect.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.223.0.0/20
 info.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 inoxdesign.be.apache52.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24
@@ -692,7 +693,7 @@ speedtest.prd.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 speedtest.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 spike.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.130.128.0/19
 splk-hf-aws-01.cloud.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
-splk-hf-lb.cloud.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
+splk-hf-lb.cloud.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 52.28.0.0/16
 sportzomer.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
 sslvpn.telenet.be AS6848 AS6848 - TELENET BVBA BE 213.224.0.0/16
 sso.dvp.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19

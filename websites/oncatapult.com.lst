@@ -12,6 +12,10 @@ http://kibana.catapult-dev.oncatapult.com
 http://kibana-dev.fallguys-dev.oncatapult.com
 http://kibana-loadtest.fallguys-dev.oncatapult.com
 http://kibana-prod.fallguys.oncatapult.com
+http://liveops-app-dev.tools.oncatapult.com
+http://liveops-app-prod.tools.oncatapult.com
+http://liveops-app-stgeven.tools.oncatapult.com
+http://liveops-app-stgodd.tools.oncatapult.com
 http://loadtest-api-testci.catapult-dev.oncatapult.com
 http://loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 http://mmbetaapi.fallguys-dev.oncatapult.com
@@ -73,6 +77,10 @@ https://kibana-prod.fallguys.oncatapult.com
 https://level-gateway-loadtest2.fallguys-dev.oncatapult.com
 https://level-gateway-testci.fallguys-dev.oncatapult.com
 https://level-gateway-unstable.fallguys-dev.oncatapult.com
+https://liveops-app-dev.tools.oncatapult.com
+https://liveops-app-prod.tools.oncatapult.com
+https://liveops-app-stgeven.tools.oncatapult.com
+https://liveops-app-stgodd.tools.oncatapult.com
 https://loadtest-api-testci.catapult-dev.oncatapult.com
 https://loadtest-api-westeurope-0.fallguys-dev.oncatapult.com
 https://login-admin-clientdev.fallguys-dev.oncatapult.com

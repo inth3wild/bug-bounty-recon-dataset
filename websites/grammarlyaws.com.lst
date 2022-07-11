@@ -2,6 +2,7 @@ http://admin.preprod-proofit.grammarlyaws.com
 http://admin.qa-proofit.grammarlyaws.com
 http://api.platformer.platform.grammarlyaws.com
 http://api.platformer.qa-platform.grammarlyaws.com
+http://f1f55aa.assets.preprod-design-system.grammarlyaws.com
 http://f-assets.preprod-design-system.grammarlyaws.com
 http://f-chroma.preprod-design-system.grammarlyaws.com
 http://f-display-counter.preprod-design-system.grammarlyaws.com
@@ -33,6 +34,7 @@ https://datacat-ext.qa-redwall.grammarlyaws.com
 https://datareport.prod-gdpr-export.grammarlyaws.com
 https://datareport.subscription.grammarlyaws.com
 https://dox.core-prod.grammarlyaws.com
+https://f1f55aa.assets.preprod-design-system.grammarlyaws.com
 https://f-assets.preprod-design-system.grammarlyaws.com
 https://f-chroma.preprod-design-system.grammarlyaws.com
 https://f-display-counter.preprod-design-system.grammarlyaws.com
@@ -66,12 +68,14 @@ https://speak.qa-speakerly.grammarlyaws.com
 https://subscription.subscription.grammarlyaws.com
 https://support-automations.subscription.grammarlyaws.com
 https://tableuqa.sandbox.grammarlyaws.com
+https://trainspotter.qa-platform.grammarlyaws.com
 http://subscription.subscription.grammarlyaws.com
 https://ui.preprod-proofit.grammarlyaws.com
 https://ui.qa-proofit.grammarlyaws.com
 https://update-officeaddin.sandbox.grammarlyaws.com
 https://zoommarly.core-prod.grammarlyaws.com
 http://tableuqa.sandbox.grammarlyaws.com
+http://trainspotter.qa-platform.grammarlyaws.com
 http://ui.preprod-proofit.grammarlyaws.com
 http://ui.qa-proofit.grammarlyaws.com
 http://update-officeaddin.sandbox.grammarlyaws.com

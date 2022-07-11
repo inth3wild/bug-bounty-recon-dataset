@@ -413,6 +413,9 @@
 [ff-annunc] smith-remote.corp.creditkarma.com:1089
 [ff-annunc] vinyl.test.admin.creditkarma.com:1089
 [] flare-api.corp.creditkarma.com:8863
+[] flare-api.corp.creditkarma.com:9530
+[globalcatLDAP] flare-api.corp.creditkarma.com:3268
+[globalcatLDAPssl] flare-api.corp.creditkarma.com:3269
 [http] accounts.creditkarma.com:80
 [http] accounts-fg-origin.creditkarma.com:80
 [http] admax.creditkarma.com:80
@@ -1018,6 +1021,7 @@
 [jetdirect] vinyl.test.admin.creditkarma.com:9100
 [jetdirect] vinyl.test.creditkarma.com:9100
 [jetdirect] www-staging-origin.creditkarma.com:9100
+[kme-trap-port] flare-api.corp.creditkarma.com:2081
 [memcache] envs.corp.creditkarma.com:11211
 [memcache] falcon.corp.creditkarma.com:11211
 [memcache] flare-api.corp.creditkarma.com:11211
@@ -1661,6 +1665,7 @@
 [radan-http] smith.corp.creditkarma.com:8088
 [radan-http] smith-remote.corp.creditkarma.com:8088
 [radan-http] vinyl.test.admin.creditkarma.com:8088
+[radsec] flare-api.corp.creditkarma.com:2083
 [redis] envs.corp.creditkarma.com:6379
 [redis] falcon.corp.creditkarma.com:6379
 [redis] flare-api.corp.creditkarma.com:6379

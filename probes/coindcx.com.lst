@@ -68,6 +68,7 @@ https://public.coindcx.com [200] [GET] [text/html] [] [cloudflare] [vhost] [clou
 https://qa.coindcx.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://quality.coindcx.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://sg.coindcx.com [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
+https://share.coindcx.com [400] [GET] [text/html] [Invalid Dynamic Link] [ESF] [vhost] [Fastly] [13f4faea86a5d8a799a57a1bcd478434]
 https://staging-pay.coindcx.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://stream.coindcx.com [200] [GET] [] [] [nginx] [Express,Nginx,Node.js] [99d0e27a3771e2cc76598bffb0ff7cc1]
 https://stream-hft.coindcx.com [200] [GET] [] [] [nginx] [Express,Nginx,Node.js] [99d0e27a3771e2cc76598bffb0ff7cc1]

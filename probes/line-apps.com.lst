@@ -35,6 +35,7 @@ https://coupon.line-apps.com [403] [GET] [text/html] [Access Denied] [AkamaiGHos
 https://coupon.line-apps.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [d44278abc30b27ab5196dc076c9dfebb]
 https://cwa-front.line-apps.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [37ddbe5251b094da919c62a0a0e06a0d]
 https://cwa-front.line-apps.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [49016c3bcfdd38d577eb799ac8fb225b]
+https://data-sync.line-apps.com [404] [GET] [text/plain] [] [] [vhost] [53af239ee5d3e261545dededcb6ffd57]
 https://dev-gb-vod-linetv.line-apps.com [200] [GET] [text/html] [Welcome to nginx!] [nginx] [vhost] [Nginx] [e3eb0a1df437f3f97a64aca5952c8ea0]
 https://ldblog-image-cdn.line-apps.com [403] [GET] [text/html] [403 Forbidden] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [9fe3cb2b7313dc79bb477bc8fde184a7]
 https://ldblog-parts-cdn.line-apps.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]

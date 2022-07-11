@@ -215,6 +215,7 @@ devtools-ci.epicgames.com
 devtools-dev.epicgames.com
 devtools.epicgames.com
 dev.use1a.on.epicgames.com
+dev.vault.substrate.on.epicgames.com
 dialin.epicgames.com
 discourse.beef.live.use1a.on.epicgames.com
 discuss.substrate.on.epicgames.com
@@ -2169,6 +2170,7 @@ egcvpn2.epicgames.com
 egcvpn.epicgames.com
 eg.epicgames.com
 egp-idsoc-proxy-prod.ol.epicgames.com
+egs-platform-service.store.epicgames.com
 egs-platform.store-dev.on.epicgames.com
 egvbulletin-website-prod13.ol.epicgames.com
 engineering.epicgames.com
@@ -2190,6 +2192,7 @@ eos-service-datastorage-liveegs-public.befa.live.use1a.on.epicgames.com
 epic-achievements-gamedev-assets.epicgames.com
 epic-achievements-gamedev.on.epicgames.com
 epic-backstage-ci.core.dev.on.epicgames.com
+epic-backstage.deee.live.use1a.on.epicgames.com
 epic-backstage-gamedev.adaf.dev.use1a.on.epicgames.com
 epic-backstage-gamedev.core.dev.on.epicgames.com
 epicgames.com
@@ -2300,6 +2303,7 @@ fortnite-public-service-dailymain-prod.ol.epicgames.com
 fortnite-public-service-dailyreleasea-prod.ol.epicgames.com
 fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com
 fortnite-public-service-dailyreleasec-prod.ol.epicgames.com
+fortnite-public-service-dazzle-prod.ol.epicgames.com
 fortnite-public-service-devplaytestb-prod.ol.epicgames.com
 fortnite-public-service-devplaytestc-prod.ol.epicgames.com
 fortnite-public-service-devplaytestd-prod.ol.epicgames.com
@@ -2564,6 +2568,8 @@ mars-metrics.it-entapps-dev.epicgames.com
 media-cdn.epicgames.com
 mediaserver-dev-use1-0.dev.rtcp.on.epicgames.com
 meet.epicgames.com
+mega-api-us-east-1.megastation-dev.it.epicgames.com
+mega-ping-us-east-1.megastation-dev.it.epicgames.com
 megastation.it-entapps-dev.epicgames.com
 merchantpool1.epicgames.com
 merch.epicgames.com
@@ -2621,6 +2627,7 @@ ogs.dev.on.epicgames.com
 ogs.live.on.epicgames.com
 ol.epicgames.com
 on.epicgames.com
+online.identity.dev.on.epicgames.com
 onna.ccad.dev.use1a.on.epicgames.com
 opsgenie.it.epicgames.com
 opsgenie.operations.it.epicgames.com
@@ -2934,6 +2941,7 @@ unrealstudio.epicgames.com
 unrealstudiohelp.epicgames.com
 unrealtournament-ci-debug.ol.epicgames.com
 use1.dev.rtcp.on.epicgames.com
+use1-dev.vault.substrate.on.epicgames.com
 use1.vault.substrate.on.epicgames.com
 us-east-1.ci.qstv.on.epicgames.com
 us-east-1.dev.qstv.on.epicgames.com

@@ -1,11 +1,13 @@
 [cddbp-alt] legacy-shop.thuisbezorgd.nl:8880
 [cddbp-alt] shop.thuisbezorgd.nl:8880
+[cddbp-alt] test-shop.thuisbezorgd.nl:8880
 [cddbp-alt] test.shop.thuisbezorgd.nl:8880
 [domain] ns1.thuisbezorgd.nl:53
 [domain] ns2.thuisbezorgd.nl:53
 [domain] ns3.thuisbezorgd.nl:53
 [eli] acc-shop.thuisbezorgd.nl:2087
 [eli] shop.thuisbezorgd.nl:2087
+[eli] test-shop.thuisbezorgd.nl:2087
 [EtherNetIP-1] webmail.thuisbezorgd.nl:2222
 [gnunet] acc-shop.thuisbezorgd.nl:2086
 [gnunet] shop.thuisbezorgd.nl:2086
@@ -39,6 +41,7 @@
 [http] partnerblog.thuisbezorgd.nl:80
 [http] pizzaweb.thuisbezorgd.nl:80
 [http-proxy] acc-shop.thuisbezorgd.nl:8080
+[http-proxy] test-shop.thuisbezorgd.nl:8080
 [http] restaurants.thuisbezorgd.nl:80
 [http] restaurant.thuisbezorgd.nl:80
 [http] ribrunner.thuisbezorgd.nl:80
@@ -47,6 +50,7 @@
 [https-alt] beta.shop.thuisbezorgd.nl:8443
 [https-alt] legacy-shop.thuisbezorgd.nl:8443
 [https-alt] shop.thuisbezorgd.nl:8443
+[https-alt] test-shop.thuisbezorgd.nl:8443
 [https-alt] test.shop.thuisbezorgd.nl:8443
 [https] azan.test.thuisbezorgd.nl:443
 [https] beta.shop.thuisbezorgd.nl:443
@@ -121,9 +125,12 @@
 [imaps] pop.thuisbezorgd.nl:993
 [imaps] smtp.thuisbezorgd.nl:993
 [infowave] acc-shop.thuisbezorgd.nl:2082
+[infowave] test-shop.thuisbezorgd.nl:2082
 [nbx-dir] acc-shop.thuisbezorgd.nl:2096
 [nbx-dir] shop.thuisbezorgd.nl:2096
+[nbx-dir] test-shop.thuisbezorgd.nl:2096
 [nbx-ser] shop.thuisbezorgd.nl:2095
+[nbx-ser] test-shop.thuisbezorgd.nl:2095
 [pop3] imap.thuisbezorgd.nl:110
 [pop3] mail.thuisbezorgd.nl:110
 [pop3] pop3.thuisbezorgd.nl:110
@@ -135,6 +142,7 @@
 [pop3s] pop.thuisbezorgd.nl:995
 [pop3s] smtp.thuisbezorgd.nl:995
 [radsec] shop.thuisbezorgd.nl:2083
+[radsec] test-shop.thuisbezorgd.nl:2083
 [smtp] connect.thuisbezorgd.nl:25
 [smtp] imap.thuisbezorgd.nl:25
 [smtp] mail.thuisbezorgd.nl:25

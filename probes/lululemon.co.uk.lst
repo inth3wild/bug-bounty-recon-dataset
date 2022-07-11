@@ -14,7 +14,7 @@ https://metrics.lululemon.co.uk [200] [GET] [] [] [jag] [d41d8cd98f00b204e980099
 https://msoid.lululemon.co.uk [302] [GET] [text/html] [Object moved] [] [vhost] [azure] [67dc47621d0dca9dc8d849ee26494c3b]
 https://search.lululemon.co.uk [301] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://sip.lululemon.co.uk [404] [GET] [text/plain] [] [RTC/7.0] [c79e14ca5ebfee422a4f72a80e6e7cc4]
-https://smetrics.lululemon.co.uk [200] [GET] [] [] [jag] [d41d8cd98f00b204e9800998ecf8427e]
+https://smetrics.lululemon.co.uk [200] [GET] [] [] [jag] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://stage62-info.lululemon.co.uk [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [68ddf13f2429ad81a07771cded69ce48]
 https://stage62-info.lululemon.co.uk [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [c5049022b8a90b9204fbefe699e33b11]
 https://static-global.lululemon.co.uk [500] [GET] [text/html] [Internal Server Error] [AkamaiGHost] [vhost] [88013f6460a3cd4bd2514d20d431eca2]

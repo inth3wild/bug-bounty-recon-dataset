@@ -47,7 +47,7 @@ https://jira-hackweek.spotify.net [303] [GET] [text/html] [303 See Other] [Apach
 https://jira.spotify.net [302] [GET] [text/html] [] [] [vhost] [Amazon ALB,Amazon Web Services,Java] [d41d8cd98f00b204e9800998ecf8427e]
 https://jira-stage.spotify.net [403] [GET] [text/html] [403 Forbidden] [Apache] [google] [Apache,Google Cloud,Google Cloud CDN] [bb8f534fbff5ee61a95af9c4740ae043]
 https://jira-test.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [60a3493a3062243ebcb4ee295e865252]
-https://jira-uat.spotify.net [302] [GET] [text/html] [] [] [vhost] [Amazon ALB,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
+https://jira-uat.spotify.net [302] [GET] [text/html] [] [] [vhost] [Amazon ALB,Amazon Web Services,Java] [d41d8cd98f00b204e9800998ecf8427e]
 https://librenms.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [0d7dfc2264c621525aba89ebf1341fc8]
 https://live.spotify.net [302] [GET] [text/plain] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [b49a5be098be73b10e41b7c50497fc0f]
 https://matchmaker.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [98fc97344c9165179088d0ce740c7b76]

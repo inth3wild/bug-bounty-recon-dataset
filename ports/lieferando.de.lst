@@ -1,5 +1,7 @@
 [eli] acc-shop.lieferando.de:2087
+[eli] test-shop.lieferando.de:2087
 [gnunet] acc-shop.lieferando.de:2086
+[gnunet] test-shop.lieferando.de:2086
 [http] acc-shop.lieferando.de:80
 [http] admin.lieferando.de:80
 [http] api.lieferando.de:80
@@ -31,6 +33,7 @@
 [http] portal.lieferando.de:80
 [http] praemienshop.lieferando.de:80
 [http-proxy] acc-shop.lieferando.de:8080
+[http-proxy] test-shop.lieferando.de:8080
 [http] restaurant.lieferando.de:80
 [http] restaurants.lieferando.de:80
 [https] acc-shop.lieferando.de:443
@@ -90,6 +93,8 @@
 [http] view.update.lieferando.de:80
 [http] www.lieferando.de:80
 [infowave] acc-shop.lieferando.de:2082
+[infowave] test-shop.lieferando.de:2082
+[radsec] test-shop.lieferando.de:2083
 [smtp] connect.lieferando.de:25
 [smtp] update.lieferando.de:25
 [ssh] beta.shop.lieferando.de:22

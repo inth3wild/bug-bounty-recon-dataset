@@ -42,6 +42,7 @@ amplitude-staging.flink.shopifykloud.com
 amplitude-staging-two.flink.shopifykloud.com
 amp-metafields.flink.shopifykloud.com
 amp-metafields-stg.flink.shopifykloud.com
+amp-pos-customer-view.flink.shopifykloud.com
 amp-pos-next.flink.shopifykloud.com
 amp-pos-next-stg.flink.shopifykloud.com
 amp-pos-now.flink.shopifykloud.com
@@ -125,6 +126,7 @@ canada.vpnify.shopifykloud.com
 capital-algo-streaming.flink.shopifykloud.com
 capital-algo-streaming-production.flink.shopifykloud.com
 capital-algo-streaming-staging.flink.shopifykloud.com
+cdp-locations-staging-1.flink.shopifykloud.com
 cdp-orderaggs-experiment-1.flink.shopifykloud.com
 cdp-orderaggs-experiment-2.flink.shopifykloud.com
 cdp-orderaggs-experiment-3.flink.shopifykloud.com
@@ -340,6 +342,7 @@ hue.yarn-test.playground.yarn.shopifykloud.com
 identity-graph-matrix-staging.flink.shopifykloud.com
 identity-graph-staging.flink.shopifykloud.com
 inbox-analytics-backfill-staging.flink.shopifykloud.com
+inbox-analytics-msg-facts.flink.shopifykloud.com
 inbox-analytics-staging.flink.shopifykloud.com
 instance-2.playground.shopifykloud.com
 instance-3.playground.shopifykloud.com
@@ -670,6 +673,8 @@ shipping-insights-staging.flink.shopifykloud.com
 shopify-audience-gen-staging.flink.shopifykloud.com
 shopify-audience-gen-test.flink.shopifykloud.com
 shopify-data-presto-qa.shopifykloud.com
+shop-onboarding-milestone-prod.flink.shopifykloud.com
+shop-onboarding-milestone-stg.flink.shopifykloud.com
 shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com
 shs1.playground.yarn.shopifykloud.com
 shs23.playground.yarn.shopifykloud.com
@@ -706,6 +711,7 @@ staging.notebooks.shopifykloud.com
 staging-refinery-azkaban-web.data-acq.shopifykloud.com
 staging-speedboat-azkaban-web.data-acq.shopifykloud.com
 starscream-qa.shopify-data-presto-global.shopifykloud.com
+storefront-theme-state-prod.flink.shopifykloud.com
 storefront-theme-state-staging.flink.shopifykloud.com
 streaming-customer-sessions-staging.flink.shopifykloud.com
 streaming-customer-sessns-bckfl-stg.flink.shopifykloud.com

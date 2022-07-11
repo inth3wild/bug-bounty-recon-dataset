@@ -1064,6 +1064,7 @@
 [nati-svrloc] ws.bitmex.com:3580
 [nati-svrloc] ws.testnet.bitmex.com:3580
 [nbx-dir] auth.devhk.bitmex.com:2096
+[nbx-dir] auth.devsf3.bitmex.com:2096
 [ncd-conf] ws.bitmex.com:5999
 [ncd-conf] ws.testnet.bitmex.com:5999
 [ncd-diag] ws.bitmex.com:5998

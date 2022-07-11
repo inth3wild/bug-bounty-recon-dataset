@@ -1,5 +1,4 @@
-https://acc2.integrations.asana.plus [200] [GET] [] [Asana for Adobe Creative Cloud] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [8217ce3948e8b401d2087fd43b000274]
-https://acc2.integrations.asana.plus [200] [GET] [] [Asana for Adobe Creative Cloud] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [c26b059eb2141a4efb4603f7ce8c0515]
+https://acc2.integrations.asana.plus [200] [GET] [] [Asana for Adobe Creative Cloud] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [fd287fdc5b4459b1c1c8ba3ef9c21b73]
 https://acc.asana.plus [200] [GET] [text/html] [Asana for Adobe Creative Cloud] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [0adec4db0d414d54730538c5fa23c54a]
 https://acc-beta.integrations.asana.plus [404] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [c8c456b5aa69b33fb5d1e6502d95d33a]
 https://acc.integrations.asana.plus [200] [GET] [] [Asana for Adobe Creative Cloud] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [fbf0ddb9e595e95b13f8e1f7322aeae2]

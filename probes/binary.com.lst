@@ -109,7 +109,7 @@ http://staging-myapps.binary.com:8080 [301] [GET] [] [] [cloudflare] [cloudflare
 http://staging-myapps.binary.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
 http://staging-webtrader.binary.com:8080 [301] [GET] [] [] [cloudflare] [cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://staging-webtrader.binary.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
-https://tech.binary.com [200] [GET] [text/html] [] [openresty] [vhost] [fastly] [Ghost,Gravatar,Nginx,Node.js,OpenResty] [eb2d65811c7137f1356af017b26e8a60]
+https://tech.binary.com [200] [GET] [text/html] [] [openresty] [vhost] [fastly] [Fastly,Ghost:4.48,Gravatar,Nginx,Node.js,OpenResty,Varnish] [183a1f134df38aacc518b083b0e19dbe]
 https://ticktrade.binary.com [200] [GET] [text/html] [Binary App] [cloudflare] [vhost] [cloudflare] [Cloudflare] [7038e09864093ac7048bc7f75cc7e7d6]
 https://ticktrade.binary.com [200] [GET] [text/html] [Binary App] [cloudflare] [vhost] [cloudflare] [Cloudflare] [89d7766a0bb36dee3e1e83f307b6c7fb]
 https://tradingview.binary.com [200] [GET] [text/html] [TradingView Implementation for Binary.com] [cloudflare] [vhost] [cloudflare] [Cloudflare] [0a19c16bf71c4774139259e9adcb7e8e]

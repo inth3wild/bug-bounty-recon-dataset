@@ -14,6 +14,7 @@
 [gnunet] otvetstvennayaigra.betfair.com:2086
 [gnunet] support.developer.betfair.com:2086
 [http] accountservices.betfair.com:80
+[http] acm.betfair.com:80
 [http] acwbf.lb.betfair.com:80
 [http] admin.affiliates.betfair.com:80
 [http] affiliates.betfair.com:80
@@ -269,6 +270,7 @@
 [http] mgames.betfair.com:80
 [http] mgw.betfair.com:80
 [http] mgw.lb.betfair.com:80
+[http] migueltest.betfair.com:80
 [http] m.mail.betfair.com:80
 [http] movableink.betfair.com:80
 [http] mpoker.betfair.com:80
@@ -508,6 +510,7 @@
 [http] rt6-t.auto.betfair.com:80
 [http] rus.betfair.com:80
 [https] accountservices.betfair.com:443
+[https] acm.betfair.com:443
 [https] acwbf.lb.betfair.com:443
 [https] admin.affiliates.betfair.com:443
 [http] safecharge-integration.betfair.com:80
@@ -963,6 +966,7 @@
 [https] mgames.betfair.com:443
 [https] mgw.betfair.com:443
 [https] mgw.lb.betfair.com:443
+[https] migueltest.betfair.com:443
 [https] m.mail.betfair.com:443
 [https] movableink.betfair.com:443
 [http] smp.betfair.com:80

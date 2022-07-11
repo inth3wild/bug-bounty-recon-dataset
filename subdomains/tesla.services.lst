@@ -775,6 +775,7 @@ api-eng-internal.sn.tesla.services
 api-eng.sn.tesla.services
 api.eng.sn.tesla.services
 api-eng.vn.tesla.services
+api-gateway.public.tb.tesla.services
 api-internal.dev.sn.tesla.services
 api-internal.eng.sn.tesla.services
 api-internal.prd.sn.tesla.services
@@ -6998,6 +6999,7 @@ toolbox-api-dev.mo.tesla.services
 toolbox-dev.mo.tesla.services
 toolbox.dev.tb.tesla.services
 toolbox.tb.tesla.services
+tools.sn.tesla.services
 tools.tesla.services
 totetool-dev.mo.tesla.services
 totetool.mo.tesla.services

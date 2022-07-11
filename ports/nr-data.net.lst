@@ -426,7 +426,9 @@
 [ccproxy-http] gov-staging-otlp.nr-data.net:808
 [ccproxy-http] otlp.nr-data.net:808
 [ccproxy-http] staging-otlp.nr-data.net:808
+[cddbp-alt] ingest-test-api.eu01.nr-data.net:8880
 [cddbp-alt] metric-api.eu01.nr-data.net:8880
+[cddbp-alt] staging-bam.nr-data.net:8880
 [cddbp-alt] tls10.eu01.nr-data.net:8880
 [cddbp-alt] tls12.eu01.nr-data.net:8880
 [cdfunc] gov-otlp.nr-data.net:2045
@@ -469,6 +471,7 @@
 [clariion-evr01] gov-staging-otlp.nr-data.net:6389
 [clariion-evr01] otlp.nr-data.net:6389
 [clariion-evr01] staging-otlp.nr-data.net:6389
+[clearvisn] ingest-test-api.eu01.nr-data.net:2052
 [clearvisn] tls10.eu01.nr-data.net:2052
 [cm] gov-otlp.nr-data.net:5910
 [cm] gov-staging-otlp.nr-data.net:5910
@@ -786,8 +789,10 @@
 [elfiq-repl] gov-staging-otlp.nr-data.net:1148
 [elfiq-repl] otlp.nr-data.net:1148
 [elfiq-repl] staging-otlp.nr-data.net:1148
+[eli] ingest-test-api.eu01.nr-data.net:2087
 [eli] metric-api.eu01.nr-data.net:2087
 [eli] staging-bam-cell.nr-data.net:2087
+[eli] staging-bam.nr-data.net:2087
 [Elite] gov-otlp.nr-data.net:31337
 [Elite] gov-staging-otlp.nr-data.net:31337
 [Elite] otlp.nr-data.net:31337
@@ -1036,6 +1041,7 @@
 [gmrupdateserv] staging-otlp.nr-data.net:1070
 [gnunet] metric-api.eu01.nr-data.net:2086
 [gnunet] staging-bam-cell.nr-data.net:2086
+[gnunet] staging-bam.nr-data.net:2086
 [gnunet] tls10.eu01.nr-data.net:2086
 [gnunet] tls12.eu01.nr-data.net:2086
 [gnutella] gov-otlp.nr-data.net:6346
@@ -1169,6 +1175,7 @@
 [http-proxy] metric-api.eu01.nr-data.net:8080
 [http-proxy] otlp.nr-data.net:8080
 [http-proxy] staging-bam-cell.nr-data.net:8080
+[http-proxy] staging-bam.nr-data.net:8080
 [http-proxy] staging-insights-collector-origin.nr-data.net:8080
 [http-proxy] staging-otlp.nr-data.net:8080
 [http-proxy] tls10.eu01.nr-data.net:8080
@@ -1190,6 +1197,7 @@
 [https-alt] metric-api.eu01.nr-data.net:8443
 [https-alt] otlp.nr-data.net:8443
 [https-alt] staging-bam-cell.nr-data.net:8443
+[https-alt] staging-bam.nr-data.net:8443
 [https-alt] staging-insights-collector-origin.nr-data.net:8443
 [https-alt] staging-otlp.nr-data.net:8443
 [https-alt] tls10.eu01.nr-data.net:8443
@@ -1350,8 +1358,10 @@
 [indy] gov-staging-otlp.nr-data.net:5963
 [indy] otlp.nr-data.net:5963
 [indy] staging-otlp.nr-data.net:5963
+[infowave] ingest-test-api.eu01.nr-data.net:2082
 [infowave] metric-api.eu01.nr-data.net:2082
 [infowave] staging-bam-cell.nr-data.net:2082
+[infowave] staging-bam.nr-data.net:2082
 [infowave] tls10.eu01.nr-data.net:2082
 [infowave] tls12.eu01.nr-data.net:2082
 [ingreslock] gov-otlp.nr-data.net:1524
@@ -1868,6 +1878,7 @@
 [nati-svrloc] otlp.nr-data.net:3580
 [nati-svrloc] staging-otlp.nr-data.net:3580
 [nbx-dir] tls10.eu01.nr-data.net:2096
+[nbx-ser] staging-bam.nr-data.net:2095
 [ncd-conf] gov-otlp.nr-data.net:5999
 [ncd-conf] gov-staging-otlp.nr-data.net:5999
 [ncd-conf] otlp.nr-data.net:5999
@@ -2304,8 +2315,10 @@
 [radmin] gov-staging-otlp.nr-data.net:4899
 [radmin] otlp.nr-data.net:4899
 [radmin] staging-otlp.nr-data.net:4899
+[radsec] ingest-test-api.eu01.nr-data.net:2083
 [radsec] metric-api.eu01.nr-data.net:2083
 [radsec] staging-bam-cell.nr-data.net:2083
+[radsec] staging-bam.nr-data.net:2083
 [radsec] tls10.eu01.nr-data.net:2083
 [radsec] tls12.eu01.nr-data.net:2083
 [raid-am] gov-otlp.nr-data.net:2013

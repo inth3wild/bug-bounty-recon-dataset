@@ -15,6 +15,9 @@
 [http] omg.twitterflightschool.com:80
 [http] publicis.twitterflightschool.com:80
 [https] abinbev.twitterflightschool.com:443
+[https-alt] ipg.twitterflightschool.com:8443
+[https-alt] publicis.twitterflightschool.com:8443
+[https-alt] www.twitterflightschool.com:8443
 [https] bnpparibas.twitterflightschool.com:443
 [https] creators.twitterflightschool.com:443
 [https] dentsu.twitterflightschool.com:443

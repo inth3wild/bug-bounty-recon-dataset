@@ -17,6 +17,7 @@ admin-tool-api-porting.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT COR
 admin-tool-api-unstable.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.144.0.0/15
 docs.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 docs-jon.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+entitlements-grpc-testci.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.0.0.0/11
 es-dev.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 es-loadtest.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 es-prod.fallguys.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.64.0.0/15
@@ -33,6 +34,10 @@ kibana-dev.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 
 kibana-prod.fallguys.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 level-gateway-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 level-gateway-unstable.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.144.0.0/15
+liveops-app-dev.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
+liveops-app-prod.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
+liveops-app-stgeven.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
+liveops-app-stgodd.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
 loadtest-api-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 login-admin-closedbeta.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-complianceqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
@@ -53,6 +58,7 @@ mmbetaapi.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 2
 nats-proxy-testaksupgrades.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 nats-proxy-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 nats-proxy-testci.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+prod.cms.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 release-app-stgodd.tools.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 13.104.0.0/14
 server-grpc-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 service-analytics-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10

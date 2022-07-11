@@ -1,3 +1,4 @@
+[amqp] uber.com:5672
 [ansoft-lm-2] accessibility.uber.com:1084
 [ansoft-lm-2] ad.uber.com:1084
 [ansoft-lm-2] advertiser.uber.com:1084
@@ -444,6 +445,7 @@
 [blackice-icecap] track.uber.com:8081
 [blackice-icecap] transit.uber.com:8081
 [blackice-icecap] trip.uber.com:8081
+[blackice-icecap] uber.com:8081
 [blackice-icecap] ubercom-staging.uber.com:8081
 [blackice-icecap] ukvideo.uber.com:8081
 [blackice-icecap] unsubscribe.uber.com:8081
@@ -680,6 +682,7 @@
 [ctf] track.uber.com:84
 [ctf] transit.uber.com:84
 [ctf] trip.uber.com:84
+[ctf] uber.com:84
 [ctf] ubercom-staging.uber.com:84
 [ctf] ukvideo.uber.com:84
 [ctf] unsubscribe.uber.com:84
@@ -916,6 +919,7 @@
 [dnp] track.uber.com:20000
 [dnp] transit.uber.com:20000
 [dnp] trip.uber.com:20000
+[dnp] uber.com:20000
 [dnp] ubercom-staging.uber.com:20000
 [dnp] ukvideo.uber.com:20000
 [dnp] unsubscribe.uber.com:20000
@@ -1152,6 +1156,7 @@
 [d-s-n] track.uber.com:8086
 [d-s-n] transit.uber.com:8086
 [d-s-n] trip.uber.com:8086
+[d-s-n] uber.com:8086
 [d-s-n] ubercom-staging.uber.com:8086
 [d-s-n] ukvideo.uber.com:8086
 [d-s-n] unsubscribe.uber.com:8086
@@ -1657,6 +1662,8 @@
 [ff-annunc] www.uber.com:1089
 [ff-annunc] xlb.uber.com:1089
 [ff-annunc] xn--9q8h.uber.com:1089
+[globalcatLDAPssl] uber.com:3269
+[globalcatLDAP] uber.com:3268
 [http] 15205598.uber.com:80
 [http] 4460893.sodigital.uber.com:80
 [http] accessibility.uber.com:80
@@ -2168,6 +2175,7 @@
 [http-proxy] transit.uber.com:8080
 [http-proxy] trip.uber.com:8080
 [http-proxy] t.uber.com:8080
+[http-proxy] uber.com:8080
 [http-proxy] ubercom-staging.uber.com:8080
 [http-proxy] ukvideo.uber.com:8080
 [http-proxy] unsubscribe.uber.com:8080
@@ -2633,6 +2641,7 @@
 [https] t.uber.com:443
 [https] u475-dca1.prod.uber.com:443
 [https] uat.usuppliers.uber.com:443
+[https] uber.com:443
 [https] uber-com-careers.uber.com:443
 [https] ubercom-staging.uber.com:443
 [http] subscriptions.uber.com:80
@@ -2722,6 +2731,7 @@
 [http] t.uber.com:80
 [http] u475-dca1.prod.uber.com:80
 [http] uat.usuppliers.uber.com:80
+[http] uber.com:80
 [http] uber-com-careers.uber.com:80
 [http] ubercom-staging.uber.com:80
 [http] uc-staging.uber.com:80
@@ -3485,6 +3495,7 @@
 [imap] track.uber.com:143
 [imap] transit.uber.com:143
 [imap] trip.uber.com:143
+[imap] uber.com:143
 [imap] ubercom-staging.uber.com:143
 [imap] ukvideo.uber.com:143
 [imap] unsubscribe.uber.com:143
@@ -3511,6 +3522,7 @@
 [imap] www.uber.com:143
 [imap] xlb.uber.com:143
 [imap] xn--9q8h.uber.com:143
+[infowave] uber.com:2082
 [jetdirect] accessibility.uber.com:9100
 [jetdirect] ad.uber.com:9100
 [jetdirect] advertiser.uber.com:9100
@@ -3721,6 +3733,7 @@
 [jetdirect] track.uber.com:9100
 [jetdirect] transit.uber.com:9100
 [jetdirect] trip.uber.com:9100
+[jetdirect] uber.com:9100
 [jetdirect] ubercom-staging.uber.com:9100
 [jetdirect] ukvideo.uber.com:9100
 [jetdirect] unsubscribe.uber.com:9100
@@ -3747,6 +3760,11 @@
 [jetdirect] www.uber.com:9100
 [jetdirect] xlb.uber.com:9100
 [jetdirect] xn--9q8h.uber.com:9100
+[kme-trap-port] uber.com:2081
+[ldapssl] uber.com:636
+[ldap] uber.com:389
+[memcache] uber.com:11211
+[micromuse-ncpw] uber.com:9600
 [mit-ml-dev] accessibility.uber.com:83
 [mit-ml-dev] accessibility.uber.com:85
 [mit-ml-dev] ad.uber.com:83
@@ -4167,6 +4185,7 @@
 [mit-ml-dev] transit.uber.com:85
 [mit-ml-dev] trip.uber.com:83
 [mit-ml-dev] trip.uber.com:85
+[mit-ml-dev] uber.com:83
 [mit-ml-dev] ubercom-staging.uber.com:83
 [mit-ml-dev] ubercom-staging.uber.com:85
 [mit-ml-dev] ukvideo.uber.com:83
@@ -4219,6 +4238,7 @@
 [mit-ml-dev] xlb.uber.com:85
 [mit-ml-dev] xn--9q8h.uber.com:83
 [mit-ml-dev] xn--9q8h.uber.com:85
+[mqtt] uber.com:1883
 [ms-wbt-server] accessibility.uber.com:3389
 [ms-wbt-server] ad.uber.com:3389
 [ms-wbt-server] advertiser.uber.com:3389
@@ -4455,6 +4475,7 @@
 [ms-wbt-server] www.uber.com:3389
 [ms-wbt-server] xlb.uber.com:3389
 [ms-wbt-server] xn--9q8h.uber.com:3389
+[mysql] uber.com:3306
 [ncd-conf] accessibility.uber.com:5999
 [ncd-conf] ad.uber.com:5999
 [ncd-conf] advertiser.uber.com:5999
@@ -4927,6 +4948,7 @@
 [ndmps] www.uber.com:30000
 [ndmps] xlb.uber.com:30000
 [ndmps] xn--9q8h.uber.com:30000
+[nntp] uber.com:119
 [opsmessaging] accessibility.uber.com:8090
 [opsmessaging] ad.uber.com:8090
 [opsmessaging] advertiser.uber.com:8090
@@ -5137,6 +5159,7 @@
 [opsmessaging] track.uber.com:8090
 [opsmessaging] transit.uber.com:8090
 [opsmessaging] trip.uber.com:8090
+[opsmessaging] uber.com:8090
 [opsmessaging] ubercom-staging.uber.com:8090
 [opsmessaging] ukvideo.uber.com:8090
 [opsmessaging] unsubscribe.uber.com:8090
@@ -5559,6 +5582,7 @@
 [pop3s] track.uber.com:995
 [pop3s] transit.uber.com:995
 [pop3s] trip.uber.com:995
+[pop3s] uber.com:995
 [pop3s] ubercom-staging.uber.com:995
 [pop3] subscriptions.uber.com:110
 [pop3s] ukvideo.uber.com:995
@@ -5609,6 +5633,7 @@
 [pop3] track.uber.com:110
 [pop3] transit.uber.com:110
 [pop3] trip.uber.com:110
+[pop3] uber.com:110
 [pop3] ubercom-staging.uber.com:110
 [pop3] ukvideo.uber.com:110
 [pop3] unsubscribe.uber.com:110
@@ -5845,6 +5870,7 @@
 [postgresql] track.uber.com:5432
 [postgresql] transit.uber.com:5432
 [postgresql] trip.uber.com:5432
+[postgresql] uber.com:5432
 [postgresql] ubercom-staging.uber.com:5432
 [postgresql] ukvideo.uber.com:5432
 [postgresql] unsubscribe.uber.com:5432
@@ -6107,6 +6133,8 @@
 [radan-http] www.uber.com:8088
 [radan-http] xlb.uber.com:8088
 [radan-http] xn--9q8h.uber.com:8088
+[radsec] uber.com:2083
+[redis] uber.com:6379
 [rtmp] accessibility.uber.com:1935
 [rtmp] ad.uber.com:1935
 [rtmp] advertiser.uber.com:1935
@@ -6317,6 +6345,7 @@
 [rtmp] track.uber.com:1935
 [rtmp] transit.uber.com:1935
 [rtmp] trip.uber.com:1935
+[rtmp] uber.com:1935
 [rtmp] ubercom-staging.uber.com:1935
 [rtmp] ukvideo.uber.com:1935
 [rtmp] unsubscribe.uber.com:1935
@@ -6740,6 +6769,7 @@
 [smtps] track.uber.com:465
 [smtps] transit.uber.com:465
 [smtps] trip.uber.com:465
+[smtps] uber.com:465
 [smtps] ubercom-staging.uber.com:465
 [smtp] subscriptions.uber.com:25
 [smtps] ukvideo.uber.com:465
@@ -6790,6 +6820,7 @@
 [smtp] track.uber.com:25
 [smtp] transit.uber.com:25
 [smtp] trip.uber.com:25
+[smtp] uber.com:25
 [smtp] ubercom-staging.uber.com:25
 [smtp] ukvideo.uber.com:25
 [smtp] unsubscribe.uber.com:25
@@ -7323,6 +7354,9 @@
 [su-mit-tg] www.uber.com:89
 [su-mit-tg] xlb.uber.com:89
 [su-mit-tg] xn--9q8h.uber.com:89
+[] uber.com:17000
+[] uber.com:8988
+[] uber.com:9530
 [unknown] accessibility.uber.com:8085
 [unknown] accessibility.uber.com:8089
 [unknown] accessibility.uber.com:8099
@@ -7953,6 +7987,8 @@
 [unknown] trip.uber.com:8085
 [unknown] trip.uber.com:8089
 [unknown] trip.uber.com:8099
+[unknown] uber.com:8089
+[unknown] uber.com:8099
 [unknown] ubercom-staging.uber.com:8085
 [unknown] ubercom-staging.uber.com:8089
 [unknown] ubercom-staging.uber.com:8099
@@ -8477,6 +8513,7 @@
 [vnc] track.uber.com:5900
 [vnc] transit.uber.com:5900
 [vnc] trip.uber.com:5900
+[vnc] uber.com:5900
 [vnc] ubercom-staging.uber.com:5900
 [vnc] ukvideo.uber.com:5900
 [vnc] unsubscribe.uber.com:5900
@@ -9185,6 +9222,7 @@
 [whois] track.uber.com:43
 [whois] transit.uber.com:43
 [whois] trip.uber.com:43
+[whois] uber.com:43
 [whois] ubercom-staging.uber.com:43
 [whois] ukvideo.uber.com:43
 [whois] unsubscribe.uber.com:43
@@ -9421,6 +9459,7 @@
 [xmpp-client] track.uber.com:5222
 [xmpp-client] transit.uber.com:5222
 [xmpp-client] trip.uber.com:5222
+[xmpp-client] uber.com:5222
 [xmpp-client] ubercom-staging.uber.com:5222
 [xmpp-client] ukvideo.uber.com:5222
 [xmpp-client] unsubscribe.uber.com:5222

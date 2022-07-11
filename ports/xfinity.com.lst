@@ -73,6 +73,7 @@
 [chargen] recommend-convoy-ho.agentcoach.xfinity.com:19
 [ci3-software-1] recommend-convoy-as.agentcoach.xfinity.com:1301
 [ci3-software-1] recommend-convoy-ho.agentcoach.xfinity.com:1301
+[clearvisn] modesto-prodhop.xfinity.com:2052
 [clearvisn] sit2-hop.cybersource.xfinity.com:2052
 [coldfusion-auth] recommend-convoy-ho.agentcoach.xfinity.com:44442
 [compaqdiag] recommend-convoy-as.agentcoach.xfinity.com:2301
@@ -186,6 +187,7 @@
 [glrpc] vsz.selectwifi.xfinity.com:9080
 [gnunet] insurance.xfinity.com:2086
 [gnunet] locations.xfinity.com:2086
+[gnunet] modesto-prodhop.xfinity.com:2086
 [gnunet] perf-hop.cybersource.xfinity.com:2086
 [gnunet] prod-hop.cybersource.xfinity.com:2086
 [gnunet] sit2-hop.cybersource.xfinity.com:2086
@@ -944,6 +946,7 @@
 [https-alt] core-us-west-2.mqtt.iot-prod.xfinity.com:8443
 [https-alt] core-us-west-2.mqtt.iot-stg.xfinity.com:8443
 [https-alt] locations.xfinity.com:8443
+[https-alt] modesto-prodhop.xfinity.com:8443
 [https-alt] perf-hop.cybersource.xfinity.com:8443
 [https-alt] prod-hop.cybersource.xfinity.com:8443
 [https-alt] signal-vid.gslb2.xfinity.com:8443
@@ -2851,6 +2854,7 @@
 [kerberos-sec] xtv-pil.xfinity.com:88
 [klogin] api-mobile-ho-1p.slb.xfinity.com:543
 [klogin] recommend-convoy-ho.agentcoach.xfinity.com:543
+[knetd] modesto-prodhop.xfinity.com:2053
 [knetd] sit-hop.cybersource.xfinity.com:2053
 [lam] recommend-convoy-ho.agentcoach.xfinity.com:2040
 [ldap] xtv-pil-p.gslb4.xfinity.com:389
@@ -2895,6 +2899,7 @@
 [mysql] insurance.xfinity.com:3306
 [nameserver] recommend-convoy-ho.agentcoach.xfinity.com:42
 [nbx-dir] locations.xfinity.com:2096
+[nbx-dir] modesto-prodhop.xfinity.com:2096
 [nbx-dir] perf-hop.cybersource.xfinity.com:2096
 [nbx-ser] perf-hop.cybersource.xfinity.com:2095
 [nbx-ser] prod-hop.cybersource.xfinity.com:2095

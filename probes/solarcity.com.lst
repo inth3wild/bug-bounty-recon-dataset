@@ -6,7 +6,6 @@ https://api.solarcity.com [401] [GET] [text/html] [] [] [vhost] [38559c871fba28d
 https://gw.solarcity.com:2013 [404] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://hamilton-edge.scfs.solarcity.com [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [2188df0e9d16a93e3048645713b32c52]
 https://hamilton-edge.scfs.solarcity.com [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [f2deedebd27d8a2f2ca21c4b03234f55]
-https://isapi.solarcity.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [affef123c9b4903bd8b77c0edeec29c1]
 https://login.solarcity.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [2fdb67d678780d006504922f95f7f30e]
 https://login.solarcity.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [420de101e86f3f96e7db3970f5ecd72c]
 https://origin-sg-1.solarcity.com [401] [GET] [text/html] [401 - Unauthorized: Access is denied due to invalid credentials.] [Microsoft-IIS/10.0] [IIS,Microsoft ASP.NET,Windows Server] [5720392716b0be81c8110c6f0598e01b]

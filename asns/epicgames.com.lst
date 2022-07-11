@@ -16,9 +16,12 @@ dev.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 dev-portal-rc2.fcfd.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
 dev-rc2.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
 devs.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
+dev.vault.substrate.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 ecosec.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+egs-platform-service.store.epicgames.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 eos-sdk.on.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
-fastly-download.epicgames.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+epic-backstage.deee.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
+fastly-download.epicgames.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
 fg-matchmaking-public-service-live-b.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 fn-service-datastorage-prod-public.dcaf.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 fn-service-discovery-loadtest-public.ogs.dev.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
@@ -40,6 +43,7 @@ fortnite-public-service-checker-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.C
 fortnite-public-service-cipher-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
 fortnite-public-service-dailyreleaseb-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
 fortnite-public-service-dailyreleasec-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+fortnite-public-service-dazzle-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.204.0.0/15
 fortnite-public-service-devplaytestb-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 fortnite-public-service-devplaytestc-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
 fortnite-public-service-devplaytestd-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
@@ -83,6 +87,7 @@ fortnite-public-service-vkreleasedaily-prod.ol.epicgames.com AS14618 AS14618 - A
 fortnitewaitingroom-public-service-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
 golinks.ceee.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 go.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 50.17.0.0/16
+invite-bot.eut.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
 invite-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
 jira.operations.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 jira-rest.operations.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
@@ -94,6 +99,7 @@ link.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 links-public-service-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 mail.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
 mars-apigw.stage.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+mega-ping-us-east-1.megastation-dev.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 merchantpool1.epicgames.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.64.0.0/15
 mesh-public-service-live.ak.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 mesh-public-service-livecn.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
@@ -128,6 +134,7 @@ targetprocess-bot.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.
 targetprocess-bot.stage.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 uebd.epicgames.com AS15169 AS15169 - GOOGLE LLC US 172.217.5.0/24
 unrealbugsubmissions.epicgames.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.110.0.0/16
+use1-dev.vault.substrate.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 vpn-ld8.it.epicgames.com AS207870 AS207870 - EPIC GAMES INTERNATIONAL S.A R.L. LU 148.78.116.0/24
 vpn-sk2.it.epicgames.com AS207845 AS207845 - EPIC GAMES INTERNATIONAL S.A R.L. LU 148.78.115.0/24
 zreaper-service-prod.adad.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
