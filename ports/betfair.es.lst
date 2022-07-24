@@ -1,4 +1,7 @@
+[cddbp-alt] beatthedrop.betfair.es:8880
+[eli] beatthedrop.betfair.es:2087
 [eli] betfair.es:2087
+[gnunet] beatthedrop.betfair.es:2086
 [gnunet] betfair.es:2086
 [http] accountservices.betfair.es:80
 [http] api.betfair.es:80
@@ -50,6 +53,7 @@
 [http-proxy] apuestas.betfair.es:8080
 [http-proxy] arcade.betfair.es:8080
 [http-proxy] assets.betfair.es:8080
+[http-proxy] beatthedrop.betfair.es:8080
 [http-proxy] betfair.es:8080
 [http-proxy] cache.betfair.es:8080
 [http-proxy] cashrace.betfair.es:8080
@@ -107,6 +111,7 @@
 [https-alt] apuestas.betfair.es:8443
 [https-alt] arcade.betfair.es:8443
 [https-alt] assets.betfair.es:8443
+[https-alt] beatthedrop.betfair.es:8443
 [https-alt] betfair.es:8443
 [https-alt] cache.betfair.es:8443
 [https-alt] cashrace.betfair.es:8443
@@ -242,5 +247,6 @@
 [http] was.betfair.es:80
 [http] wss.betfair.es:80
 [http] www.betfair.es:80
+[infowave] beatthedrop.betfair.es:2082
 [infowave] betfair.es:2082
 [radsec] betfair.es:2083

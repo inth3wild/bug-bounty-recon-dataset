@@ -70,6 +70,7 @@ https://alertmanager-prod.blockfi.com
 https://api.blockfi.com
 https://api.blockfi.com:8443
 https://api.mkt.blockfi.com
+https://api.ss229.shield-sandbox.aws.blockfi.com
 https://app.blockfi.com
 https://app.blockfi.com:8443
 https://app-prod.blockfi.com
@@ -101,6 +102,7 @@ https://dev-overwatch.blockfi.com
 https://docs.blockfi.com
 https://enterpriseenrollment.blockfi.com
 https://evs.mkt.blockfi.com
+https://fbcbh.csr.shield-sandbox.aws.blockfi.com
 https://fbcbh.pen-test.shield-sandbox.aws.blockfi.com
 https://fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com
 https://fbcbh.ss332.shield-sandbox.aws.blockfi.com
@@ -137,6 +139,7 @@ https://prime.blockfi.com:8443
 https://prometheus.blockfi.com
 https://prometheus-prod.blockfi.com
 http://ss139.shield-sandbox.aws.blockfi.com
+http://ss229.shield-sandbox.aws.blockfi.com
 http://ss235.shield-sandbox.aws.blockfi.com
 http://ss299.shield-sandbox.aws.blockfi.com
 http://ss323.shield-sandbox.aws.blockfi.com
@@ -146,6 +149,7 @@ https://shield-branch-test.shield-sandbox.aws.blockfi.com
 https://shield-sandbox.aws.blockfi.com
 https://shield-staging.aws.blockfi.com
 https://ss139.shield-sandbox.aws.blockfi.com
+https://ss229.shield-sandbox.aws.blockfi.com
 https://ss235.shield-sandbox.aws.blockfi.com
 https://ss299.shield-sandbox.aws.blockfi.com
 https://ss323.shield-sandbox.aws.blockfi.com

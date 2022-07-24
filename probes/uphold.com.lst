@@ -9,7 +9,7 @@ https://api-openbanking-sandbox.uphold.com [404] [GET] [application/json] [] [cl
 https://api-openbanking.uphold.com [404] [GET] [application/json] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [5d07deac15dbfe5f526c198d453615ea]
 https://api-sandbox.uphold.com [404] [GET] [application/json] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [5d07deac15dbfe5f526c198d453615ea]
 https://api.uphold.com [404] [GET] [application/json] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [5d07deac15dbfe5f526c198d453615ea]
-https://attachment.uphold.com [301] [GET] [text/html] [301 Moved Permanently] [Apache] [Apache] [7278e0ddbf92045c00c674f33944d1bc]
+https://attachment.uphold.com [301] [GET] [text/html] [301 Moved Permanently] [Apache] [vhost] [Apache] [7278e0ddbf92045c00c674f33944d1bc]
 https://blog.uphold.com [200] [GET] [text/html] [Uphold Blog - Buy, Sell, and Send BTC, XRP, And MORE In Seconds] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Font Awesome,Google Font API,Gravatar,MySQL,PHP,Typekit,WordPress,WordPress.com] [88277dd2886aa07c8c141614a77c498d]
 https://blog.uphold.com [200] [GET] [text/html] [Uphold Blog - Buy, Sell, and Send BTC, XRP, And MORE In Seconds] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Font Awesome,Google Font API,Gravatar,MySQL,PHP,Typekit,WordPress,WordPress.com] [a11029d26a8f623e7e664df7b640bbdd]
 https://blog.uphold.com:2083 [403] [GET] [text/html] [Uphold - Buy, Sell, and Send BTC, XRP, And MORE In Seconds] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [80e5f392b26d2a75b7317df5b6f54205]

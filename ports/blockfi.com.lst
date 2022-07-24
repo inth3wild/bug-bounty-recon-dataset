@@ -83,6 +83,7 @@
 [https-alt] www.blockfi.com:8443
 [https] api.blockfi.com:443
 [https] api.mkt.blockfi.com:443
+[https] api.ss229.shield-sandbox.aws.blockfi.com:443
 [https] app.blockfi.com:443
 [https] auth.blockfi.com:443
 [https] auth-local.blockfi.com:443
@@ -99,6 +100,7 @@
 [https] docs.blockfi.com:443
 [https] enterpriseenrollment.blockfi.com:443
 [https] evs.mkt.blockfi.com:443
+[https] fbcbh.csr.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.pen-test.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.ss332.shield-sandbox.aws.blockfi.com:443
@@ -124,6 +126,7 @@
 [https] prometheus.blockfi.com:443
 [https] prometheus-prod.blockfi.com:443
 [http] ss139.shield-sandbox.aws.blockfi.com:80
+[http] ss229.shield-sandbox.aws.blockfi.com:80
 [http] ss235.shield-sandbox.aws.blockfi.com:80
 [http] ss299.shield-sandbox.aws.blockfi.com:80
 [http] ss323.shield-sandbox.aws.blockfi.com:80
@@ -133,6 +136,7 @@
 [https] shield-sandbox.aws.blockfi.com:443
 [https] shield-staging.aws.blockfi.com:443
 [https] ss139.shield-sandbox.aws.blockfi.com:443
+[https] ss229.shield-sandbox.aws.blockfi.com:443
 [https] ss235.shield-sandbox.aws.blockfi.com:443
 [https] ss299.shield-sandbox.aws.blockfi.com:443
 [https] ss323.shield-sandbox.aws.blockfi.com:443

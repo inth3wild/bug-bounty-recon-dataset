@@ -12,7 +12,9 @@
 0	zero byte favicon	http://brochure.shopify.com:8080/
 0	zero byte favicon	http://brochure.shopify.com:8880/
 0	zero byte favicon	http://burst.shopify.com/
+0	zero byte favicon	http://burst.shopify.com:2082/
 0	zero byte favicon	http://burst.shopify.com:2086/
+0	zero byte favicon	http://burst.shopify.com:2095/
 0	zero byte favicon	http://burst.shopify.com:8080/
 0	zero byte favicon	http://burst.shopify.com:8880/
 0	zero byte favicon	http://checkout.shopify.com/
@@ -169,7 +171,9 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://brochure.shopify.com:2
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://brochure.shopify.com:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://brochure.shopify.com:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com:2082/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com:2086/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com:2095/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://burst.shopify.com:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://checkout.shopify.com/

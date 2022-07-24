@@ -26,6 +26,7 @@ accounts.launcher-stage.ol.epicgames.com
 accounts.launcher-website-prod07.ol.epicgames.com
 accts.epicgames.com
 adaf.dev.use1a.on.epicgames.com
+adbf.live.use1a.on.epicgames.com
 aeae.dev.use1a.on.epicgames.com
 aeee.dev.use1a.on.epicgames.com
 afdb.dev.use1a.on.epicgames.com
@@ -170,6 +171,7 @@ create-epic-kitt-react.fnsocial.on.epicgames.com
 crmacc.epicgames.com
 cubicmotion-jenkins.cubicmotion-dev.it.epicgames.com
 dabf.dev.use1a.on.epicgames.com
+dashboard.megastation-dev.it.epicgames.com
 data-asset-directory-public-service-prod.ol.epicgames.com
 data-asset-directory-public-service-stage.ol.epicgames.com
 datarouter-mobile.ol.epicgames.com
@@ -184,6 +186,7 @@ datastorage-public-service-prod.ol.epicgames.com
 dbcc.dev.use1a.on.epicgames.com
 dead.dev.use1a.on.epicgames.com
 dean-test-store-launcher.epicgames.com
+debe.dev.use1a.on.epicgames.com
 dege.qstv.on.epicgames.com
 deploymentserver.splunk.epicgames.com
 deploymentserver.splunk.operations.it.epicgames.com
@@ -2222,6 +2225,7 @@ euw1.dev.rtcp.on.epicgames.com
 events-public-service-live.ol.epicgames.com
 facc.dev.use1a.on.epicgames.com
 fastly-download.epicgames.com
+fbab.dev.use1a.on.epicgames.com
 fbbc.dev.use1a.on.epicgames.com
 fcac.live.use1a.on.epicgames.com
 fcdc.live.use1a.on.epicgames.com
@@ -2476,6 +2480,7 @@ invite-bt.eut.it.epicgames.com
 invite.eut.it.epicgames.com
 ip-data-provider-service-prod.ol.epicgames.com
 ip-data-provider-website-gamedev.ecac.dev.use1a.on.epicgames.com
+iqservice.it.epicgames.com
 isc-stork-server.coreinfra.it.epicgames.com
 it.slackbot.legacy.it.epicgames.com
 it.slackbot.stage.it.epicgames.com
@@ -2569,7 +2574,10 @@ media-cdn.epicgames.com
 mediaserver-dev-use1-0.dev.rtcp.on.epicgames.com
 meet.epicgames.com
 mega-api-us-east-1.megastation-dev.it.epicgames.com
+mega-api-us-west-2.megastation-dev.it.epicgames.com
+mega-ping-eu-west-1.megastation-dev.it.epicgames.com
 mega-ping-us-east-1.megastation-dev.it.epicgames.com
+mega-ping-us-west-2.megastation-dev.it.epicgames.com
 megastation.it-entapps-dev.epicgames.com
 merchantpool1.epicgames.com
 merch.epicgames.com

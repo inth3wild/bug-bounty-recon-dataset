@@ -769,6 +769,7 @@ https://hls.zb.mi.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4
 https://hls.zb.mi.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [9d570c7af9734dbfbfe03d856452af21]
 https://hls.zb.mi.com:8443 [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [6299033843dd06b488e270ee5f552fd8]
 https://hlth.io.mi.com [204] [GET] [] [] [Tengine] [vhost] [Tengine] [d41d8cd98f00b204e9800998ecf8427e]
+https://hlthopen.io.mi.com [403] [GET] [text/html] [403 Forbidden] [Tengine] [vhost] [Tengine] [26d3b3de51019f4c30f2666685bcd46e]
 https://home.mi.com [302] [GET] [text/html] [] [Tengine] [vhost] [Tengine] [d41d8cd98f00b204e9800998ecf8427e]
 https://hr.mi.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [Nginx] [af8c361e7f4158f3205ff77114df95be]
 https://huanxin.mi.com [301] [GET] [text/html] [301 Moved Permanently] [nginx/1.17.10] [vhost] [Nginx] [74f75136e03174c7f9503b4c55a9aaf1]

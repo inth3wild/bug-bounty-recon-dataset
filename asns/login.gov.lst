@@ -3,6 +3,7 @@ design.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 developer.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 developers.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 dm.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.202.0.0/15
+gitlab.gitstaging.gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 gitlab.production.gitlab.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 handbook.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21

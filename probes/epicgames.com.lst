@@ -369,7 +369,7 @@ https://secsvr-scim.it.epicgames.com [403] [GET] [text/html] [403 Forbidden] [aw
 https://securemail.epicgames.com:10000 [302] [GET] [text/html] [302 Found] [] [adf2bc3392873ce7e657859d910cc772]
 https://securemail.epicgames.com [403] [GET] [text/html] [] [] [12ad6874f2d36eb26a91812772d78654]
 https://service-bot.eut.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [e5a802bdce7391511909e31282d932b1]
-https://service-bot.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
+https://service-bot.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx:1.14.0,Ubuntu] [e5a802bdce7391511909e31282d932b1]
 https://service-bot.stage.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
 https://shadowcomplexhelp.epicgames.com [302] [GET] [text/html] [302 Found] [] [vhost] [cfbeaf604823f038b8b46f0ac862b98c]
 https://shared-static-prod.epicgames.com [404] [GET] [text/html] [] [] [vhost] [9d1ead73e678fa2f51a70a933b0bf017]

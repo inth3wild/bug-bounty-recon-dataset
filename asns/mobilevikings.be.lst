@@ -182,7 +182,7 @@ staging.docs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/
 staging.ssl.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 staging.static.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 static.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-stripo.mas.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+stripo.mas.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 support.mobilevikings.be AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 symposium.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 szghkf.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21

@@ -259,7 +259,7 @@ https://ra-us.bitdefender.com [200] [GET] [text/html] [] [] [f67f7c219b0107103df
 https://rdprojects.bitdefender.com [200] [GET] [text/html] [Bitdefender] [cloudflare] [vhost] [cloudflare] [Cloudflare,MySQL,PHP,WordPress] [e49030f5e3402496b9123221df9049b2]
 https://remote.bitdefender.com [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://renewals.bitdefender.com [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
-https://research.bitdefender.com [200] [GET] [text/html] [Bitdefender Research] [cloudflare] [vhost] [cloudflare] [Bootstrap,Cloudflare,Google Font API,MySQL,PHP,WordPress] [69ba805a8f7ffe1f7f5b561b4df0175e]
+https://research.bitdefender.com [200] [GET] [text/html] [Bitdefender Research] [cloudflare] [vhost] [cloudflare] [Bootstrap,Cloudflare,Google Font API,MySQL,PHP:7.4.26,WordPress:5.8.3] [69ba805a8f7ffe1f7f5b561b4df0175e]
 https://resellerportal.bitdefender.com [200] [GET] [text/html] [Official Bitdefender Consumer Program] [nginx] [vhost] [google] [Bootstrap,Google Cloud,Google Cloud CDN,Google Font API,Nginx] [56c614fbb1b4c2293be86386700d2291]
 https://rmm-cw-client-api-plugin-intgr.dev.rmm.bitdefender.com [404] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [azure] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
 https://rmm-cw-client-api-plugin-uat.dev.rmm.bitdefender.com [500] [GET] [text/html] [HTTP Error 500.30 - ASP.NET Core app failed to start] [Microsoft-IIS/10.0] [vhost] [azure] [IIS,Microsoft ASP.NET,Windows Server] [f8661b1eda14db04c4948b3002f0eaff]

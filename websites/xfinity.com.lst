@@ -302,6 +302,7 @@ http://demo.activiti.xfinity.com
 http://demo-api.activiti.xfinity.com
 http://demo.cms.xfinity.com
 http://demo.home.xfinity.com
+http://demo-kie-api.activiti.xfinity.com
 http://demo-sdx.cms.xfinity.com
 http://demo-staging.home.xfinity.com
 http://design.xfinity.com
@@ -321,10 +322,13 @@ http://devportal-dev.aws-np.identity.xfinity.com
 http://devportal-dev.identity.xfinity.com
 http://devportal-dev.identity.xfinity.com:8080
 http://devportal.dev.xfinity.com
+http://devportal.identity.xfinity.com
 http://devportal-qa.aws-np.identity.xfinity.com
 http://devportal-qa.aws-np.identity.xfinity.com:8080
 http://devportal-qa.identity.xfinity.com
 http://devportal-st.aws.identity.xfinity.com
+http://devportal-st.identity.xfinity.com
+http://dev-portal-v2-st.aws.identity.xfinity.com
 http://devportal.xfinity.com
 http://dev-responds.xfinity.com
 http://dev-support.xfinity.com
@@ -362,6 +366,7 @@ http://doorbell.cac.xfinity.com
 http://doorbell-prod-api.cac.xfinity.com
 http://doorbell-x1-prod.cac.xfinity.com
 http://doubleplaywelcomeguide.xfinity.com
+http://dovoxrc.ge.xfinity.com
 http://dovoxrc.xapi-dev.sc.xfinity.com
 http://dragonhwan6dovoxrc.xapi-dev.sc.xfinity.com
 http://dsm.cws.xfinity.com
@@ -382,7 +387,9 @@ http://ed.stg.xfinity.com
 http://ed.xfinity.com
 http://emails.xfinity.com
 http://employeetrials.xfinity.com
+http://entpass.my.xfinity.com
 http://entpass-preprod.my.xfinity.com
+http://entpass.staging.xfinity.com
 http://equipments.cws.xfinity.com
 http://equipments-np.cws.xfinity.com
 http://equipments-us-east-1.aws-origin.xfinity.com
@@ -425,6 +432,7 @@ http://home.xfinity.com
 http://hotspots.wifi.xfinity.com
 http://hs-av-flow-dev.dss-ops.xfinity.com
 http://hs-av-flow-qa.dss-ops.xfinity.com
+http://hs-data.dss-ops.xfinity.com
 http://hsflow-dev.dss-ops.xfinity.com
 http://hsflow-qa.dss-ops.xfinity.com
 http://hydra.home.xfinity.com
@@ -435,6 +443,7 @@ http://idm-dev.captive.xfinity.com
 http://idm-dev.xfinity.com
 http://idm.g.xfinity.com
 http://idm-p.gslb4.xfinity.com
+http://idm-portal-st.aws.identity.xfinity.com
 http://idm-qa.captive.xfinity.com
 http://idm-qa.xfinity.com
 http://idm-st.captive.xfinity.com
@@ -466,6 +475,7 @@ http://internet-webview.triage.xfinity.com
 http://internet-webview.xfinity.com
 http://internetwelcomeguide.xfinity.com
 http://internet.xfinity.com
+http://int-kie-api.activiti.xfinity.com
 http://invite-dev.identity.xfinity.com
 http://invite.identity.xfinity.com
 http://invite-new.identity.xfinity.com
@@ -477,6 +487,7 @@ http://iota.xfinity.com
 http://iot-dev.xfinity.com
 http://iot.xfinity.com
 http://is.xfinity.com
+http://joust.staging.xfinity.com
 http://joust.staging.xfinity.com:8080
 http://joust.xfinity.com
 http://jss-build.dev.xfinity.com
@@ -498,6 +509,7 @@ http://learn-build.xfinity.com
 http://learn.dev.xfinity.com
 http://learn.stg.xfinity.com
 http://learn.xfinity.com
+http://lmtp-ch2g.ge.xfinity.com:9200
 http://load.aka.my.xfinity.com
 http://loadfeedback-us-east-2-np.aws-origin.xfinity.com
 http://locations.xfinity.com
@@ -505,6 +517,7 @@ http://locations.xfinity.com:2082
 http://locations.xfinity.com:2083
 http://locations.xfinity.com:2086
 http://locations.xfinity.com:2087
+http://locations.xfinity.com:2095
 http://locations.xfinity.com:2096
 http://locations.xfinity.com:8080
 http://locations.xfinity.com:8443
@@ -564,6 +577,7 @@ http://mtm-docs.dss-ops.xfinity.com
 http://mtm-pre-prod.dss-ops.xfinity.com
 http://mtm-test.dss-ops.xfinity.com
 http://mydeviceinfo.xfinity.com
+http://mynewmodem.xfinity.com
 http://myplan.xfinity.com
 http://my.staging.xfinity.com
 http://my-video-chat.xfinity.com
@@ -628,6 +642,8 @@ http://payments.staging.xfinity.com
 http://payments.xfinity.com
 http://pegasus.home.xfinity.com
 http://perf-hop.cybersource.xfinity.com
+http://perf-hop.cybersource.xfinity.com:2052
+http://perf-hop.cybersource.xfinity.com:2082
 http://perf-hop.cybersource.xfinity.com:2083
 http://perf-hop.cybersource.xfinity.com:2086
 http://perf-hop.cybersource.xfinity.com:2087
@@ -638,6 +654,7 @@ http://perf-hop.cybersource.xfinity.com:8443
 http://perf-hop.cybersource.xfinity.com:8880
 http://perseus.home.xfinity.com
 http://phoenix.home.xfinity.com
+http://phoenix.traxion.xfinity.com
 http://plan-builder-dev.aws-origin.xfinity.com
 http://plan-builder-production.aws-origin.xfinity.com
 http://plan-builder-production.cws.xfinity.com
@@ -668,6 +685,7 @@ http://preprod-auth.xc3.xfinity.com
 http://preprod-concierge.xc3.xfinity.com
 http://preprodeast.activiti.xfinity.com
 http://preprodeast-api.activiti.xfinity.com
+http://preprodeast-kie-api.activiti.xfinity.com
 http://preprodgslb-api.activiti.xfinity.com
 http://preprod-kie-api.activiti.xfinity.com
 http://preprod-support.cx.xfinity.com
@@ -676,14 +694,21 @@ http://preproduction-approval.cws.xfinity.com
 http://preproduction-approval.xfinity.com
 http://preprodwest.activiti.xfinity.com
 http://preprodwest-api.activiti.xfinity.com
+http://preview-build.www.dev.xfinity.com
+http://preview-build.www.xfinity.com
 http://preview.buy.stg.xfinity.com
 http://preview.customer.dev.xfinity.com
 http://preview.customer.pre-prod.xfinity.com
 http://preview.customer.qa.xfinity.com
 http://preview.customer.staging.xfinity.com
 http://preview.customer.xfinity.com
+http://preview-privacy-demo.dss-ops.xfinity.com
+http://preview-privacy-dev.dss-ops.xfinity.com
 http://preview.privacy-dev.dss-ops.xfinity.com
+http://preview-privacy-int.dss-ops.xfinity.com
 http://preview-privacy-prod.dss-ops.xfinity.com
+http://preview-privacy-qa2.dss-ops.xfinity.com
+http://preview-privacy-qa.dss-ops.xfinity.com
 http://preview.privacy-qa.dss-ops.xfinity.com
 http://preview.www.stg.xfinity.com
 http://preview.www.xfinity.com
@@ -704,6 +729,8 @@ http://prod.cmp.xfinity.com
 http://prod.cms.xfinity.com
 http://prod.cx.xfinity.com
 http://prodeast.activiti.xfinity.com
+http://prodeast-api.activiti.xfinity.com
+http://prodeast-kie-api.activiti.xfinity.com
 http://prodgslb-api.activiti.xfinity.com
 http://prod-hop.cybersource.xfinity.com
 http://prod-hop.cybersource.xfinity.com:2082
@@ -800,6 +827,7 @@ https://acadeals.xfinity.com
 https://accel.xpp.tv.xfinity.com
 https://ac.cmp.xfinity.com
 https://acs-perf.xoe.xfinity.com
+https://acs-preview.xoe.xfinity.com
 https://activatecablecard.xfinity.com
 https://activate.courtesyflex-st.xfinity.com
 https://activate.xfinity.com
@@ -851,6 +879,7 @@ https://api-dev.cxco-chat.xfinity.com
 https://api-dev.sc.xfinity.com
 https://api-dev.xoe.xfinity.com
 https://api-east02.sc.xfinity.com
+https://api-eu-central-1.iotplatform-int.eu.xfinity.com
 https://api-eu-west-1.iotplatform-int.eu.xfinity.com
 https://api.int.xfinity.com
 https://api-int.xoe.xfinity.com
@@ -873,6 +902,8 @@ https://api-preprod.sc.xfinity.com
 https://api-preprod-west.sc.xfinity.com
 https://api-preprodwest.sc.xfinity.com
 https://api-preprod.xoe.xfinity.com
+https://api-previewwest.xoe.xfinity.com
+https://api-preview.xoe.xfinity.com
 https://api-prodwest.xoe.xfinity.com
 https://api-pseudo.xoe.xfinity.com
 https://api-qaeast.sc.xfinity.com
@@ -944,6 +975,8 @@ https://axp-int.xoe.xfinity.com
 https://axp-preprod.xoe.xfinity.com
 https://beta.home.xfinity.com
 https://betatxt.connect.xfinity.com
+https://billing-uisvc-production-blue.des.xfinity.com
+https://billing-uisvc-production-blue.dig.xfinity.com
 https://bill-pay-dev.maw-pci.xfinity.com
 https://bill-pay-pre-prod.maw-pci.xfinity.com
 https://bill-pay-production.maw-pci.xfinity.com
@@ -1131,6 +1164,8 @@ https://connect-west.ge.xfinity.com
 https://connect-west.xfinity.com
 https://connect.xfinity.com
 https://consent-cmt-prd.cmt.xfinity.com
+https://consent-previewwest.xcp.xfinity.com
+https://consent.xcp.xfinity.com
 https://constantguard.xfinity.com
 https://contact-interactions-capture-us-east-2-np.tools.xfinity.com
 https://contact-interactions-query-us-east-1.tools.xfinity.com
@@ -1170,6 +1205,7 @@ https://core-us-west-2.mqtt.iot-prod.xfinity.com
 https://core-us-west-2.mqtt.iot-stg.xfinity.com
 https://corpsplit-p.gslb4.xfinity.com
 https://courtesyflex-st.xfinity.com
+https://courtesy-stg.xfinity.com
 https://courtesy.xfinity.com
 https://cox-vsz.managedwifi.xfinity.com
 https://cox-vsz.managedwifi.xfinity.com:9443
@@ -1233,6 +1269,7 @@ https://demo.activiti.xfinity.com
 https://demo-api.activiti.xfinity.com
 https://demo.cms.xfinity.com
 https://demo.home.xfinity.com
+https://demo-kie-api.activiti.xfinity.com
 https://demo-sdx.cms.xfinity.com
 https://demo-staging.home.xfinity.com
 https://design.xfinity.com
@@ -1310,6 +1347,7 @@ https://doorbell-prod-api.cac.xfinity.com
 https://doorbell-x1-dev.cac.xfinity.com
 https://doorbell-x1-prod.cac.xfinity.com
 https://doorbell-x1-stage.cac.xfinity.com
+https://dovoxrc.ge.xfinity.com
 https://dsm.cws.xfinity.com
 https://dsm-prod-west2.aws-origin.xfinity.com
 https://dsm-stg.cws.xfinity.com
@@ -1347,7 +1385,9 @@ https://ed.xfinity.com
 http://selectwifi.xfinity.com
 https://emails.xfinity.com
 https://employeetrials.xfinity.com
+https://entpass.my.xfinity.com
 https://entpass-preprod.my.xfinity.com
+https://entpass.staging.xfinity.com
 https://equipments.cws.xfinity.com
 https://equipments-np.cws.xfinity.com
 https://equipments-us-east-1.aws-origin.xfinity.com
@@ -1355,6 +1395,7 @@ https://equipments-us-east-2.aws-origin.xfinity.com
 https://equipments-us-west-2.aws-origin.xfinity.com
 http://serviceability-preprod.cws.xfinity.com
 http://serviceability-prod.cws.xfinity.com
+http://service-admin-east.xoe.xfinity.com
 http://serviceos.xfinity.com
 http://serviceo.xfinity.com
 http://service-xcam-stg.xh-onboarding.xfinity.com
@@ -1373,7 +1414,9 @@ https://es-support.xfinity.com
 https://es.xfinity.com
 https://events.xcp.xfinity.com
 https://experience.xfinity.com
+https://fed-1p.gslb4.xfinity.com
 https://fedsp-1p.gslb4.xfinity.com
+https://fedsp-stage-1s.gslb4.xfinity.com
 https://fed-stage-1s.gslb4.xfinity.com
 https://finder.wifi.xfinity.com
 https://flex.xfinity.com
@@ -1415,6 +1458,7 @@ https://home.xfinity.com
 https://hotspots.wifi.xfinity.com
 https://hs-av-flow-dev.dss-ops.xfinity.com
 https://hs-av-flow-qa.dss-ops.xfinity.com
+https://hs-data.dss-ops.xfinity.com
 https://hsflow-dev.dss-ops.xfinity.com
 https://hsflow-qa.dss-ops.xfinity.com
 https://hydra.home.xfinity.com
@@ -1459,6 +1503,9 @@ https://internet-webview.staging.xfinity.com
 https://internet-webview.triage.xfinity.com
 https://internet-webview.xfinity.com
 https://internet.xfinity.com
+https://int-kie-api.activiti.xfinity.com
+https://inventory-dev.platco.xfinity.com
+https://inventory-prd.platco.xfinity.com
 https://invite-dev.identity.xfinity.com
 https://invite.identity.xfinity.com
 https://invite-new.identity.xfinity.com
@@ -1496,6 +1543,7 @@ https://journey-int.xoe.xfinity.com
 https://journey-preprodeast.xoe.xfinity.com
 https://journey-preprodwest.xoe.xfinity.com
 https://journey-preprod.xoe.xfinity.com
+https://journey-previewwest.xoe.xfinity.com
 https://journey-prodeast.xoe.xfinity.com
 https://journey-prodwest.xoe.xfinity.com
 https://journey-pseudo.xoe.xfinity.com
@@ -1503,6 +1551,7 @@ https://journey-qawest.xoe.xfinity.com
 https://journey-qa.xoe.xfinity.com
 https://journey-staging.xoe.xfinity.com
 https://journey.xoe.xfinity.com
+https://joust.staging.xfinity.com:8080
 https://joust.xfinity.com
 https://jss-build.dev.xfinity.com
 https://jss-build.ft1.xfinity.com
@@ -1530,6 +1579,7 @@ https://liveness.np.dig.xfinity.com
 https://load.aka.my.xfinity.com
 https://loadfeedback-us-east-2-np.aws-origin.xfinity.com
 https://locations.xfinity.com
+https://locations.xfinity.com:2053
 https://locations.xfinity.com:2083
 https://locations.xfinity.com:2087
 https://locations.xfinity.com:2096
@@ -1601,6 +1651,7 @@ https://mtm-pre-prod.dss-ops.xfinity.com
 https://mtm-test.dss-ops.xfinity.com
 https://mw-dev.maw-pci.xfinity.com
 https://mydeviceinfo.xfinity.com
+https://mynewmodem.xfinity.com
 https://myplan.xfinity.com
 https://my.staging.xfinity.com
 https://my-video-chat.xfinity.com
@@ -1657,6 +1708,7 @@ https://oauthservice-refresh-us-west-2.iota.integration.xfinity.com
 https://oauth-st.gslb4.xfinity.com
 https://oauth-st.platco.xfinity.com
 https://oauth-st.xfinity.com
+https://oauth-v2.aws.identity.xfinity.com
 https://oauth.xfinity.com
 https://offer-eligibility-preprod.xoe.xfinity.com
 https://offer-eligibility.xoe.xfinity.com
@@ -1725,12 +1777,15 @@ http://speedtest2-dev-stage.g.xfinity.com
 http://speedtest2-dev-stage.g.xfinity.com:5003
 http://speedtest2-dev-stage.g.xfinity.com:5025
 http://speedtest2.g.xfinity.com
+http://speedtest2.g.xfinity.com:5003
+http://speedtest2.g.xfinity.com:5025
 http://speedtest2-qa-stage.g.xfinity.com
 http://speedtest2-qa-stage.g.xfinity.com:5003
 http://speedtest2-qa-stage.g.xfinity.com:5025
 http://speedtest2stage.g.xfinity.com
 http://speedtest2stage.g.xfinity.com:5003
 http://speedtest2stage.g.xfinity.com:5025
+http://speedtestng-ndcasb-api-02.xfinity.com
 http://speedtest-staging.xfinity.com
 http://speedtest.staging.xfinity.com
 http://speedtest.xfinity.com
@@ -1739,6 +1794,7 @@ https://perf-billingaccount.platco.xfinity.com
 https://perf-hop.cybersource.xfinity.com
 https://perseus.home.xfinity.com
 https://phoenix.home.xfinity.com
+https://phoenix.traxion.xfinity.com
 http://spil-offers-prod.cws.xfinity.com
 http://spil-override-preprod.cws.xfinity.com
 http://spil-override-prod.cws.xfinity.com
@@ -1759,6 +1815,7 @@ https://platco-oauth-qa.aws-np.identity.xfinity.com
 https://platco-oauth-st.aws.identity.xfinity.com
 https://platform-icons.xfinity.com
 https://pms-api.xc3.xfinity.com
+https://pod-1p.gslb4.xfinity.com
 https://polaris.staging.xfinity.com
 https://polaris.xfinity.com
 https://pop3.email.g.xfinity.com:8080
@@ -1781,6 +1838,7 @@ https://preprod-common-area-api.xc3.xfinity.com
 https://preprod-concierge.xc3.xfinity.com
 https://preprodeast.activiti.xfinity.com
 https://preprodeast-api.activiti.xfinity.com
+https://preprodeast-kie-api.activiti.xfinity.com
 https://preprodgslb-api.activiti.xfinity.com
 https://preprod-identity-api.xc3.xfinity.com
 https://preprod-kie-api.activiti.xfinity.com
@@ -1795,6 +1853,8 @@ https://preprodwest-api.activiti.xfinity.com
 https://preview.api.ch2.prd.xfinity.com
 https://preview.api.pdc.stg.xfinity.com
 https://preview.api.xfinity.com
+https://preview-build.www.dev.xfinity.com
+https://preview-build.www.xfinity.com
 https://preview.businessclass.xfinity.com
 https://preview.businesshelp.xfinity.com
 https://preview.business.xfinity.com
@@ -1806,8 +1866,13 @@ https://preview.customer.pre-prod.xfinity.com
 https://preview.customer.qa.xfinity.com
 https://preview.customer.staging.xfinity.com
 https://preview.customer.xfinity.com
+https://preview-privacy-demo.dss-ops.xfinity.com
+https://preview-privacy-dev.dss-ops.xfinity.com
 https://preview.privacy-dev.dss-ops.xfinity.com
+https://preview-privacy-int.dss-ops.xfinity.com
 https://preview-privacy-prod.dss-ops.xfinity.com
+https://preview-privacy-qa2.dss-ops.xfinity.com
+https://preview-privacy-qa.dss-ops.xfinity.com
 https://preview.privacy-qa.dss-ops.xfinity.com
 https://preview.www.ch2.prd.xfinity.com
 https://preview.www.pdc.stg.xfinity.com
@@ -1832,6 +1897,8 @@ https://prod.cmp.xfinity.com
 https://prod.cms.xfinity.com
 https://prod.cx.xfinity.com
 https://prodeast.activiti.xfinity.com
+https://prodeast-api.activiti.xfinity.com
+https://prodeast-kie-api.activiti.xfinity.com
 https://prodgslb-api.activiti.xfinity.com
 https://prod-hop.cybersource.xfinity.com
 https://prod-idp.mdu.xfinity.com
@@ -1986,6 +2053,7 @@ https://serviceability-preprod-uw2.spil.xfinity.com
 https://serviceability-prod.cws.xfinity.com
 https://serviceability-prod-ue1.spil.xfinity.com
 https://serviceability-prod-uw2.spil.xfinity.com
+https://service-admin-east.xoe.xfinity.com
 https://serviceos.xfinity.com
 https://serviceo.xfinity.com
 https://service-xcam-stg.xh-onboarding.xfinity.com
@@ -2043,6 +2111,7 @@ https://speedtest2-qa-stage.g.xfinity.com:6025
 https://speedtest2stage.g.xfinity.com
 https://speedtest2stage.g.xfinity.com:6003
 https://speedtest2stage.g.xfinity.com:6025
+https://speedtestng-ndcasb-api-02.xfinity.com
 https://speedtest-staging.xfinity.com
 https://speedtest.staging.xfinity.com
 https://speedtest.xfinity.com
@@ -2053,6 +2122,7 @@ https://spil-compatible-equipments-preprod-ue1.spil.xfinity.com
 https://spil-compatible-equipments-preprod-uw2.spil.xfinity.com
 https://spil-compatible-equipments-prod-ue1.spil.xfinity.com
 https://spil-compatible-equipments-prod-uw2.spil.xfinity.com
+https://spil-delivery-details-preprod-uw2.spil.xfinity.com
 https://spil-delivery-details-prod-ue1.spil.xfinity.com
 https://spil-delivery-details-prod-uw2.spil.xfinity.com
 https://spil-jwe-token-service-prod-ue2.spil.xfinity.com
@@ -2060,6 +2130,7 @@ https://spil-offer-service-dev.np.salespil.xfinity.com
 https://spil-offer-service-preprod.salespil.xfinity.com
 https://spil-offer-service-prod.salespil.xfinity.com
 https://spil-offer-service-prod-w2.salespil.xfinity.com
+https://spil-offer-service-pseudo.salespil.xfinity.com
 https://spil-offers-prod.cws.xfinity.com
 https://spil-override-preprod.cws.xfinity.com
 https://spil-override-prod.cws.xfinity.com
@@ -2107,6 +2178,7 @@ https://staging-support.xfinity.com
 https://staging.tv.xfinity.com
 https://stagingwest.activiti.xfinity.com
 https://stagingwest-api.activiti.xfinity.com
+https://stagingwest-kie-api.activiti.xfinity.com
 https://start.xfinity.com
 https://static-asha.xchat.xfinity.com
 https://static-ashb.xchat.xfinity.com
@@ -2173,6 +2245,7 @@ http://staging-support.xfinity.com
 http://staging.tv.xfinity.com
 http://stagingwest.activiti.xfinity.com
 http://stagingwest-api.activiti.xfinity.com
+http://stagingwest-kie-api.activiti.xfinity.com
 https://tag-preprod.cxco-chat.xfinity.com
 https://tag-test.cxco-chat.xfinity.com
 https://tag.xchat.xfinity.com
@@ -2290,6 +2363,7 @@ https://web.cws.xfinity.com
 https://webtier-qa.np.dig.xfinity.com
 https://webtier-stage.np.dig.xfinity.com
 https://webviews.selectwifi.xfinity.com
+https://weighted.api-qa.sc.xfinity.com
 https://welcometohome.xfinity.com
 https://wifi-auth.g.xfinity.com
 https://wifi-auth-st.aws.identity.xfinity.com
@@ -2360,6 +2434,7 @@ https://www-xds.pdc.prd.xfinity.com
 https://www-xds.wcdc.prd.xfinity.com
 https://www.xfinity.com
 https://www.xoe.xfinity.com
+https://wwxh-service-prod.xh-onboarding.xfinity.com
 https://x1-dev.home.xfinity.com
 https://x1-prod-hero.home.xfinity.com
 https://x1-prod-villain.home.xfinity.com
@@ -2397,6 +2472,7 @@ https://xdn-st.xfinity.com
 https://xdn.xfinity.com
 https://xd.xfinity.com
 https://xerxes-ent-1p.gslb4.xfinity.com
+https://xerxes-ent-1s.gslb4.xfinity.com
 https://xerxes-ent-2p.gslb4.xfinity.com
 https://xerxes-lite-stage.traxion.xfinity.com
 https://xerxes-lite.traxion.xfinity.com
@@ -2411,6 +2487,7 @@ https://xfinityhomewelcome.xfinity.com
 https://xfinityoncampus-1p.gslb4.xfinity.com
 https://xfinity-web-performance.cws.xfinity.com
 https://xfinity-web-performance.xfn-ops.xfinity.com
+https://xfi-soo-validations-ci-ue2.np.xcp.xfinity.com
 https://xfi-soo-validations-preprod-ue1.xcp.xfinity.com
 https://xfi-soo-validations-prod-ue1.spil.xfinity.com
 https://xfi-soo-validations-prod-ue1.xcp.xfinity.com
@@ -2419,6 +2496,7 @@ https://xfi-soo-validations-prod-uw2.xcp.xfinity.com
 https://xfn-cart-demo.np.dig.xfinity.com
 https://xfn-cart-release-blue.dig.xfinity.com
 https://xfn-cart-release.np.dig.xfinity.com
+https://xfn-cart-svc-production-green.dig.xfinity.com
 https://xfwcpapi.xfinity.com
 https://xfwstsi.gslb2.xfinity.com
 https://xfwstsi.xfinity.com
@@ -2450,6 +2528,8 @@ https://xm-buy-preview.stg.xfinity.com
 https://xm-learn-preview.prod.xfinity.com
 https://xm-learn-preview.stg.xfinity.com
 https://xmtechdeal.xfinity.com
+https://xocidp-1p.gslb4.xfinity.com
+https://xocsp-1p.gslb4.xfinity.com
 https://xocsp-staging-1s.gslb4.xfinity.com
 https://xoe-admin.cws.xfinity.com
 https://xoe-admin-np.cws.xfinity.com
@@ -2525,6 +2605,8 @@ http://trafficmgmt-np.cws.xfinity.com
 http://trafficmgmt-us-east-1.aws-origin.xfinity.com
 http://trafficmgmt-us-east-2.aws-origin.xfinity.com
 http://trafficmgmt-us-west-2.aws-origin.xfinity.com
+http://trikke2-cws.xapi-dev.sc.xfinity.com
+http://tve-auth.aws.identity.xfinity.com
 http://tve-auth.g.xfinity.com
 http://tve-auth-st.aws.identity.xfinity.com
 http://tve.auth.xfinity.com
@@ -2585,6 +2667,7 @@ http://welcometohome.xfinity.com
 http://welcometox1.xfinity.com
 http://wg.xfinity.com
 http://wifi-auth.g.xfinity.com
+http://wifi-auth-st.aws.identity.xfinity.com
 http://wifi.auth.xfinity.com
 http://wifidevopssupport.xfinity.com
 http://wifi-p.gslb4.xfinity.com
@@ -2625,6 +2708,7 @@ http://www.pdc.prd.xfinity.com
 http://www.pdc.stg.xfinity.com
 http://www.perf.xfinity.com
 http://www.refer.xfinity.com
+http://www.sports.xfinity.com
 http://www.stg.xfinity.com
 http://www-support.ch2.int.xfinity.com
 http://www-support.ch2.prd.xfinity.com
@@ -2648,6 +2732,7 @@ http://www-xds.pdc.prd.xfinity.com
 http://www-xds.wcdc.prd.xfinity.com
 http://www.xfinity.com
 http://www.xoe.xfinity.com
+http://wwxh-service-prod.xh-onboarding.xfinity.com
 http://x1-dev.home.xfinity.com
 http://x1e.xfinity.com
 http://x1guide.xfinity.com

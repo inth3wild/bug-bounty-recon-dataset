@@ -37,8 +37,7 @@ brooklyn-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.
 brookshires.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 buehlers.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 buehlers.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-bug-bounty-guide.instacart.com AS54113 AS54113 - FASTLY US 185.199.109.0/24
-bug-bounty-guide.instacart.com AS54113 AS54113 - FASTLY US 185.199.111.0/24
+bug-bounty-guide.instacart.com AS54113 AS54113 - FASTLY US 185.199.110.0/24
 butera-market.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 butera-market.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 cardenas-marketplace.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
@@ -298,6 +297,7 @@ shoppers-admin-edge.instacart.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.0.
 shoppers-edge.instacart.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
 shoppers-edge.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 shoppersfood.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
+shoppers.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 shopthepig.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 smartandfinal.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 smart-final.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

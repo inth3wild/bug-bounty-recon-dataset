@@ -77,6 +77,7 @@ static-resource.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOL
 static-resource.mgmt.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.44.208.0/22
 static-resource.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.87.4.0/22
 stg2-api.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
+subs.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
 theia.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.4.224.0/20
 theia.mgmt.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.3.112.0/20
 theia.prod-qa.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.3.112.0/20

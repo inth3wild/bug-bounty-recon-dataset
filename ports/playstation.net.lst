@@ -1705,6 +1705,7 @@
 [https] store.q1-pqa.ac.playstation.net:443
 [https] store.q1-spint.ac.playstation.net:443
 [https] store.sp-int.ac.playstation.net:443
+[https] subs.playstation.net:443
 [http] static-resource.e1-np.community.playstation.net:80
 [http] static-resource.mgmt.community.playstation.net:80
 [http] static-resource.np.community.playstation.net:80
@@ -1744,6 +1745,7 @@
 [https] tr-push.np.communication.playstation.net:443
 [https] tw-gmsgp.np.community.playstation.net:443
 [https] ua-gcd.np.community.playstation.net:443
+[http] subs.playstation.net:80
 [https] ubstorage01.ww.np.community.playstation.net:443
 [https] ucltickets.playstation.net:443
 [https] up0002-blus30591-00.auth.np.ac.playstation.net:443

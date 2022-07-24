@@ -59,6 +59,7 @@
 [http] ablink.racing.fanduel.com:80
 [http] account.arcade.fanduel.com:80
 [http] account.co.casino.fanduel.com:80
+[http] account.faceoff.fanduel.com:80
 [http] account.mi.casino.fanduel.com:80
 [http] account.nj.casino.fanduel.com:80
 [http] account.pa.casino.fanduel.com:80
@@ -128,6 +129,7 @@
 [https] ablink.racing.fanduel.com:443
 [https] account.arcade.fanduel.com:443
 [https] account.co.casino.fanduel.com:443
+[https] account.faceoff.fanduel.com:443
 [https] account.mi.casino.fanduel.com:443
 [https] account.nj.casino.fanduel.com:443
 [https] account.pa.casino.fanduel.com:443

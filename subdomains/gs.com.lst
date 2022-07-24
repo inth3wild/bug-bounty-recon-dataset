@@ -330,6 +330,8 @@ cdn-ak-8.gs.com
 cdn-ak-9.gs.com
 cdn-ak-cwm-pb-1.gs.com
 cdn-ak-cwm-pb-2.gs.com
+cdn-ak-fcl-1.gs.com
+cdn-ak-fcl-2.gs.com
 cdn-ak-gir-1.gs.com
 cdn-ak-gir-2.gs.com
 cdn-ak-gls-1.gs.com
@@ -530,6 +532,9 @@ dev.jira.devcollab.gs.com
 dev-linux-4.portal.services.gs.com
 dev-login-higher.gs.com
 dev.login.higher.gs.com
+dev.marcus.aws.repo.tableau.site.gs.com
+dev.marcus.aws.ssl.tableau.site.gs.com
+dev.marcus.aws.tsm.tableau.site.gs.com
 dev.marcus.jira.devcollab.gs.com
 dev.nhsdata.sky.site.gs.com
 dev.opswheel.sky.site.gs.com
@@ -1541,7 +1546,9 @@ qalagoon.gsmarkets.gs.com
 qalogin.gs.com
 qa-login-higher.gs.com
 qa.login.higher.gs.com
+qa.marcus.aws.repo.tableau.site.gs.com
 qa.marcus.aws.ssl.tableau.site.gs.com
+qa.marcus.aws.tsm.tableau.site.gs.com
 qa.marcus.jira.devcollab.gs.com
 qa.marketing.gs.com
 qa.marqueetrader.gs.com

@@ -1,5 +1,6 @@
 https://api.edp.yeloplay.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://api.fut.yeloplay.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://api.prd.yeloplay.be [301] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://api.pst.yeloplay.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://api.sup.yeloplay.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://api.uat.yeloplay.be [302] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]

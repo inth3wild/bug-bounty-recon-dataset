@@ -134,6 +134,7 @@
 [https] squareup.com:443
 [https] status.squareup.com:443
 [https] supportprofile.squareup.com:443
+[https] switchboard.squareup.com:443
 [http] status.squareup.com:80
 [http] store.squareup.com:80
 [http] supportprofile.squareup.com:80
@@ -146,6 +147,7 @@
 [https] vpn.sjc1.squareup.com:443
 [https] vpn.west.corp.squareup.com:443
 [https] vpn.west.squareup.com:443
+[http] switchboard.squareup.com:80
 [https] www.squareup.com:443
 [https] xmstest.squareup.com:443
 [http] www.squareup.com:80

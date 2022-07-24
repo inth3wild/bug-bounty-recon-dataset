@@ -84,7 +84,7 @@ https://toimitilat.lahitapiola.fi [200] [GET] [text/html] [LähiTapiola toimitil
 https://tunnistus.lahitapiola.fi [200] [GET] [text/html] [] [Apache] [Apache] [cc4faec7bd6f5e50edf81b6de6ba399a]
 https://turvacrm16.lahitapiola.fi [401] [GET] [text/plain] [] [Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0] [vhost] [IIS,Microsoft ASP.NET,Microsoft HTTPAPI,SPNEGO,Windows Server] [b48a02883b0c6f2a3844371589ddb7bd]
 https://turvacrm16test.lahitapiola.fi [401] [GET] [text/plain] [] [Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0] [vhost] [IIS,Microsoft ASP.NET,Microsoft HTTPAPI,SPNEGO,Windows Server] [b48a02883b0c6f2a3844371589ddb7bd]
-https://turvallisuuspoikkeamat.lahitapiola.fi [200] [GET] [text/html] [Granite] [nginx] [vhost] [Nginx,PHP] [2a34ab9824d81f266c754deaddb109a7]
+https://turvallisuuspoikkeamat.lahitapiola.fi [200] [GET] [text/html] [Granite] [nginx] [vhost] [Nginx,PHP] [63fed3ea61d3eae6ea1132f9d46b9672]
 https://uatapim-api.lahitapiola.fi [404] [GET] [application/json] [] [] [vhost] [0d89eb733f51aee92d10122fdf5533cb]
 https://uat.beta.lahitapiola.fi [200] [GET] [text/html] [] [Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0] [vhost] [Gatsby,Microsoft HTTPAPI,React,webpack] [385c0da4ca5a0636c2b7b5ebc46eb53b]
 https://uat-ext-gw.lahitapiola.fi:7000 [404] [GET] [text/xml] [] [] [IBM DataPower] [b8fd105a3c58e03ae188849b94dc361b]

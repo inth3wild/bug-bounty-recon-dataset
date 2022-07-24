@@ -64,6 +64,7 @@ employee.base.be
 en-uk-help.base.be
 eservices.base.be
 events.base.be
+e.videocall.base.be
 exchange.base.be
 extranet.base.be
 fr-be-help.base.be
@@ -84,6 +85,7 @@ login2.edp.base.be
 login2.int.base.be
 login2.lat.base.be
 login2.mre.base.be
+login2.prd.base.be
 login2.sup.base.be
 login2.trg.base.be
 login2.uat.base.be
@@ -108,6 +110,7 @@ mkt.base.be
 mkt.prd.base.be
 mmmsc.base.be
 mms.base.be
+mmsc.base.be
 mobile.base.be
 mobileid-auth.base.be
 mobileid-auth-uat.base.be
@@ -150,6 +153,7 @@ press.base.be
 productcheck.base.be
 promo.base.be
 promotion.base.be
+pro-repair.base.be
 qrbcmc.base.be
 qrbcmc-stag.base.be
 relay1.base.be

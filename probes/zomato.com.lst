@@ -13,6 +13,7 @@ https://business.zomato.com [200] [GET] [text/html] [Zomato] [envoy] [vhost] [En
 https://cc2.zomato.com [200] [GET] [] [] [] [vhost] [Amazon ALB,Amazon Web Services] [0b365c2ddc0c83f7b15d5194f9f0ad86]
 https://ccc.zomato.com [200] [GET] [] [] [] [vhost] [0b365c2ddc0c83f7b15d5194f9f0ad86]
 https://cc.zomato.com [200] [GET] [] [] [] [vhost] [Amazon ALB,Amazon Web Services] [0b365c2ddc0c83f7b15d5194f9f0ad86]
+https://cert3.zomato.com [200] [GET] [application/json] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d302711876bacaf41f687e7ea4857f8f]
 https://chat.zomato.com [404] [GET] [text/plain] [] [] [vhost] [595e88012a6521aae3e12cbebe76eb9e]
 https://culture.zomato.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [4aa7a432bb447f094408f1bd6229c605]
 https://developers.zomato.com [302] [GET] [text/html] [Zomato Developers] [envoy] [vhost] [Envoy,Google Tag Manager,PHP] [2fe30a4ee5989cb347bee06a790f5a79]

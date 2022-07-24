@@ -700,6 +700,7 @@
 [https] stardust.spotify.net:443
 [https] statements.spotify.net:443
 [https] status.spotify.net:443
+[https] strategy.spotify.net:443
 [https] streamon.spotify.net:443
 [https] sublime-platform.spotify.net:443
 [https] tableau-dashboards.spotify.net:443
@@ -715,6 +716,7 @@
 [https] thebandrehearsal.spotify.net:443
 [https] thebandreunion.spotify.net:443
 [https] tirage.spotify.net:443
+[http] strategy.spotify.net:80
 [http] streamon.spotify.net:80
 [https] tycho.spotify.net:443
 [http] sublime-platform.spotify.net:80

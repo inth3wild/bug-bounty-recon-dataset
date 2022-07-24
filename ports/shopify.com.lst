@@ -10,6 +10,7 @@
 [cddbp-alt] alumni.shopify.com:8880
 [cddbp-alt] amazon-ads.shopify.com:8880
 [cddbp-alt] amazon.shopify.com:8880
+[cddbp-alt] api.collabs.shopify.com:8880
 [cddbp-alt] api.shopify.com:8880
 [cddbp-alt] apm.shopify.com:8880
 [cddbp-alt] apps.shopify.com:8880
@@ -169,6 +170,7 @@
 [eli] alumni.shopify.com:2087
 [eli] amazon-ads.shopify.com:2087
 [eli] amazon.shopify.com:2087
+[eli] api.collabs.shopify.com:2087
 [eli] api.shopify.com:2087
 [eli] apm.shopify.com:2087
 [eli] apps.shopify.com:2087
@@ -418,6 +420,7 @@
 [http] amazon-ads.shopify.com:80
 [http] amazon.shopify.com:80
 [http] analytics.shopify.com:80
+[http] api.collabs.shopify.com:80
 [http] api.github.shopify.com:80
 [http] api.shopify.com:80
 [http] apm.shopify.com:80
@@ -593,6 +596,7 @@
 [http-proxy] alumni.shopify.com:8080
 [http-proxy] amazon-ads.shopify.com:8080
 [http-proxy] amazon.shopify.com:8080
+[http-proxy] api.collabs.shopify.com:8080
 [http-proxy] api.shopify.com:8080
 [http-proxy] apm.shopify.com:8080
 [http-proxy] app.shopify.com:8080
@@ -774,6 +778,7 @@
 [https-alt] alumni.shopify.com:8443
 [https-alt] amazon-ads.shopify.com:8443
 [https-alt] amazon.shopify.com:8443
+[https-alt] api.collabs.shopify.com:8443
 [https-alt] api.shopify.com:8443
 [https-alt] apm.shopify.com:8443
 [https-alt] app.shopify.com:8443
@@ -927,6 +932,7 @@
 [https] amazon.shopify.com:443
 [https] analytics.shopify.com:443
 [http] sanfrancisco.shopify.com:80
+[https] api.collabs.shopify.com:443
 [https] api.github.shopify.com:443
 [https] api.shopify.com:443
 [https] apm.shopify.com:443
@@ -1313,6 +1319,7 @@
 [infowave] alumni.shopify.com:2082
 [infowave] amazon-ads.shopify.com:2082
 [infowave] amazon.shopify.com:2082
+[infowave] api.collabs.shopify.com:2082
 [infowave] apm.shopify.com:2082
 [infowave] babb-academy.shopify.com:2082
 [infowave] bcs.shopify.com:2082
@@ -1321,6 +1328,7 @@
 [infowave] beta.help.shopify.com:2082
 [infowave] beyondthebuild.shopify.com:2082
 [infowave] brochure.shopify.com:2082
+[infowave] burst.shopify.com:2082
 [infowave] careers.shopify.com:2082
 [infowave] c.email.plus.shopify.com:2082
 [infowave] chat.shopify.com:2082
@@ -1503,7 +1511,9 @@
 [ms-wbt-server] egress-ips.shopify.com:3389
 [ms-wbt-server] storybook.polaris.shopify.com:3389
 [nbx-dir] alumni.shopify.com:2096
+[nbx-dir] api.collabs.shopify.com:2096
 [nbx-dir] apm.shopify.com:2096
+[nbx-dir] burst.shopify.com:2096
 [nbx-dir] c.email.plus.shopify.com:2096
 [nbx-dir] crafted.shopify.com:2096
 [nbx-dir] enterprise.plus.shopify.com:2096
@@ -1518,9 +1528,11 @@
 [nbx-dir] plus.shopify.com:2096
 [nbx-ser] 180.shopify.com:2095
 [nbx-ser] alumni.shopify.com:2095
+[nbx-ser] api.collabs.shopify.com:2095
 [nbx-ser] apm.shopify.com:2095
 [nbx-ser] beamishbeverages.shopify.com:2095
 [nbx-ser] beastmodeabusiness.shopify.com:2095
+[nbx-ser] burst.shopify.com:2095
 [nbx-ser] c.email.plus.shopify.com:2095
 [nbx-ser] consultant-launch.shopify.com:2095
 [nbx-ser] counter.shopify.com:2095
@@ -1571,6 +1583,7 @@
 [radsec] alumni.shopify.com:2083
 [radsec] amazon-ads.shopify.com:2083
 [radsec] amazon.shopify.com:2083
+[radsec] api.collabs.shopify.com:2083
 [radsec] api.shopify.com:2083
 [radsec] apm.shopify.com:2083
 [radsec] apps.shopify.com:2083

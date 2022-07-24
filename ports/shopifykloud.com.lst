@@ -33,6 +33,7 @@
 [http] amp-shop-app-starscream.flink.shopifykloud.com:80
 [http] amp-shop.flink.shopifykloud.com:80
 [http] amp-support.flink.shopifykloud.com:80
+[http] amp-theme-store.flink.shopifykloud.com:80
 [http] api-druid.k8s-exp.shopifykloud.com:80
 [http] api.general.dev.druid.shopifykloud.com:80
 [http] api.general.global.druid.shopifykloud.com:80
@@ -110,6 +111,7 @@
 [http] identity-graph-matrix-staging.flink.shopifykloud.com:80
 [http] identity-graph-staging.flink.shopifykloud.com:80
 [http] inbox-analytics-backfill-staging.flink.shopifykloud.com:80
+[http] inbox-analytics-conv-resp-times.flink.shopifykloud.com:80
 [http] inbox-analytics-msg-facts.flink.shopifykloud.com:80
 [http] inbox-analytics-staging.flink.shopifykloud.com:80
 [http] inventory-analytics-staging.flink.shopifykloud.com:80
@@ -253,6 +255,7 @@
 [https] amp-shop-app-starscream.flink.shopifykloud.com:443
 [https] amp-shop.flink.shopifykloud.com:443
 [https] amp-support.flink.shopifykloud.com:443
+[https] amp-theme-store.flink.shopifykloud.com:443
 [https] api-druid.k8s-exp.shopifykloud.com:443
 [https] api.general.dev.druid.shopifykloud.com:443
 [https] api.general.global.druid.shopifykloud.com:443
@@ -353,6 +356,7 @@
 [https] identity-graph-matrix-staging.flink.shopifykloud.com:443
 [https] identity-graph-staging.flink.shopifykloud.com:443
 [https] inbox-analytics-backfill-staging.flink.shopifykloud.com:443
+[https] inbox-analytics-conv-resp-times.flink.shopifykloud.com:443
 [https] inbox-analytics-msg-facts.flink.shopifykloud.com:443
 [https] inbox-analytics-staging.flink.shopifykloud.com:443
 [https] inventory-analytics-staging.flink.shopifykloud.com:443
@@ -575,6 +579,7 @@
 [https] web.general.dev.druid.shopifykloud.com:443
 [https] web.general.global.druid.shopifykloud.com:443
 [https] web.global.airflow.shopifykloud.com:443
+[https] webhooks-analytics-staging.flink.shopifykloud.com:443
 [https] webhooks-demo-staging.flink.shopifykloud.com:443
 [https] web.insights-sales.global.druid.shopifykloud.com:443
 [https] web.staging.airflow.shopifykloud.com:443
@@ -602,6 +607,7 @@
 [http] web.general.dev.druid.shopifykloud.com:80
 [http] web.general.global.druid.shopifykloud.com:80
 [http] web.global.airflow.shopifykloud.com:80
+[http] webhooks-analytics-staging.flink.shopifykloud.com:80
 [http] webhooks-demo-staging.flink.shopifykloud.com:80
 [http] web.insights-sales.global.druid.shopifykloud.com:80
 [http] web.staging.airflow.shopifykloud.com:80

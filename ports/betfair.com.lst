@@ -1,15 +1,18 @@
 [cddbp-alt] affiliates.betfair.com:8880
+[cddbp-alt] beatthedrop.betfair.com:8880
 [cddbp-alt] betfair.com:8880
 [cddbp-alt] otvetstvennayaigra.betfair.com:8880
 [cddbp-alt] support.developer.betfair.com:8880
 [eli] admin.affiliates.betfair.com:2087
 [eli] affiliates.betfair.com:2087
+[eli] beatthedrop.betfair.com:2087
 [eli] betfair.com:2087
 [eli] otvetstvennayaigra.betfair.com:2087
 [eli] support.developer.betfair.com:2087
 [EtherNetIP-1] simulator.betfair.com:2222
 [gnunet] admin.affiliates.betfair.com:2086
 [gnunet] affiliates.betfair.com:2086
+[gnunet] beatthedrop.betfair.com:2086
 [gnunet] betfair.com:2086
 [gnunet] otvetstvennayaigra.betfair.com:2086
 [gnunet] support.developer.betfair.com:2086
@@ -319,6 +322,7 @@
 [http-proxy] bad.betfair.com:8080
 [http-proxy] bahis.betfair.com:8080
 [http-proxy] bbf.betfair.com:8080
+[http-proxy] beatthedrop.betfair.com:8080
 [http-proxy] betfair.com:8080
 [http-proxy] betmon.betfair.com:8080
 [http-proxy] bgf.betfair.com:8080
@@ -536,6 +540,7 @@
 [https-alt] bad.betfair.com:8443
 [https-alt] bahis.betfair.com:8443
 [https-alt] bbf.betfair.com:8443
+[https-alt] beatthedrop.betfair.com:8443
 [https-alt] betfair.com:8443
 [https-alt] betmon.betfair.com:8443
 [https-alt] bgf.betfair.com:8443
@@ -1197,10 +1202,12 @@
 [http] xtsd.betfair.com:80
 [http] xtsd.lb.betfair.com:80
 [http] zaklady.betfair.com:80
+[infowave] beatthedrop.betfair.com:2082
 [infowave] betfair.com:2082
 [infowave] otvetstvennayaigra.betfair.com:2082
 [infowave] support.developer.betfair.com:2082
 [knetd] admin.affiliates.betfair.com:2053
+[nbx-dir] beatthedrop.betfair.com:2096
 [radsec] admin.affiliates.betfair.com:2083
 [radsec] affiliates.betfair.com:2083
 [radsec] betfair.com:2083

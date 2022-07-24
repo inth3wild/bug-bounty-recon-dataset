@@ -44,6 +44,7 @@ spark-post-tracking-qa.indeed.com AS16509 AS16509 - AMAZON.COM, INC. US 3.136.0.
 sso.indeed.com AS13335 AS13335 - CLOUDFLARE INC. US 104.16.160.0/20
 support.indeed.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 tableau-stage.corp.indeed.com AS16509 AS16509 - AMAZON.COM INC. US 3.132.0.0/14
+talent.indeed.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 textmaster-webapp-qa.indeed.com AS16509 AS16509 - AMAZON.COM, INC. US 3.136.0.0/13
 uk.indeed.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.45.192.0/18
 whatsapp-template-callback-qa.indeed.com AS16509 AS16509 - AMAZON.COM, INC. US 3.131.0.0/16

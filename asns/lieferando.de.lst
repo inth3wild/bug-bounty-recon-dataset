@@ -26,6 +26,7 @@ mta.update.lieferando.de AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 my.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 oldservice2.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 oldservice.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+orderandwin.lieferando.de AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 partner.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 pics.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 portal.lieferando.de AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

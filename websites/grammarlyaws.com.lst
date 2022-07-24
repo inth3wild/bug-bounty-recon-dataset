@@ -2,6 +2,7 @@ http://admin.preprod-proofit.grammarlyaws.com
 http://admin.qa-proofit.grammarlyaws.com
 http://api.platformer.platform.grammarlyaws.com
 http://api.platformer.qa-platform.grammarlyaws.com
+http://ci-config.preprod-payment-ui.grammarlyaws.com
 http://f1f55aa.assets.preprod-design-system.grammarlyaws.com
 http://f-assets.preprod-design-system.grammarlyaws.com
 http://f-chroma.preprod-design-system.grammarlyaws.com
@@ -28,6 +29,7 @@ https://billing-events.subscription.grammarlyaws.com
 https://bixby.qa-data-ingestion.grammarlyaws.com
 https://capi.core-prod.grammarlyaws.com
 https://capi-msdk.core-prod.grammarlyaws.com
+https://ci-config.preprod-payment-ui.grammarlyaws.com
 https://datacat-ext.nlp-processing.grammarlyaws.com
 https://datacat-ext.qa-nlp-processing.grammarlyaws.com
 https://datacat-ext.qa-redwall.grammarlyaws.com

@@ -366,6 +366,7 @@
 [clearvisn] sephora.pbis-cf.instacart.com:2052
 [clearvisn] shared-pbis.pbis-cf.instacart.com:2052
 [clearvisn] shaws.pbis-cf.instacart.com:2052
+[clearvisn] shoppers.instacart.com:2052
 [clearvisn] smartandfinal.instacart.com:2052
 [clearvisn] smart-final.pbis-cf.instacart.com:2052
 [clearvisn] specs.pbis-cf.instacart.com:2052
@@ -686,6 +687,7 @@
 [eli] shop-n-save-pitt.pbis-cf.instacart.com:2087
 [eli] shoppers-admin.instacart.com:2087
 [eli] shoppers-assets.instacart.com:2087
+[eli] shoppers.instacart.com:2087
 [eli] smartandfinal.instacart.com:2087
 [eli] smart-final.pbis-cf.instacart.com:2087
 [eli] specs.pbis-cf.instacart.com:2087
@@ -1014,6 +1016,7 @@
 [gnunet] shop-n-save-pitt.pbis-cf.instacart.com:2086
 [gnunet] shoppers-admin.instacart.com:2086
 [gnunet] shoppers-assets.instacart.com:2086
+[gnunet] shoppers.instacart.com:2086
 [gnunet] smart-final.pbis-cf.instacart.com:2086
 [gnunet] specs.pbis-cf.instacart.com:2086
 [gnunet] spirit-halloween.pbis-cf.instacart.com:2086
@@ -1668,6 +1671,7 @@
 [http-proxy] shaws.pbis-cf.instacart.com:8080
 [http-proxy] shoppers-admin.instacart.com:8080
 [http-proxy] shoppers-assets.instacart.com:8080
+[http-proxy] shoppers.instacart.com:8080
 [http-proxy] smartandfinal.instacart.com:8080
 [http-proxy] smart-final.pbis-cf.instacart.com:8080
 [http-proxy] specs.pbis-cf.instacart.com:8080
@@ -1997,6 +2001,7 @@
 [https-alt] shaws.pbis-cf.instacart.com:8443
 [https-alt] shop-n-save-pitt.pbis-cf.instacart.com:8443
 [https-alt] shoppers-admin.instacart.com:8443
+[https-alt] shoppers.instacart.com:8443
 [https-alt] smartandfinal.instacart.com:8443
 [https-alt] smart-final.pbis-cf.instacart.com:8443
 [https-alt] specs.pbis-cf.instacart.com:8443
@@ -2994,6 +2999,7 @@
 [infowave] shaws.pbis-cf.instacart.com:2082
 [infowave] shop-n-save-pitt.pbis-cf.instacart.com:2082
 [infowave] shoppers-assets.instacart.com:2082
+[infowave] shoppers.instacart.com:2082
 [infowave] smartandfinal.instacart.com:2082
 [infowave] smart-final.pbis-cf.instacart.com:2082
 [infowave] specs.pbis-cf.instacart.com:2082
@@ -3730,6 +3736,7 @@
 [radsec] shop-n-save-pitt.pbis-cf.instacart.com:2083
 [radsec] shoppers-admin.instacart.com:2083
 [radsec] shoppers-assets.instacart.com:2083
+[radsec] shoppers.instacart.com:2083
 [radsec] smartandfinal.instacart.com:2083
 [radsec] smart-final.pbis-cf.instacart.com:2083
 [radsec] specs.pbis-cf.instacart.com:2083

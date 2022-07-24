@@ -48,6 +48,7 @@ http://repo.streamlabs.com:8080 [301] [GET] [] [] [cloudflare] [cloudflare] [Clo
 http://restream-api.streamlabs.com:8080 [301] [GET] [] [] [cloudflare] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://restreambeta-ingest.streamlabs.com:1935 [200] [GET] [text/html] [Wowza Streaming Engine 4 Subscription Edition 4.8.8 build20201203191143] [WowzaStreamingEngine/4.8.8] [402463d6723154effa288786e59b1953]
 http://restream-ingest.streamlabs.com:1935 [200] [GET] [text/html] [Wowza Streaming Engine 4 Subscription Edition 4.8.8.01 build20201216140014] [WowzaStreamingEngine/4.8.8.01] [552224c9b38d7f760a6d0af9fae962e9]
+https://api-id.streamlabs.com [404] [GET] [application/json] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [0946f66b45fea7506f8d7434e22f3afc]
 https://aws-io.streamlabs.com [404] [GET] [] [] [nginx/1.18.0 (Ubuntu)] [Nginx,Ubuntu] [d41d8cd98f00b204e9800998ecf8427e]
 https://aws.streamlabs.com [200] [GET] [text/html] [Streamlabs: Free Live Streaming & Recording Software] [cloudflare] [vhost] [cloudflare] [Cloudflare,Google Font API] [baf63d1070c6f58be1788827692f6df8]
 https://beta2.streamlabs.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [7b5ea53ba332630e5aca8e4abb807f70]

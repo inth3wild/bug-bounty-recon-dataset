@@ -20,6 +20,7 @@ https://documents.devsf3.bitmex.com:8443 [407] [GET] [text/html] [407 Proxy Auth
 https://email.mg.bitmex.com [200] [GET] [application/octet-stream] [] [nginx] [Nginx] [9f36c1c909fa94ed5e7af41387ae3dae]
 https://fbnotify.devhk.services.bitmex.com [404] [GET] [application/json] [] [gunicorn] [Python,gunicorn] [0524a55babca86072cb958f6d439458e]
 https://fbnotify.public.testnet.services.bitmex.com [404] [GET] [application/json] [] [gunicorn] [Python,gunicorn] [0524a55babca86072cb958f6d439458e]
+https://freshdesk.services.bitmex.com [301] [GET] [text/html] [301 Moved Permanently] [] [vhost] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://lib.academy.bitmex.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d896a7d40a4789fbeb7f9af828735cb7]
 https://l.m.bitmex.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://mobile-config.services.bitmex.com [200] [GET] [text/html] [] [] [vhost] [e5a01d5b3b2145712bf632ef5fb0adc7]

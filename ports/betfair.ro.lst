@@ -1,5 +1,8 @@
+[cddbp-alt] beatthedrop.betfair.ro:8880
 [cddbp-alt] betfair.ro:8880
+[eli] beatthedrop.betfair.ro:2087
 [eli] betfair.ro:2087
+[gnunet] beatthedrop.betfair.ro:2086
 [http] apieds.betfair.ro:80
 [http] apismx.betfair.ro:80
 [http] assets.betfair.ro:80
@@ -41,6 +44,7 @@
 [http-proxy] apieds.betfair.ro:8080
 [http-proxy] apismx.betfair.ro:8080
 [http-proxy] assets.betfair.ro:8080
+[http-proxy] beatthedrop.betfair.ro:8080
 [http-proxy] betfair.ro:8080
 [http-proxy] cashout-service.betfair.ro:8080
 [http-proxy] cashrace.betfair.ro:8080
@@ -249,5 +253,7 @@
 [http] was.betfair.ro:80
 [http] wss.betfair.ro:80
 [http] www.betfair.ro:80
+[infowave] beatthedrop.betfair.ro:2082
 [infowave] betfair.ro:2082
+[radsec] beatthedrop.betfair.ro:2083
 [radsec] betfair.ro:2083

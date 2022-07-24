@@ -7,6 +7,7 @@ api.platformer.qa-platform.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. U
 auth-secure.preprod-auth.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 auth-secure.qa-auth.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 bixby.qa-data-ingestion.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+ci-config.preprod-payment-ui.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.120.0/21
 cms.preprod-acquisition-web.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 cms.qa-acquisition-web.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 datacat-ext.nlp-processing.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13

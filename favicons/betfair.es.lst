@@ -1,6 +1,10 @@
 0	zero byte favicon	http://arcade.betfair.es/
 0	zero byte favicon	http://arcade.betfair.es:8080/
 0	zero byte favicon	http://beatthedrop.betfair.es/
+0	zero byte favicon	http://beatthedrop.betfair.es:2082/
+0	zero byte favicon	http://beatthedrop.betfair.es:2086/
+0	zero byte favicon	http://beatthedrop.betfair.es:8080/
+0	zero byte favicon	http://beatthedrop.betfair.es:8880/
 0	zero byte favicon	http://casino.betfair.es/
 0	zero byte favicon	http://casino.betfair.es:8080/
 0	zero byte favicon	http://launcher.betfair.es/
@@ -80,6 +84,10 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.es/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://arcade.betfair.es/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://arcade.betfair.es:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.es/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.es:2082/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.es:2086/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.es:8080/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.es:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://casino.betfair.es/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://casino.betfair.es:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launcher.betfair.es/

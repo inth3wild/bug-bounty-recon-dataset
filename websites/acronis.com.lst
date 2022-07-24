@@ -9,6 +9,7 @@ http://agents-il01-cloud.acronis.com
 http://agents-in01-cloud.acronis.com
 http://agents-jp03-cloud.acronis.com
 http://agents-ng01-cloud.acronis.com
+http://agents-no01-cloud.acronis.com
 http://agents-nz01-cloud.acronis.com
 http://agents-pt01-cloud.acronis.com
 http://agents-tw01-cloud.acronis.com
@@ -72,6 +73,7 @@ http://cloud-wr-jp03.acronis.com
 http://cloud-wr-jp1.acronis.com
 http://cloud-wr-jp2.acronis.com
 http://cloud-wr-ng01.acronis.com
+http://cloud-wr-no01.acronis.com
 http://cloud-wr-nz01.acronis.com
 http://cloud-wr-pl01.acronis.com
 http://cloud-wr-pt01.acronis.com
@@ -170,9 +172,11 @@ http://motorsport.acronis.com
 http://mtweb.acronis.com
 http://mx.acronis.com
 http://my.acronis.com
+http://no01-cloud.acronis.com
 http://notary.acronis.com
 http://notary-test.acronis.com
 http://nz01-cloud.acronis.com
+http://osl1-repo.acronis.com
 http://pa.acronis.com
 http://partnerapp.acronis.com
 http://pbh1-repo.acronis.com
@@ -203,6 +207,7 @@ http://rs-il01-cloud.acronis.com
 http://rs-io99-cloud.acronis.com
 http://rs-jp03-cloud.acronis.com
 http://rs-msptest2.acronis.com
+http://rs-no01-cloud.acronis.com
 http://rs-nz01-cloud.acronis.com
 http://rs-pl01-cloud.acronis.com
 http://rs-pt01-cloud.acronis.com
@@ -234,6 +239,7 @@ https://agents-io99-cloud.acronis.com
 https://agents-jp03-cloud.acronis.com
 https://agents-mc-io99-cloud.acronis.com
 https://agents-ng01-cloud.acronis.com
+https://agents-no01-cloud.acronis.com
 https://agents-nz01-cloud.acronis.com
 https://agents-pl01-cloud.acronis.com
 https://agents-pt01-cloud.acronis.com
@@ -371,6 +377,8 @@ https://cloud-wr-jp2.acronis.com
 https://cloud-wr-jp2.acronis.com:8443
 https://cloud-wr-ng01.acronis.com
 https://cloud-wr-ng01.acronis.com:8443
+https://cloud-wr-no01.acronis.com
+https://cloud-wr-no01.acronis.com:8443
 https://cloud-wr-nz01.acronis.com
 https://cloud-wr-nz01.acronis.com:8443
 https://cloud-wr-pl01.acronis.com
@@ -510,6 +518,8 @@ https://motorsport.acronis.com
 https://mtweb.acronis.com
 https://mx.acronis.com
 https://my.acronis.com
+https://no01-cloud.acronis.com
+https://no01-cloud.acronis.com:8443
 https://notary.acronis.com
 http://snpool.acronis.com
 https://nz01-cloud.acronis.com
@@ -517,6 +527,8 @@ https://nz01-cloud.acronis.com:8443
 http://sof1-repo.acronis.com
 http://solutions.acronis.com
 https://oos.acronis.com
+https://osl1-repo.acronis.com
+https://osl1-s3gw.acronis.com
 https://pa.acronis.com
 https://partnerapp.acronis.com
 https://pbh1-repo.acronis.com
@@ -557,6 +569,8 @@ https://rs-jp03-cloud.acronis.com
 https://rs-jp03-cloud.acronis.com:8443
 https://rs-msptest2.acronis.com
 https://rs-msptest2.acronis.com:8443
+https://rs-no01-cloud.acronis.com
+https://rs-no01-cloud.acronis.com:8443
 https://rs-nz01-cloud.acronis.com
 https://rs-nz01-cloud.acronis.com:8443
 https://rs-pl01-cloud.acronis.com

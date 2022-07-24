@@ -1,6 +1,9 @@
 [cddbp-alt] streamlabs.com:8880
+[eli] api-id.streamlabs.com:2087
 [eli] streamlabs.com:2087
+[gnunet] api-id.streamlabs.com:2086
 [gnunet] streamlabs.com:2086
+[http] api-id.streamlabs.com:80
 [http] aws.streamlabs.com:80
 [http] beta2.streamlabs.com:80
 [http] beta-overlays.streamlabs.com:80
@@ -47,6 +50,7 @@
 [http] platform.streamlabs.com:80
 [http] points-api.streamlabs.com:80
 [http] polly.streamlabs.com:80
+[http-proxy] api-id.streamlabs.com:8080
 [http-proxy] aws.streamlabs.com:8080
 [http-proxy] beta2.streamlabs.com:8080
 [http-proxy] beta-overlays.streamlabs.com:8080
@@ -118,6 +122,7 @@
 [http] r2d2.streamlabs.com:80
 [http] repo.streamlabs.com:80
 [http] restream-api.streamlabs.com:80
+[https-alt] api-id.streamlabs.com:8443
 [https-alt] aws.streamlabs.com:8443
 [https-alt] beta2.streamlabs.com:8443
 [https-alt] beta-overlays.streamlabs.com:8443
@@ -186,6 +191,7 @@
 [https-alt] www.streamlabs.com:8443
 [https-alt] xt.streamlabs.com:8443
 [https-alt] youtube.streamlabs.com:8443
+[https] api-id.streamlabs.com:443
 [https] aws-io.streamlabs.com:443
 [https] aws.streamlabs.com:443
 [https] beta2.streamlabs.com:443
@@ -280,9 +286,12 @@
 [http] xt.streamlabs.com:80
 [http] youtube.streamlabs.com:80
 [infowave] streamlabs.com:2082
+[knetd] api-id.streamlabs.com:2053
 [knetd] streamlabs.com:2053
 [nbx-dir] streamlabs.com:2096
+[nbx-ser] api-id.streamlabs.com:2095
 [oracleas-https] restreambeta-ingest.streamlabs.com:7443
+[radsec] api-id.streamlabs.com:2083
 [radsec] streamlabs.com:2083
 [rtmp] restreambeta-ingest.streamlabs.com:1935
 [rtmp] restream-ingest.streamlabs.com:1935

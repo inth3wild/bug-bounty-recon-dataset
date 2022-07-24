@@ -87,7 +87,7 @@ https://snuru.mobilevikings.be [404] [GET] [text/html] [Not Found] [] [vhost] [6
 https://snuru.prd-pub.mobilevikings.be [400] [GET] [text/html] [400 No required SSL certificate was sent] [] [vhost] [6be05d19e4ca80eb3ef0a7f16f937f13]
 https://staging.api-2freedom.mobilevikings.be [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [2f59fd2a0ea81c8c319ab7111640c914]
 https://staging.ssl.mobilevikings.be [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d628e59eea2cfdc45d9522b23ddaed10]
-https://stripo.mas.mobilevikings.be [404] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [1b1e7cd650d7393e9cb4f60cc53998a8]
+https://stripo.mas.mobilevikings.be [404] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [ebff3a33c8623f23eb7d221e251d2d87]
 https://symposium.mobilevikings.be [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a1e3ff744078b4aff6b3125f66703bdd]
 https://ta47.mobilevikings.be [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [4be0defe783947e87d24c0b4e2229c96]
 https://top100.mobilevikings.be [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [ea03ad0bef26d35268fcca2ea01f61eb]

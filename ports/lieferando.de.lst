@@ -27,6 +27,7 @@
 [http] my.lieferando.de:80
 [http] oldservice2.lieferando.de:80
 [http] oldservice.lieferando.de:80
+[http] orderandwin.lieferando.de:80
 [http] orders.lieferando.de:80
 [http] partner.lieferando.de:80
 [http] pics.lieferando.de:80
@@ -64,6 +65,7 @@
 [https] my.lieferando.de:443
 [https] oldservice2.lieferando.de:443
 [https] oldservice.lieferando.de:443
+[https] orderandwin.lieferando.de:443
 [https] orders.lieferando.de:443
 [https] partner.lieferando.de:443
 [https] pics.lieferando.de:443

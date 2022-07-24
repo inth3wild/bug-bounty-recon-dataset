@@ -3,6 +3,7 @@ http://racing-staging.fanduel.com:8080 [404] [GET] [text/html] [404 Not Found] [
 https://9-polishlove1.autoconfig.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [5af1993c057229109f0fb88ca243b0fc]
 https://ablink.ma.cas.fanduel.com [404] [GET] [text/html] [404 Not Found] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
 https://ablink.ma.sb.fanduel.com [404] [GET] [text/html] [404 Not Found] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
+https://account.faceoff.fanduel.com [403] [GET] [text/html] [Access to this page has been denied.] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Font API] [e248b57e2a9c2d5d18d129f211595be4]
 https://account.mi.casino.fanduel.com [200] [GET] [text/html] [FanDuel Casino] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [4cf80e90a3143c68c611a8a365474bdb]
 https://account.pa.casino.fanduel.com [200] [GET] [text/html] [FanDuel Casino] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [1f673338ca791aeee747e40b2d685cfd]
 https://api.fanduel.com [401] [GET] [application/json] [] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Basic,Nginx] [d07200106b92d9665115f83c2da598ac]

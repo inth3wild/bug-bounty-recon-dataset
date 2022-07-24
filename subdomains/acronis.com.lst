@@ -127,6 +127,7 @@ agents-mc-io99-cloud.acronis.com
 agents-mc-kaseya-cloud.acronis.com
 agents-mc-summit02-cloud.acronis.com
 agents-ng01-cloud.acronis.com
+agents-no01-cloud.acronis.com
 agents-nz01-cloud.acronis.com
 agents-pl01-cloud.acronis.com
 agents-pt01-cloud.acronis.com
@@ -442,6 +443,7 @@ cloud-wr-kr01.acronis.com
 cloud-wr-li01.acronis.com
 cloud-wr-lv01.acronis.com
 cloud-wr-ng01.acronis.com
+cloud-wr-no01.acronis.com
 cloud-wr-nz01.acronis.com
 cloud-wr-pl01.acronis.com
 cloud-wr-pt01.acronis.com
@@ -918,6 +920,7 @@ nfe2.acronis.com
 nhsmtp.acronis.com
 nkw0.kr.metro.acronis.com
 nl.acronis.com
+no01-cloud.acronis.com
 notary.acronis.com
 notary-preview.acronis.com
 notary-sentry.acronis.com
@@ -946,6 +949,8 @@ openproject.acronis.com
 orders.acronis.com
 osa.acronis.com
 osa.corp.acronis.com
+osl1-repo.acronis.com
+osl1-s3gw.acronis.com
 ovirtengine.acronis.com
 owa.sglab.acronis.com
 pa.acronis.com
@@ -1070,6 +1075,7 @@ rs-li01-cloud.acronis.com
 rs-lv01-cloud.acronis.com
 rs-mc-io99-cloud.acronis.com
 rs-msptest2.acronis.com
+rs-no01-cloud.acronis.com
 rs-nz01-cloud.acronis.com
 rs-pl01-cloud.acronis.com
 rs-pt01-cloud.acronis.com

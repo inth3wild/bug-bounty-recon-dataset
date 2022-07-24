@@ -49,6 +49,7 @@
 [http] agents-in01-cloud.acronis.com:80
 [http] agents-jp03-cloud.acronis.com:80
 [http] agents-ng01-cloud.acronis.com:80
+[http] agents-no01-cloud.acronis.com:80
 [http] agents-nz01-cloud.acronis.com:80
 [http] agents-pt01-cloud.acronis.com:80
 [http] agents-tw01-cloud.acronis.com:80
@@ -107,6 +108,7 @@
 [http] cloud-wr-jp1.acronis.com:80
 [http] cloud-wr-jp2.acronis.com:80
 [http] cloud-wr-ng01.acronis.com:80
+[http] cloud-wr-no01.acronis.com:80
 [http] cloud-wr-nz01.acronis.com:80
 [http] cloud-wr-pl01.acronis.com:80
 [http] cloud-wr-pt01.acronis.com:80
@@ -196,9 +198,11 @@
 [http] mtweb.acronis.com:80
 [http] mx.acronis.com:80
 [http] my.acronis.com:80
+[http] no01-cloud.acronis.com:80
 [http] notary.acronis.com:80
 [http] notary-test.acronis.com:80
 [http] nz01-cloud.acronis.com:80
+[http] osl1-repo.acronis.com:80
 [http] pa.acronis.com:80
 [http] partnerapp.acronis.com:80
 [http] pbh1-repo.acronis.com:80
@@ -257,6 +261,7 @@
 [http] rs-io99-cloud.acronis.com:80
 [http] rs-jp03-cloud.acronis.com:80
 [http] rs-msptest2.acronis.com:80
+[http] rs-no01-cloud.acronis.com:80
 [http] rs-nz01-cloud.acronis.com:80
 [http] rs-pl01-cloud.acronis.com:80
 [http] rs-pt01-cloud.acronis.com:80
@@ -287,6 +292,7 @@
 [https] agents-jp03-cloud.acronis.com:443
 [https] agents-mc-io99-cloud.acronis.com:443
 [https] agents-ng01-cloud.acronis.com:443
+[https] agents-no01-cloud.acronis.com:443
 [https] agents-nz01-cloud.acronis.com:443
 [https] agents-pl01-cloud.acronis.com:443
 [https] agents-pt01-cloud.acronis.com:443
@@ -337,6 +343,7 @@
 [https-alt] cloud-wr-jp1.acronis.com:8443
 [https-alt] cloud-wr-jp2.acronis.com:8443
 [https-alt] cloud-wr-ng01.acronis.com:8443
+[https-alt] cloud-wr-no01.acronis.com:8443
 [https-alt] cloud-wr-nz01.acronis.com:8443
 [https-alt] cloud-wr-pl01.acronis.com:8443
 [https-alt] cloud-wr-pt01.acronis.com:8443
@@ -373,6 +380,7 @@
 [https-alt] mc-msptest2.acronis.com:8443
 [https-alt] mobileapi.acronis.com:8443
 [https-alt] mobileapi-enterprise.acronis.com:8443
+[https-alt] no01-cloud.acronis.com:8443
 [https-alt] nz01-cloud.acronis.com:8443
 [https-alt] pl01-cloud.acronis.com:8443
 [https-alt] promo.acronis.com:8443
@@ -389,6 +397,7 @@
 [https-alt] rs-il01-cloud.acronis.com:8443
 [https-alt] rs-jp03-cloud.acronis.com:8443
 [https-alt] rs-msptest2.acronis.com:8443
+[https-alt] rs-no01-cloud.acronis.com:8443
 [https-alt] rs-nz01-cloud.acronis.com:8443
 [https-alt] rs-pl01-cloud.acronis.com:8443
 [https-alt] rs-pt01-cloud.acronis.com:8443
@@ -468,6 +477,7 @@
 [https] cloud-wr-jp1.acronis.com:443
 [https] cloud-wr-jp2.acronis.com:443
 [https] cloud-wr-ng01.acronis.com:443
+[https] cloud-wr-no01.acronis.com:443
 [https] cloud-wr-nz01.acronis.com:443
 [https] cloud-wr-pl01.acronis.com:443
 [https] cloud-wr-pt01.acronis.com:443
@@ -572,12 +582,15 @@
 [https] mtweb.acronis.com:443
 [https] mx.acronis.com:443
 [https] my.acronis.com:443
+[https] no01-cloud.acronis.com:443
 [https] notary.acronis.com:443
 [http] snpool.acronis.com:80
 [https] nz01-cloud.acronis.com:443
 [http] sof1-repo.acronis.com:80
 [http] solutions.acronis.com:80
 [https] oos.acronis.com:443
+[https] osl1-repo.acronis.com:443
+[https] osl1-s3gw.acronis.com:443
 [https] pa.acronis.com:443
 [https] partnerapp.acronis.com:443
 [https] pbh1-repo.acronis.com:443
@@ -604,6 +617,7 @@
 [https] rs-io99-cloud.acronis.com:443
 [https] rs-jp03-cloud.acronis.com:443
 [https] rs-msptest2.acronis.com:443
+[https] rs-no01-cloud.acronis.com:443
 [https] rs-nz01-cloud.acronis.com:443
 [https] rs-pl01-cloud.acronis.com:443
 [https] rs-pt01-cloud.acronis.com:443

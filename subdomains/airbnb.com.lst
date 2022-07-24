@@ -722,6 +722,8 @@ i-405148bf.inst.aws.airbnb.com
 i49.dev.next.airbnb.com
 i-73a2e9f2.inst.aws.airbnb.com
 i-97903911.inst.aws.airbnb.com
+iackam-euwest1.iac-dev.airbnb.com
+iackam-uswest2.iac-dev.airbnb.com
 iam.next.airbnb.com
 i-c105a63f.inst.aws.airbnb.com
 i-c1813246.inst.aws.airbnb.com
@@ -1237,6 +1239,7 @@ romeo.optustvnow.next.airbnb.com
 root.next.airbnb.com
 rpanel.next.airbnb.com
 rto.moodle.next.airbnb.com
+rtpe-euwest1-01.iac-dev.airbnb.com
 ru.airbnb.com
 ru.next.airbnb.com
 r-viallet1.pictures.next.airbnb.com
@@ -1499,6 +1502,8 @@ www.airbnb.com
 www.aws.inst.airbnb.com
 www.es.airbnb.com
 www.fr.airbnb.com
+www.iackam-euwest1.iac-dev.airbnb.com
+www.iackam-uswest2.iac-dev.airbnb.com
 www.it.airbnb.com
 www.m.airbnb.com
 www.nerds.airbnb.com

@@ -21,6 +21,7 @@ accesspass.wifi.xfinity.com
 ac.cmp.xfinity.com
 ac-dev.cmp.xfinity.com
 acs-perf.xoe.xfinity.com
+acs-preview.xoe.xfinity.com
 activatecablecard.xfinity.com
 activate.courtesyflex-st.xfinity.com
 activate.courtesyflex.xfinity.com
@@ -41,6 +42,7 @@ admin.stg.xfinity.com
 admin-west.xoe.xfinity.com
 admin.xfinity.com
 admin.xoe.xfinity.com
+ads2-xbo.gslb4.xfinity.com
 agent-asha.xchat.xfinity.com
 agent-ashb.xchat.xfinity.com
 agentcoach.xfinity.com
@@ -150,6 +152,7 @@ api.digital.xfinity.com
 api-east01.sc.xfinity.com
 api-east02.sc.xfinity.com
 api-east03.sc.xfinity.com
+api-eu-central-1.iotplatform-int.eu.xfinity.com
 api-eu-west-1.iotplatform-int.eu.xfinity.com
 api.ex.dhtimeline-integration.xfinity.com
 api.internal.k8s.non-prod.cms.xfinity.com
@@ -181,6 +184,8 @@ api-preprod.sc.xfinity.com
 api-preprod-west.sc.xfinity.com
 api-preprodwest.sc.xfinity.com
 api-preprod.xoe.xfinity.com
+api-previewwest.xoe.xfinity.com
+api-preview.xoe.xfinity.com
 api-prodwest.xoe.xfinity.com
 api-pseudo.xoe.xfinity.com
 api.qa10.xfinity.com
@@ -297,6 +302,8 @@ beta.xfinity.com
 be.xfinity.com
 billingaccount.platco.xfinity.com
 billing-stg-cvr-cf.gslb2.xfinity.com
+billing-uisvc-production-blue.des.xfinity.com
+billing-uisvc-production-blue.dig.xfinity.com
 bill-pay-dev.maw-pci.xfinity.com
 bill-pay-pre-prod.maw-pci.xfinity.com
 bill-pay-production.maw-pci.xfinity.com
@@ -473,6 +480,7 @@ c3e2009657155.xfinity.com
 c3-edge-xbo.gslb4.xfinity.com
 c3-sds2-xbo.gslb4.xfinity.com
 c3-sessionds-xbo.gslb4.xfinity.com
+c7-ads2-xbo.gslb4.xfinity.com
 c7-as-xbo.gslb4.xfinity.com
 c7-dds2-xbo.gslb4.xfinity.com
 c7-lws-xbo.gslb4.xfinity.com
@@ -669,6 +677,7 @@ cls-mgmt.xfinity.com
 cl-speedtest-staging.xfinity.com
 cmp-ape.cmp.xfinity.com
 cmp-ape-east1.aws-origin.xfinity.com
+cmp-ape-web-bt-east1.aws-origin.xfinity.com
 cmp-ape-west2.aws-origin.xfinity.com
 cmpcdn.cws.xfinity.com
 cmp.cws.xfinity.com
@@ -1024,6 +1033,8 @@ connect-west.xfinity.com
 connect.xfinity.com
 consent-cmt-prd.cmt.xfinity.com
 consent.cws.xfinity.com
+consent-previewwest.xcp.xfinity.com
+consent.xcp.xfinity.com
 constantguard.xfinity.com
 contact-interactions-capture-us-east-2-np.tools.xfinity.com
 contact-interactions-query-us-east-1.tools.xfinity.com
@@ -1061,6 +1072,7 @@ conversation.xfinity.com
 copilot-widget-1d.gslb4.xfinity.com
 copilot-widget-1p.gslb4.xfinity.com
 copilot-widget-stage-1s.gslb4.xfinity.com
+copilot-widget-stage-2s.gslb4.xfinity.com
 copilot-widget-stage.traxion.xfinity.com
 copilot-widget.stage.traxion.xfinity.com
 copilot-widget.traxion.xfinity.com
@@ -1235,6 +1247,7 @@ demo.cms.xfinity.com
 demoefs-sdx.cms.xfinity.com
 demo-gazette.cms.xfinity.com
 demo.home.xfinity.com
+demo-kie-api.activiti.xfinity.com
 demo-sdx.cms.xfinity.com
 demo-shelby.cms.xfinity.com
 demo-staging.home.xfinity.com
@@ -1319,6 +1332,7 @@ dev.speedtest.ipie.xfinity.com
 dev.start.xfinity.com
 dev-support.xfinity.com
 dev.welcome.xfinity.com
+dev.xfinity.com
 dfisdashboard-dev.tools.xfinity.com
 dfisdashboard.tools.xfinity.com
 dh-config-service-staging.xfinity.com
@@ -1367,6 +1381,7 @@ digital.xfinity.com
 digital.xoe.xfinity.com
 dig.xfinity.com
 dip-splunk.xfinity.com
+dispatcher.52538.cmp.xfinity.com
 dl.cws.xfinity.com
 dl-ingest-east1.cws.xfinity.com
 _dmarc.store.xfinity.com
@@ -1435,6 +1450,7 @@ dss-dl-prod.aws-origin.xfinity.com
 dss-ops.xfinity.com
 dss-privacy-policy-np.dss-ops.xfinity.com
 dss-privacy-policy-prod.dss-ops.xfinity.com
+dvrds-1p.gslb4.xfinity.com
 dwk-comet-prod.aws.cmp.xfinity.com
 dwk-comet-prod.cmp.xfinity.com
 dxl-bep2.xapi-int.sc.xfinity.com
@@ -1568,8 +1584,10 @@ ext-web.g.xfinity.com
 failover-www.xfinity.com
 fb1.xfinity.com
 fc.xfinity.com
+fed-1p.gslb4.xfinity.com
 fed-dev-1d.gslb4.xfinity.com
 fedsp-1p.gslb4.xfinity.com
+fedsp-stage-1s.gslb4.xfinity.com
 fed-stage-1s.gslb4.xfinity.com
 finder.wifi.xfinity.com
 flex.xfinity.com
@@ -1591,6 +1609,7 @@ forms-dev.cxco-chat.xfinity.com
 forms-preprod.cxco-chat.xfinity.com
 forms-test.cxco-chat.xfinity.com
 forms.xchat.xfinity.com
+fo-rr-prod-merlin.gslb4.xfinity.com
 forums.stg.xfinity.com
 forums.xfinity.com
 fp-qa.xfinity.com
@@ -1651,6 +1670,7 @@ hsd-activation-integration.xfinity.com
 hsd-activation-staging.gslb2.xfinity.com
 hsd-activation-staging.xfinity.com
 hsd-activation.xfinity.com
+hs-data.dss-ops.xfinity.com
 hsflow-dev.dss-ops.xfinity.com
 hsflow-qa.dss-ops.xfinity.com
 hydra.home.xfinity.com
@@ -1743,7 +1763,10 @@ internet-webview.triage.xfinity.com
 internet-webview.xfinity.com
 internetwelcomeguide.xfinity.com
 internet.xfinity.com
+int-kie-api.activiti.xfinity.com
 int.xfinity.com
+inventory-dev.platco.xfinity.com
+inventory-prd.platco.xfinity.com
 invite.aws.identity.xfinity.com
 invite-dev.aws-np.identity.xfinity.com
 invite-dev.identity.xfinity.com
@@ -1787,6 +1810,7 @@ journey-int.xoe.xfinity.com
 journey-preprodeast.xoe.xfinity.com
 journey-preprodwest.xoe.xfinity.com
 journey-preprod.xoe.xfinity.com
+journey-previewwest.xoe.xfinity.com
 journey-prodeast.xoe.xfinity.com
 journey-prodwest.xoe.xfinity.com
 journey-pseudo.xoe.xfinity.com
@@ -1825,6 +1849,7 @@ kibana.xfn-ops.xfinity.com
 kie-api.xcpre.xfinity.com
 kie.np.xcpre.xfinity.com
 kie-tokkippin.xapi-dev.sc.xfinity.com
+kie-xcp-east.xcpre.xfinity.com
 kie-xcp.np.xcpre.xfinity.com
 kie.xcpre.xfinity.com
 kie-xcp-staging.xcpre.xfinity.com
@@ -1847,8 +1872,11 @@ livecache-read-stg-cvr.gslb2.xfinity.com
 livecache-stg-cvr.gslb2.xfinity.com
 livecams-iplivecache-read-stg-cvr.gslb2.xfinity.com
 liveness.np.dig.xfinity.com
+lmtp-asc.ge.xfinity.com
 lmtp-central.ge.xfinity.com
+lmtp-ch2g.ge.xfinity.com
 lmtp-east.ge.xfinity.com
+lmtp-poa.ge.xfinity.com
 lmtp-west.ge.xfinity.com
 load1.nozomi.qa.xfinity.com
 load1.qa.xfinity.com
@@ -2201,10 +2229,12 @@ oauth-st.gslb4.xfinity.com
 oauth-st.identity.xfinity.com
 oauth-st.platco.xfinity.com
 oauth-st.xfinity.com
+oauth-v2.aws.identity.xfinity.com
 oauth.xfinity.com
 offer-eligibility-preprod.xoe.xfinity.com
 offer-eligibility.spil.xfinity.com
 offer-eligibility.xoe.xfinity.com
+offer-preprod.xcp.xfinity.com
 offers-api.commerce.xfinity.com
 offers-api.dev.commerce.xfinity.com
 offers-api-preprod.xoe.xfinity.com
@@ -2242,6 +2272,7 @@ onfigmanager.tools.xfinity.com
 onyx-dev.xfinity.com
 onyx-stage.xfinity.com
 onyx.xfinity.com
+op5-p5-1p.gslb4.xfinity.com
 opensource.xfinity.com
 orderlab.aws-origin.xfinity.com
 orderlabs-ipad.aws-origin.xfinity.com
@@ -2383,9 +2414,11 @@ platform-icons.xfinity.com
 playback-qa-cvr.gslb2.xfinity.com
 player-1p.gslb4.xfinity.com
 player-stage-1s.gslb4.xfinity.com
+playtimeservice-merlin.gslb4.xfinity.com
 pluto.home.xfinity.com
 pms-api.xc3.xfinity.com
 po.contour.xfinity.com
+pod-1p.gslb4.xfinity.com
 polaris-load.g.xfinity.com
 polaris-prod.g.xfinity.com
 polaris-qa.g.xfinity.com
@@ -2432,6 +2465,7 @@ preprod-common-area-api.xc3.xfinity.com
 preprod-concierge.xc3.xfinity.com
 preprodeast.activiti.xfinity.com
 preprodeast-api.activiti.xfinity.com
+preprodeast-kie-api.activiti.xfinity.com
 preprodeast-kie-api.xcpre.xfinity.com
 preprodgslb-api.activiti.xfinity.com
 preprod-hawkeye-1s.gslb4.xfinity.com
@@ -2503,6 +2537,9 @@ preview.api.wcdc.int.xfinity.com
 preview.api.wcdc.prd.xfinity.com
 preview.api.wcdc.stg.xfinity.com
 preview.api.xfinity.com
+preview-build.www.dev.xfinity.com
+preview-build.www.stg.xfinity.com
+preview-build.www.xfinity.com
 preview.business.ch2.int.xfinity.com
 preview.business.ch2.prd.xfinity.com
 preview.business.ch2.stg.xfinity.com
@@ -2628,6 +2665,7 @@ preview.mbl.wcdc.int.xfinity.com
 preview.mbl.wcdc.prd.xfinity.com
 preview.mbl.wcdc.stg.xfinity.com
 preview.mbl.xfinity.com
+preview-privacy-demo.dss-ops.xfinity.com
 preview-privacy-dev.dss-ops.xfinity.com
 preview.privacy-dev.dss-ops.xfinity.com
 preview-privacy-int.dss-ops.xfinity.com
@@ -2716,6 +2754,7 @@ prod.cms.xfinity.com
 prod.cx.xfinity.com
 prodeast.activiti.xfinity.com
 prodeast-api.activiti.xfinity.com
+prodeast-kie-api.activiti.xfinity.com
 prodeast-kie-api.xcpre.xfinity.com
 prodefs-sdx.cms.xfinity.com
 prodgslb-api.activiti.xfinity.com
@@ -2989,6 +3028,9 @@ qa-mydeviceinfo.xfinity.com
 qa-os-speedtest.xfinity.com
 qa-referafriend.xfinity.com
 qaresedir-p.ge.xfinity.com
+qarespdir-as-i1t.slb.xfinity.com
+qarespdir-ch2-i1t.slb.xfinity.com
+qarespdir-ho-i1t.slb.xfinity.com
 qa-responds.xfinity.com
 qa.sc.xfinity.com
 qa-sdx.cms.xfinity.com
@@ -3145,6 +3187,7 @@ router-production-blue.dig.xfinity.com
 router-production-green.des.xfinity.com
 router-production-green.dig.xfinity.com
 router-stage.np.dig.xfinity.com
+rpil-1p.gslb4.xfinity.com
 rpil-demo-1s.gslb4.xfinity.com
 rpil-dev1-1d.gslb4.xfinity.com
 rpilrouter-1p.gslb4.xfinity.com
@@ -3242,6 +3285,7 @@ serviceability-preprod-uw2.spil.xfinity.com
 serviceability-prod.cws.xfinity.com
 serviceability-prod-ue1.spil.xfinity.com
 serviceability-prod-uw2.spil.xfinity.com
+service-admin-east.xoe.xfinity.com
 serviceos.xfinity.com
 serviceo.xfinity.com
 services.ch2.int.xfinity.com
@@ -3389,6 +3433,7 @@ sonarqube.tools.xfinity.com
 sonarqube.xfinity.com
 soo-monitor-nonprod-ext.spil.xfinity.com
 soo-monitor-prod-ext.spil.xfinity.com
+soo-monitor-prod-int.spil.xfinity.com
 soo-offer-graph-integration-ext.spil.xfinity.com
 soo-offer-graph-preprod-ext.spil.xfinity.com
 soo-offer-graph-prod-ext.spil.xfinity.com
@@ -3433,6 +3478,7 @@ spil-compatible-equipments-preprod-ue1.spil.xfinity.com
 spil-compatible-equipments-preprod-uw2.spil.xfinity.com
 spil-compatible-equipments-prod-ue1.spil.xfinity.com
 spil-compatible-equipments-prod-uw2.spil.xfinity.com
+spil-delivery-details-preprod-uw2.spil.xfinity.com
 spil-delivery-details-prod.cws.xfinity.com
 spil-delivery-details-prod-ue1.spil.xfinity.com
 spil-delivery-details-prod-uw2.spil.xfinity.com
@@ -3539,6 +3585,7 @@ staging.tv.xfinity.com
 staging.welcome.xfinity.com
 stagingwest.activiti.xfinity.com
 stagingwest-api.activiti.xfinity.com
+stagingwest-kie-api.activiti.xfinity.com
 stagingwest-kie-api.xcpre.xfinity.com
 staging.xfinity.com
 start.xfinity.com
@@ -3865,6 +3912,7 @@ webmailperf.xfinity.com
 webtier-qa.np.dig.xfinity.com
 webtier-stage.np.dig.xfinity.com
 webviews.selectwifi.xfinity.com
+weighted.api-qa.sc.xfinity.com
 welcomeguidex1.xfinity.com
 welcomeguide.xfinity.com
 welcometohome.xfinity.com
@@ -4311,6 +4359,7 @@ www.xray-stage.traxion.xfinity.com
 www.xray.traxion.xfinity.com
 www.xsearchapi-preprod.traxion.xfinity.com
 www.xsearchapi.traxion.xfinity.com
+wwxh-service-prod.xh-onboarding.xfinity.com
 x1-dev.home.xfinity.com
 x1doubleplaywelcomeguide.xfinity.com
 x1e.xfinity.com
@@ -4384,6 +4433,7 @@ xapi.xoe.xfinity.com
 xc3.xfinity.com
 xcam-service-tps-xh-onboarding.g.xfinity.com
 xccpgateway-preprod.xcp.xfinity.com
+xccpgateway-prod-us-east-1.xcp.xfinity.com
 xccpgateway-prod.xcp.xfinity.com
 xcc-uat.xfinity.com
 xcc.xfinity.com
@@ -4417,6 +4467,7 @@ xdn-st.xfinity.com
 xdn.xfinity.com
 xd.xfinity.com
 xerxes-ent-1p.gslb4.xfinity.com
+xerxes-ent-1s.gslb4.xfinity.com
 xerxes-ent-2p.gslb4.xfinity.com
 xerxes-lite-stage.traxion.xfinity.com
 xerxes-lite.traxion.xfinity.com
@@ -4434,6 +4485,7 @@ xfinity-web-performance.cws.xfinity.com
 xfinity-web-performance.xfn-ops.xfinity.com
 xfinitywelcomeguide.xfinity.com
 xfinitywifi-qa.xfinity.com
+xfi-soo-validations-ci-ue2.np.xcp.xfinity.com
 xfi-soo-validations-preprod-ue1.xcp.xfinity.com
 xfi-soo-validations-prod-ue1.spil.xfinity.com
 xfi-soo-validations-prod-ue1.xcp.xfinity.com
@@ -4446,6 +4498,7 @@ xfnblogs.xfn-ops.xfinity.com
 xfn-cart-demo.np.dig.xfinity.com
 xfn-cart-release-blue.dig.xfinity.com
 xfn-cart-release.np.dig.xfinity.com
+xfn-cart-svc-production-green.dig.xfinity.com
 xfn-ops.xfinity.com
 xfwcpapi.xfinity.com
 xfwstsi.gslb2.xfinity.com
@@ -4592,10 +4645,16 @@ xmt360.xfinity.com
 xm-teamcity.xfinity.com
 xmtechdeal.xfinity.com
 xmtools.xfinity.com
+xoc-console-1p.gslb4.xfinity.com
 xoc-console-dev-1d.gslb4.xfinity.com
 xoc-console-stage-1s.gslb4.xfinity.com
+xocidp-1p.gslb4.xfinity.com
+xocidp-stage-1s.gslb4.xfinity.com
+xoc-jenkins-1p.gslb4.xfinity.com
+xocsp-1p.gslb4.xfinity.com
 xocsp-dev-1d.gslb4.xfinity.com
 xocsp-staging-1s.gslb4.xfinity.com
+xoctools-1p.gslb4.xfinity.com
 xoe-admin.cws.xfinity.com
 xoe-admin-np.cws.xfinity.com
 xoe-admin-tool.cws.xfinity.com

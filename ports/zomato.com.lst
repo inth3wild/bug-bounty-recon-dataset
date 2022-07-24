@@ -11,6 +11,7 @@
 [http] cc2.zomato.com:80
 [http] ccc.zomato.com:80
 [http] cc.zomato.com:80
+[http] cert3.zomato.com:80
 [http] chat.zomato.com:80
 [http] culture.zomato.com:80
 [http] developers.zomato.com:80
@@ -41,6 +42,7 @@
 [https] cc2.zomato.com:443
 [https] ccc.zomato.com:443
 [https] cc.zomato.com:443
+[https] cert3.zomato.com:443
 [https] chat.zomato.com:443
 [https] culture.zomato.com:443
 [https] developers.zomato.com:443

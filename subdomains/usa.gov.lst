@@ -107,6 +107,7 @@ asis.monit-testing.staging.search.usa.gov
 asis.monkey.staging.search.usa.gov
 asis.osprey.staging.infr.search.usa.gov
 asis.osprey.staging.search.usa.gov
+asis.panda.staging.search.usa.gov
 asis.pelomyxa.staging.search.usa.gov
 asis.porifera.staging.search.usa.gov
 asis.pusheen.staging.infr.search.usa.gov
@@ -282,6 +283,7 @@ i14y.monit-testing.staging.search.usa.gov
 i14y.monkey.staging.search.usa.gov
 i14y.osprey.staging.infr.search.usa.gov
 i14y.osprey.staging.search.usa.gov
+i14y.panda.staging.search.usa.gov
 i14y.pelomyxa.staging.search.usa.gov
 i14y.porifera.staging.search.usa.gov
 i14y.pusheen.staging.infr.search.usa.gov
@@ -397,7 +399,9 @@ kibana.mimivirus.staging.search.usa.gov
 kibana.monit-testing.staging.search.usa.gov
 kibana.monkey.staging.search.usa.gov
 kibana.osprey.staging.search.usa.gov
+kibana.panda.staging.search.usa.gov
 kibana.pelomyxa.staging.search.usa.gov
+kibana.penguin.staging.search.usa.gov
 kibana.porifera.staging.search.usa.gov
 kibana.pusheen.staging.search.usa.gov
 kibana.pylori.staging.search.usa.gov
@@ -461,7 +465,9 @@ nsmaster.us-east-1.prod.infr.search.usa.gov
 obamalibrary.sites.infr.search.usa.gov
 osprey.staging.infr.search.usa.gov
 osprey.staging.search.usa.gov
+panda.staging.search.usa.gov
 pelomyxa.staging.search.usa.gov
+penguin.staging.search.usa.gov
 porifera.staging.search.usa.gov
 proxy10.us-east-1.prod.infr.search.usa.gov
 proxy11.us-east-1.prod.infr.search.usa.gov

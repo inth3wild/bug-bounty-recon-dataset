@@ -45,6 +45,11 @@ http://amazon.shopify.com:2086
 http://amazon.shopify.com:8080
 http://amazon.shopify.com:8880
 http://analytics.shopify.com
+http://api.collabs.shopify.com
+http://api.collabs.shopify.com:2082
+http://api.collabs.shopify.com:2095
+http://api.collabs.shopify.com:8080
+http://api.collabs.shopify.com:8880
 http://api.github.shopify.com
 http://api.shopify.com
 http://api.shopify.com:2086
@@ -111,7 +116,9 @@ http://brochure.shopify.com:8880
 http://b.ssl.shopify.com
 http://b.ssl.shopify.com:8080
 http://burst.shopify.com
+http://burst.shopify.com:2082
 http://burst.shopify.com:2086
+http://burst.shopify.com:2095
 http://burst.shopify.com:8080
 http://burst.shopify.com:8880
 http://calendar.shopify.com
@@ -677,6 +684,11 @@ http://sanfrancisco.shopify.com:2086
 http://sanfrancisco.shopify.com:2095
 http://sanfrancisco.shopify.com:8080
 http://sanfrancisco.shopify.com:8880
+https://api.collabs.shopify.com
+https://api.collabs.shopify.com:2083
+https://api.collabs.shopify.com:2087
+https://api.collabs.shopify.com:2096
+https://api.collabs.shopify.com:8443
 https://api.github.shopify.com
 https://api.shopify.com
 https://api.shopify.com:2053
@@ -741,6 +753,7 @@ https://burst.shopify.com
 https://burst.shopify.com:2053
 https://burst.shopify.com:2083
 https://burst.shopify.com:2087
+https://burst.shopify.com:2096
 https://burst.shopify.com:8443
 https://canada.analytics.shopify.com
 https://cardreader.shopify.com

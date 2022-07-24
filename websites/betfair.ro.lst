@@ -5,6 +5,10 @@ http://apismx.betfair.ro:8080
 http://assets.betfair.ro
 http://assets.betfair.ro:8080
 http://beatthedrop.betfair.ro
+http://beatthedrop.betfair.ro:2082
+http://beatthedrop.betfair.ro:2086
+http://beatthedrop.betfair.ro:8080
+http://beatthedrop.betfair.ro:8880
 http://betfair.ro
 http://betfair.ro:2082
 http://betfair.ro:8080
@@ -83,6 +87,8 @@ https://apismx.betfair.ro:8443
 https://assets.betfair.ro
 https://assets.betfair.ro:8443
 https://beatthedrop.betfair.ro
+https://beatthedrop.betfair.ro:2083
+https://beatthedrop.betfair.ro:2087
 http://s.betfair.ro
 https://betfair.ro
 https://betfair.ro:2083

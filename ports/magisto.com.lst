@@ -1,9 +1,11 @@
 [cddbp-alt] help.magisto.com:8880
 [cddbp-alt] vimeo-b.magisto.com:8880
+[cddbp-alt] vimeo.magisto.com:8880
 [cddbp-alt] zendesk4.magisto.com:8880
 [clearvisn] zendesk4.magisto.com:2052
 [eli] help.magisto.com:2087
 [eli] vimeo-b.magisto.com:2087
+[eli] vimeo.magisto.com:2087
 [eli] zendesk4.magisto.com:2087
 [gnunet] help.magisto.com:2086
 [gnunet] zendesk4.magisto.com:2086
@@ -26,12 +28,14 @@
 [http] ntdc.magisto.com:80
 [http-proxy] help.magisto.com:8080
 [http-proxy] vimeo-b.magisto.com:8080
+[http-proxy] vimeo.magisto.com:8080
 [http-proxy] zendesk4.magisto.com:8080
 [http] res.magisto.com:80
 [http] result.magisto.com:80
 [https] ablink.videofy.magisto.com:443
 [https-alt] help.magisto.com:8443
 [https-alt] vimeo-b.magisto.com:8443
+[https-alt] vimeo.magisto.com:8443
 [https-alt] zendesk4.magisto.com:8443
 [https] api.magisto.com:443
 [https] chant.magisto.com:443
@@ -82,7 +86,9 @@
 [infowave] vimeo-b.magisto.com:2082
 [infowave] zendesk4.magisto.com:2082
 [knetd] zendesk4.magisto.com:2053
+[nbx-dir] vimeo.magisto.com:2096
 [nbx-ser] vimeo-b.magisto.com:2095
 [radsec] help.magisto.com:2083
 [radsec] vimeo-b.magisto.com:2083
+[radsec] vimeo.magisto.com:2083
 [radsec] zendesk4.magisto.com:2083

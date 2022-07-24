@@ -37,6 +37,7 @@
 [https] vkgo-acc.volkskrant.nl:443
 [https] web.volkskrant.nl:443
 [https] webwinkel.volkskrant.nl:443
+[https] wiki.volkskrant.nl:443
 [https] www.acceptance.volkskrant.nl:443
 [https] www.volkskrant.nl:443
 [http] test-openredactie.volkskrant.nl:80
@@ -45,8 +46,10 @@
 [http] vkgo-acc.volkskrant.nl:80
 [http] web.volkskrant.nl:80
 [http] webwinkel.volkskrant.nl:80
+[http] wiki.volkskrant.nl:80
 [http] www.acceptance.volkskrant.nl:80
 [http] www.volkskrant.nl:80
 [ntp] krant.volkskrant.nl:123
 [ssh] openredactie.volkskrant.nl:22
 [ssh] test-openredactie.volkskrant.nl:22
+[ssh] wiki.volkskrant.nl:22

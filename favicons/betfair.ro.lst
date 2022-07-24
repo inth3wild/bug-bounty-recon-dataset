@@ -1,4 +1,8 @@
 0	zero byte favicon	http://beatthedrop.betfair.ro/
+0	zero byte favicon	http://beatthedrop.betfair.ro:2082/
+0	zero byte favicon	http://beatthedrop.betfair.ro:2086/
+0	zero byte favicon	http://beatthedrop.betfair.ro:8080/
+0	zero byte favicon	http://beatthedrop.betfair.ro:8880/
 0	zero byte favicon	http://launcher.betfair.ro/
 0	zero byte favicon	http://launcher.betfair.ro:8080/
 0	zero byte favicon	https://beatthedrop.betfair.ro/
@@ -77,6 +81,10 @@
 b0d1844949fe7dcdf210983feb285241	aspnet	http://simulator.betfair.ro/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.ro/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.ro/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.ro:2082/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.ro:2086/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.ro:8080/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://beatthedrop.betfair.ro:8880/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launcher.betfair.ro/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://launcher.betfair.ro:8080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://beatthedrop.betfair.ro/

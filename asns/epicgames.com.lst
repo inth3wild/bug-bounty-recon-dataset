@@ -9,6 +9,7 @@ auth-api-prod.artpipeline-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC
 capman.livefn.adad.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 capman.prod.adad.live.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
 capman.stage.adda.dev.use1a.on.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+dashboard.megastation-dev.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 data-asset-directory-public-service-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 data-asset-directory-public-service-stage.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 datastorage-public-service-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
@@ -99,7 +100,9 @@ link.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
 links-public-service-prod.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
 mail.epicgames.com AS19137 AS19137 - EPSILON INTERACTIVE LLC US 159.127.198.0/24
 mars-apigw.stage.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+mega-ping-eu-west-1.megastation-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
 mega-ping-us-east-1.megastation-dev.it.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+mega-ping-us-west-2.megastation-dev.it.epicgames.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 merchantpool1.epicgames.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.64.0.0/15
 mesh-public-service-live.ak.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 mesh-public-service-livecn.ol.epicgames.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14

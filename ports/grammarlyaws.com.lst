@@ -2,6 +2,7 @@
 [http] admin.qa-proofit.grammarlyaws.com:80
 [http] api.platformer.platform.grammarlyaws.com:80
 [http] api.platformer.qa-platform.grammarlyaws.com:80
+[http] ci-config.preprod-payment-ui.grammarlyaws.com:80
 [http] f1f55aa.assets.preprod-design-system.grammarlyaws.com:80
 [http] f-assets.preprod-design-system.grammarlyaws.com:80
 [http] f-chroma.preprod-design-system.grammarlyaws.com:80
@@ -28,6 +29,7 @@
 [https] bixby.qa-data-ingestion.grammarlyaws.com:443
 [https] capi.core-prod.grammarlyaws.com:443
 [https] capi-msdk.core-prod.grammarlyaws.com:443
+[https] ci-config.preprod-payment-ui.grammarlyaws.com:443
 [https] datacat-ext.nlp-processing.grammarlyaws.com:443
 [https] datacat-ext.qa-nlp-processing.grammarlyaws.com:443
 [https] datacat-ext.qa-redwall.grammarlyaws.com:443

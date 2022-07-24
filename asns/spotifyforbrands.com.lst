@@ -22,7 +22,7 @@ ipg-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 ipg-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 ipg-partner-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 ipg-segments.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
-ipg-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
+ipg-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 omg-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 omnicom-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 omnicom-partner-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
@@ -40,7 +40,7 @@ wpp-partner-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239
 www.api1-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 172.217.0.0/16
 www.api2.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.bose-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 172.217.5.0/24
-www.creativeportal.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
+www.creativeportfolio.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
 www.deckbuilder.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
 www.demobuilder-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 172.217.6.0/24
 www.dentsu-partner.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15

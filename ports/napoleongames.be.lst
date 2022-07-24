@@ -8,6 +8,7 @@
 [http] 2343863.napoleongames.be:80
 [http] adserving.napoleongames.be:80
 [http] affiliateadmin.napoleongames.be:80
+[http] affiliate.napoleongames.be:80
 [http] affiliates.napoleongames.be:80
 [http] airdice-callback.napoleongames.be:80
 [http] airdice-test.napoleongames.be:80
@@ -81,6 +82,7 @@
 [https] 2343863.napoleongames.be:443
 [https] adserving.napoleongames.be:443
 [https] affiliateadmin.napoleongames.be:443
+[https] affiliate.napoleongames.be:443
 [https] affiliates.napoleongames.be:443
 [https] airdice-callback.napoleongames.be:443
 [https] airdice-test.napoleongames.be:443

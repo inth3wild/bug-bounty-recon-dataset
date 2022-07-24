@@ -30,6 +30,8 @@ apiecs.goldfinger-sandbox.aws.blockfi.com
 api.goldfinger-sandbox.aws.blockfi.com
 api-local.blockfi.com
 api.mkt.blockfi.com
+api.ss229.shield-sandbox.aws.blockfi.com
+api.ss253.shield-sandbox.aws.blockfi.com
 api.test.blockfi.com
 app.blockfi.com
 app-local.blockfi.com
@@ -90,6 +92,7 @@ dev.torchtwo.blockfi.com
 docs.blockfi.com
 enterpriseenrollment.blockfi.com
 evs.mkt.blockfi.com
+fbcbh.csr.shield-sandbox.aws.blockfi.com
 fbcbh.pen-test.shield-sandbox.aws.blockfi.com
 fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com
 fbcbh.shield-sandbox.aws.blockfi.com
@@ -178,6 +181,7 @@ shield-sandbox.aws.blockfi.com
 shield-staging.aws.blockfi.com
 snorlax.chain-infrastructure-sandbox.aws.blockfi.com
 ss139.shield-sandbox.aws.blockfi.com
+ss229.shield-sandbox.aws.blockfi.com
 ss235.shield-sandbox.aws.blockfi.com
 ss299.shield-sandbox.aws.blockfi.com
 ss323.shield-sandbox.aws.blockfi.com

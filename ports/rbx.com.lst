@@ -44,6 +44,7 @@
 [http-proxy] aws-eu-central-1b-lms.rbx.com:8080
 [http-proxy] events.rbx.com:8080
 [http-proxy] forensics.rbx.com:8080
+[http] questions.rbx.com:80
 [http] rbx.com:80
 [http] ros.rbx.com:80
 [https] argus.rbx.com:443
@@ -77,6 +78,7 @@
 [https] jira-stage.rbx.com:443
 [https] ord-full-gw.vpn.rbx.com:443
 [https] ord-gw.vpn.rbx.com:443
+[https] questions.rbx.com:443
 [https] rbx.com:443
 [https] ros.rbx.com:443
 [https] sea-full-gw.vpn.rbx.com:443

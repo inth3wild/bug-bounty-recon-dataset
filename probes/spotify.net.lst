@@ -84,6 +84,7 @@ https://sprinter.spotify.net [302] [GET] [text/html] [] [Google Frontend] [vhost
 https://sso.spotify.net [403] [GET] [text/html] [403 Forbidden] [Apache] [google] [Apache,Google Cloud,Google Cloud CDN] [bb8f534fbff5ee61a95af9c4740ae043]
 https://statements.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [6b9abac6a255d084333a6dbc2037fe60]
 https://status.spotify.net [200] [GET] [text/html] [Spotify Status] [UploadServer] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Google Cloud,Google Cloud Storage] [bd079e1450aeee284b8b614bea4d8105]
+https://strategy.spotify.net [404] [GET] [text/html] [404 Page not found] [] [vhost] [9902fb9f7cf3e9a8dd26f45a5cb94113]
 https://streamon.spotify.net [200] [GET] [text/html] [spotifystreamon TEST] [nginx] [vhost] [Nginx] [56afd182db3f566bd59e433623f7bf1a]
 https://sublime-platform.spotify.net [200] [GET] [text/html] [Sublime Security] [nginx/1.21.6] [Nginx] [f5faa678183f22f3c10d32ea73436fa7]
 https://tableau-dashboards.spotify.net [200] [GET] [text/html] [] [Tableau] [google] [Google Cloud,Google Cloud CDN] [15cf11f39b7dee46c5aa97e6e4a4c372]

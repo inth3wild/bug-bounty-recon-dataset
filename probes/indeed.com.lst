@@ -109,7 +109,7 @@ https://spark-post-tracking-qa.indeed.com [302] [GET] [] [] [] [vhost] [d41d8cd9
 https://sso.indeed.com [302] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [6f2d064168c6175d9bde2c9a6a72263d]
 https://subscriptions.dyn.indeed.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8eec510e57f5f732fd2cce73df7b73ef]
 https://sydprod.indeed.com [307] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
-https://talent.indeed.com [301] [GET] [] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
+https://talent.indeed.com [302] [GET] [text/html] [Redirecting...] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [3889af6daa4a6ce1d1fe268f90b51dc2]
 https://textmaster-webapp-qa.indeed.com [200] [GET] [text/html] [Textmaster webapp] [] [vhost] [f88e647df36b192e3ef0eb0a30e1f736]
 https://th.conv.indeed.com [307] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://tr.conv.indeed.com [307] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]

@@ -54,6 +54,7 @@ capi-msdk.core-prod.grammarlyaws.com
 capi.preprod-core.grammarlyaws.com
 capi.private.core-prod.grammarlyaws.com
 capi.qa-core.grammarlyaws.com
+ci-config.preprod-payment-ui.grammarlyaws.com
 cms.preprod-acquisition-web.grammarlyaws.com
 cms.prod-acquisition-web.grammarlyaws.com
 cms.qa-acquisition-web.grammarlyaws.com

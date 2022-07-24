@@ -4952,6 +4952,7 @@
 [https] quotatool.att.com:443
 [https] rbugs.research.att.com:443
 [http] src.att.com:80
+[https] rcscattg.wireless.labops.att.com:443
 [https] rcscattg.wireless.labs.att.com:443
 [https] rcscatt.wireless.labs.att.com:443
 [https] rds.bus.att.com:443

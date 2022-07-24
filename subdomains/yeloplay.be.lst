@@ -1,5 +1,6 @@
 api.edp.yeloplay.be
 api.fut.yeloplay.be
+api.prd.yeloplay.be
 api.pst.yeloplay.be
 api.sup.yeloplay.be
 api.uat.yeloplay.be
@@ -10,6 +11,7 @@ gastfull.yeloplay.be
 pst.yeloplay.be
 sup.yeloplay.be
 uat.yeloplay.be
+unauthorized.yeloplay.be
 www.edp.yeloplay.be
 www.fut.yeloplay.be
 www.prd.yeloplay.be

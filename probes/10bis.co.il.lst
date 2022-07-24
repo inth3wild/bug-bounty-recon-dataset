@@ -9,7 +9,7 @@ https://pages.update.10bis.co.il [403] [GET] [text/html] [403 - Forbidden: Acces
 https://reshomeapi.10bis.co.il [400] [GET] [] [] [] [vhost] [288d7b62e30556fc17ded8b260cd152e]
 https://reshomeapi.10bis.co.il [400] [GET] [] [] [] [vhost] [ce1cb59e6267873de89427db1ad416da]
 https://shop.10bis.co.il [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [incapsula] [Imperva] [f366e0e18b589cb6f243bf43ce75e83c]
-https://staging.10bis.co.il [400] [GET] [] [] [] [vhost] [cf26e880aa4c4f3bc413fe8b1bb72c3d]
+https://staging.10bis.co.il [400] [GET] [] [] [] [vhost] [647f192fe912c55cd641b8e982230cfa]
 https://storybook.10bis.co.il [404] [GET] [application/xml] [] [] [vhost] [0464e3aeb2d829aac9ca2f694eb06001]
 https://storybook.10bis.co.il [404] [GET] [application/xml] [] [] [vhost] [713b18683d63185da4b9d8e7067036f8]
 https://test-shop.10bis.co.il [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]

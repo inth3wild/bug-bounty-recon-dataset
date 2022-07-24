@@ -1,7 +1,10 @@
 [cddbp-alt] acc-shop.just-eat.fr:8880
+[clearvisn] shop.just-eat.fr:2052
 [eli] acc-shop.just-eat.fr:2087
+[eli] shop.just-eat.fr:2087
 [eli] test-shop.just-eat.fr:2087
 [gnunet] acc-shop.just-eat.fr:2086
+[gnunet] shop.just-eat.fr:2086
 [gnunet] test-shop.just-eat.fr:2086
 [http] ablink.emails.just-eat.fr:80
 [http] acc-shop.just-eat.fr:80
@@ -72,8 +75,10 @@
 [http] view.update.just-eat.fr:80
 [http] www.just-eat.fr:80
 [infowave] acc-shop.just-eat.fr:2082
+[infowave] shop.just-eat.fr:2082
 [infowave] test-shop.just-eat.fr:2082
 [radsec] acc-shop.just-eat.fr:2083
+[radsec] shop.just-eat.fr:2083
 [radsec] test-shop.just-eat.fr:2083
 [smtp] connect.just-eat.fr:25
 [smtp] email.just-eat.fr:25

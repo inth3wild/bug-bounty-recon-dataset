@@ -12,7 +12,6 @@ https://cartalk.teslamotors.com [403] [GET] [text/html] [Access Denied] [AkamaiG
 https://cn.teslamotors.com [301] [GET] [] [] [AkamaiGHost] [d41d8cd98f00b204e9800998ecf8427e]
 https://cnvpn-ex.teslamotors.com [404] [GET] [text/html] [Tesla Motors VPN] [] [383ad42a108f4c5a592d627b07bebb42]
 https://cnvpn-ex.teslamotors.com [404] [GET] [text/html] [Tesla Motors VPN] [] [b9b9095f54de4fc48f1cd4d23e64f539]
-https://cnvpn.teslamotors.com [404] [GET] [text/html] [Tesla Motors VPN] [] [383ad42a108f4c5a592d627b07bebb42]
 https://cnvpn.teslamotors.com [404] [GET] [text/html] [Tesla Motors VPN] [] [57483f0bdd84bad11be6d81705117a48]
 https://csp.teslamotors.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [d64d49062ed2afb5cbab16a96740c26a]
 https://eaa-setup.teslamotors.com [401] [GET] [text/html] [] [akamai/nginx] [Nginx] [d7f91d3c53a59e5f12567a9f5cfb9180]

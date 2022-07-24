@@ -63,7 +63,7 @@ https://webwinkel.volkskrant.nl [403] [GET] [text/html] [Access Denied] [AkamaiG
 https://welkom.staging.volkskrant.nl [302] [GET] [text/html] [] [Apache] [vhost] [Apache,Craft CMS,Yii] [d41d8cd98f00b204e9800998ecf8427e]
 https://welkom.volkskrant.nl [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [947c3edc37e675121fa7e39ff7cdf6bc]
 https://welkom.volkskrant.nl [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [9f00da424a6fd5c932d10a4f05f205a8]
-https://wiki.volkskrant.nl [200] [GET] [text/html] [] [nginx/1.14.0 (Ubuntu)] [vhost] [Nginx,Ubuntu] [eaa3ed1a7c625b7e466f27894d729c0f]
+https://wiki.volkskrant.nl [200] [GET] [text/html] [] [nginx/1.14.0 (Ubuntu)] [vhost] [Nginx:1.14.0,Ubuntu] [eaa3ed1a7c625b7e466f27894d729c0f]
 https://winkel.volkskrant.nl [301] [GET] [text/html] [Document Moved] [Microsoft-IIS/10.0] [vhost] [azure] [IIS,Windows Server] [9275c78ef83965c97389e85801703d86]
 https://www.acceptance.volkskrant.nl [401] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [Basic] [93431f04f8fc25458144f54c03c0fd7e]
 https://www.photo.volkskrant.nl [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [36e474f2e0ab1dabf6e12f6f33891cf5]

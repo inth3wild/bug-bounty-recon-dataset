@@ -28,6 +28,7 @@ https://jira.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f
 https://jira-ros.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://jira-stage.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://ord-full-gw.vpn.rbx.com [502] [GET] [text/html] [502 Bad Gateway] [] [967fea9bf419f24f2bf014bcc02ae480]
+https://questions.rbx.com [302] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS:10.0,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
 https://rbx.com [200] [GET] [text/html] [This page left intentionally blank] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [fd53bbf0336757f402d6f2afc08cc5f8]
 https://ros.rbx.com [200] [GET] [text/html] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [8630371db6019ec929ff9570be28bceb]
 https://scim.rbx.com [200] [GET] [text/html] [1Password SCIM Bridge Login] [] [google] [1458e5f1376d8b5333adce09ed932ca3]

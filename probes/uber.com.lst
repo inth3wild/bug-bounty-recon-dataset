@@ -236,6 +236,7 @@ https://works.uber.com [301] [GET] [] [] [ufe] [vhost] [google] [Google Cloud,Go
 https://xn--9q8h.uber.com [302] [GET] [text/html] [302 Found] [ufe] [vhost] [google] [Envoy,Google Cloud,Google Cloud CDN] [82c98e8e012b79c922655461171cc2fa]
 https://x.uber.com [301] [GET] [text/html] [301 Moved Permanently] [ufe] [vhost] [Envoy] [3ea1c8d079b38532a6e01a96216ba5e2]
 https://zero2.uber.com [502] [GET] [text/html] [Error - Uber] [ufe] [vhost] [Envoy] [6b000aa36f4905eb31aa7b9a7753c12c]
+https://z.uber.com [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 http://tdottest1.uber.com:8080 [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 http://test-auth.uber.com [301] [GET] [] [] [ufe] [d41d8cd98f00b204e9800998ecf8427e]
 http://trips-gateway-pairing-staging.uber.com [301] [GET] [] [] [ufe] [d41d8cd98f00b204e9800998ecf8427e]

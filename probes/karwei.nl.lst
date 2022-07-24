@@ -18,7 +18,7 @@ https://karwei.nl [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Clou
 https://kassa.acceptatie.karwei.nl [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [3a55a50fb4650eb00e50f49ac3967fb3]
 https://kassa.acceptatie.karwei.nl [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [9f97fa040adc1aec4076dea41b082634]
 https://kassa.karwei.nl [301] [GET] [] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
-https://keuzehulp.karwei.nl [302] [GET] [text/html] [Object moved] [Microsoft-IIS/8.5] [vhost] [IIS,Windows Server] [1121267462663a67c3808b60cb80253f]
+https://keuzehulp.karwei.nl [302] [GET] [text/html] [Object moved] [Microsoft-IIS/8.5] [vhost] [IIS:8.5,Windows Server] [1121267462663a67c3808b60cb80253f]
 https://kiosk.acceptatie.karwei.nl [200] [GET] [text/html] [Kiosk launcher] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [9b37b31df75ce08824d59a7fc870fecf]
 https://kioskadmin.acceptatie.karwei.nl [200] [GET] [text/html] [Kiosk admin interface] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [4ba333cd2e69430fb3120277b804a60e]
 https://kioskadmin.karwei.nl [200] [GET] [text/html] [Kiosk admin interface] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [8b81fa2c5c1e07a17152562ff06d5b0c]

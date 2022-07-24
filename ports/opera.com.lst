@@ -669,6 +669,7 @@
 [http] sitecheck2.opera.com:80
 [http] sitecheck.geo.opera.com:80
 [http] sites.opera.com:80
+[http] sites.route53.opera.com:80
 [https] itsupport.opera.com:443
 [https] jobs.opera.com:443
 [https] jp.opera.com:443
@@ -836,6 +837,7 @@
 [https] sitecheck2.opera.com:443
 [https] sitecheck.geo.opera.com:443
 [https] sites.opera.com:443
+[https] sites.route53.opera.com:443
 [https] skyworth.tvstore.opera.com:443
 [https] sms.opera.com:443
 [https] snapshot.opera.com:443

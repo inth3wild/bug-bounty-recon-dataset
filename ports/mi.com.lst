@@ -1784,6 +1784,7 @@
 [https] hksdk.mgp.mi.com:443
 [https] hls.zb.mi.com:443
 [https] hlth.io.mi.com:443
+[https] hlthopen.io.mi.com:443
 [http] shopapi.io.mi.com:80
 [http] shop.mi.com:80
 [http] shopping.zb.mi.com:80

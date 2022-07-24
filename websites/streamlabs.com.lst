@@ -1,3 +1,11 @@
+http://api-id.streamlabs.com
+http://api-id.streamlabs.com:2053
+http://api-id.streamlabs.com:2083
+http://api-id.streamlabs.com:2086
+http://api-id.streamlabs.com:2087
+http://api-id.streamlabs.com:2095
+http://api-id.streamlabs.com:8080
+http://api-id.streamlabs.com:8443
 http://aws.streamlabs.com
 http://aws.streamlabs.com:8080
 http://beta2.streamlabs.com
@@ -97,6 +105,7 @@ http://restream-api.streamlabs.com
 http://restream-api.streamlabs.com:8080
 http://restreambeta-ingest.streamlabs.com:1935
 http://restream-ingest.streamlabs.com:1935
+https://api-id.streamlabs.com
 https://aws-io.streamlabs.com
 https://aws.streamlabs.com
 https://aws.streamlabs.com:8443

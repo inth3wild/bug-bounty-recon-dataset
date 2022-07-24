@@ -18,6 +18,7 @@
 [http] email.shipt.com:80
 [http] envoy.shipt.com:80
 [http] get.shipt.com:80
+[http] gtm.shipt.com:80
 [http] gtm-staging.shipt.com:80
 [http] help.shipt.com:80
 [http] insights.shipt.com:80
@@ -93,6 +94,7 @@
 [https] envoy.shipt.com:443
 [http] sg1.shipt.com:80
 [https] get.shipt.com:443
+[https] gtm.shipt.com:443
 [https] gtm-staging.shipt.com:443
 [http] share.shipt.com:80
 [https] help.shipt.com:443
