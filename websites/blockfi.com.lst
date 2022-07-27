@@ -39,8 +39,10 @@ http://ffs-prod.blockfi.com
 http://grafana.blockfi.com
 http://grafana-prod.blockfi.com
 http://help.blockfi.com
+http://help.blockfi.com:2053
 http://help.blockfi.com:2083
 http://help.blockfi.com:2087
+http://help.blockfi.com:2096
 http://help.blockfi.com:8443
 http://humio.blockfi.com
 http://humio-ingest.blockfi.com

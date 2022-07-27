@@ -12,9 +12,8 @@ mta-sts.login.gov AS16509 AS16509 - AMAZON.COM INC. US 13.225.208.0/21
 partners.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
 public-reporting-data.dm.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 public-reporting-data.staging.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-secure.login.gov AS16509 AS16509 - AMAZON.COM INC. US 52.10.0.0/15
-secure.login.gov AS16509 AS16509 - AMAZON.COM INC. US 54.148.0.0/15
+secure.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 99.84.120.0/21
+secure.origin.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 static.idp.dm.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
-static.secure.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
 status.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 18.246.0.0/16
 www.login.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23

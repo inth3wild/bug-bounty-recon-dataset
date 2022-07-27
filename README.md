@@ -2,11 +2,11 @@
 <tr><th>LABEL</th><th>COUNT</th></tr>
 <tr><td>PROGRAMs</th><td>121</th></tr>
 <tr><td>DOMAINs</th><td>487</th></tr>
-<tr><td>SUBDOMAINs</th><td>2116107</th></tr>
-<tr><td>ASNs</th><td>1016733</th></tr>
-<tr><td>PORTs</th><td>207726</th></tr>
-<tr><td>WEBSITEs</th><td>142807</th></tr>
-<tr><td>PROBEs</th><td>70320</th></tr>
-<tr><td>FAVICONs</th><td>32123</th></tr>
+<tr><td>SUBDOMAINs</th><td>2116427</th></tr>
+<tr><td>ASNs</th><td>1016847</th></tr>
+<tr><td>PORTs</th><td>207972</th></tr>
+<tr><td>WEBSITEs</th><td>143029</th></tr>
+<tr><td>PROBEs</th><td>70238</th></tr>
+<tr><td>FAVICONs</th><td>32210</th></tr>
 <tr><td>SCREENSHOTs</th><td>33087</th></tr>
 </table></p></div>

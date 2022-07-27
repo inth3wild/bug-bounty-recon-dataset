@@ -5,6 +5,7 @@
 [cddbp-alt] acc-shop.takeaway.com:8880
 [cddbp-alt] befr-shop.takeaway.com:8880
 [cddbp-alt] benl-shop.takeaway.com:8880
+[cddbp-alt] corporate.takeaway.com:8880
 [cddbp-alt] fallback.acc-shop.takeaway.com:8880
 [cddbp-alt] lu-shop.takeaway.com:8880
 [cddbp-alt] pt-shop.takeaway.com:8880
@@ -13,10 +14,12 @@
 [domain] ns2.takeaway.com:53
 [domain] ns3.takeaway.com:53
 [eli] acc-shop.takeaway.com:2087
+[eli] corporate.takeaway.com:2087
 [eli] fallback.acc-shop.takeaway.com:2087
 [eli] widgets.takeaway.com:2087
 [EtherNetIP-1] lfmx.takeaway.com:2222
 [gnunet] acc-shop.takeaway.com:2086
+[gnunet] corporate.takeaway.com:2086
 [gnunet] fallback.acc-shop.takeaway.com:2086
 [gnunet] widgets.takeaway.com:2086
 [http] 3pl-integration.takeaway.com:80
@@ -114,6 +117,7 @@
 [http] prdibyv.out.takeaway.com:80
 [http] prod-auth.takeaway.com:80
 [http-proxy] acc-shop.takeaway.com:8080
+[http-proxy] corporate.takeaway.com:8080
 [http-proxy] fallback.acc-shop.takeaway.com:8080
 [http-proxy] widgets.takeaway.com:8080
 [http] pt-shop.takeaway.com:80
@@ -139,6 +143,7 @@
 [https-alt] beta-benl-shop.takeaway.com:8443
 [https-alt] beta.shop.takeaway.com:8443
 [https-alt] bg-shop.takeaway.com:8443
+[https-alt] corporate.takeaway.com:8443
 [https-alt] lu-shop.takeaway.com:8443
 [https-alt] pt-shop.takeaway.com:8443
 [https-alt] ro-shop.takeaway.com:8443
@@ -354,6 +359,7 @@
 [imaps] mx-aw60.takeaway.com:993
 [imaps] mx.takeaway.com:993
 [infowave] acc-shop.takeaway.com:2082
+[infowave] corporate.takeaway.com:2082
 [infowave] fallback.acc-shop.takeaway.com:2082
 [infowave] widgets.takeaway.com:2082
 [knetd] widgets.takeaway.com:2053
@@ -364,6 +370,7 @@
 [pop3s] mx-aw60.takeaway.com:995
 [pop3s] mx.takeaway.com:995
 [radsec] acc-shop.takeaway.com:2083
+[radsec] corporate.takeaway.com:2083
 [radsec] fallback.acc-shop.takeaway.com:2083
 [radsec] widgets.takeaway.com:2083
 [smtp] connect.takeaway.com:25

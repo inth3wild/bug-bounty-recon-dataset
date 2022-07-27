@@ -1,4 +1,8 @@
 [http] admin-loadtest2.fallguys-dev.oncatapult.com:80
+[http] build-app-dev.tools.oncatapult.com:80
+[http] build-app-prod.tools.oncatapult.com:80
+[http] build-app-stgeven.tools.oncatapult.com:80
+[http] build-app-stgodd.tools.oncatapult.com:80
 [http] buildlogsportal.tools.oncatapult.com:80
 [http] dev.cms-dev.oncatapult.com:80
 [http] docs.catapult-dev.oncatapult.com:80
@@ -43,6 +47,10 @@
 [https] admin-unstable.fallguys-dev.oncatapult.com:443
 [https] analytics-gateway.fallguys.oncatapult.com:443
 [https] analytics-gateway-prod.fallguys.oncatapult.com:443
+[https] build-app-dev.tools.oncatapult.com:443
+[https] build-app-prod.tools.oncatapult.com:443
+[https] build-app-stgeven.tools.oncatapult.com:443
+[https] build-app-stgodd.tools.oncatapult.com:443
 [https] buildlogsportal.tools.oncatapult.com:443
 [https] dev.cms-dev.oncatapult.com:443
 [https] docs.catapult-dev.oncatapult.com:443

@@ -1,3 +1,4 @@
+http://22to7.kibana.shopifycloud.com
 http://27fmu.kibana.shopifycloud.com
 http://2aazf.kibana.shopifycloud.com
 http://2grlj.kibana.shopifycloud.com
@@ -69,6 +70,7 @@ http://alpha-experiences-shopify-com.shopifycloud.com
 http://alpha-polaris.shopifycloud.com
 http://alwaysopen.shopifycloud.com
 http://ambassabot.shopifycloud.com
+http://andrews-test-service.shopifycloud.com
 http://andy-go.shopifycloud.com
 http://anime-hackdays-28.shopifycloud.com
 http://anomaly-service.shopifycloud.com
@@ -157,6 +159,7 @@ http://arrive-website.shopifycloud.com
 http://arrive-website-staging2.shopifycloud.com
 http://arrive-website-staging.shopifycloud.com
 http://arrive-website-staging-web-apps-b-us-east1-10.shopifycloud.com
+http://artem-workshop.shopifycloud.com
 http://asc.shopifycloud.com
 http://askify-experiment.shopifycloud.com
 http://askify-production-web-apps-b-us-east1-8.shopifycloud.com
@@ -321,6 +324,7 @@ http://brochure-ingress-production-broch-kde4vv3r-apps-a-us-central1-7.shopifycl
 http://brochure-ingress-production-brochure-bi55edpj-apps-a-us-east1-5.shopifycloud.com
 http://brochure-ingress-production-brochur-uywzf5zh-apps-a-us-east1-10.shopifycloud.com
 http://bugbounty.bugbounty-production-unrestricted-o9ie.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+http://bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://bugbounty.es-fbvu6.shopifycloud.com
 http://bugbounty.secure-elasticsearch.bugbounty-production-unrestricted-o9ie.shopifycloud.com
@@ -717,6 +721,7 @@ http://core-europe-west4-es7.kibana.es7.shopifycloud.com
 http://core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com
 http://core-experiences-prototype-sandbo-aspwk2qs-apps-b-us-central1-8.shopifycloud.com
 http://core-experiences-prototype-sandbox.shopifycloud.com
+http://core-na-ne1-es7.es7.es-core-canada-na-ne1-ft86.elasticsearch.shopifycloud.com
 http://core-na-ne1-es7.es-jhvvr.shopifycloud.com
 http://core-na-ne1-es7.kibana.es7.shopifycloud.com
 http://core-na-ne1-es7.secure-elasticsearch.es7.shopifycloud.com
@@ -933,6 +938,7 @@ http://domain-suggestion-api-staging-un-eutvddc5-apps-b-us-central1-10.shopifycl
 http://domain-suggestion-api-two.shopifycloud.com
 http://domain-suggestion-api-two-staging.shopifycloud.com
 http://dom-polaris-sandbox.shopifycloud.com
+http://doug-test.shopifycloud.com
 http://downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com
 http://downrigger.shopifycloud.com
 http://drill-ca.shopifycloud.com
@@ -964,8 +970,10 @@ http://elasticsearch-2.kibana.i0.production-unrestricted-se51.courier-audit-data
 http://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
 http://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 http://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://elasticsearch.data-portal-production.es-apps-b-us-east1-1.kibana.shopifycloud.com
+http://elasticsearch.data-portal-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-east1-1.kibana.shopifycloud.com
 http://elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-east1-1.kibana.shopifycloud.com
@@ -973,6 +981,7 @@ http://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-
 http://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.kibana.shopifycloud.com
 http://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+http://elasticsearch.emex-net-basic-app-production-unrestricted-od3g.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://elasticsearch.es-5iqal.shopifycloud.com
 http://elasticsearch.es-6z5ql.shopifycloud.com
 http://elasticsearch.es-aubl5.shopifycloud.com
@@ -1059,10 +1068,12 @@ http://elasticsearch-splainer.shopifycloud.com
 http://elasticsearch-trickle-app.kibana.i0.production-unrestricted-se51.courier-audit-data-services-prototype.shopifycloud.com
 http://elasticsearch-trickle-app.secure-elasticsearch.courier-audit-data-services-prototype-production-unres-c0f10f5d.shopifycloud.com
 http://elasticsearch-v6.kibana.i0.staging-zeebe-unrestricted-uwge.trust-rules-engine.shopifycloud.com
+http://elasticsearch.wheeljack-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://elvin-test1.shopifycloud.com
 http://email-campaign-directory.streamlit-service.shopifycloud.com
 http://email-capture-production-unrestricte-7rfk5qke-apps-b-us-east1-7.shopifycloud.com
 http://email-capture.shopifycloud.com
+http://email.email-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://email.email-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://email.es-cks2l.shopifycloud.com
 http://email.es-jet2u.shopifycloud.com
@@ -1149,7 +1160,9 @@ http://extensions-playground-app-v2.shopifycloud.com
 http://extensions-production-unrestricte-tkkzxxz3-apps-b-us-central1-8.shopifycloud.com
 http://extensions-sandbox-app.shopifycloud.com
 http://extensions.shopifycloud.com
+http://extraordinary-app.shopifycloud.com
 http://ezth3.kibana.shopifycloud.com
+http://fabfun.shopifycloud.com
 http://facebook-ads.shopifycloud.com
 http://facebook-ads-staging2.shopifycloud.com
 http://facebook-ads-staging.shopifycloud.com
@@ -1212,6 +1225,7 @@ http://flow-web-production-canada-pii-restricted-web-apps-a-na-ne1-4.shopifyclou
 http://flow-web.shopifycloud.com
 http://flow-web-staging.shopifycloud.com
 http://flow-web-staging-web-apps-b-us-east1-7.shopifycloud.com
+http://fluffy-kafka-go.shopifycloud.com
 http://fluffy-rails-davidmc.shopifycloud.com
 http://focal-crop.shopifycloud.com
 http://fohcs.kibana.shopifycloud.com
@@ -1596,6 +1610,7 @@ http://jamfpro.shopifycloud.com
 http://jamfpro-staging.shopifycloud.com
 http://jamfpro-staging-web-apps-b-us-east1-7.shopifycloud.com
 http://jamies-testing-rails.shopifycloud.com
+http://jane-workshop-summit.shopifycloud.com
 http://jdkjw.kibana.shopifycloud.com
 http://jennys-test-app.shopifycloud.com
 http://jessie-test-cicd-state.shopifycloud.com
@@ -1742,6 +1757,7 @@ http://manual-billing-production-unrestricted-web-apps-b-us-central1-9.shopifycl
 http://manual-billing.shopifycloud.com
 http://manual-billing-staging.shopifycloud.com
 http://manual-billing-staging-unrestricted-kqrd-web-apps-b-us-east1-7.shopifycloud.com
+http://march-road.shopifycloud.com
 http://marco-katesql-test-service.shopifycloud.com
 http://marco-nick-test-service-katesql.shopifycloud.com
 http://marco-subs-test.shopifycloud.com
@@ -1870,6 +1886,7 @@ http://mobility-staging-test-app.es-wa2ks.shopifycloud.com
 http://mobility-staging-test-app.secure-elasticsearch.mobility-staging-test-app-production-unrestricted.shopifycloud.com
 http://mobility-staging-test-app.shopifycloud.com
 http://mobility-test-app.es-ye6tk.shopifycloud.com
+http://mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 http://mobility-test-app-production-unr-eirmwyw7-apps-b-us-central1-10.shopifycloud.com
@@ -2242,6 +2259,7 @@ http://poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com
 http://poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com
 http://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
 http://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
+http://poozle.poozle-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://poozle-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com
 http://poozle-production-unrestricted-yspmzecj-es-apps-b-us-central1-2.shopifycloud.com
 http://poozle.secure-elasticsearch.poozle-production-unrestricted.shopifycloud.com
@@ -2390,6 +2408,7 @@ http://reports-audit.streamlit-service.shopifycloud.com
 http://reports-usage-network-graph.streamlit-service.shopifycloud.com
 http://requiem-in-d-minor.shopifycloud.com
 http://resoto.shopifycloud.com
+http://resoto-staging.shopifycloud.com
 http://retail-labels-printer-production-web-apps-a-us-east1-5.shopifycloud.com
 http://retail-labels-printer.shopifycloud.com
 http://retail-search-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
@@ -2451,8 +2470,10 @@ http://runtime-failover-scheduler-stagi-gklmj7jb-apps-b-us-central1-10.shopifycl
 http://runtime-failover-scheduler-staging.shopifycloud.com
 http://russbot-bootstrap-ui-prototype.shopifycloud.com
 http://russbot-elasticsearch.es-choft.shopifycloud.com
+http://russbot-elasticsearch.kibana.i0.sox-restricted-russbot.russbot.shopifycloud.com
 http://russbot-elasticsearch.kibana.russbot-production.shopifycloud.com
 http://russbot-elasticsearch.kibana.russbot-staging.shopifycloud.com
+http://russbot-elasticsearch.russbot-production.es-apps-b-us-east1-1.kibana.shopifycloud.com
 http://russbot-elasticsearch.russbot-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 http://russbot-elasticsearch.secure-elasticsearch.russbot-production.shopifycloud.com
 http://russbot-elasticsearch.secure-elasticsearch.russbot-staging.shopifycloud.com
@@ -2461,6 +2482,7 @@ http://russbot-staging.shopifycloud.com
 http://rw3re.kibana.shopifycloud.com
 http://ryanwilsonperkin-rails-react-prod-6ha2v3am-apps-b-us-central1-9.shopifycloud.com
 http://ryanwilsonperkin-rails-react.shopifycloud.com
+https://22to7.kibana.shopifycloud.com
 https://27fmu.kibana.shopifycloud.com
 https://2aazf.kibana.shopifycloud.com
 https://2grlj.kibana.shopifycloud.com
@@ -2547,6 +2569,7 @@ https://ambassabot.shopifycloud.com
 http://samus-learning-env.shopifycloud.com
 http://samus-learning-rails.shopifycloud.com
 http://samus-testing-environment.shopifycloud.com
+https://andrews-test-service.shopifycloud.com
 https://andy-go.shopifycloud.com
 http://sanic-production-unrestricted-kyl-audlw6e7-apps-b-us-central1-8.shopifycloud.com
 http://sanic.shopifycloud.com
@@ -2646,6 +2669,7 @@ https://arrive-website.shopifycloud.com
 https://arrive-website-staging2.shopifycloud.com
 https://arrive-website-staging.shopifycloud.com
 https://arrive-website-staging-web-apps-b-us-east1-10.shopifycloud.com
+https://artem-workshop.shopifycloud.com
 https://asc.shopifycloud.com
 https://askify-experiment.shopifycloud.com
 https://askify-production-web-apps-b-us-east1-8.shopifycloud.com
@@ -2817,6 +2841,7 @@ https://brochure-ingress-production-broch-kde4vv3r-apps-a-us-central1-7.shopifyc
 https://brochure-ingress-production-brochure-bi55edpj-apps-a-us-east1-5.shopifycloud.com
 https://brochure-ingress-production-brochur-uywzf5zh-apps-a-us-east1-10.shopifycloud.com
 https://bugbounty.bugbounty-production-unrestricted-o9ie.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
+https://bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 https://bugbounty.bugbounty-staging-unrestricted-t023.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://bugbounty.es-fbvu6.shopifycloud.com
 https://bugbounty.secure-elasticsearch.bugbounty-production-unrestricted-o9ie.shopifycloud.com
@@ -3218,6 +3243,7 @@ https://core-europe-west4-es7.kibana.es7.shopifycloud.com
 https://core-europe-west4-es7.secure-elasticsearch.es7.shopifycloud.com
 https://core-experiences-prototype-sandbo-aspwk2qs-apps-b-us-central1-8.shopifycloud.com
 https://core-experiences-prototype-sandbox.shopifycloud.com
+https://core-na-ne1-es7.es7.es-core-canada-na-ne1-ft86.elasticsearch.shopifycloud.com
 https://core-na-ne1-es7.es-jhvvr.shopifycloud.com
 https://core-na-ne1-es7.kibana.es7.shopifycloud.com
 https://core-na-ne1-es7.secure-elasticsearch.es7.shopifycloud.com
@@ -3453,6 +3479,7 @@ https://domain-suggestion-api-staging-un-eutvddc5-apps-b-us-central1-10.shopifyc
 https://domain-suggestion-api-two.shopifycloud.com
 https://domain-suggestion-api-two-staging.shopifycloud.com
 https://dom-polaris-sandbox.shopifycloud.com
+https://doug-test.shopifycloud.com
 https://downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com
 https://downrigger.shopifycloud.com
 https://drill-ca.shopifycloud.com
@@ -3498,8 +3525,10 @@ https://elasticsearch-2.kibana.i0.production-unrestricted-se51.courier-audit-dat
 https://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
 https://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 https://elasticsearch.atlas-staging-unrestricted-ks35.es-apps-b-us-east1-1.kibana.shopifycloud.com
+https://elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://elasticsearch.conductor-staging-unrestricted-jw68.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://elasticsearch.data-portal-production.es-apps-b-us-east1-1.kibana.shopifycloud.com
+https://elasticsearch.data-portal-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://elasticsearch.data-portal-staging-unrestricted-vats.es-apps-b-us-east1-1.kibana.shopifycloud.com
 https://elasticsearch.deep-understanding-similarity-production-unrestricted-jpix.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://elasticsearch.dovetale-api-staging-unrestricted-f4yx.es-apps-b-us-east1-1.kibana.shopifycloud.com
@@ -3507,6 +3536,7 @@ https://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es
 https://elasticsearch.elasticsearch-failover-dev-production-unrestricted-3qpx.es-apps-a-us-central1-2.kibana.shopifycloud.com
 https://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://elasticsearch.elasticsearch-failover-dev-staging-unrestricted-0l56.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://elasticsearch.emex-net-basic-app-production-unrestricted-od3g.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://elasticsearch.es-5iqal.shopifycloud.com
 https://elasticsearch.es-6z5ql.shopifycloud.com
 https://elasticsearch.es-aubl5.shopifycloud.com
@@ -3593,6 +3623,7 @@ https://elasticsearch-splainer.shopifycloud.com
 https://elasticsearch-trickle-app.kibana.i0.production-unrestricted-se51.courier-audit-data-services-prototype.shopifycloud.com
 https://elasticsearch-trickle-app.secure-elasticsearch.courier-audit-data-services-prototype-production-unres-c0f10f5d.shopifycloud.com
 https://elasticsearch-v6.kibana.i0.staging-zeebe-unrestricted-uwge.trust-rules-engine.shopifycloud.com
+https://elasticsearch.wheeljack-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://sell-on-amazon-production-web-apps-a-us-east1-6.shopifycloud.com
 http://sell-on-amazon.shopifycloud.com
 http://sell-on-amazon-staging.shopifycloud.com
@@ -3601,6 +3632,7 @@ https://elvin-test1.shopifycloud.com
 https://email-campaign-directory.streamlit-service.shopifycloud.com
 https://email-capture-production-unrestricte-7rfk5qke-apps-b-us-east1-7.shopifycloud.com
 https://email-capture.shopifycloud.com
+https://email.email-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://email.email-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://email.es-cks2l.shopifycloud.com
 https://email.es-jet2u.shopifycloud.com
@@ -3693,7 +3725,9 @@ https://extensions-playground-app-v2.shopifycloud.com
 https://extensions-production-unrestricte-tkkzxxz3-apps-b-us-central1-8.shopifycloud.com
 https://extensions-sandbox-app.shopifycloud.com
 https://extensions.shopifycloud.com
+https://extraordinary-app.shopifycloud.com
 https://ezth3.kibana.shopifycloud.com
+https://fabfun.shopifycloud.com
 https://facebook-ads.shopifycloud.com
 https://facebook-ads-staging2.shopifycloud.com
 https://facebook-ads-staging.shopifycloud.com
@@ -3773,6 +3807,7 @@ https://flow-web-production-canada-pii-restricted-web-apps-a-na-ne1-4.shopifyclo
 https://flow-web.shopifycloud.com
 https://flow-web-staging.shopifycloud.com
 https://flow-web-staging-web-apps-b-us-east1-7.shopifycloud.com
+https://fluffy-kafka-go.shopifycloud.com
 https://fluffy-rails-davidmc.shopifycloud.com
 http://sfn-changelog-production-unrestri-osdesc7d-apps-b-us-central1-8.shopifycloud.com
 http://sfn-changelog.shopifycloud.com
@@ -3795,6 +3830,7 @@ http://sfn-webhooks.secure-elasticsearch.sfn-webhooks-production-unrestricted.sh
 http://sfn-webhooks.secure-elasticsearch.sfn-webhooks-staging-unrestricted.shopifycloud.com
 http://sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
 http://sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com
+http://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
 http://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 http://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.kibana.shopifycloud.com
 http://sfn-webhooks.shopifycloud.com
@@ -4102,6 +4138,7 @@ http://shop-discovery-pipeline-stagin-zhylcjxr-es-apps-b-us-central1-2.shopifycl
 http://shop-discovery-sandbox.es-lt2vs.shopifycloud.com
 http://shop-discovery-sandbox.kibana.i0.staging-unrestricted.shop-discovery-pipeline.shopifycloud.com
 http://shop-discovery-sandbox.secure-elasticsearch.shop-discovery-pipeline-staging-unrestricted.shopifycloud.com
+http://shop-discovery-sandbox.shop-discovery-pipeline-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://shop-discovery-sandbox-splainer.shopifycloud.com
 http://shop-discovery.secure-elasticsearch.shop-discovery-pipeline-production-unrestricted.shopifycloud.com
 http://shop-discovery-staging.es-lt2vs.shopifycloud.com
@@ -4177,7 +4214,13 @@ http://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-kqzf.sh
 http://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-ltpw.shopifycloud.com
 http://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted.shopifycloud.com
 http://shopify-dev.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted-2.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted-3.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted-5.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted-6.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted-dgsb.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://shopify-dev.shopify-dev-staging-unrestricted-er49.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+http://shopify-dev.shopify-dev-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 http://shopify-dev-staging10.shopifycloud.com
 http://shopify-dev-staging2.shopifycloud.com
 http://shopify-dev-staging3.shopifycloud.com
@@ -4440,6 +4483,7 @@ https://jamfpro.shopifycloud.com
 https://jamfpro-staging.shopifycloud.com
 https://jamfpro-staging-web-apps-b-us-east1-7.shopifycloud.com
 https://jamies-testing-rails.shopifycloud.com
+https://jane-workshop-summit.shopifycloud.com
 https://jdkjw.kibana.shopifycloud.com
 https://jennys-test-app.shopifycloud.com
 https://jessie-test-cicd-state.shopifycloud.com
@@ -4589,6 +4633,7 @@ https://manual-billing-production-unrestricted-web-apps-b-us-central1-9.shopifyc
 https://manual-billing.shopifycloud.com
 https://manual-billing-staging.shopifycloud.com
 https://manual-billing-staging-unrestricted-kqrd-web-apps-b-us-east1-7.shopifycloud.com
+https://march-road.shopifycloud.com
 https://marco-katesql-test-service.shopifycloud.com
 https://marco-nick-test-service-katesql.shopifycloud.com
 https://marco-subs-test.shopifycloud.com
@@ -4718,6 +4763,7 @@ https://mobility-staging-test-app.es-wa2ks.shopifycloud.com
 https://mobility-staging-test-app.secure-elasticsearch.mobility-staging-test-app-production-unrestricted.shopifycloud.com
 https://mobility-staging-test-app.shopifycloud.com
 https://mobility-test-app.es-ye6tk.shopifycloud.com
+https://mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 https://mobility-test-app.mobility-test-app-production-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://mobility-test-app.mobility-test-app-staging-unrestricted.es-apps-b-us-central1-2.elasticsearch.shopifycloud.com
 https://mobility-test-app-production-unr-eirmwyw7-apps-b-us-central1-10.shopifycloud.com
@@ -5159,6 +5205,7 @@ https://poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com
 https://poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com
 https://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
 https://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
+https://poozle.poozle-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://poozle-production-unrestricted-web-apps-b-us-central1-8.shopifycloud.com
 https://poozle-production-unrestricted-yspmzecj-es-apps-b-us-central1-2.shopifycloud.com
 https://poozle.secure-elasticsearch.poozle-production-unrestricted.shopifycloud.com
@@ -5306,6 +5353,7 @@ https://reports-audit.streamlit-service.shopifycloud.com
 https://reports-usage-network-graph.streamlit-service.shopifycloud.com
 https://requiem-in-d-minor.shopifycloud.com
 https://resoto.shopifycloud.com
+https://resoto-staging.shopifycloud.com
 https://retail-labels-printer-production-web-apps-a-us-east1-5.shopifycloud.com
 https://retail-labels-printer.shopifycloud.com
 https://retail-search-production-unrestricted-web-apps-us-central1-2.shopifycloud.com
@@ -5367,8 +5415,10 @@ https://runtime-failover-scheduler-stagi-gklmj7jb-apps-b-us-central1-10.shopifyc
 https://runtime-failover-scheduler-staging.shopifycloud.com
 https://russbot-bootstrap-ui-prototype.shopifycloud.com
 https://russbot-elasticsearch.es-choft.shopifycloud.com
+https://russbot-elasticsearch.kibana.i0.sox-restricted-russbot.russbot.shopifycloud.com
 https://russbot-elasticsearch.kibana.russbot-production.shopifycloud.com
 https://russbot-elasticsearch.kibana.russbot-staging.shopifycloud.com
+https://russbot-elasticsearch.russbot-production.es-apps-b-us-east1-1.kibana.shopifycloud.com
 https://russbot-elasticsearch.russbot-staging.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 https://russbot-elasticsearch.secure-elasticsearch.russbot-production.shopifycloud.com
 https://russbot-elasticsearch.secure-elasticsearch.russbot-staging.shopifycloud.com
@@ -5506,6 +5556,7 @@ https://sfn-webhooks.secure-elasticsearch.sfn-webhooks-production-unrestricted.s
 https://sfn-webhooks.secure-elasticsearch.sfn-webhooks-staging-unrestricted.shopifycloud.com
 https://sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.elasticsearch.shopifycloud.com
 https://sfn-webhooks.sfn-webhooks-production-unrestricted.es-apps-a-us-east1-2.kibana.shopifycloud.com
+https://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-ea1-on43.kibana.shopifycloud.com
 https://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
 https://sfn-webhooks.sfn-webhooks-staging-unrestricted.es-apps-b-us-east1-1.kibana.shopifycloud.com
 https://sfn-webhooks.shopifycloud.com
@@ -5562,6 +5613,7 @@ https://shop-discovery-pipeline-stagin-zhylcjxr-es-apps-b-us-central1-2.shopifyc
 https://shop-discovery-sandbox.es-lt2vs.shopifycloud.com
 https://shop-discovery-sandbox.kibana.i0.staging-unrestricted.shop-discovery-pipeline.shopifycloud.com
 https://shop-discovery-sandbox.secure-elasticsearch.shop-discovery-pipeline-staging-unrestricted.shopifycloud.com
+https://shop-discovery-sandbox.shop-discovery-pipeline-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 https://shop-discovery-sandbox-splainer.shopifycloud.com
 https://shop-discovery.secure-elasticsearch.shop-discovery-pipeline-production-unrestricted.shopifycloud.com
 https://shop-discovery-staging.es-lt2vs.shopifycloud.com
@@ -5638,7 +5690,13 @@ https://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-kqzf.s
 https://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted-ltpw.shopifycloud.com
 https://shopify-dev.secure-elasticsearch.shopify-dev-staging-unrestricted.shopifycloud.com
 https://shopify-dev.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-2.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-3.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-5.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-6.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted-dgsb.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 https://shopify-dev.shopify-dev-staging-unrestricted-er49.es-apps-b-us-east1-1.elasticsearch.shopifycloud.com
+https://shopify-dev.shopify-dev-staging-unrestricted.es-apps-b-us-ce1-ux28.elasticsearch.shopifycloud.com
 https://shopify-dev-staging10.shopifycloud.com
 https://shopify-dev-staging2.shopifycloud.com
 https://shopify-dev-staging3.shopifycloud.com
@@ -5926,6 +5984,7 @@ https://stripe-exchange-rates-proxy.shopifycloud.com
 https://stripe-exchange-rates-proxy-staging.shopifycloud.com
 https://subscriptions-production-unrestricted-web-apps-b-us-central1-9.shopifycloud.com
 https://subscriptions.shopifycloud.com
+https://super-cool-service.shopifycloud.com
 https://super-secret-service-for-test-produc-5nj7x5fl-apps-b-us-east1-8.shopifycloud.com
 https://super-secret-service-for-test.shopifycloud.com
 https://superset-exp.shopifycloud.com
@@ -5978,6 +6037,7 @@ https://tax-service-production-unrestricted--cs3xfkg5-apps-b-us-east1-9.shopifyc
 https://tax-service.shopifycloud.com
 https://tax-service-staging.shopifycloud.com
 https://tax-service-staging-unrestricted-mk-7kkndubb-apps-b-us-east1-10.shopifycloud.com
+https://techcelerate-jacqui-two.shopifycloud.com
 https://tech-radar.shopifycloud.com
 https://tech-radar-web-tierstaging-us-east1-5.shopifycloud.com
 http://stefan-multi-app-production-unres-ojyzmr53-apps-b-us-central1-8.shopifycloud.com
@@ -6140,6 +6200,7 @@ https://trickle-staging-unrestricted-8l0g.shopifycloud.com
 https://tricorder.shopifycloud.com
 https://tricorn.shopifycloud.com
 https://tricorn-staging.shopifycloud.com
+https://triggered.shopifycloud.com
 http://string.staging.merlin.shopifycloud.com
 http://string.web.staging.merlin.shopifycloud.com
 https://trino-conductor-web.shopifycloud.com
@@ -6188,6 +6249,7 @@ https://unite-nextjs-production-unrestricted-6suz-web-apps-b-us-east1-7.shopifyc
 https://unite-nextjs.shopifycloud.com
 https://up-dev-production-web-apps-b-us-east1-8.shopifycloud.com
 https://up-dev.shopifycloud.com
+http://super-cool-service.shopifycloud.com
 http://super-secret-service-for-test-produc-5nj7x5fl-apps-b-us-east1-8.shopifycloud.com
 http://super-secret-service-for-test.shopifycloud.com
 http://superset-exp.shopifycloud.com
@@ -6385,6 +6447,7 @@ http://tax-service-production-unrestricted--cs3xfkg5-apps-b-us-east1-9.shopifycl
 http://tax-service.shopifycloud.com
 http://tax-service-staging.shopifycloud.com
 http://tax-service-staging-unrestricted-mk-7kkndubb-apps-b-us-east1-10.shopifycloud.com
+http://techcelerate-jacqui-two.shopifycloud.com
 http://tech-radar.shopifycloud.com
 http://tech-radar-web-tierstaging-us-east1-5.shopifycloud.com
 http://telegraf-telegraf-cortex-us-central1-1.shopifycloud.com
@@ -6505,6 +6568,7 @@ http://trickle-staging-unrestricted-8l0g.shopifycloud.com
 http://tricorder.shopifycloud.com
 http://tricorn.shopifycloud.com
 http://tricorn-staging.shopifycloud.com
+http://triggered.shopifycloud.com
 http://trino-conductor-web.shopifycloud.com
 http://trino-python-demo.shopifycloud.com
 http://trino-ruby-demo.shopifycloud.com

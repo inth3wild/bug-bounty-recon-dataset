@@ -84,6 +84,7 @@ theia.prod-qa.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 
 theia.sp-int.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
 themis.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 104.97.96.0/19
 tmdb.e1-np.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+tmdb.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 69.164.0.0/18
 tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
 ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 18.132.0.0/14
 upload.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15

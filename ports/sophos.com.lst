@@ -516,6 +516,7 @@
 [https] 74fniywz.stn010yul.ctr.sophos.com:443
 [https] 774m9mut.cloudstation.eu-central-1.prod.hydra.sophos.com:443
 [https] 787qp9hw.stn010yul.ctr.sophos.com:443
+[https] 78mx2kvd.stn100gru.ctr.sophos.com:443
 [https] 7bh560u3.cloudstation.us-west-2.qa.hydra.sophos.com:443
 [https] 7guwnb27.cloudstation.eu-west-1.inf.hydra.sophos.com:443
 [https] 7gy1g4em.cloudstation.eu-west-1.inf.hydra.sophos.com:443
@@ -1212,6 +1213,7 @@
 [https] fwcm-legacy-ui-alt.stn030hnd.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn030syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn100bom.ctr.sophos.com:443
+[https] fwcm-legacy-ui-alt.stn100gru.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn100syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui-alt.stn100yul.ctr.sophos.com:443
 [https] fwcm-legacy-ui-cloudstation-eu-central-1.prod.hydra.sophos.com:443
@@ -1240,6 +1242,7 @@
 [https] fwcm-legacy-ui.stn030hnd.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn030syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn100bom.ctr.sophos.com:443
+[https] fwcm-legacy-ui.stn100gru.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn100syd.ctr.sophos.com:443
 [https] fwcm-legacy-ui.stn100yul.ctr.sophos.com:443
 [https] fwcm-ms-demo-cloudstation-eu-west-1.inf.hydra.sophos.com:443
@@ -1337,6 +1340,7 @@
 [https] iqoxxazt.cloudstation.us-west-2.prod.hydra.sophos.com:443
 [https] it.secure.sophos.com:443
 [https] it.sophos.com:443
+[https] itsurypd.stn100hnd.ctr.sophos.com:443
 [https] iv1jiuip.stn010yul.ctr.sophos.com:443
 [https] ixgey86r.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] j20xt673.stn010yul.ctr.sophos.com:443
@@ -1548,6 +1552,7 @@
 [https] mcs-push-server-us-west-2.prod.hydra.sophos.com:443
 [https] mcs-push-server-us-west-2.qa.hydra.sophos.com:443
 [https] mcs.stn010yul.ctr.sophos.com:443
+[https] mdr-agent-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] meet.sophos.com:443
 [https] meptools.dev.labs.sophos.com:443
 [https] messaging-router-cloudhub-eu-west-1.dev3.hydra.sophos.com:443
@@ -1837,6 +1842,7 @@
 [https] report-scheduler-alt.stn030syd.ctr.sophos.com:443
 [https] report-scheduler-alt.stn100bom.ctr.sophos.com:443
 [https] report-scheduler-alt.stn100gru.ctr.sophos.com:443
+[https] report-scheduler-alt.stn100hnd.ctr.sophos.com:443
 [https] report-scheduler-alt.stn100syd.ctr.sophos.com:443
 [https] report-scheduler-alt.stn100yul.ctr.sophos.com:443
 [https] report-scheduler-cloudstation-eu-central-1.prod.hydra.sophos.com:443
@@ -1859,6 +1865,7 @@
 [https] report-scheduler.stn030syd.ctr.sophos.com:443
 [https] report-scheduler.stn100bom.ctr.sophos.com:443
 [https] report-scheduler.stn100gru.ctr.sophos.com:443
+[https] report-scheduler.stn100hnd.ctr.sophos.com:443
 [https] report-scheduler.stn100syd.ctr.sophos.com:443
 [https] report-scheduler.stn100yul.ctr.sophos.com:443
 [https] research.labs.sophos.com:443

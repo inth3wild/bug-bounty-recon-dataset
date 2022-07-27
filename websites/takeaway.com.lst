@@ -45,6 +45,13 @@ http://cloud.connect.takeaway.com
 http://cloud.update.takeaway.com
 http://corporate2.takeaway.com
 http://corporate.takeaway.com
+http://corporate.takeaway.com:2082
+http://corporate.takeaway.com:2083
+http://corporate.takeaway.com:2086
+http://corporate.takeaway.com:2087
+http://corporate.takeaway.com:8080
+http://corporate.takeaway.com:8443
+http://corporate.takeaway.com:8880
 http://courierapp.takeaway.com
 http://courier.prod.clops.takeaway.com
 http://cw-api.takeaway.com

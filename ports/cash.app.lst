@@ -18,6 +18,7 @@
 [ansoft-lm-2] web.preflight.usc1.taxes.cash.app:1084
 [ansoft-lm-2] web.taxes.cash.app:1084
 [ansoft-lm-2] web.usc1.taxes.cash.app:1084
+[] api.taxes.cash.app:9530
 [blackice-icecap] admin.taxes.cash.app:8081
 [blackice-icecap] admin.usc1.taxes.cash.app:8081
 [blackice-icecap] api.preflight.taxes.cash.app:8081
@@ -109,6 +110,8 @@
 [ff-annunc] web.preflight.usc1.taxes.cash.app:1089
 [ff-annunc] web.taxes.cash.app:1089
 [ff-annunc] web.usc1.taxes.cash.app:1089
+[globalcatLDAP] api.taxes.cash.app:3268
+[globalcatLDAPssl] api.taxes.cash.app:3269
 [gnunet] developers.cash.app:2086
 [http] admin.taxes.cash.app:80
 [http] admin.usc1.taxes.cash.app:80
@@ -249,6 +252,7 @@
 [imap] web.preflight.usc1.taxes.cash.app:143
 [imap] web.taxes.cash.app:143
 [imap] web.usc1.taxes.cash.app:143
+[infowave] api.taxes.cash.app:2082
 [infowave] developers.cash.app:2082
 [jetdirect] admin.taxes.cash.app:9100
 [jetdirect] admin.usc1.taxes.cash.app:9100
@@ -264,12 +268,16 @@
 [jetdirect] web.preflight.usc1.taxes.cash.app:9100
 [jetdirect] web.taxes.cash.app:9100
 [jetdirect] web.usc1.taxes.cash.app:9100
+[kme-trap-port] api.taxes.cash.app:2081
+[ldap] api.taxes.cash.app:389
+[ldapssl] api.taxes.cash.app:636
 [memcache] admin.taxes.cash.app:11211
 [memcache] api.taxes.cash.app:11211
 [memcache] assets.taxes.cash.app:11211
 [memcache] help.cash.app:11211
 [memcache] preflight.taxes.cash.app:11211
 [memcache] taxes.cash.app:11211
+[micromuse-ncpw] api.taxes.cash.app:9600
 [mit-ml-dev] admin.taxes.cash.app:83
 [mit-ml-dev] admin.taxes.cash.app:85
 [mit-ml-dev] admin.usc1.taxes.cash.app:83
@@ -317,6 +325,7 @@
 [ms-wbt-server] web.preflight.usc1.taxes.cash.app:3389
 [ms-wbt-server] web.taxes.cash.app:3389
 [ms-wbt-server] web.usc1.taxes.cash.app:3389
+[mysql] api.taxes.cash.app:3306
 [ncd-conf] admin.taxes.cash.app:5999
 [ncd-conf] admin.usc1.taxes.cash.app:5999
 [ncd-conf] api.preflight.taxes.cash.app:5999
@@ -346,6 +355,7 @@
 [ndmps] web.taxes.cash.app:30000
 [ndmps] web.usc1.taxes.cash.app:30000
 [nessus] email.taxes3-notifications.cash.app:3001
+[nntp] api.taxes.cash.app:119
 [opsmessaging] admin.taxes.cash.app:8090
 [opsmessaging] admin.usc1.taxes.cash.app:8090
 [opsmessaging] api.preflight.taxes.cash.app:8090
@@ -417,6 +427,7 @@
 [radan-http] web.preflight.usc1.taxes.cash.app:8088
 [radan-http] web.taxes.cash.app:8088
 [radan-http] web.usc1.taxes.cash.app:8088
+[radsec] api.taxes.cash.app:2083
 [radsec] developers.cash.app:2083
 [redis] api.taxes.cash.app:6379
 [redis] assets.taxes.cash.app:6379

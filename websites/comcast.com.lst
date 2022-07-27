@@ -993,6 +993,7 @@ http://ott-observability-lab.svc-dev.thor.comcast.com
 http://ott-observability-lab-tracing.svc-dev.thor.comcast.com
 http://ott-observability.svc-dev.thor.comcast.com
 http://ott-token-service.svc-dev.thor.comcast.com
+http://ott-token-service.svc.thor.comcast.com
 http://ott-tracing.dev.us-east-1.janus.comcast.com
 http://ott-tracing.svc-dev.thor.comcast.com
 http://owa.comcast.com
@@ -2350,6 +2351,12 @@ http://sit2-hop.cybersource.comcast.com:8443
 http://sit2-hop.cybersource.comcast.com:8880
 http://sit-cbm-hop.cybersource.comcast.com
 http://sitesearch.comcast.com
+http://site-terms-ui-dev.np.digital.business.comcast.com
+http://site-terms-ui-int.np.digital.business.comcast.com
+http://site-terms-ui-pqa.np.digital.business.comcast.com
+http://site-terms-ui-prod-va.digital.business.comcast.com
+http://site-terms-ui-qa.np.digital.business.comcast.com
+http://site-terms-ui-stg-va.np.digital.business.comcast.com
 http://sit-hop.cybersource.comcast.com
 https://itrc-cf-intg-1t.gslb4.comcast.com
 http://sitvod01.vqae.comcast.com
@@ -3236,6 +3243,12 @@ https://sip.cable.comcast.com
 https://sip.comcast.com
 https://sit2-hop.cybersource.comcast.com
 https://sitesearch.comcast.com
+https://site-terms-ui-dev.np.digital.business.comcast.com
+https://site-terms-ui-int.np.digital.business.comcast.com
+https://site-terms-ui-pqa.np.digital.business.comcast.com
+https://site-terms-ui-prod-va.digital.business.comcast.com
+https://site-terms-ui-qa.np.digital.business.comcast.com
+https://site-terms-ui-stg-va.np.digital.business.comcast.com
 https://sit-hop.cybersource.comcast.com
 https://sitvod01.vqae.comcast.com
 https://sitvod02.vqae.comcast.com

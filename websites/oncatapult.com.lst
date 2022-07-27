@@ -1,4 +1,8 @@
 http://admin-loadtest2.fallguys-dev.oncatapult.com
+http://build-app-dev.tools.oncatapult.com
+http://build-app-prod.tools.oncatapult.com
+http://build-app-stgeven.tools.oncatapult.com
+http://build-app-stgodd.tools.oncatapult.com
 http://buildlogsportal.tools.oncatapult.com
 http://dev.cms-dev.oncatapult.com
 http://docs.catapult-dev.oncatapult.com
@@ -43,6 +47,10 @@ https://admin-tool-api-unstable.fallguys-dev.oncatapult.com
 https://admin-unstable.fallguys-dev.oncatapult.com
 https://analytics-gateway.fallguys.oncatapult.com
 https://analytics-gateway-prod.fallguys.oncatapult.com
+https://build-app-dev.tools.oncatapult.com
+https://build-app-prod.tools.oncatapult.com
+https://build-app-stgeven.tools.oncatapult.com
+https://build-app-stgodd.tools.oncatapult.com
 https://buildlogsportal.tools.oncatapult.com
 https://dev.cms-dev.oncatapult.com
 https://docs.catapult-dev.oncatapult.com

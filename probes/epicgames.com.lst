@@ -28,7 +28,7 @@ https://approval-bot-3.eut.it.epicgames.com [400] [GET] [text/html] [400 No requ
 https://approval-bot.eut.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
 https://approval-bot.it-entapps-dev.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [e5a802bdce7391511909e31282d932b1]
 https://approval-bot.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
-https://approval-bot.stage.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
+https://approval-bot.stage.it.epicgames.com [400] [GET] [text/html] [400 No required SSL certificate was sent] [nginx/1.14.0 (Ubuntu)] [Nginx:1.14.0,Ubuntu] [ee4d8a92014a00389dfd284ec2feb5f3]
 https://auth-api.artpipeline-dev.it.epicgames.com [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [bc45704aad57d445b6dfa58b101071e3]
 https://auth-api-prod.artpipeline-dev.it.epicgames.com [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [bc45704aad57d445b6dfa58b101071e3]
 https://battlebreakershelp.epicgames.com [302] [GET] [text/html] [302 Found] [] [vhost] [cfbeaf604823f038b8b46f0ac862b98c]

@@ -20,6 +20,7 @@ https://dev-overwatch.blockfi.com [403] [GET] [text/html] [ERROR: The request co
 https://docs.blockfi.com [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
 https://evs.mkt.blockfi.com [404] [GET] [text/plain] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [328257380186d550f96adf638ff85092]
 https://fbcbh.csr.shield-sandbox.aws.blockfi.com [404] [GET] [text/plain] [] [awselb/2.0] [e52931824aa39bb9ad4fb9d14bfab47f]
+https://help.blockfi.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Envoy,Zendesk] [4f73dc90ff47beeea7fb57aaae5a8ae2]
 https://humio.blockfi.com [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
 https://humio-ingest.blockfi.com [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4b074b0b59693fa9f94fb71b175fb187]
 https://nebula.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]

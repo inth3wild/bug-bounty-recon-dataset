@@ -15,6 +15,10 @@ admin-tool-api-externalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT 
 admin-tool-api-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 admin-tool-api-porting.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.144.0.0/15
 admin-tool-api-unstable.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.144.0.0/15
+build-app-dev.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
+build-app-prod.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.246.0/24
+build-app-stgeven.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
+build-app-stgodd.tools.oncatapult.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.213.0/24
 docs.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
 docs-jon.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 entitlements-grpc-testci.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.0.0.0/11
@@ -25,8 +29,10 @@ events-api-azure-ci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPOR
 events-api-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.0.0.0/11
 events-api-test-ci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.74.0.0/15
 gateway-admin-clientdev.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+gateway-admin-closedbeta.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 104.40.0.0/13
 gateway-admin-internalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.136.0.0/13
 gateway-admin-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+gateway-admin-openbeta.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 104.40.0.0/13
 gateway-admin-staging.fallguys.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 gateway-admin-unstable.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 internal.cms.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.224.0.0/11

@@ -5643,6 +5643,7 @@
 [https] tutechservices.att.com:443
 [https] tutkb.att.com:443
 [https] tutrainenv.att.com:443
+[https] tutrainenvdev.att.com:443
 [https] tuvcpagebuilder.att.com:443
 [https] tuxr.att.com:443
 [https] tvideo.att.com:443
@@ -6519,6 +6520,7 @@
 [http] tutechservices.att.com:80
 [http] tutkb.att.com:80
 [http] tutrainenv.att.com:80
+[http] tutrainenvdev.att.com:80
 [http] tuvcpagebuilder.att.com:80
 [http] tuxr.att.com:80
 [http] tvideo.att.com:80
@@ -7898,6 +7900,7 @@
 [snpp] www.raptor-alt.pr.labs.voicetone.att.com:444
 [snpp] www.telephones.att.com:444
 [snpp] youshare.att.com:444
+[socks] eds-aldc-tw8.wireless.att.com:1080
 [sophos] heartbeat-iotcore.hnm-test.aws.cloud.att.com:8192
 [sphinxql] aps.att.com:9306
 [sphinxql] apste.att.com:9306

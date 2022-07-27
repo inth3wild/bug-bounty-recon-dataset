@@ -188,6 +188,7 @@
 774m9mut.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
 77ghqfmm.cloudhub.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 176.34.128.0/20
 77nw4883.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+78mx2kvd.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 78ow77ym.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.206.128.0/17
 79rk1jdp.cloudhub.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 7cac7abk.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15
@@ -312,6 +313,7 @@ afswnndy.stn100hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.176.0
 agent-api.dev.factory.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
 aggregation-cloudhub-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 aggregation.cloudhub.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.247.0.0/17
+aggregator-summary-alt.stn010pdx.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 aggregator-summary-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.60.128.0/17
 aggregator-summary-alt.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.154.0.0/16
 aggregator-summary-alt.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
@@ -320,6 +322,7 @@ aggregator-summary-alt.stn100hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, IN
 aggregator-summary-alt.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.64.0.0/17
 aggregator-summary-alt.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 aggregator-summary.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+aggregator-summary.stn010pdx.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 aggregator-summary.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.60.128.0/17
 aggregator-summary.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
 aggregator-summary.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
@@ -351,6 +354,7 @@ alerting.stn000cmh.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.16.0.0
 alerting.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.231.0.0/16
 alerting.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
 alerting.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.128.0/18
+alerts.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
 alert-service2-cloudhub-eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
 alert-settings-alt.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
 alert-settings-alt.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.94.0.0/17
@@ -703,6 +707,7 @@ cnf-proxy.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON
 cnf-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 34.240.0.0/13
 cnf-proxy.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 community.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.30.0.0/15
+confidence-engine.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 connect.labs.sophos.com AS13768 AS13768 - APTUM TECHNOLOGIES CA 64.69.64.0/19
 content-filtering.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 core-cloudstation-eu-central-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.58.0.0/15
@@ -727,8 +732,6 @@ cqxv0fo5.cloudstation.us-east-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.C
 cswitch-alerts-cloudstation-eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.194.0.0/15
 cswitch-alerts.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.194.0.0/15
 cswitch-alerts.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 35.156.0.0/14
-cswitch-alerts-cloudstation-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
-cswitch-alerts.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 cswitch-alerts-cloudstation-eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.48.0.0/14
 cswitch-alerts.cloudstation.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.48.0.0/14
 cswitch-alerts-cloudstation-us-east-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 3.132.0.0/14
@@ -843,7 +846,6 @@ dev-expogfrt.api.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.73.0.0/16
 dev.hmr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 dev-id.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.40.0/21
 dev.myutm.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
-dev.staysafe.sophos.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
 di3slo0s.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.93.128.0/17
 diagnostics.firewalltelemetry.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
 directory-config-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
@@ -864,7 +866,6 @@ directory-config.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 
 directory-config.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
 directory-config.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.192.0/18
 directory-config.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
-dir-integration-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 dir-integration-alt.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 dir-integration-alt.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 65.0.0.0/14
 dir-integration-alt.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.192.0/18
@@ -876,7 +877,6 @@ dir-integration-cloudstation-eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - A
 dir-integration-cloudstation-us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.200.0.0/15
 dir-integration.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.200.0.0/15
 dir-integration.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-dir-integration.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 dir-integration.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 dir-integration.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
 dir-integration.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.192.0/18
@@ -1274,9 +1274,11 @@ firewall-cr-trf.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - A
 firewall-cr-trf-cloudstation-us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.190.0.0/16
 firewall-cr-trf.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.190.0.0/16
 firewall-monitor-alt.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.66.128.0/17
+firewall-monitor-alt.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.0.0/17
 firewall-monitor-alt.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 firewall-monitor-alt.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 firewall-monitor.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.66.128.0/17
+firewall-monitor.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 firewall-monitor.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.65.0.0/16
 firewall-monitor.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 firewallsizing-internal.sophos.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
@@ -1369,6 +1371,7 @@ fwcm-legacy-ui-alt.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. U
 fwcm-legacy-ui-alt.stn030hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.196.0.0/14
 fwcm-legacy-ui-alt.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 fwcm-legacy-ui-alt.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+fwcm-legacy-ui-alt.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 fwcm-legacy-ui-alt.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 fwcm-legacy-ui-alt.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 fwcm-legacy-ui.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
@@ -1390,6 +1393,7 @@ fwcm-legacy-ui.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18
 fwcm-legacy-ui.stn030hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.150.0.0/16
 fwcm-legacy-ui.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
 fwcm-legacy-ui.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+fwcm-legacy-ui.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 fwcm-legacy-ui.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.210.0.0/15
 fwcm-legacy-ui.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 fwcm-proxy.cloudstation.ca-central-1.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
@@ -1422,6 +1426,7 @@ g7y97yus.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 3.98.0.0/
 g8pxk684.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
 g8ueey9f.stn030hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.112.0.0/14
 g8y3lnpx.cloudstation.us-east-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.116.0.0/14
+g92i556y.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.222.0.0/15
 gb0da3hp.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.58.0.0/15
 gbmxodcs.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.229.0.0/17
 gbo6f3xk.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
@@ -1440,6 +1445,7 @@ goznjzkb.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0
 gpk2it5j.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 gr11vkxj.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.194.0.0/16
 gra4s8vm.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+group-config-manager.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 grza2jgn.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 gthckhb9.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.74.0.0/15
 gw4h7oka.cloudstation.us-east-1.inf.hydra.sophos.com AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
@@ -1506,6 +1512,7 @@ identities.cloudhub.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM
 identities-cloudhub-eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 identities.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 id.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.204.0/22
+ieu51vqg.stn010pdx.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 ifk98enr.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 ig1hxnao.cloudstation.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 ig99fa96.cloudhub.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
@@ -1546,7 +1553,9 @@ impersonation.stn100syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.
 inb9psbe.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.229.128.0/17
 inf.hmr.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.208.0.0/13
 informatica-adapter-cloudhub-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+integration-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.222.0.0/15
 integration.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+integration.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.222.0.0/15
 intelix.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 internal.analysis.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.132.0.0/14
 investors.sophos.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.217.144.0/20
@@ -1556,6 +1565,7 @@ iqdbihd3.ap-northeast-1.qa.o365.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US
 ishu-test-a-cloudstation-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 34.248.0.0/13
 ishu-test-a.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.229.128.0/17
 itazioxt.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
+itsurypd.stn100hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.248.128.0/17
 iuq6qnlw.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 iv1jiuip.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
 ixmjslnp.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.73.0.0/16
@@ -1606,6 +1616,7 @@ jzqutb2k.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.CO
 k144ht7q.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 k2cjr5k6.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.192.0.0/15
 k5g4mcpn.cloudstation.us-west-2.dev3.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+k5goo5vk.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
 k8820z99.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 k9ay3s43.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 k9lyvji0.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
@@ -1625,6 +1636,7 @@ kmgoqqkc.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.
 ko7ajmsn.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.194.0.0/15
 ko9ncmhj.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.67.0.0/16
 kolide-fleet.dev7.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.208.0.0/13
+kpmxjy2p.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 kqry10sa.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 kwqmvze3.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 kyobl6px.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
@@ -1828,6 +1840,7 @@ malsich2.cloudhub.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, I
 mb49z9v6.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.231.0.0/16
 mbq6k96m.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 mbv9d494.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+mdr-agent-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16
 me2fr96h.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.66.128.0/17
 message-history.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
 messaging-router.cloudhub.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
@@ -1987,7 +2000,7 @@ packages.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 partner-billing-alt.hub010pdx.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 partner-billing.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
 partner-billing.hub010pdx.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
-partnernews.sophos.com AS2635 AS2635 - AUTOMATTIC INC US 192.0.66.0/24
+partnernews.sophos.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
 partnerportal.sophos.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
 partnerportal.sophos.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.217.144.0/20
 partners.sophos.com AS13649 AS13649 - FLEXENTIAL COLORADO CORP. US 209.170.205.0/24
@@ -2255,6 +2268,7 @@ report-scheduler-alt.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC.
 report-scheduler-alt.stn030hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.112.0.0/14
 report-scheduler-alt.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
 report-scheduler-alt.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.192.0/18
+report-scheduler-alt.stn100hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.196.0.0/14
 report-scheduler.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
 report-scheduler-cloudstation-us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 report-scheduler.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
@@ -2262,6 +2276,7 @@ report-scheduler.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 
 report-scheduler.stn030hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.112.0.0/14
 report-scheduler.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
 report-scheduler.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.192.0/18
+report-scheduler.stn100hnd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.248.128.0/17
 reports-provider-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 99.79.0.0/16
 reports-provider-alt.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.104.0.0/14
 reports-provider-alt.stn100yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.98.0.0/15
@@ -2287,6 +2302,7 @@ rl5ouswh.stn100bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.66.12
 rlg66wvu.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.154.0.0/16
 rlk6a0ew.cloudstation.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.76.0.0/15
 rm47cbgu.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
+rmi005lb.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 rmmx6ybk.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.184.0.0/15
 rmvmvara.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
 rna.labs.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
@@ -2474,7 +2490,7 @@ staging.analysis.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 3.8.0.0/14
 staging-id.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.230.160.0/22
 staging.sandbox.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.168.0.0/14
 status.sophos.com AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.246.0/24
-staysafe.sophos.com AS2635 AS2635 - AUTOMATTIC INC US 192.0.66.0/24
+staysafe.sophos.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
 stl4tv69.cloudstation.eu-central-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 storage-accounting-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 storage-accounting-alt.stn030bom.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
@@ -2498,6 +2514,7 @@ support.home.sophos.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
 support-portal.cloudhub.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
 support-portal-cloudhub-eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 52.208.0.0/13
 support-portal.cloudhub.eu-west-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.170.0.0/16
+support.red.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
 support.sophos.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.108.0.0/15
 sx2brevd.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
 syseryb5.cloudstation.eu-west-1.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
@@ -2592,7 +2609,7 @@ test-policy.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZ
 test-policy.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
 test-policy.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 test-policy.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.182.0.0/15
-testsupport.red.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
+testsupport.red.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
 test-template-sl.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 tf-import-demo-ms-1-alt.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 15.222.0.0/16
 tf-import-demo-ms-1-cloudstation-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
@@ -2779,6 +2796,7 @@ w57fnkim.cloudstation.us-east-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.C
 w5rebgfe.cloudstation.us-east-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.14.0.0/15
 w5wt3s7q.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.196.0.0/15
 w5wt3s7q.cloudstation.eu-west-1.inf.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 3.124.0.0/14
+w9p58nyv.stn100gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.232.0.0/17
 wbfvyxoi.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 wcztbo9u.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
 wg8cc891.stn030syd.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.65.0.0/16

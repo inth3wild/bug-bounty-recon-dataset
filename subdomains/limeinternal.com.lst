@@ -6,6 +6,7 @@ data-entrypoint-api.limeinternal.com
 data-entrypoint-api-staging.limeinternal.com
 data.limeinternal.com
 data-staging.limeinternal.com
+defectdojo.limeinternal.com
 golden-airflow.limeinternal.com
 golden-airflow-mwaa.limeinternal.com
 limeinternal.com

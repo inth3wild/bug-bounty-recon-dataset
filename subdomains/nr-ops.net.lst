@@ -1311,9 +1311,13 @@ vpn-nat.fw02.ord4.us.nr-ops.net
 wildcard.rpm-branch.nr-ops.net
 wonderful-lederberg.cell.us.nr-ops.net
 worker.nrdb.nr-ops.net
+www1.vault-test.r10.us.nr-ops.net
+www2.vault-test.r10.us.nr-ops.net
+www3.vault-test.r10.us.nr-ops.net
 www.ldap-provider.svc.us.nr-ops.net
 www.rpm-branch.nr-ops.net
 www-staging.awsdev.nr-ops.net
+www.vault-test.r10.us.nr-ops.net
 xe-0-0-2--5.br01.ord6.us.nr-ops.net
 xe-0-0-2--5.br01.ord.us.nr-ops.net
 xe-0-0-2--5.br02.ord6.us.nr-ops.net

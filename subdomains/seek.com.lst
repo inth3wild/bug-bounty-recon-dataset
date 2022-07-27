@@ -508,6 +508,12 @@ udcyf.sg-dev.seek.com
 udcy.sg-dev.seek.com
 unified.seek.com
 unified.staging.seek.com
+url.jobsdb.unified.s.seek.com
+url.jobstreet.unified.s.seek.com
+url.recs.jobsdb.unified.s.seek.com
+url.recs.jobstreet.unified.s.seek.com
+url.search.jobsdb.unified.s.seek.com
+url.search.jobstreet.unified.s.seek.com
 v1-api.rr.seek.com
 v1.api-sg.rr.seek.com
 vice.cloud.seek.com

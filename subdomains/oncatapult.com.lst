@@ -56,6 +56,10 @@ analytics-gateway-prod-analytics.fallguys.oncatapult.com
 analytics-gateway-prod.fallguys.oncatapult.com
 analytics-gateway-testci-2.fallguys-dev.oncatapult.com
 ben-test.bagpipes-proto.oncatapult.com
+build-app-dev.tools.oncatapult.com
+build-app-prod.tools.oncatapult.com
+build-app-stgeven.tools.oncatapult.com
+build-app-stgodd.tools.oncatapult.com
 buildlogsportal.tools.oncatapult.com
 core-gateway-testci.catapult-dev.oncatapult.com
 dev2.cms-dev.oncatapult.com

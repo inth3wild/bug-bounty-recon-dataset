@@ -283,6 +283,12 @@
 [https] udcyf.sg-dev.seek.com:443
 [https] udcy.sg-dev.seek.com:443
 [https] unified.seek.com:443
+[https] url.jobsdb.unified.s.seek.com:443
+[https] url.jobstreet.unified.s.seek.com:443
+[https] url.recs.jobsdb.unified.s.seek.com:443
+[https] url.recs.jobstreet.unified.s.seek.com:443
+[https] url.search.jobsdb.unified.s.seek.com:443
+[https] url.search.jobstreet.unified.s.seek.com:443
 [https] wildcard.sg.seek.com:443
 [https] www.seek.com:443
 [https] www.staging.seek.com:443
@@ -294,6 +300,12 @@
 [http] udcyf.sg-dev.seek.com:80
 [http] udcy.sg-dev.seek.com:80
 [http] unified.seek.com:80
+[http] url.jobsdb.unified.s.seek.com:80
+[http] url.jobstreet.unified.s.seek.com:80
+[http] url.recs.jobsdb.unified.s.seek.com:80
+[http] url.recs.jobstreet.unified.s.seek.com:80
+[http] url.search.jobsdb.unified.s.seek.com:80
+[http] url.search.jobstreet.unified.s.seek.com:80
 [http] wildcard.sg.seek.com:80
 [http] www.seek.com:80
 [http] www.staging.seek.com:80

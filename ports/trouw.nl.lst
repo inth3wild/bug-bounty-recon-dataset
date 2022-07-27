@@ -40,12 +40,14 @@
 [https] video.trouw.nl:443
 [https] web.trouw.nl:443
 [https] webwinkel.trouw.nl:443
+[https] wedstrijd.trouw.nl:443
 [https] www.trouw.nl:443
 [http] t.trouw.nl:80
 [http] verhalen.trouw.nl:80
 [http] video.trouw.nl:80
 [http] web.trouw.nl:80
 [http] webwinkel.trouw.nl:80
+[http] wedstrijd.trouw.nl:80
 [http] www.trouw.nl:80
 [ntp] krant.trouw.nl:123
 [smtp] pmail.trouw.nl:25

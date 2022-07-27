@@ -37,7 +37,9 @@ prod.p02sjc.pod.rockstargames.com AS46555 AS46555 - TAKE-TWO INTERACTIVE SOFTWAR
 rage-catalog-cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
 rage.hosted.cloud.rockstargames.com AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 69.28.128.0/18
 rage-locator-cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
+scui.rockstargames.com AS46555 AS46555 - TAKE-TWO INTERACTIVE SOFTWARE, INC. US 104.255.105.0/24
 sentryingest.rockstargames.com AS394977 AS394977 - TAKE-TWO INTERACTIVE SOFTWARE, INC. US 209.204.244.0/24
+socialclub.rockstargames.com AS46555 AS46555 - TAKE-TWO INTERACTIVE SOFTWARE, INC. US 104.255.105.0/24
 stage-cert-catalog-cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
 stage-cert.hosted.cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
 stage-cert-locator-cloud.rockstargames.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20

@@ -1,6 +1,7 @@
 [cddbp-alt] auth.prime.blockfi.com:8880
 [cddbp-alt] blockfi.com:8880
 [cddbp-alt] help.blockfi.com:8880
+[clearvisn] help.blockfi.com:2052
 [eli] auth.prime.blockfi.com:2087
 [eli] blockfi.com:2087
 [eli] help.blockfi.com:2087
@@ -185,6 +186,8 @@
 [infowave] auth.prime.blockfi.com:2082
 [infowave] blockfi.com:2082
 [infowave] help.blockfi.com:2082
+[knetd] help.blockfi.com:2053
+[nbx-dir] help.blockfi.com:2096
 [radsec] auth.prime.blockfi.com:2083
 [radsec] blockfi.com:2083
 [radsec] help.blockfi.com:2083

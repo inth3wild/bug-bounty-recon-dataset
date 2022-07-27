@@ -836,6 +836,7 @@ http://edgedemo-icc.att.com:8008
 http://edp.att.com
 http://edp.att.com:8080
 http://eds-aldc-dw3.wireless.att.com:8081
+http://eds-aldc-tw8.wireless.att.com:1080
 http://eds-aldc-tw8.wireless.att.com:8081
 http://eds-aldc-tw9.wireless.att.com:8081
 http://eds-ffdc-pw19.wireless.att.com:8081
@@ -4625,6 +4626,7 @@ https://tusupport-nprd.az.cloud.att.com
 https://tutechservices.att.com
 https://tutkb.att.com
 https://tutrainenv.att.com
+https://tutrainenvdev.att.com
 https://tuvcpagebuilder.att.com
 https://tuxr.att.com
 https://tvideo.att.com
@@ -5456,6 +5458,7 @@ http://tusupport-ext.att.com
 http://tutechservices.att.com
 http://tutkb.att.com
 http://tutrainenv.att.com
+http://tutrainenvdev.att.com
 http://tuvcpagebuilder.att.com
 http://tuxr.att.com
 http://tvideo.att.com

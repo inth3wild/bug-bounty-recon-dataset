@@ -107,6 +107,12 @@ test.test.sg-dev.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
 udcyf.sg-dev.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 udcy.sg-dev.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 unified.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+url.jobsdb.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
+url.jobstreet.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
+url.recs.jobsdb.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.122.0/23
+url.recs.jobstreet.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
+url.search.jobsdb.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
+url.search.jobstreet.unified.s.seek.com AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
 wildcard.sg.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
 www.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
 www.staging.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
