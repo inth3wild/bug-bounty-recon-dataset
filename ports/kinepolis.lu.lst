@@ -12,3 +12,5 @@
 [https] kinepolis.lu:443
 [https] saint-nicolas.kinepolis.lu:443
 [https] shop-dev.kinepolis.lu:443
+[https] tickets.kinepolis.lu:443
+[http] tickets.kinepolis.lu:80

@@ -525,6 +525,7 @@ http://bugbounty.test.att.com
 http://businesscarecentral.att.com
 http://businesscenter.att.com
 http://businesscenterlearning.att.com
+http://businesscenterlearningdev.att.com
 http://businessdirect.att.com
 http://busmsgr.att.com
 http://bussalesret.att.com
@@ -2197,6 +2198,7 @@ https://bugbounty.att.com
 https://bugbounty.test.att.com
 https://businesscenter.att.com
 https://businesscenterlearning.att.com
+https://businesscenterlearningdev.att.com
 https://businessdirect.att.com
 https://busmsgr.att.com
 https://busreports.att.com
@@ -4219,6 +4221,7 @@ https://se.att.com
 https://secure-az-e.att.com
 https://secure-az-e.stage.att.com
 https://secure-az-qc.test.att.com
+https://secure-az-qc-test-e.cloud.att.com
 https://securedocs.wireless.att.com
 https://secure-east-e.att.com
 https://secure-east-e.stage.att.com
@@ -5272,10 +5275,12 @@ https://xaaf-st-stage.att.com
 https://xandrlearning.att.com
 https://xcontent.stage.att.com
 https://xcontent.test.att.com
+https://xdmacg.wireless.labops.att.com
 https://xdmacsan.wireless.labs.att.com
 https://xdmac.wireless.labs.att.com
 https://xdmakronffa.wireless.att.com
 https://xdmarg.wireless.att.com
+https://xdmarg.wireless.labops.att.com
 https://xdmar.wireless.att.com
 https://xdmar.wireless.labs.att.com
 https://xdmbc.wireless.labs.att.com

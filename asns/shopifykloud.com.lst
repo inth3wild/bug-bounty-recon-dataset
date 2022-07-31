@@ -169,6 +169,7 @@ presto-testing-scheduled-a.k8s-exp.shopifykloud.com AS396982 AS396982 - GOOGLE L
 presto-testing-scheduled-b.k8s-exp.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 production.notebooks.shopifykloud.com AS15169 AS15169 - GOOGLE LLC US 34.64.0.0/14
 refinery-presto-shared.data-acq.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+roas-detokenization-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 russ-sp-reconciliation-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 130.211.224.0/20
 scripts-pipeline-failure-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15

@@ -51,3 +51,4 @@
 [http] www.trouw.nl:80
 [ntp] krant.trouw.nl:123
 [smtp] pmail.trouw.nl:25
+[uucp-rlogin] pmail.trouw.nl:541

@@ -27,6 +27,7 @@
 [http] docs.coindcx.com:80
 [http] exchange.coindcx.com:80
 [http] go.coindcx.com:80
+[http] helpdesk.coindcx.com:80
 [http] hft-api.coindcx.com:80
 [http] images.staging-api.coindcx.com:80
 [http] info.coindcx.com:80
@@ -85,6 +86,7 @@
 [http] sg.coindcx.com:80
 [https] go.coindcx.com:443
 [http] share.coindcx.com:80
+[https] helpdesk.coindcx.com:443
 [https] hft-api.coindcx.com:443
 [https] images.staging-api.coindcx.com:443
 [https] info.coindcx.com:443

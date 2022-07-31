@@ -1084,6 +1084,7 @@ stg-peaceful-gauss.cell.us.nr-ops.net
 stg-popular-art.cell.us.nr-ops.net
 stg-purple-price.cell.us.nr-ops.net
 stg-quick-horse.cell.us.nr-ops.net
+stg-quiet-suburb.cell.us.nr-ops.net
 stg-rigid-noise.cell.us.nr-ops.net
 stg-rose-glass.cell.us.nr-ops.net
 stg-rosy-beach.cell.us.nr-ops.net
@@ -1149,6 +1150,8 @@ test-optimistic-benz.cell.us.nr-ops.net
 test-orange-winter.cell.us.nr-ops.net
 test-pesky-guitar.cell.us.nr-ops.net
 test-rare-quill.cell.us.nr-ops.net
+test-san1.r10.us.nr-ops.net
+test-san2.r10.eu.nr-ops.net
 test-scary-orange.cell.us.nr-ops.net
 test-tan-spot.cell.us.nr-ops.net
 test-tiny-car.cell.us.nr-ops.net

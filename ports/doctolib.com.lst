@@ -87,6 +87,7 @@
 [http] m-staging.doctolib.com:80
 [http] mta-sts.doctolib.com:80
 [http] news.doctolib.com:80
+[http] pro-app.doctolib.com:80
 [http] pro-dev.doctolib.com:80
 [http] pro-staging.doctolib.com:80
 [http-proxy] agenda-dev.doctolib.com:8080
@@ -156,6 +157,7 @@
 [https] m-staging.doctolib.com:443
 [https] mta-sts.doctolib.com:443
 [https] news.doctolib.com:443
+[https] pro-app.doctolib.com:443
 [https] pro-dev.doctolib.com:443
 [https] pro-staging.doctolib.com:443
 [https] rs.doctolib.com:443

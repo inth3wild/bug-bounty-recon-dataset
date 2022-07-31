@@ -12,6 +12,7 @@
 [gnunet] developer.scopely.com:2086
 [gnunet] docs.playgami.scopely.com:2086
 [http] autodiscover.scopely.com:80
+[http] boundless-sre-sd.scopely.com:80
 [http] calendar.scopely.com:80
 [http] cdn2.scopely.com:80
 [http] codereview.scopely.com:80
@@ -53,6 +54,7 @@
 [http-proxy] docs.playgami.scopely.com:8080
 [https-alt] developer.scopely.com:8443
 [https-alt] docs.playgami.scopely.com:8443
+[https] boundless-sre-sd.scopely.com:443
 [https] calendar.scopely.com:443
 [https] cdn2.scopely.com:443
 [https] codereview.scopely.com:443

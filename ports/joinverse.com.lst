@@ -137,7 +137,9 @@
 [jetdirect] webhooks.api.joinverse.com:9100
 [jetdirect] www.ambassadors.joinverse.com:9100
 [jetdirect] www.joinverse.com:9100
+[kme-trap-port] pics.joinverse.com:2081
 [memcache] bitpanda.api.joinverse.com:11211
+[memcache] pics.joinverse.com:11211
 [mit-ml-dev] ambassadors.joinverse.com:83
 [mit-ml-dev] ambassadors.joinverse.com:85
 [mit-ml-dev] app.joinverse.com:83
@@ -186,6 +188,8 @@
 [ndmps] webhooks.api.joinverse.com:30000
 [ndmps] www.ambassadors.joinverse.com:30000
 [ndmps] www.joinverse.com:30000
+[nntp] pics.joinverse.com:119
+[oa-system] pics.joinverse.com:8022
 [opsmessaging] ambassadors.joinverse.com:8090
 [opsmessaging] app.joinverse.com:8090
 [opsmessaging] bitpanda.api.joinverse.com:8090

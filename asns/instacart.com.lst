@@ -82,6 +82,7 @@ eataly.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/2
 edge4.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 elahorrosupermarket.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
 el-super.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+email.research.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 erewhon.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 erewhon.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 extramile-by-jacksons.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -301,6 +302,7 @@ shoppers.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 shopthepig.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 smartandfinal.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 smart-final.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+smiths-delivery-now.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 specs.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
 specs.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 spirit-halloween.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

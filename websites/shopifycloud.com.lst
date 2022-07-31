@@ -151,6 +151,7 @@ http://arrive-server-production-web-internal-apps-a-us-east1-4.shopifycloud.com
 http://arrive-server.secure-elasticsearch.arrive-server-production.shopifycloud.com
 http://arrive-server.shopifycloud.com
 http://arrive-server-splainer.shopifycloud.com
+http://arrive-server-staging-lqmn.shopifycloud.com
 http://arrive-server-staging.shopifycloud.com
 http://arrive-server-staging-web-apps-b-us-central1-4.shopifycloud.com
 http://arrive-server-staging-web-internal-apps-b-us-central1-4.shopifycloud.com
@@ -538,6 +539,7 @@ http://cloud-portal-data-platform-a-us-east1-1.shopifycloud.com
 http://cloud-portal-es-apps-a-us-central1-2.shopifycloud.com
 http://cloud-portal-es-apps-a-us-east1-2.shopifycloud.com
 http://cloud-portal-es-apps-b-us-central1-2.shopifycloud.com
+http://cloud-portal-es-apps-b-us-ea1-on43.shopifycloud.com
 http://cloud-portal-es-apps-b-us-east1-1.shopifycloud.com
 http://cloud-portal-es-apps-na-ne1-1.shopifycloud.com
 http://cloud-portal-genghis-us-central1-1.shopifycloud.com
@@ -1707,6 +1709,7 @@ http://linkpop.shopifycloud.com
 http://linkpop-staging-1dg7.shopifycloud.com
 http://linkpop-staging-2.shopifycloud.com
 http://linkpop-staging.shopifycloud.com
+http://linkpop-user-segments.streamlit-service.shopifycloud.com
 http://linkpop-web.shopifycloud.com
 http://lmlb5.kibana.shopifycloud.com
 http://lm-splunk-us-east4-a-1.shopifycloud.com
@@ -1738,9 +1741,11 @@ http://maedmin-production-unrestricted-h-eyvzxzrq-apps-b-us-central1-9.shopifycl
 http://maedmin.shopifycloud.com
 http://maedmin-staging.shopifycloud.com
 http://maestro-service-benchmark.shopifycloud.com
+http://maestro-service-production-canary.shopifycloud.com
 http://maestro-service.shopifycloud.com
 http://maestro-service-staging.shopifycloud.com
 http://maestro-service-synload-benchmark.shopifycloud.com
+http://maestro-service-synload-production-canary.shopifycloud.com
 http://maestro-service-synload.shopifycloud.com
 http://maestro-service-synload-staging-canary.shopifycloud.com
 http://maestro-service-synload-staging.shopifycloud.com
@@ -1795,6 +1800,7 @@ http://mc-partner-node-app.shopifycloud.com
 http://mc-partner-store.shopifycloud.com
 http://mdp-poc.shopifycloud.com
 http://megswim-test.shopifycloud.com
+http://melody-client.shopifycloud.com
 http://melody.shopifycloud.com
 http://memeify.shopifycloud.com
 http://merchant-acceleration-production-web-apps-a-us-east1-6.shopifycloud.com
@@ -1844,6 +1850,7 @@ http://metadata-catalog.shopifycloud.com
 http://metadata-catalog-staging-se0h.shopifycloud.com
 http://metadata-catalog-staging.shopifycloud.com
 http://metric-cost-analysis.shopifycloud.com
+http://metrics-by-sq.streamlit-service.shopifycloud.com
 http://michel-app-test-es7--kibana-es-staging-us-central1-1.shopifycloud.com
 http://michel-async-translog-test--el-ycuf2rkx-es-apps-b-us-central1-2.shopifycloud.com
 http://michel-async-translog-test--kibana-es-apps-b-us-central1-2.shopifycloud.com
@@ -1900,6 +1907,7 @@ http://mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unre
 http://mock-marketing-app-rails-production-web-apps-b-us-east1-7.shopifycloud.com
 http://mock-marketing-app-rails.shopifycloud.com
 http://mode-analytics-extractor.shopifycloud.com
+http://moi-boston-example.shopifycloud.com
 http://moi-comet-model.shopifycloud.com
 http://moi-isaac-repo.shopifycloud.com
 http://moi-prototype.shopifycloud.com
@@ -2257,6 +2265,7 @@ http://poozle.es-jkiov.shopifycloud.com
 http://poozle.es-t5loz.shopifycloud.com
 http://poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com
 http://poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com
+http://poozle.poozle-production-unrestricted.es-apps-a-us-ce1-pa35.elasticsearch.shopifycloud.com
 http://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
 http://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
 http://poozle.poozle-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
@@ -2282,6 +2291,7 @@ http://pos-compliance-server-production--e34alhvx-apps-a-us-central1-3.shopifycl
 http://pos-compliance-server.shopifycloud.com
 http://pos-compliance-server-staging.shopifycloud.com
 http://postfacto-demo.shopifycloud.com
+http://postman-tool-app.streamlit-service.shopifycloud.com
 http://pricing-plan-simulator.streamlit-service.shopifycloud.com
 http://privacy-banner.shopifycloud.com
 http://privacy-banner-staging.shopifycloud.com
@@ -2295,6 +2305,7 @@ http://probot-shopify.shopifycloud.com
 http://prodex-game-day-2021.shopifycloud.com
 http://production-change-visualization.shopifycloud.com
 http://production-deploys-demo-app.shopifycloud.com
+http://production-offer-elig-1-unrestricted-vbm6.shopifycloud.com
 http://production-platform-productio-htaqtz65-management-us-central1-3.shopifycloud.com
 http://production-platform-productio-htaqtz65-management-us-central1-3.shopifycloud.com:8080
 http://production-platform-production-unrestricted-i0.shopifycloud.com
@@ -2661,6 +2672,7 @@ https://arrive-server-production-web-internal-apps-a-us-east1-4.shopifycloud.com
 https://arrive-server.secure-elasticsearch.arrive-server-production.shopifycloud.com
 https://arrive-server.shopifycloud.com
 https://arrive-server-splainer.shopifycloud.com
+https://arrive-server-staging-lqmn.shopifycloud.com
 https://arrive-server-staging.shopifycloud.com
 https://arrive-server-staging-web-apps-b-us-central1-4.shopifycloud.com
 https://arrive-server-staging-web-internal-apps-b-us-central1-4.shopifycloud.com
@@ -4581,6 +4593,7 @@ https://linkpop.shopifycloud.com
 https://linkpop-staging-1dg7.shopifycloud.com
 https://linkpop-staging-2.shopifycloud.com
 https://linkpop-staging.shopifycloud.com
+https://linkpop-user-segments.streamlit-service.shopifycloud.com
 https://linkpop-web.shopifycloud.com
 http://slinky-server-production-unrestricte-2rosf4mh-apps-b-us-east1-9.shopifycloud.com
 http://slinky-server.shopifycloud.com
@@ -4614,9 +4627,11 @@ https://maedmin-production-unrestricted-h-eyvzxzrq-apps-b-us-central1-9.shopifyc
 https://maedmin.shopifycloud.com
 https://maedmin-staging.shopifycloud.com
 https://maestro-service-benchmark.shopifycloud.com
+https://maestro-service-production-canary.shopifycloud.com
 https://maestro-service.shopifycloud.com
 https://maestro-service-staging.shopifycloud.com
 https://maestro-service-synload-benchmark.shopifycloud.com
+https://maestro-service-synload-production-canary.shopifycloud.com
 https://maestro-service-synload.shopifycloud.com
 https://maestro-service-synload-staging-canary.shopifycloud.com
 https://maestro-service-synload-staging.shopifycloud.com
@@ -4672,6 +4687,7 @@ https://mc-partner-node-app.shopifycloud.com
 https://mc-partner-store.shopifycloud.com
 https://mdp-poc.shopifycloud.com
 https://megswim-test.shopifycloud.com
+https://melody-client.shopifycloud.com
 https://melody.shopifycloud.com
 https://memeify.shopifycloud.com
 https://merchant-acceleration-production-web-apps-a-us-east1-6.shopifycloud.com
@@ -4721,6 +4737,7 @@ https://metadata-catalog.shopifycloud.com
 https://metadata-catalog-staging-se0h.shopifycloud.com
 https://metadata-catalog-staging.shopifycloud.com
 https://metric-cost-analysis.shopifycloud.com
+https://metrics-by-sq.streamlit-service.shopifycloud.com
 https://michel-async-translog-test--el-ycuf2rkx-es-apps-b-us-central1-2.shopifycloud.com
 https://michel-async-translog-test--kibana-es-apps-b-us-central1-2.shopifycloud.com
 https://michel-michel-test--elasticsearch-es-staging-us-east1-1.shopifycloud.com
@@ -4777,6 +4794,7 @@ https://mobility-test-app-stg.secure-elasticsearch.mobility-test-app-staging-unr
 https://mock-marketing-app-rails-production-web-apps-b-us-east1-7.shopifycloud.com
 https://mock-marketing-app-rails.shopifycloud.com
 https://mode-analytics-extractor.shopifycloud.com
+https://moi-boston-example.shopifycloud.com
 https://moi-comet-model.shopifycloud.com
 https://moi-isaac-repo.shopifycloud.com
 https://moi-prototype.shopifycloud.com
@@ -5203,6 +5221,7 @@ https://poozle.es-jkiov.shopifycloud.com
 https://poozle.es-t5loz.shopifycloud.com
 https://poozle.kibana.i0.production-unrestricted.poozle.shopifycloud.com
 https://poozle.kibana.i0.staging-unrestricted.poozle.shopifycloud.com
+https://poozle.poozle-production-unrestricted.es-apps-a-us-ce1-pa35.elasticsearch.shopifycloud.com
 https://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.elasticsearch.shopifycloud.com
 https://poozle.poozle-production-unrestricted.es-apps-a-us-central1-2.kibana.shopifycloud.com
 https://poozle.poozle-staging-unrestricted.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
@@ -5230,6 +5249,7 @@ https://pos-compliance-server-production--e34alhvx-apps-a-us-central1-3.shopifyc
 https://pos-compliance-server.shopifycloud.com
 https://pos-compliance-server-staging.shopifycloud.com
 https://postfacto-demo.shopifycloud.com
+https://postman-tool-app.streamlit-service.shopifycloud.com
 https://pricing-plan-simulator.streamlit-service.shopifycloud.com
 https://privacy-banner.shopifycloud.com
 https://privacy-banner-staging.shopifycloud.com
@@ -5243,6 +5263,7 @@ https://probot-shopify.shopifycloud.com
 https://prodex-game-day-2021.shopifycloud.com
 https://production-change-visualization.shopifycloud.com
 https://production-deploys-demo-app.shopifycloud.com
+https://production-offer-elig-1-unrestricted-vbm6.shopifycloud.com
 https://production-platform-productio-htaqtz65-management-us-central1-3.shopifycloud.com
 https://production-platform-production-unrestricted-i0.shopifycloud.com
 https://production-platform-production-unrestricted-i1.shopifycloud.com
@@ -5919,6 +5940,8 @@ https://spy-v2.shopifycloud.com
 https://spy-v2-staging.shopifycloud.com
 https://spy-v2-staging-unrestricted-slack-api-apps-b-us-central1-8.shopifycloud.com
 https://ssew-test.shopifycloud.com
+https://staging-abandonment-ppln-unrestricted-49jr.shopifycloud.com
+https://staging-unrestricted-kwca.shopifycloud.com
 https://stargazer.growth-labs.shopifycloud.com
 https://starmix.growth-labs.shopifycloud.com
 https://starmix-v2.growth-labs.shopifycloud.com
@@ -6008,6 +6031,8 @@ https://support-solutions.secure-elasticsearch.support-solutions-production-unre
 https://support-solutions.shopifycloud.com
 https://switch-production-unrestricted-v3ge-web-apps-b-us-central1-8.shopifycloud.com
 https://switch.shopifycloud.com
+http://staging-abandonment-ppln-unrestricted-49jr.shopifycloud.com
+http://staging-unrestricted-kwca.shopifycloud.com
 https://taid-workload-simulator.shopifycloud.com
 https://taler-production-unrestricted-web-admin-apps-a-us-central1-7.shopifycloud.com
 https://taler-production-unrestricted-web-apps-a-us-central1-7.shopifycloud.com
@@ -6196,6 +6221,7 @@ https://trickle-production-platform-demo.flink.shopifycloud.com
 https://trickle-production-platform-demo-runtime.flink.shopifycloud.com
 https://trickle-production-platform-demo-staging.flink.shopifycloud.com
 https://trickle-production-platform-demo-staging.shopifycloud.com
+https://trickle-production-unrestricted-rske.shopifycloud.com
 https://trickle-staging-unrestricted-8l0g.shopifycloud.com
 https://tricorder.shopifycloud.com
 https://tricorn.shopifycloud.com
@@ -6564,6 +6590,7 @@ http://trickle-production-platform-demo.flink.shopifycloud.com
 http://trickle-production-platform-demo-runtime.flink.shopifycloud.com
 http://trickle-production-platform-demo-staging.flink.shopifycloud.com
 http://trickle-production-platform-demo-staging.shopifycloud.com
+http://trickle-production-unrestricted-rske.shopifycloud.com
 http://trickle-staging-unrestricted-8l0g.shopifycloud.com
 http://tricorder.shopifycloud.com
 http://tricorn.shopifycloud.com

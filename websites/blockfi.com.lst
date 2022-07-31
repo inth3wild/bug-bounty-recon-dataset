@@ -72,6 +72,7 @@ https://alertmanager-prod.blockfi.com
 https://api.blockfi.com
 https://api.blockfi.com:8443
 https://api.mkt.blockfi.com
+https://api.shield-sandbox.aws.blockfi.com
 https://api.ss229.shield-sandbox.aws.blockfi.com
 https://app.blockfi.com
 https://app.blockfi.com:8443
@@ -108,6 +109,7 @@ https://fbcbh.csr.shield-sandbox.aws.blockfi.com
 https://fbcbh.pen-test.shield-sandbox.aws.blockfi.com
 https://fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com
 https://fbcbh.ss332.shield-sandbox.aws.blockfi.com
+https://fbcbh.vis591b.shield-sandbox.aws.blockfi.com
 https://ffs.blockfi.com
 https://ffs-prod.blockfi.com
 https://grafana.blockfi.com
@@ -168,6 +170,8 @@ https://virtru-cks.blockfi.com
 https://virtru-cks.blockfi.com:8443
 https://vis1013.shield-sandbox.aws.blockfi.com
 https://vis1032.shield-sandbox.aws.blockfi.com
+https://vis591b.shield-sandbox.aws.blockfi.com
+https://vis591.shield-sandbox.aws.blockfi.com
 https://vis-661.shield-sandbox.aws.blockfi.com
 https://vis880.shield-sandbox.aws.blockfi.com
 https://vis930.shield-sandbox.aws.blockfi.com
@@ -190,6 +194,8 @@ http://virtru-cks.blockfi.com
 http://virtru-cks.blockfi.com:8080
 http://vis1013.shield-sandbox.aws.blockfi.com
 http://vis1032.shield-sandbox.aws.blockfi.com
+http://vis591b.shield-sandbox.aws.blockfi.com
+http://vis591.shield-sandbox.aws.blockfi.com
 http://vis-661.shield-sandbox.aws.blockfi.com
 http://vis880.shield-sandbox.aws.blockfi.com
 http://vis930.shield-sandbox.aws.blockfi.com

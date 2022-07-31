@@ -324,6 +324,8 @@ http://groups.shopify.com
 http://growthcenter.shopify.com
 http://g.ssl.shopify.com
 http://g.ssl.shopify.com:8080
+http://hardware-beta.shopify.com
+http://hardware-beta.shopify.com:8080
 http://hardware-new.shopify.com
 http://hardware-new.shopify.com:2082
 http://hardware-new.shopify.com:2083
@@ -941,6 +943,8 @@ https://geolocation-recommendations-staging.shopify.com:8443
 https://growthcenter.shopify.com
 https://g.ssl.shopify.com
 https://g.ssl.shopify.com:8443
+https://hardware-beta.shopify.com
+https://hardware-beta.shopify.com:8443
 https://hardware-new.shopify.com
 https://hardware-returns.shopify.com
 https://hardware-returns.shopify.com:2053

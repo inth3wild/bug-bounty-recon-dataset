@@ -269,6 +269,7 @@
 [http] externalgamma.login.yahoo.com:80
 [http] fantasysports.yahoo.com:80
 [http] fc.yahoo.com:80
+[http] feedback.mobile.yahoo.com:80
 [http] finance.yahoo.com:80
 [http] finanzas.yahoo.com:80
 [http] food.yahoo.com:80
@@ -828,6 +829,7 @@
 [https] externalgamma.login.yahoo.com:443
 [https] fantasysports.yahoo.com:443
 [https] fc.yahoo.com:443
+[https] feedback.mobile.yahoo.com:443
 [https] finance.yahoo.com:443
 [https] finanzas.yahoo.com:443
 [https] food.yahoo.com:443
@@ -1411,6 +1413,7 @@
 [https] vpn1-1-gci.saopaulo.corp.yahoo.com:443
 [https] vpn1-1-gci.sydney.corp.yahoo.com:443
 [https] vpn1-1-ptn.corp.bf1.yahoo.com:443
+[https] vpn1-1-ptn.corp.gq1.yahoo.com:443
 [https] vpn1-1-ptn.corp.tw1.yahoo.com:443
 [https] vpn1-1-ptn.eglbp.corp.yahoo.com:443
 [https] vpn-1-gci.corp.bf1.yahoo.com:443
@@ -1424,6 +1427,7 @@
 [https] vpn-1-gci.saopaulo.corp.yahoo.com:443
 [https] vpn-1-gci.sydney.corp.yahoo.com:443
 [https] vpn-1-ptn.corp.bf1.yahoo.com:443
+[https] vpn-1-ptn.corp.gq1.yahoo.com:443
 [https] vpn-1-ptn.corp.tw1.yahoo.com:443
 [https] vpn-1-ptn.eglbp.corp.yahoo.com:443
 [https] vpn2-1-gci.corp.ir2.yahoo.com:443
@@ -1436,6 +1440,7 @@
 [https] vpn2-1-gci.saopaulo.corp.yahoo.com:443
 [https] vpn2-1-gci.sydney.corp.yahoo.com:443
 [https] vpn2-1-ptn.corp.bf1.yahoo.com:443
+[https] vpn2-1-ptn.corp.gq1.yahoo.com:443
 [https] vpn2-1-ptn.corp.tw1.yahoo.com:443
 [https] vpn3-1-gci.corp.bf1.yahoo.com:443
 [https] vpn3-1-gci.corp.ir2.yahoo.com:443

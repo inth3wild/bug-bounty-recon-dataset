@@ -1538,6 +1538,7 @@
 [http] bahamazingexperiences.dailymotion.com:8008
 [http] bahamazingexperiences.ondailymotion.com:80
 [http] bahamazingexperiences.ondailymotion.com:8008
+[http] business.dailymotion.com:80
 [http] careers.dailymotion.com:80
 [http] cast.dailymotion.com:80
 [http] cast-dev.dailymotion.com:80
@@ -1661,6 +1662,7 @@
 [http] druid-partner-stats-oauth.data-kub.stage.gcp.dailymotion.com:80
 [http] email.dailymotion.com:80
 [http] engineering.dailymotion.com:80
+[http] enterprise.dailymotion.com:80
 [http] family-filter.dailymotion.com:80
 [http] family-filter.stage-01.dailymotion.com:80
 [http] family-filter.stage-02.dailymotion.com:80
@@ -2311,6 +2313,7 @@
 [https] bahamax.ondailymotion.com:443
 [https] bahamazingexperiences.dailymotion.com:443
 [https] bahamazingexperiences.ondailymotion.com:443
+[https] business.dailymotion.com:443
 [https] careers.dailymotion.com:443
 [https] cast.dailymotion.com:443
 [https] cast-dev.dailymotion.com:443
@@ -2433,6 +2436,7 @@
 [http] search-temp.api.dailymotion.com:80
 [https] email.dailymotion.com:443
 [https] engineering.dailymotion.com:443
+[https] enterprise.dailymotion.com:443
 [https] ext.dailymotion.com:443
 [https] family-filter.dailymotion.com:443
 [https] family-filter.stage-01.dailymotion.com:443

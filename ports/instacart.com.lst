@@ -1209,6 +1209,7 @@
 [http] elsuper.instacart.com:80
 [http] el-super.pbis-cf.instacart.com:80
 [http] email.checkr-mail.instacart.com:80
+[http] email.research.instacart.com:80
 [http] enterprise-api.instacart.com:80
 [http] erewhon.instacart.com:80
 [http] erewhon.pbis-cf.instacart.com:80
@@ -2512,6 +2513,7 @@
 [https] shopthepig.instacart.com:443
 [https] smartandfinal.instacart.com:443
 [https] smart-final.pbis-cf.instacart.com:443
+[https] smiths-delivery-now.pbis-cf.instacart.com:443
 [https] speakup.instacart.com:443
 [https] specs.instacart.com:443
 [https] specs.pbis-cf.instacart.com:443

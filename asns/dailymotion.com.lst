@@ -15,6 +15,7 @@ api.revenues.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/
 api-staging.pxl.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 bahamax.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19
 bahamazingexperiences.dailymotion.com AS16276 AS16276 - OVH SAS FR 213.186.32.0/19
+business.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 careers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 cast.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
 cdn.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 198.54.201.0/24
@@ -24,7 +25,7 @@ dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 data-analysts-tools.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-analysts-tools.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-analysts-tools.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
-data-analytics-ssl.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+data-analytics-ssl.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.224.0/20
 data-analytics-ssl.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-iab-interface.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-iab-interface.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
@@ -108,10 +109,11 @@ developer.stage-69.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.2
 developer.stage-70.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 dmxleo.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.149.0.0/16
 dorne-legacy.stage-01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
-druid-broker-partner-stats.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+druid-broker-partner-stats.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.16.0/20
 druid-partner-stats.data-kub.gcp.dailymotion.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
 druid-partner-stats.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 email.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
+enterprise.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 ext.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 family-filter.stage-01.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 family-filter.stage-02.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23

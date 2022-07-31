@@ -20,6 +20,7 @@
 [http] cfg.flurry.com:80
 [http] config.flurry.com:80
 [http] config-loadtest.flurry.com:80
+[http] crash-metadata.flurry.com:80
 [http] data.flurry.com:80
 [http] data-ipv6.flurry.com:80
 [http] data-k8s.flurry.com:80
@@ -68,6 +69,7 @@
 [https] cfg.flurry.com:443
 [https] config.flurry.com:443
 [https] config-loadtest.flurry.com:443
+[https] crash-metadata.flurry.com:443
 [https] data.flurry.com:443
 [https] data-ipv6.flurry.com:443
 [https] data-k8s.flurry.com:443

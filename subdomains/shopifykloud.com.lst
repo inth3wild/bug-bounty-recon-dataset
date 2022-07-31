@@ -652,6 +652,7 @@ rm1.yarn-adhoc.yarn.shopifykloud.com
 rm1.yarn-redirect.yarn.shopifykloud.com
 rm2.yarn-adhoc.yarn.shopifykloud.com
 rm2.yarn-redirect.yarn.shopifykloud.com
+roas-detokenization-staging.flink.shopifykloud.com
 russ-sp-reconciliation-staging.flink.shopifykloud.com
 sam-hue-test.yarn-test.playground.yarn.shopifykloud.com
 sam-kafka-test-tmp.shopify-data-presto-global.shopifykloud.com

@@ -225,6 +225,7 @@
 [http] production.notebooks-canada.shopifykloud.com:80
 [http] production.notebooks.shopifykloud.com:80
 [http] refinery-presto-shared.data-acq.shopifykloud.com:80
+[http] roas-detokenization-staging.flink.shopifykloud.com:80
 [http] russ-sp-reconciliation-staging.flink.shopifykloud.com:80
 [https] abandonment-pipeline-production.flink.shopifykloud.com:443
 [https] abandonment-pipeline-staging.flink.shopifykloud.com:443

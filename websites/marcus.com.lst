@@ -2,6 +2,7 @@ http://ablink.insights.marcus.com
 http://ablink.insights.marcus.com:8080
 http://aec-prod.acqueon.infra.marcus.com
 http://aec-qa.acqueon.infra.marcus.com
+http://agent.consumercloud.marcus.com
 http://akastg.api.marcus.com
 http://akastg.blue.api.marcus.com
 http://akastg.blue.marcus.com
@@ -47,6 +48,7 @@ https://ablink.insights.marcus.com
 https://ablink.insights.marcus.com:8443
 https://aec-prod.acqueon.infra.marcus.com
 https://aec-qa.acqueon.infra.marcus.com
+https://agent.consumercloud.marcus.com
 https://akastg.api.marcus.com
 https://akastg.blue.api.marcus.com
 https://akastg.blue.marcus.com

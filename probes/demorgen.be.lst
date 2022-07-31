@@ -18,7 +18,7 @@ https://digitalekrant.demorgen.be [302] [GET] [text/html] [] [nginx] [vhost] [Ng
 https://dossiers.demorgen.be [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://ebike-non-prod.demorgen.be [503] [GET] [text/html] [503 Service Temporarily Unavailable] [] [vhost] [613f79233487af685baf4b32a2397ede]
 https://ebike-non-prod.demorgen.be [503] [GET] [text/html] [503 Service Temporarily Unavailable] [] [vhost] [81df4d3863debf3eceb5cf84251fd472]
-https://e.email.demorgen.be [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,PHP,Webflow] [c0666cde79e5426946974302fe3307c3]
+https://e.email.demorgen.be [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,Webflow] [c0666cde79e5426946974302fe3307c3]
 https://e.mail.demorgen.be [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,PHP,Webflow] [c0666cde79e5426946974302fe3307c3]
 https://esales.demorgen.be [404] [GET] [application/json] [] [nginx/1.20.0] [vhost] [Amazon ALB,Amazon Web Services,Nginx] [37a91c81ed6a9a948d9f056da8c64bd9]
 https://esales.demorgen.be [404] [GET] [application/json] [] [nginx/1.20.0] [vhost] [Amazon ALB,Amazon Web Services,Nginx] [c27ee0a89dd2cae6b97d17674338262d]

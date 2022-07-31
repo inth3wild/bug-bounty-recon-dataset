@@ -358,6 +358,7 @@
 [EtherNetIP-1] atmos.att.com:2222
 [EtherNetIP-1] attauthorizedretail.att.com:2222
 [EtherNetIP-1] emergingtechtraining.att.com:2222
+[EtherNetIP-1] internaltu.att.com:2222
 [EtherNetIP-1] mobilityranfo.att.com:2222
 [EtherNetIP-1] shm.att.com:2222
 [EtherNetIP-1] techdevtraining.att.com:2222
@@ -821,6 +822,7 @@
 [http] businesscarecentral.att.com:80
 [http] businesscenter.att.com:80
 [http] businesscenterlearning.att.com:80
+[http] businesscenterlearningdev.att.com:80
 [http] businessdirect.att.com:80
 [http] busmsgr.att.com:80
 [http] bussalesret.att.com:80
@@ -3098,6 +3100,7 @@
 [https] businesscarecentral.att.com:443
 [https] businesscenter.att.com:443
 [https] businesscenterlearning.att.com:443
+[https] businesscenterlearningdev.att.com:443
 [https] businessdirect.att.com:443
 [https] busmsgr.att.com:443
 [https] busreports.att.com:443
@@ -5212,6 +5215,7 @@
 [https] secure-az-e.att.com:443
 [https] secure-az-e.stage.att.com:443
 [https] secure-az-qc.test.att.com:443
+[https] secure-az-qc-test-e.cloud.att.com:443
 [https] secure-bir.att.com:443
 [https] secure-dal.att.com:443
 [https] secure-dal-ext.stage.att.com:443
@@ -6325,11 +6329,13 @@
 [https] xcontent-sf.att.com:443
 [https] xcontent.stage.att.com:443
 [https] xcontent.test.att.com:443
+[https] xdmacg.wireless.labops.att.com:443
 [https] xdmacg.wireless.labs.att.com:443
 [https] xdmacsan.wireless.labs.att.com:443
 [https] xdmac.wireless.labs.att.com:443
 [https] xdmakronffa.wireless.att.com:443
 [https] xdmarg.wireless.att.com:443
+[https] xdmarg.wireless.labops.att.com:443
 [https] xdmarg.wireless.labs.att.com:443
 [https] xdmar.wireless.att.com:443
 [https] xdmar.wireless.labs.att.com:443

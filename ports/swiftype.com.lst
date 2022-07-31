@@ -62,6 +62,7 @@
 [https-alt] download.swiftype.com:8443
 [https-alt] lp.swiftype.com:8443
 [https] ams03-api.swiftype.com:443
+[https] analytics-service.swiftype.com:443
 [https] api-cdn-legacy.swiftype.com:443
 [https] api-cdn.swiftype.com:443
 [https] api-netflix.swiftype.com:443

@@ -215,6 +215,7 @@ https://el-super.pbis-cf.instacart.com:2087 [403] [GET] [text/plain] [] [cloudfl
 https://el-super.pbis-cf.instacart.com:2096 [403] [GET] [text/plain] [] [cloudflare] [cloudflare] [7b5ea53ba332630e5aca8e4abb807f70]
 https://el-super.pbis-cf.instacart.com [403] [GET] [text/plain] [] [cloudflare] [cloudflare] [7b5ea53ba332630e5aca8e4abb807f70]
 https://email.checkr-mail.instacart.com [200] [GET] [application/octet-stream] [] [nginx] [Nginx] [9f36c1c909fa94ed5e7af41387ae3dae]
+https://email.research.instacart.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Cloudflare Network Error Logging] [4f20b85ce5ebf225720e040314a7966a]
 https://envoy-gateway.instacart.com:14000 [401] [GET] [text/plain] [] [envoy] [Envoy] [0c6b353ae4aafd478b798c7aadcbb652]
 https://erewhon.instacart.com [200] [GET] [text/html] [Erewhon Powered by Instacart] [nginx] [vhost] [cloudfront] [Ahoy,Amazon Cloudfront,Amazon Web Services,Google Font API,Nginx,Ruby,Ruby on Rails] [dbf3c72705b6d44a4dba098f6677f5a9]
 https://erewhon.pbis-cf.instacart.com [200] [GET] [text/html] [Instacart | Grocery Delivery or Pickup from Local Stores Near You] [cloudflare] [vhost] [cloudflare] [Ahoy,Cloudflare,Google Tag Manager,Ruby,Ruby on Rails] [f62a43a098c3da1a78fc7a3d11638ada]

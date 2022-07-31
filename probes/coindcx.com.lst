@@ -34,6 +34,7 @@ https://docs.coindcx.com [200] [GET] [text/html] [API Reference] [cloudflare] [v
 https://docs.coindcx.com [200] [GET] [text/html] [API Reference] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,GitHub Pages,Ruby on Rails] [a7178e1156e02c23f5fc8456994a8b17]
 https://exchange.coindcx.com [200] [GET] [application/json] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Phusion Passenger] [a801569c60bfea7f040fe292c656f7e0]
 https://go.coindcx.com [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
+https://helpdesk.coindcx.com [302] [GET] [text/html] [] [ZGS] [vhost] [Java] [d41d8cd98f00b204e9800998ecf8427e]
 https://hft-api.coindcx.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://images.staging-api.coindcx.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [62b28265ee4550bcc2b31a6d6ae24fc0]
 https://info.coindcx.com [200] [GET] [text/html] [CoinDCX] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Cloudflare Network Error Logging,Elementor,Font Awesome,Google Font API,Google Tag Manager,Kinsta,MySQL,PHP,WordPress] [9db0723d42068c5d550734ca10806bf1]

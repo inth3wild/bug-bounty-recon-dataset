@@ -94,6 +94,7 @@ https://otp.opera.software [200] [GET] [text/html] [WebADM Web Applications Port
 https://password.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [52260df3ecc663a0ed21a2f159529b59]
 https://password.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [eb0d171a691f64562e3885be92ce4bad]
 https://pns.opera.software [200] [GET] [text/html] [PNS Console] [nginx] [vhost] [Nginx] [aa922141c031322620203563e01e2485]
+https://puppetrepo.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [9b33fd51abbd04fb504602125acfe3c2]
 https://redash.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [5cc73be5cdb4674a7f44efdc2952fa86]
 https://request.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [403c79ef97f664f844ad52edc0acc100]
 https://request.opera.software [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [b16b10c05fbfc358adbf270b081ca5f1]

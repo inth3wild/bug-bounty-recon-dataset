@@ -1,6 +1,7 @@
 [http] ablink.insights.marcus.com:80
 [http] aec-prod.acqueon.infra.marcus.com:80
 [http] aec-qa.acqueon.infra.marcus.com:80
+[http] agent.consumercloud.marcus.com:80
 [http] akastg.api.marcus.com:80
 [http] akastg.blue.api.marcus.com:80
 [http] akastg.blue.marcus.com:80

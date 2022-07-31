@@ -10,6 +10,7 @@ http://developer.scopely.com:8880 [301] [GET] [] [] [cloudflare] [vhost] [cloudf
 http://docs.scopely.com [302] [GET] [text/html] [302 Moved] [ghs] [vhost] [4d708d392fde0746c0af5ec73ff5aced]
 http://mail.scopely.com [301] [GET] [text/html] [301 Moved] [ghs] [vhost] [1cc1ce1c97cf85f21e5f8ee81420195b]
 http://preview-inapp-help.scopely.com [200] [GET] [text/html] [Help] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [a78fe2abb4031666b7173a8e5a74f8af]
+https://boundless-sre-sd.scopely.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [4aa7a432bb447f094408f1bd6229c605]
 https://cdn2.scopely.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [5df1ca846a4e1940cb3b42e55f9876e7]
 https://cdn2.scopely.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [dd1866e46e0daec7445fd3402ae27bf1]
 https://design.playgami.scopely.com [200] [GET] [text/html] [Playgami DS] [nginx] [vhost] [Nginx,Ruby,Ruby on Rails,Sentry] [241be624063da4b4889039087409a92b]

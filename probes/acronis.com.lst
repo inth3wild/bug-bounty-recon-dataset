@@ -317,6 +317,7 @@ https://ru2-bc-baas.acronis.com:8443 [200] [GET] [text/xml] [] [nginx] [Nginx] [
 https://ru2-cloud.acronis.com [302] [GET] [application/json] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://ru2-cloud.acronis.com:8443 [200] [GET] [text/xml] [] [nginx] [Nginx] [eb6a1564f8d54e80e485a49ff146e670]
 https://ru-vpn.acronis.com [200] [GET] [text/html] [] [] [vhost] [2ccff14654fc225e2778b92176d3dace]
+https://s3-au2-acs1.acronis.com [403] [GET] [application/xml] [] [nginx] [vhost] [Amazon Web Services,Nginx] [e5254b24d50c731f054883c419e1cb83]
 https://s3-eu3-acs1.acronis.com [403] [GET] [application/xml] [] [nginx] [vhost] [Amazon Web Services,Nginx] [e5254b24d50c731f054883c419e1cb83]
 https://s3-eu5-acs1.acronis.com [403] [GET] [application/xml] [] [nginx] [vhost] [Amazon Web Services,Nginx] [e5254b24d50c731f054883c419e1cb83]
 https://s3-eu6.acronis.com [403] [GET] [application/xml] [] [nginx] [vhost] [Amazon Web Services,Nginx] [e5254b24d50c731f054883c419e1cb83]

@@ -84,6 +84,7 @@
 [https-alt] www.blockfi.com:8443
 [https] api.blockfi.com:443
 [https] api.mkt.blockfi.com:443
+[https] api.shield-sandbox.aws.blockfi.com:443
 [https] api.ss229.shield-sandbox.aws.blockfi.com:443
 [https] app.blockfi.com:443
 [https] auth.blockfi.com:443
@@ -105,6 +106,7 @@
 [https] fbcbh.pen-test.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.shield-branch-test.shield-sandbox.aws.blockfi.com:443
 [https] fbcbh.ss332.shield-sandbox.aws.blockfi.com:443
+[https] fbcbh.vis591b.shield-sandbox.aws.blockfi.com:443
 [https] gateway.blockfi.com:443
 [https] gateway-prod.blockfi.com:443
 [https] help.blockfi.com:443
@@ -170,6 +172,8 @@
 [http] try.blockfi.com:80
 [http] vis1013.shield-sandbox.aws.blockfi.com:80
 [http] vis1032.shield-sandbox.aws.blockfi.com:80
+[http] vis591b.shield-sandbox.aws.blockfi.com:80
+[http] vis591.shield-sandbox.aws.blockfi.com:80
 [http] vis-661.shield-sandbox.aws.blockfi.com:80
 [http] vis880.shield-sandbox.aws.blockfi.com:80
 [http] vis930.shield-sandbox.aws.blockfi.com:80

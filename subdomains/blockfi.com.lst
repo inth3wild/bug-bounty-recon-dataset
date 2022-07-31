@@ -30,9 +30,11 @@ apiecs.goldfinger-sandbox.aws.blockfi.com
 api.goldfinger-sandbox.aws.blockfi.com
 api-local.blockfi.com
 api.mkt.blockfi.com
+api.shield-sandbox.aws.blockfi.com
 api.ss229.shield-sandbox.aws.blockfi.com
 api.ss253.shield-sandbox.aws.blockfi.com
 api.test.blockfi.com
+api.vis1171.shield-sandbox.aws.blockfi.com
 app.blockfi.com
 app-local.blockfi.com
 apply.blockfi.com
@@ -104,6 +106,7 @@ fbcbh.test.shield-sandbox.aws.blockfi.com
 fbcbh.vis-1009.shield-sandbox.aws.blockfi.com
 fbcbh.vis1009.shield-sandbox.aws.blockfi.com
 fbcbh.vis1112.shield-sandbox.aws.blockfi.com
+fbcbh.vis591b.shield-sandbox.aws.blockfi.com
 ffs.blockfi.com
 ffs-prod.blockfi.com
 ffs-sandbox.blockfi.com
@@ -220,6 +223,8 @@ vis1013.shield-sandbox.aws.blockfi.com
 vis1023.shield-sandbox.aws.blockfi.com
 vis1032.shield-sandbox.aws.blockfi.com
 vis1147.shield-sandbox.aws.blockfi.com
+vis591b.shield-sandbox.aws.blockfi.com
+vis591.shield-sandbox.aws.blockfi.com
 vis-661.shield-sandbox.aws.blockfi.com
 vis880.shield-sandbox.aws.blockfi.com
 vis930.shield-sandbox.aws.blockfi.com

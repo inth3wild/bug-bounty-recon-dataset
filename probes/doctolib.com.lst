@@ -56,6 +56,7 @@ https://flowmailer.doctolib.com [200] [GET] [text/html] [You received emails fro
 https://mj-dev.doctolib.com:2083 [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [56e70536ee465f598e29225466c0fc71]
 https://m-staging.doctolib.com [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [9caafe38351bd2349de25c4edd75002d]
 https://mta-sts.doctolib.com:2087 [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [a6adcecaeca8e34d1c80254801b0fa03]
+https://pro-app.doctolib.com [400] [GET] [text/html] [Invalid Dynamic Link] [] [vhost] [Fastly] [13f4faea86a5d8a799a57a1bcd478434]
 https://pro-dev.doctolib.com [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [bf0e40e36e29fa695ce83a5b7c190836]
 https://rs-media-origin.doctolib.com [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [00cdd9d54d1b560ddbf2162f8588838d]
 https://rs-staging.doctolib.com [403] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [e516cf3758c1be98d91d850632627049]

@@ -1252,6 +1252,8 @@ http://rlcm-dashboard-dev-1.tb.comcast.com
 http://rlcm-dashboard-dev-2.tb.comcast.com
 http://rlcmdev2.thunderbolt.comcast.com
 http://rlcm-devworkpad-3.tb.comcast.com
+http://rocketfuel-ui-assets-dev.np.digital.business.comcast.com
+http://rocketfuel-ui-assets-pqa.np.digital.business.comcast.com
 http://rogers-psn.gslb2.comcast.com
 http://roxy-playtime.merlin.comcast.com
 http://rtw-admin.comcast.com
@@ -3040,6 +3042,8 @@ https://rlcm-dashboard-dev-1.tb.comcast.com:8080
 https://rlcm-dashboard-dev-2.tb.comcast.com:8080
 https://rlcmdev2.thunderbolt.comcast.com:8080
 https://rlcm-devworkpad-3.tb.comcast.com:8080
+https://rocketfuel-ui-assets-dev.np.digital.business.comcast.com
+https://rocketfuel-ui-assets-pqa.np.digital.business.comcast.com
 https://rogers-mds-int-nk-p.gslb2.comcast.com
 https://rogers-mds-int-nk-s.gslb2.comcast.com
 https://rogers-mds-int-wd-s.gslb2.comcast.com

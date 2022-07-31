@@ -566,6 +566,13 @@ http://el-super.pbis-cf.instacart.com:2086
 http://el-super.pbis-cf.instacart.com:8080
 http://el-super.pbis-cf.instacart.com:8880
 http://email.checkr-mail.instacart.com
+http://email.research.instacart.com
+http://email.research.instacart.com:2082
+http://email.research.instacart.com:2083
+http://email.research.instacart.com:2086
+http://email.research.instacart.com:2087
+http://email.research.instacart.com:8080
+http://email.research.instacart.com:8880
 http://enterprise-api.instacart.com
 http://erewhon.instacart.com
 http://erewhon.pbis-cf.instacart.com
@@ -2020,6 +2027,7 @@ https://el-super.pbis-cf.instacart.com:2083
 https://el-super.pbis-cf.instacart.com:2087
 https://el-super.pbis-cf.instacart.com:2096
 https://email.checkr-mail.instacart.com
+https://email.research.instacart.com
 https://enterprise-api.instacart.com
 https://envoy-gateway.instacart.com:14000
 http://sephora-canada.pbis-cf.instacart.com

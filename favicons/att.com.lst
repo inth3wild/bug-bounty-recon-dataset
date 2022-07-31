@@ -7,6 +7,7 @@
 0	zero byte favicon	http://auth-api.att.com/
 0	zero byte favicon	http://cctrng.att.com/
 0	zero byte favicon	http://community-apimarket.att.com/
+0	zero byte favicon	http://consumercares.att.com/
 0	zero byte favicon	http://eastus2-auth-api.att.com/
 0	zero byte favicon	http://eds-aldc-tw8.wireless.att.com:1080/
 0	zero byte favicon	http://eds-kmdc-tw9674.wireless.att.com:8085/
@@ -39,6 +40,7 @@
 0	zero byte favicon	https://bcsswirelinetraining.att.com/
 0	zero byte favicon	https://bizsoltraining.att.com/
 0	zero byte favicon	https://businesscenterlearning.att.com/
+0	zero byte favicon	https://businesscenterlearningdev.att.com/
 0	zero byte favicon	https://bussalesret.att.com/
 0	zero byte favicon	https://ccltraining.att.com/
 0	zero byte favicon	https://clicktoconnect.att.com/
@@ -736,6 +738,7 @@
 86919334	servicenow	http://attmbl-us.att.com/
 86919334	servicenow	http://attmbl-usdev.att.com/
 86919334	servicenow	http://attmbl-ustest.att.com/
+86919334	servicenow	http://cybersecurityservices.att.com/
 86919334	servicenow	http://dev-cybersecurityservices.att.com/
 86919334	servicenow	http://fedgovservices.att.com/
 86919334	servicenow	http://fedgovservicesbeta.att.com/
@@ -829,6 +832,7 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://attdashboard.wireless.
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://attdashboard-zr.wireless.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://auth-api.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://community-apimarket.att.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://consumercares.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://eds-aldc-tw8.wireless.att.com:1080/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://eds-kmdc-tw9674.wireless.att.com:8085/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://egtechcare.att.com/
@@ -859,11 +863,14 @@ d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bcsstechnical.att.com
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bcsswirelineit.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bcsswirelinetraining.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bizsoltraining.att.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://businesscenterlearning.att.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://businesscenterlearningdev.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://bussalesret.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://ccltraining.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://clicktoconnect.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://clicktoconnectsupport.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://community-apimarket.att.com/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://consumercares.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://coretechtraining.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://cptraining.att.com/
 d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://customerconnecttraining.att.com/

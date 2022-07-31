@@ -328,6 +328,7 @@ https://qa.jira3.devcollab.gs.com [403] [GET] [text/html] [ERROR: The request co
 https://qa.jira.devcollab.gs.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a5717f0430ca98cefb3b3b993362d61d]
 https://qa.jira.devcollab.gs.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [da33308eb269589602137878fe36f0f8]
 https://qalogin.gs.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [79f271e5a4e5da217c0d6df8acdf11b6]
+https://qa-login-higher.gs.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://qa.marcus.jira.devcollab.gs.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [2a4b27b62c915f0db646daa010eaca47]
 https://qa.marcus.jira.devcollab.gs.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [8d382679743d62caa138d3211df92f52]
 https://qa.marketing.gs.com [200] [GET] [text/html] [IIS Windows Server] [Apache] [vhost] [Apache] [dea139153d780fdc018caefdbd600c1c]

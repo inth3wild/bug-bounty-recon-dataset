@@ -507,6 +507,7 @@
 [http] groups.shopify.com:80
 [http] growthcenter.shopify.com:80
 [http] g.ssl.shopify.com:80
+[http] hardware-beta.shopify.com:80
 [http] hardware-new.shopify.com:80
 [http] hardware-returns.shopify.com:80
 [http] hardware.shopify.com:80
@@ -650,6 +651,7 @@
 [http-proxy] geolocation-proxy-staging.shopify.com:8080
 [http-proxy] geolocation-recommendations-staging.shopify.com:8080
 [http-proxy] g.ssl.shopify.com:8080
+[http-proxy] hardware-beta.shopify.com:8080
 [http-proxy] hardware-new.shopify.com:8080
 [http-proxy] hardware-returns.shopify.com:8080
 [http-proxy] hardware.shopify.com:8080
@@ -832,6 +834,7 @@
 [https-alt] geolocation-proxy-staging.shopify.com:8443
 [https-alt] geolocation-recommendations-staging.shopify.com:8443
 [https-alt] g.ssl.shopify.com:8443
+[https-alt] hardware-beta.shopify.com:8443
 [https-alt] hardware-new.shopify.com:8443
 [https-alt] hardware-returns.shopify.com:8443
 [https-alt] hardware.shopify.com:8443
@@ -1022,6 +1025,7 @@
 [https] groups.shopify.com:443
 [https] growthcenter.shopify.com:443
 [https] g.ssl.shopify.com:443
+[https] hardware-beta.shopify.com:443
 [https] hardware-new.shopify.com:443
 [https] hardware-returns.shopify.com:443
 [https] hardware.shopify.com:443

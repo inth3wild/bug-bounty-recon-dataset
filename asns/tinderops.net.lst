@@ -112,7 +112,7 @@ kibana-metrics.prodv2.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 44
 kibana.prodv2.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
 kibana.staging.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 kibanatracing.prodv2.k8s.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 54.234.0.0/15
-kibana.uw2.tinderops.net AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+kibana.uw2.tinderops.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 lcauldronloader.ue1az.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
 lcrm.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 lcrossfire-data.ue1.tinderops.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12

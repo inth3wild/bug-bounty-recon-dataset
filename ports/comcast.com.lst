@@ -1255,6 +1255,8 @@
 [http] rewards.martech.comcast.com:80
 [http] rewards-np.martech.comcast.com:80
 [http] rlcm-devworkpad-3.tb.comcast.com:80
+[http] rocketfuel-ui-assets-dev.np.digital.business.comcast.com:80
+[http] rocketfuel-ui-assets-pqa.np.digital.business.comcast.com:80
 [http] rogers-psn.gslb2.comcast.com:80
 [http] rtw-admin.comcast.com:80
 [http] rtw.comcast.com:80

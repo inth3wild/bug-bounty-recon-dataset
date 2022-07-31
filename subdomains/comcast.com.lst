@@ -7337,6 +7337,7 @@ cdash.cable.comcast.com
 cdashdb-wc-5p.cable.comcast.com
 cdashdb-wc-8p.cable.comcast.com
 cdb.comcast.com
+cdb-p.gslb4.comcast.com
 cdb-q.gslb4.comcast.com
 cdbweb-as-1p.cable.comcast.com
 cdcacs02-b.cable.comcast.com
@@ -29522,6 +29523,7 @@ malowniceairv09-nic2.cable.comcast.com
 malowniceairv10.cable.comcast.com
 malowniceairv11.cable.comcast.com
 malowniceairv11-nic2.cable.comcast.com
+malowniceapa01.cable.comcast.com
 malownicearchvr.cable.comcast.com
 malownicecapi01.cable.comcast.com
 malownicecnpp01.cable.comcast.com
@@ -34903,6 +34905,7 @@ or.cbm-buy-content-pqa.np.digital.business.comcast.com
 or.cbm-buy-content-prod.digital.business.comcast.com
 or.cbm-buy-content-qa.np.digital.business.comcast.com
 or.cbm-buy-content-stg.np.digital.business.comcast.com
+or.cbm-buy-static-dev.np.digital.business.comcast.com
 or.cbm-buy-static-qa.np.digital.business.comcast.com
 or.cbm-learn-content-dev.np.digital.business.comcast.com
 or.cbm-learn-content-pqa.np.digital.business.comcast.com
@@ -34914,6 +34917,7 @@ or.cbm-learn-static-prod.digital.business.comcast.com
 or.cbm-learn-static-stg.np.digital.business.comcast.com
 or.cbm-shared-static-dev.np.digital.business.comcast.com
 or.cbm-shared-static-prod.digital.business.comcast.com
+or.cbm-shared-static-stg.np.digital.business.comcast.com
 orchestration.kaleidoscope.comcast.com
 orchestration.kaleidoscopedev.comcast.com
 orchestration.kaleidoscopestage.comcast.com
@@ -35267,6 +35271,8 @@ or.reset-password-oc-dev.np.digital.business.comcast.com
 or.reset-password-oc.np.digital.business.comcast.com
 or.reset-password-oc-pqa.np.digital.business.comcast.com
 or.reset-password-oc-qa.np.digital.business.comcast.com
+or.rocketfuel-ui-assets-dev.np.digital.business.comcast.com
+or.rocketfuel-ui-assets-pqa.np.digital.business.comcast.com
 or-rpo.cable.comcast.com
 or.sample-ui-00-dev.np.digital.business.comcast.com
 or.sample-ui-00.digital.business.comcast.com
@@ -41061,6 +41067,11 @@ qa-business-services.comcast.com
 qa.cart.ecom.np.digital.business.comcast.com
 qa-casmcp.perseus.comcast.com
 qa.cbm.np.api-business.comcast.com
+qa-cdb-ho-az1-01.mer.comcast.com
+qa-cdb-ho-az1-02.mer.comcast.com
+qa-cdb-ho-az1-03.mer.comcast.com
+qa-cdb-ho-az1-04.mer.comcast.com
+qa-cdb-ho-az1-05.mer.comcast.com
 qa-cenbulk.cable.comcast.com
 qacendivrct.cable.comcast.com
 qacet-ch2-1d.slb.comcast.com
@@ -42683,6 +42694,8 @@ rnetbox.cable.comcast.com
 road-api.cable.comcast.com
 roambi.cable.comcast.com
 rock.cable.comcast.com
+rocketfuel-ui-assets-dev.np.digital.business.comcast.com
+rocketfuel-ui-assets-pqa.np.digital.business.comcast.com
 rocky.cable.comcast.com
 roeapp-as-a1d.cable.comcast.com
 roeapp-as-a2d.cable.comcast.com
@@ -49658,6 +49671,8 @@ va.reset-password-oc-dev.np.digital.business.comcast.com
 va.reset-password-oc.np.digital.business.comcast.com
 va.reset-password-oc-pqa.np.digital.business.comcast.com
 va.reset-password-oc-qa.np.digital.business.comcast.com
+va.rocketfuel-ui-assets-dev.np.digital.business.comcast.com
+va.rocketfuel-ui-assets-pqa.np.digital.business.comcast.com
 varp-vl4009-ss10a-ss10b.wcdc.pa.corp.comcast.com
 va.sample-ui-00-dev.np.digital.business.comcast.com
 va.sample-ui-00.digital.business.comcast.com
@@ -52157,6 +52172,10 @@ wdgenetecdscl.cable.comcast.com
 wdmaintenance.comcast.com
 wdsbcutl.cable.comcast.com
 wdscoesignage.cable.comcast.com
+wdsecamagapp.cable.comcast.com
+wdseccl.cable.comcast.com
+wdsecgenetecds.cable.comcast.com
+wdsecprowatch.cable.comcast.com
 wdstatic-1p.gslb4.comcast.com
 wdstaticvip-as-1p.slb.comcast.com
 wdstaticvip-ch2-1p.slb.comcast.com
@@ -54995,6 +55014,7 @@ xap.comcast.com
 xapcv-as-1p.xap-mgmt.comcast.com
 xapcv-as-1s.xap-mgmt.comcast.com
 xap-eap-d.gslb4.comcast.com
+xap-eap-d.xap.comcast.com
 xap.gslb2.comcast.com
 xapi.ch2.int.cable.comcast.com
 xapi.ch2.prd.cable.comcast.com

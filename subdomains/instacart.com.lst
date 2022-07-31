@@ -3857,6 +3857,7 @@ email-covidresponse.edge3.instacart.com
 emailcovidresponse.edge3.instacart.com
 email.edge3.instacart.com
 email.edge.instacart.com
+email.research.instacart.com
 enterprise-api.instacart.com
 enterprise.instacart.com
 envoy-gateway.instacart.com
@@ -4720,6 +4721,7 @@ shoppers.mgs.instacart.com
 shopthepig.instacart.com
 smartandfinal.instacart.com
 smart-final.pbis-cf.instacart.com
+smiths-delivery-now.pbis-cf.instacart.com
 smtp-com.edge.instacart.com
 smtpcom.edge.instacart.com
 smtpcovidreshnaturalgrocers.costco.com.edge.instacart.com

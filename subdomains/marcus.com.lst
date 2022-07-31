@@ -2,6 +2,7 @@ ablink.insights.marcus.com
 aec-prod.acqueon.infra.marcus.com
 aec-qa.acqueon.infra.marcus.com
 agent.consumer.cards.marcus.com
+agent.consumercloud.marcus.com
 airflow.dev.de.infra.marcus.com
 airflow.nonprod.infra.marcus.com
 airflow.perf.de.infra.marcus.com
@@ -108,6 +109,7 @@ click.marcus.com
 cluster-master.infra.marcus.com
 confluence.infra.marcus.com
 consumer.cards.marcus.com
+consumercloud.marcus.com
 consumer.communications.marcus.com
 corecredit.api.cc-pod2.infra.marcus.com
 corecredit.api.cc-pod3.infra.marcus.com

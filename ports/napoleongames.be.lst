@@ -131,6 +131,7 @@
 [https] media-ssl.napoleongames.be:443
 [http] sms.napoleongames.be:80
 [http] smtp.napoleongames.be:80
+[https] napoleongames.be:443
 [https] netent-callback.napoleongames.be:443
 [https] netent-test.napoleongames.be:443
 [https] news.napoleongames.be:443

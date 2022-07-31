@@ -92,6 +92,7 @@ https://share.roblox.com [200] [GET] [application/json] [] [] [vhost] [ba518e7bb
 https://sin2-128-116-97-3.roblox.com [404] [GET] [text/html] [] [] [e48588dce09e3aa6eb4e2c2111c0c5ad]
 https://staging.wiki.roblox.com [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [613f79233487af685baf4b32a2397ede]
 https://static.roblox.com [403] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://status.roblox.com [200] [GET] [text/html] [Roblox Status] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Bootstrap,Font Awesome,Varnish] [cf6d74f1d84ee2c074fbee49c26ce91f]
 https://survey.roblox.com [301] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://t0-cf.roblox.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [b2f383ed171ea9135e11d932e18d8477]
 https://t0.roblox.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [e049b6aa0daba9e6c718d07d93556c67]

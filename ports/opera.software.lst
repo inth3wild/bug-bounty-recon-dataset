@@ -46,6 +46,7 @@
 [http] pns.opera.software:80
 [http-proxy] screw.opera.software:8080
 [http-proxy] trial-ci-cdn.osp.opera.software:8080
+[http] puppetrepo.opera.software:80
 [http] redash.opera.software:80
 [http] request.opera.software:80
 [http] sadb.opera.software:80
@@ -140,6 +141,7 @@
 [https] otp.opera.software:443
 [https] password.opera.software:443
 [https] pns.opera.software:443
+[https] puppetrepo.opera.software:443
 [https] redash.opera.software:443
 [https] request.opera.software:443
 [https] revenueapi.osp.opera.software:443
@@ -244,6 +246,7 @@
 [ssh] otp.opera.software:22
 [ssh] password.opera.software:22
 [ssh] pns.opera.software:22
+[ssh] puppetrepo.opera.software:22
 [ssh] redash.opera.software:22
 [ssh] request.opera.software:22
 [ssh] sadb.opera.software:22

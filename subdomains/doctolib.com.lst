@@ -58,6 +58,7 @@ pat.doctolib.com
 private-airflow.eks.data.doctolib.com
 private-airflow.eks.data-staging.doctolib.com
 private-test-airflow.eks.data-staging.doctolib.com
+pro-app.doctolib.com
 pro-dev.doctolib.com
 pro-staging.doctolib.com
 rs.doctolib.com

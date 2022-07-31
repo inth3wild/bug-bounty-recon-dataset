@@ -20,6 +20,7 @@ http://cdn.flurry.com
 http://cfg.flurry.com
 http://config.flurry.com
 http://config-loadtest.flurry.com
+http://crash-metadata.flurry.com
 http://data.flurry.com
 http://data-ipv6.flurry.com
 http://data-k8s.flurry.com
@@ -68,6 +69,7 @@ https://cdn.flurry.com
 https://cfg.flurry.com
 https://config.flurry.com
 https://config-loadtest.flurry.com
+https://crash-metadata.flurry.com
 https://data.flurry.com
 https://data-ipv6.flurry.com
 https://data-k8s.flurry.com

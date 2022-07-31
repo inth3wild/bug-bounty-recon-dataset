@@ -20,7 +20,7 @@ https://ebike.humo.be [403] [GET] [text/html] [Access Denied] [] [vhost] [6df7f1
 https://ebike.humo.be [403] [GET] [text/html] [Access Denied] [] [vhost] [bc61f8b60ebb81e05ed8a13a0aa870b7]
 https://ebike-non-prod.humo.be [403] [GET] [text/html] [Access Denied] [] [vhost] [24b5db65066bb113d0769c87c146c29b]
 https://ebike-non-prod.humo.be [403] [GET] [text/html] [Access Denied] [] [vhost] [ea2aeadb0c949f56b8a3795eb6d2a3e7]
-https://e.email.humo.be [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,PHP,Webflow] [c0666cde79e5426946974302fe3307c3]
+https://e.email.humo.be [200] [GET] [text/html] [You received emails from this domain, didn't you?] [nginx] [Nginx,Webflow] [c0666cde79e5426946974302fe3307c3]
 https://esales.humo.be [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [01aa8ecb306808e910c65441edd997b7]
 https://esales.humo.be [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [6c6e322aa7e9c9beabadd5c37bf9a088]
 https://esales-test.humo.be [404] [GET] [application/json] [] [nginx/1.20.0] [vhost] [Amazon ALB,Amazon Web Services,Nginx] [41072e21590dc3d7fd0629b6c0c36352]

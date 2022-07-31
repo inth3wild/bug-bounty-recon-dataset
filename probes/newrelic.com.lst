@@ -79,7 +79,7 @@ https://connect.newrelic.com [403] [GET] [application/json] [] [] [vhost] [cloud
 https://dev-infrastructure.newrelic.com [404] [GET] [text/html] [404 Sorry – You've reached an error on New Relic] [] [Google Font API] [6a156d4ca10ebf7a0c97c14ec3d0c3c3]
 https://dev-radar.newrelic.com [404] [GET] [text/html] [404 Sorry – You've reached an error on New Relic] [] [Google Font API] [6a156d4ca10ebf7a0c97c14ec3d0c3c3]
 https://discuss.newrelic.com [200] [GET] [text/html] [New Relic Explorers Hub] [nginx] [vhost] [Discourse,Google Font API,Nginx,Ruby on Rails] [6f889e4fa49a9519ff15520dd779c3e9]
-https://docs.newrelic.com [200] [GET] [text/html] [New Relic Documentation] [GatsbyHosting] [vhost] [fastly] [Apache Traffic Server,Gatsby,Google Font API,React,webpack] [da85a9146b4c241a916bbc32dcc4b524]
+https://docs.newrelic.com [200] [GET] [text/html] [New Relic Documentation] [GatsbyHosting] [vhost] [fastly] [Apache Traffic Server,Fastly,Gatsby:4.6.0,Google Font API,React,Varnish,webpack] [e87d2ac888baf1055d23be511e19105a]
 https://email.internal.newrelic.com [200] [GET] [application/octet-stream] [] [nginx] [Nginx] [9f36c1c909fa94ed5e7af41387ae3dae]
 https://frame-alerts.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [437fd8c63d3c24d5355b98ea2f4e8646]
 https://frame-maps.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [d25973c268a9cac56a1027304cf9ea0e]

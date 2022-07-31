@@ -74,6 +74,8 @@
 [https] itsmdev-dmz.paypalcorp.com:443
 [https] itsm-dmz.paypalcorp.com:443
 [https] itsmqa-dmz.paypalcorp.com:443
+[https] lvs1-avysip-s01.paypalcorp.com:443
+[https] lvs1-avysip-s04.paypalcorp.com:443
 [https] lvs-ctx.paypalcorp.com:443
 [https] lvs-hdx-lab.paypalcorp.com:443
 [https] lvs-hdx.paypalcorp.com:443
@@ -105,6 +107,7 @@
 [https] paypaltom.paypalcorp.com:443
 [https] payroll.paypalcorp.com:443
 [https] payslipseu.paypalcorp.com:443
+[https] phx11-avysip-s04.paypalcorp.com:443
 [https] phx-ctx.paypalcorp.com:443
 [https] phx-hdx.paypalcorp.com:443
 [https] phx-ogr.paypalcorp.com:443
@@ -133,7 +136,10 @@
 [https] ws-aaa.paypalcorp.com:443
 [http] uspaycheck.paypalcorp.com:80
 [sip] na-avysip.paypalcorp.com:5060
+[sip-tls] lvs1-avysip-s01.paypalcorp.com:5061
+[sip-tls] lvs1-avysip-s04.paypalcorp.com:5061
 [sip-tls] na-avysip.paypalcorp.com:5061
+[sip-tls] phx11-avysip-s04.paypalcorp.com:5061
 [smtp] cloud2.paypalcorp.com:25
 [smtp] cloud3.paypalcorp.com:25
 [smtp] dkim2.paypalcorp.com:25

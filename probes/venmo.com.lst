@@ -23,7 +23,7 @@ https://developer-api-staging.venmo.com [403] [GET] [text/html] [ERROR: The requ
 https://developer.venmo.com [404] [GET] [text/html] [Venmo | Page Not Found] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Nginx] [a4932442b5c219866bca075f2c51e688]
 https://emoji.venmo.com [200] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [e82b1af4e7e9ba07dc4d6d998c81893c]
 https://fortifytest.venmo.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
-https://get.venmo.com [307] [GET] [] [] [openresty] [vhost] [Express,Nginx,Node.js,OpenResty] [d41d8cd98f00b204e9800998ecf8427e]
+https://get.venmo.com [307] [GET] [] [] [openresty] [vhost] [Nginx,OpenResty] [d41d8cd98f00b204e9800998ecf8427e]
 https://giveaway.venmo.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://help.venmo.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Envoy] [945ea6b54959c8ce3bcc5c9f4f22aca1]
 https://id.sandbox.venmo.com [302] [GET] [] [] [] [vhost] [fastly] [d41d8cd98f00b204e9800998ecf8427e]
